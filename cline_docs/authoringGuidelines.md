@@ -58,6 +58,112 @@ Before beginning to write or significantly alter a chapter, complete the followi
 
 ---
 
+## Comprehensive "Show, Don't Tell" Guidelines
+
+### Core Principle
+**Instead of stating emotions, thoughts, or character traits directly, reveal them through:**
+- Physical actions and reactions
+- Dialogue and speech patterns
+- Sensory details (what characters see, hear, feel, smell, taste)
+- Body language and facial expressions
+- Environmental interactions
+
+### Specific "Tell" Patterns to Eliminate
+
+#### 1. **Direct Emotional Statements**
+❌ **Don't:** "Rage surged in Gond's chest" / "Hope flickered in her eyes" / "Fear gripped him"
+✅ **Do:** Show through physical manifestations
+- Clenched fists, tight jaw, shallow breathing
+- Eyes brightening, shoulders straightening, tentative smile
+- Stumbling, sweating palms, rapid heartbeat
+
+#### 2. **Character Assessment Summaries**
+❌ **Don't:** "He was a skilled fighter" / "She felt grateful" / "Trust was building between them"
+✅ **Do:** Show through behavior
+- Demonstrate skill through fluid combat movements
+- Show gratitude through actions (kneeling, reaching out, voice catching)
+- Show trust through shared glances, following without question, turning backs to each other
+
+#### 3. **Mental State Declarations**
+❌ **Don't:** "Gond felt determined" / "Confusion reigned" / "He sensed danger"
+✅ **Do:** Show through actions and reactions
+- Squaring shoulders, lengthening stride, checking weapons
+- People talking over each other, pointing in different directions, hesitating
+- Hand moving to sword hilt, scanning surroundings, muscles tensing
+
+#### 4. **Relationship/Social Dynamic Summaries**
+❌ **Don't:** "Their strange alliance" / "The refugees looked to him for leadership" / "Respect was growing"
+✅ **Do:** Show through interactions
+- Let different approaches to problems reveal character roles naturally
+- Show people waiting for his words, stepping aside as he passes, bringing him problems
+- Show through changed behavior—less arguing, more following suggestions, seeking his opinion
+
+#### 5. **Decision-Making Process Statements**
+❌ **Don't:** "He decided to help" / "They agreed to the plan" / "She committed to the journey"
+✅ **Do:** Show the process and outcome
+- Show him shouldering pack, extending hand, drawing weapon
+- Show nods, gathering supplies, forming up in traveling order
+- Show her checking gear, taking determined steps forward
+
+### Word/Phrase Alerts to Watch For
+- **Emotion words:** rage, hope, fear, joy, despair, anger, relief, etc.
+- **"Felt" statements:** "felt determined," "felt grateful," "felt confused"
+- **"Sensed" statements:** "sensed danger," "sensed his mood," "sensed opportunity"
+- **Mental state verbs:** realized, understood, decided, knew, thought
+- **Summary phrases:** "their bond," "growing respect," "emerging leadership"
+
+### Character-Specific Guidelines
+
+#### **Gond (Main Character):**
+- Maintain his sardonic internal voice through action and observation
+- Show his mercenary skills through fluid, professional movements
+- Reveal his growing responsibility through protective actions, not statements
+- His reluctance should show through hesitation before decisive action
+
+#### **Supporting Characters:**
+- **Pell:** Show his roguish nature through quick movements, observant glances, appearing with useful items
+- **Sim:** Show his faith through calm actions in chaos, gentle touches, prayers that affect others
+- **Refugees:** Show their fear/hope through clustering behavior, watching Gond, hesitant questions
+
+### Rewriting Process
+
+#### **Step 1: Identify "Tell" Passages**
+Scan for the alert words/phrases above and highlight them.
+
+#### **Step 2: Convert Each "Tell" to "Show"**
+For each instance:
+1. Ask: "What would someone see/hear if they witnessed this emotion/thought/decision?"
+2. Replace with concrete, observable details
+3. Use sensory information when possible
+
+#### **Step 3: Maintain Pacing and Voice**
+- Keep action scenes moving quickly with short, punchy descriptions
+- Allow descriptive scenes to linger on sensory details
+- Preserve Gond's characteristic wit and observations
+- Ensure dialogue serves multiple purposes (character, plot, mood)
+
+#### **Step 4: Quality Check**
+- Can a reader infer the emotions/thoughts from the actions shown?
+- Are character relationships clear from their interactions?
+- Does the scene feel immersive rather than reported?
+
+### Example Transformation
+
+**Before (Tell):**
+"Gond felt a surge of responsibility and determination as he looked at the frightened refugees who desperately needed his leadership."
+
+**After (Show):**
+"Gond's gaze swept across the upturned faces—some tear-streaked, others hollow with exhaustion, all waiting. He straightened his shoulders, checked his sword, and stepped forward. 'Here's what we're going to do.'"
+
+### Maintain These Strengths
+- Vivid environmental descriptions
+- Strong dialogue with distinct character voices  
+- Well-paced action sequences
+- Gond's sardonic observations and internal commentary
+- Rich sensory details of settings
+
+---
+
 ## Post-Writing Checklist
 Immediately after completing a chapter draft or significant revisions:
 

@@ -22,8 +22,8 @@
     *   **Personality Traits:** Cynical, reluctant, underlying sense of justice, prone to internal monologues, capable of cold fury.
     *   **Background/History:** Former mercenary, betrayed by comrades (Borin and Kael), drugged, and sold into slavery. Details of paladin awakening to be added.
     *   **Significant Arcs/Events:** Betrayal, enslavement (branded), initial assessment of fellow captives (Chapter 1), escape from slave ship (Chapter 2), awakening as a paladin (details pending).
-    *   **Significant Arcs/Events:** Betrayal, enslavement (branded), initial assessment of fellow captives (Chapter 1), escape from slave ship (Chapter 2), meeting Maera (Chapter 3), ambushing slavers and rescuing Aerin & Dax (Chapter 4), scouting Darach, discovering bounty, and retreating (Chapter 5), rescuing Lira (Chapter 5), deciding to head for the hills (Chapter 5).
-    *   **Current Status/Location:** Leading a small band of fugitives (Pell, Sim, Aerin, Dax, Lira) towards the hills for safety, having left the way-station (as of end of Chapter 5).
+    *   **Significant Arcs/Events:** Betrayal, enslavement (branded), initial assessment of fellow captives (Chapter 1), escape from slave ship (Chapter 2), meeting Maera (Chapter 3), ambushing slavers and rescuing Aerin & Dax (Chapter 4), scouting Darach, discovering bounty, and retreating (Chapter 5), rescuing Lira (Chapter 5), deciding to head for the hills (Chapter 5), performing first undeniable healing miracle (Chapter 10), struggling with community's worship-like behavior and expectations (Chapter 11), accepting his paladin identity with Silviana's guidance (Chapter 11).
+    *   **Current Status/Location:** At valley settlement, beginning to learn about his paladin abilities with Silviana and Sim as teachers (as of end of Chapter 11).
 
 *   **Borin:**
     *   **First Appearance:** Chapter 1 (flashback, mentioned by name)
@@ -54,16 +54,16 @@
     *   **Physical Description:** Lean, sharp-eyed, wiry build, face like a clenched fist. Sustained a cut to his arm and forehead during escape (Chapter 2).
     *   **Personality Traits:** Defiant, courageous, quick to act, surprisingly cheerful under duress, alert, calculating, resourceful, loyal to Gond's group.
     *   **Background/History:** Fellow slave on the ship with Gond.
-    *   **Significant Arcs/Events:** Assisted Gond in escaping the slave ship (Chapter 2), noticed guard shift sloppiness. Survived shipwreck, landed ashore with Gond and Sim (Chapter 3). Acquired rope, later a sword. Participated in ambush of slavers (Chapter 4). Left in charge of way-station when Gond went to Darach (Chapter 4). Welcomed Gond and Lira back (Chapter 5).
-    *   **Current Status/Location:** With Gond's group heading towards the hills (as of end of Chapter 5).
+    *   **Significant Arcs/Events:** Assisted Gond in escaping the slave ship (Chapter 2), noticed guard shift sloppiness. Survived shipwreck, landed ashore with Gond and Sim (Chapter 3). Acquired rope, later a sword. Participated in ambush of slavers (Chapter 4). Left in charge of way-station when Gond went to Darach (Chapter 4). Welcomed Gond and Lira back (Chapter 5). Confronts Gond about avoiding the community and offers practical perspective on his divine gifts (Chapter 11).
+    *   **Current Status/Location:** At valley settlement with Gond's community (as of end of Chapter 11).
 
 *   **Sim:**
     *   **First Appearance:** Chapter 2
     *   **Physical Description:** Slender frame.
     *   **Personality Traits:** Gentle, serene, quiet faith (priest of Alanyi), soothing, patient, practical, courageous, pacifist (refuses dagger), steady, non-judgmental.
     *   **Background/History:** Priest of Alanyi. Fellow slave on the ship, chained with Pell.
-    *   **Significant Arcs/Events:** Whispered prayers on slave ship. Participated in escape, unlocking chains (Chapter 2). Survived shipwreck, landed ashore (Chapter 3). Gave advice on finding freshwater and edible plants. Met Maera. Mentioned Alanyite shrine in Darach. Participated in ambush of slavers, calmed horses, tended to children's injuries (Chapter 4). Stayed at way-station. Welcomed Gond and Lira (Chapter 5).
-    *   **Current Status/Location:** With Gond's group heading towards the hills (as of end of Chapter 5).
+    *   **Significant Arcs/Events:** Whispered prayers on slave ship. Participated in escape, unlocking chains (Chapter 2). Survived shipwreck, landed ashore (Chapter 3). Gave advice on finding freshwater and edible plants. Met Maera. Mentioned Alanyite shrine in Darach. Participated in ambush of slavers, calmed horses, tended to children's injuries (Chapter 4). Stayed at way-station. Welcomed Gond and Lira (Chapter 5). Expresses vindication when Silviana confirms Gond's paladin identity (Chapter 11). Begins serving as spiritual mentor alongside Silviana (Chapter 11).
+    *   **Current Status/Location:** At valley settlement, serving as spiritual guide to Gond (as of end of Chapter 11).
 
 *   **Greasy (Guard):**
     *   **First Appearance:** Chapter 2
@@ -103,15 +103,15 @@
     *   **Personality Traits:** Fearful initially.
     *   **Background/History:** Captured by slavers with her brother Dax.
     *   **Significant Arcs/Events:** Rescued by Gond, Pell, and Sim from a slave cart. Taken to the way-station. Thanked Gond.
-    *   **Current Status/Location:** With Gond's group heading towards the hills (as of end of Chapter 5).
+    *   **Current Status/Location:** At valley settlement with Gond's community (as of end of Chapter 11).
 
 *   **Dax:**
     *   **First Appearance:** Chapter 4
     *   **Physical Description:** Young boy, injured feet.
     *   **Personality Traits:** Not detailed.
     *   **Background/History:** Captured by slavers with his sister Aerin.
-    *   **Significant Arcs/Events:** Rescued by Gond, Pell, and Sim from a slave cart. Feet injured, cared for by Sim. Transported on a horse. Taken to the way-station.
-    *   **Current Status/Location:** With Gond's group heading towards the hills, riding a horse (as of end of Chapter 5).
+    *   **Significant Arcs/Events:** Rescued by Gond, Pell, and Sim from a slave cart. Feet injured, cared for by Sim. Transported on a horse. Taken to the way-station. Fatally wounded in slave catcher attack, brought back from death by Gond's healing miracle (Chapter 10).
+    *   **Current Status/Location:** At valley settlement, fully healed and healthy (as of end of Chapter 11).
 
 *   **Unnamed Slavers (Chapter 4 Ambush):**
     *   **First Appearance:** Chapter 4
@@ -135,7 +135,7 @@
     *   **Personality Traits:** Fearful, then relieved and grateful.
     *   **Background/History:** Escaped slave.
     *   **Significant Arcs/Events:** Found by Gond on the road from Darach. Freed from her shackles by Gond. Transported on Ash. Taken to the way-station.
-    *   **Current Status/Location:** With Gond's group heading towards the hills, riding with Gond on Ash (as of end of Chapter 5).
+    *   **Current Status/Location:** At valley settlement with Gond's community (as of end of Chapter 11).
 
 *   **Ash (Horse):**
     *   **First Appearance:** Chapter 5 (mentioned as "cart-horse")
@@ -143,7 +143,23 @@
     *   **Personality Traits:** Calm.
     *   **Background/History:** Used by Gond as cover to enter Darach.
     *   **Significant Arcs/Events:** Carried Gond into and out of Darach. Carried Lira and Gond towards the way-station and then towards the hills.
-    *   **Current Status/Location:** With Gond's group heading towards the hills (as of end of Chapter 5).
+    *   **Current Status/Location:** At valley settlement with Gond's community (as of end of Chapter 11).
+
+*   **Silviana Starweaver:**
+    *   **First Appearance:** Chapter 11
+    *   **Physical Description:** Tall and graceful elf with silver hair that catches starlight, eyes the color of deep forest pools. Beautiful in the way of growing things—ageless and serene. Carries scent of pine and starlight. Wears simple but finely made clothes, carries white wood staff with intricate patterns.
+    *   **Personality Traits:** Ancient wisdom, gentle but firm, speaks with music of wind through leaves, patient teacher.
+    *   **Background/History:** Elven lore-keeper of the Moonwood Circle, ancient follower of Alanyi who withdrew when goddess's influence waned among humans.
+    *   **Significant Arcs/Events:** Traveled for weeks drawn by Alanyi's call and divine power flowing from Gond's settlement (Chapter 11). Arrives a month after healing miracle, senses great gifts in Gond—some awakened, others sleeping (Chapter 11). Confirms Gond's identity as paladin of Alanyi (Chapter 11). Offers to teach him about his divine powers (Chapter 11).
+    *   **Current Status/Location:** At valley settlement, beginning to teach Gond about his paladin abilities (as of end of Chapter 11).
+
+*   **Jorik (Metalworker):**
+    *   **First Appearance:** Chapter 11 (mentioned)
+    *   **Physical Description:** Former metalworker.
+    *   **Personality Traits:** Skilled craftsman.
+    *   **Background/History:** Refugee who joined the valley settlement.
+    *   **Significant Arcs/Events:** Established smithy near stream, hammers out tools and weapons from scavenged iron (Chapter 11).
+    *   **Current Status/Location:** At valley settlement, working as community blacksmith (as of end of Chapter 11).
 
 ---
 
@@ -173,7 +189,7 @@
     *   **Key Characters Involved:** Gond, Pell, Sim, Maera.
     *   **Chapter/Scene:** Chapter 3.
     *   **Immediate Consequences:** The trio receives food, shelter, healing, supplies, and directions towards Darach and a pilgrim way-station.
-    *   **Long-term Implications/Foreshadowing:** Maera's advice ("Compassion first, Justice will follow") may influence Gond. The way-station becomes a temporary refuge.
+    *   **Long-term Implications/Foreshadowing:** Maera's advice ("Compassion first, Justice will follow") may influence Gond. The way-station becomes a temporary refuge. Maera begins building her rebellion network.
 
 *   **Event/Plot Point:** Ambush of Slavers and Rescue of Aerin & Dax
     *   **Key Characters Involved:** Gond, Pell, Sim, Aerin, Dax, three unnamed slavers.
@@ -193,11 +209,41 @@
     *   **Immediate Consequences:** Lira is freed and joins Gond's group.
     *   **Long-term Implications/Foreshadowing:** Gond's reputation as a rescuer may be unintentionally growing. The group size increases.
 
-*   **Event/Plot Point:** Decision to Head for the Hills
-    *   **Key Characters Involved:** Gond, Pell, Sim, Aerin, Dax, Lira.
-    *   **Chapter/Scene:** End of Chapter 5.
-    *   **Immediate Consequences:** The group abandons the plan to go to Darach (for now) and seeks a more remote sanctuary.
-    *   **Long-term Implications/Foreshadowing:** Sets the stage for finding a permanent haven and the challenges of survival in the wilderness.
+*   **Event/Plot Point:** Discovery of the Ruined Temple
+    *   **Key Characters Involved:** Gond, Sim, Pell, Aerin, Dax, Lira.
+    *   **Chapter/Scene:** Chapter 6.
+    *   **Immediate Consequences:** Group finds secure shelter in ancient temple of Alanyi. Gond experiences subtle mystical encounter.
+    *   **Long-term Implications/Foreshadowing:** Beginning of Gond's divine awakening. Temple becomes significant spiritual location.
+
+*   **Event/Plot Point:** Gond's Gradual Divine Awakening
+    *   **Key Characters Involved:** Gond, Sim, various refugees.
+    *   **Chapter/Scene:** Chapter 7.
+    *   **Immediate Consequences:** Subtle manifestations of divine power begin. Gond rationalizes each incident.
+    *   **Long-term Implications/Foreshadowing:** Sets pattern for gradual power development. Sim becomes spiritual guide.
+
+*   **Event/Plot Point:** Valley Settlement and Information Leak
+    *   **Key Characters Involved:** Gond, core group, arriving refugees, Maera (indirectly).
+    *   **Chapter/Scene:** Chapter 8.
+    *   **Immediate Consequences:** Community established in secluded valley. Word spreads through Maera's network.
+    *   **Long-term Implications/Foreshadowing:** Creates vulnerability that will lead to slave catcher attack. Establishes Maera's role in rebellion network.
+
+*   **Event/Plot Point:** Defensive Preparations and Gond's Wound
+    *   **Key Characters Involved:** Gond, community members.
+    *   **Chapter/Scene:** Chapter 9.
+    *   **Immediate Consequences:** Community prepares for expected attack. Gond's wound heals unnaturally.
+    *   **Long-term Implications/Foreshadowing:** Divine power becoming more obvious. Sets up major battle.
+
+*   **Event/Plot Point:** First Major Battle and Clear Healing Miracle
+    *   **Key Characters Involved:** Gond, community, slave catchers, Dax (fatally wounded refugee).
+    *   **Chapter/Scene:** Chapter 10.
+    *   **Immediate Consequences:** Victory over slave catchers. Two refugees killed. Gond performs undeniable healing miracle on dying Dax.
+    *   **Long-term Implications/Foreshadowing:** Gond's paladin identity established. Community witnesses divine power. Sets stage for larger movement.
+
+*   **Event/Plot Point:** Silviana's Arrival and Gond's Acceptance of Paladin Identity
+    *   **Key Characters Involved:** Gond, Silviana Starweaver, Sim, Pell, valley community.
+    *   **Chapter/Scene:** Chapter 11.
+    *   **Immediate Consequences:** Gond struggles with community's worship-like behavior. Silviana confirms his paladin identity and offers to teach him. Gond accepts his calling and begins learning about his powers.
+    *   **Long-term Implications/Foreshadowing:** Establishes elven involvement in Gond's development. Sets up spiritual education phase. Introduces ancient knowledge of Alanyi's true nature.
 
 ---
 
@@ -226,6 +272,10 @@
     *   **Event:** Gond returns to the way-station with Lira. Group decides to head for the hills.
 *   **Relative Time:** Dawn, next day (End of Chapter 5)
     *   **Event:** Gond's group departs the way-station, heading inland towards the hills.
+*   **Relative Time:** Weeks later (Chapters 6-10)
+    *   **Event:** Group discovers ruined temple, experiences gradual divine awakening, establishes valley settlement, faces slave catcher attack, Gond performs clear healing miracle.
+*   **Relative Time:** One month after healing miracle (Chapter 11)
+    *   **Event:** Silviana Starweaver arrives, drawn by Alanyi's call. Confirms Gond's paladin identity. Gond accepts his calling and begins spiritual education.
 
 ---
 
@@ -258,17 +308,24 @@
 
 **Example:**
 *   **Deities & Religion:**
-    *   **Alanyi:** Goddess of Peace. Worshipped by Sim. Her followers are sometimes ridiculed, and temples mostly destroyed (per outline for Ch 10). Sim mentions an Alanyite shrine in Darach (Chapter 3).
+    *   **Alanyi:** Goddess of peace, light, justice, and redemption. Also known as the goddess of mercy. Worshipped by Sim. Her followers are sometimes ridiculed, and temples mostly destroyed (per outline for Ch 10). Sim mentions an Alanyite shrine in Darach (Chapter 3). Ancient elven followers withdrew from human contact when her influence waned but return when Gond's divine calling emerges. Silviana represents the Moonwood Circle, ancient elven keepers of Alanyi's traditions. 200 years ago, Paladins of Alanyi fought evil side by side with Battlemasters of Turin in the original Marshal Order.
+    *   **Turin:** God of justice and protector of the weak. Worshipped by dwarven Iron Covenant and originally by the Marshal Order. 200 years ago, when Alanyi's influence waned and slavery rose, human leaders of the Marshal Order corrupted Turin's teachings, interpreting "justice" as enforcing human laws (including slavery). The dwarves broke away to preserve Turin's true teachings, forming the Iron Covenant. Turin's divine wrath will ultimately strike down the corrupt human leaders who perverted his teachings.
 *   **Cultures & Factions:**
     *   **Slave Mark:** A recognized brand (two intertwined manacles) indicating enslaved status. Known by "every free man and woman on the coast." (Chapter 1). Wanted posters feature it.
     *   **Mercenaries:** Groups like Gond's former company operate, sometimes betraying their own for "business."
     *   **Slavers:** Organized groups that capture, transport, and sell slaves. Utilize slave ships and overland carts.
+    *   **The Iron Covenant (Dwarves):** Martial holy order dedicated to protecting the innocent through righteous warfare. Formed 200 years ago when dwarves broke away from the corrupt Marshal Order to preserve Turin's true teachings. Honor-bound culture with forge-prayers (weapons blessed through religious smithing rituals). Operate from mountain strongholds that serve as secure bases and weapon manufacturing centers. Among the first to defect to Gond's cause due to alignment with their justice-focused beliefs and recognition of the ancient alliance between Alanyi and Turin.
+    *   **The Marshal Order (Corrupt Human Leadership):** Originally served both Alanyi and Turin, with Paladins of Alanyi and Battlemasters of Turin fighting evil side by side. 200 years ago, human leaders corrupted the order's mission, interpreting "justice" as enforcing human laws (including slavery). Based in the Holy City of Turin. Will face Turin's divine wrath for perverting his teachings.
+    *   **The Noble Knights of Turin (Human Defectors):** Drawn from nobility, these knights oppose slavery but maintain classist attitudes toward peasants. Do not formally break from the Marshal Order until the rebellion is in full swing. Focus on overthrowing the corrupt rulers of Turin rather than freeing slave cities. Form their own army that coordinates with Gond's movement but maintains separate command structure.
+    *   **The Withdrawn (Elves):** Ancient followers of Alanyi who imposed self-exile from human affairs when the goddess's influence waned. Known as Keepers of the Old Ways, preserving Alanyi's original teachings in sacred groves where her power remains strong. Practice "The Watching" - observing human affairs from afar. Return to support Gond when his divine calling signals Alanyi's resurgence. Silviana represents the Moonwood Circle.
 *   **Geography:**
     *   **Darach:** A walled city, a significant port or hub. Has a northern gate. Market square. Seems to be a center for slaver activity and where Borin & Kael operate. (Chapter 3, 5)
     *   **Cliffmere:** Location mentioned by Gond as his supposed origin when entering Darach. (Chapter 5)
     *   **Coastal Region:** Features cliffs, beaches, gullies, streams. (Chapter 3, 4)
     *   **Pilgrim Way-stations:** Exist, possibly offering shelter or supplies. Maera directs the group to one. (Chapter 3, 4, 5)
     *   **The Hills:** Remote, rugged areas inland, considered safer from slavers. (Chapter 5)
+    *   **The Valley Settlement:** Secluded valley where Gond's community has established itself. Features stream with smithy, gardens, shelters built from salvaged materials. (Chapter 11)
+    *   **The Holy City of Turin:** Major stronghold and seat of power for the corrupt Marshal Order. Center of the perverted teachings that interpret "justice" as enforcing human laws including slavery. Target for the climactic assault where Turin's divine wrath will strike down the corrupt leadership.
 *   **Flora & Fauna:**
     *   **Herbs:** Maera uses a pungent, soothing salve for Gond's brand (Chapter 3). Sim identifies fleabane, thrift (near streams), and edible sea-kale (Chapter 3). Lavender (Chapter 4).
     *   **Animals:** Goats (Maera has one, Ch 3). Horses (used by slavers, two acquired by Gond's group, Ch 4; Ash used by Gond, Ch 5). Gulls (Ch 4).
@@ -296,6 +353,7 @@
 *   **Gond's Boathook:** Warped piece of driftwood fashioned into a weapon by Gond (Chapter 3), used in Chapter 4 ambush.
 *   **Wanted Poster for Gond:** Features a sketch of his face, the brand, and a 500 Royal bounty (Chapter 5).
 *   **Lira's Shackles:** Removed by Gond using a small metal file (Chapter 5).
+*   **Silviana's Staff:** White wood staff carved with intricate patterns, carried by Silviana Starweaver (Chapter 11).
 
 ---
 
@@ -318,36 +376,3 @@
     *   **Status:** Open.
 *   **Thread/Foreshadowing:** The destination and purpose of the slave ship.
     *   **Introduced:** Chapter 1 (setting).
-    *   **Intended Resolution/Payoff (if planned):** Where is Gond being taken? What fate awaits him and the other slaves?
-    *   **Status:** Partially Resolved (Gond, Pell, Sim escaped before reaching the intended destination). The fate of other slaves on board remains open.
-*   **Thread/Foreshadowing:** The fate of Gond, Pell, and Sim after escaping the ship.
-    *   **Introduced:** End of Chapter 2.
-    *   **Intended Resolution/Payoff (if planned):** How they survive, where they land, initial struggles.
-    *   **Status:** Resolved (They landed ashore, met Maera, and are now heading for the hills as of Ch 5).
-*   **Thread/Foreshadowing:** Maera's past in Darach and her reasons for leaving.
-    *   **Introduced:** Chapter 3.
-    *   **Intended Resolution/Payoff (if planned):** May become relevant if the group returns to Darach or interacts more with its temple/religious structures.
-    *   **Status:** Open.
-*   **Thread/Foreshadowing:** Sim's mention of an Alanyite shrine in Darach and its archives.
-    *   **Introduced:** Chapter 3.
-    *   **Intended Resolution/Payoff (if planned):** Could hold information about Gond's betrayers or the nature of Alanyi's influence.
-    *   **Status:** Open.
-*   **Thread/Foreshadowing:** The future of Aerin, Dax, and Lira.
-    *   **Introduced:** Chapters 4 & 5.
-    *   **Intended Resolution/Payoff (if planned):** Their role in the developing community, potential skills or challenges they bring.
-    *   **Status:** Open.
-*   **Thread/Foreshadowing:** The group's journey into the hills and establishment of a sanctuary.
-    *   **Introduced:** End of Chapter 5.
-    *   **Intended Resolution/Payoff (if planned):** As per outlines for Part II (Chapters 6-9).
-    *   **Status:** Open.
-*   **Thread/Foreshadowing:** Gond's deferred vengeance against Borin and Kael.
-    *   **Introduced:** Chapter 1, reinforced in Chapter 5.
-    *   **Intended Resolution/Payoff (if planned):** Future confrontation.
-    *   **Status:** Open.
-*   **Thread/Foreshadowing:** The older Darach gate guard who saw Gond's brand but said nothing.
-    *   **Introduced:** Chapter 5.
-    *   **Intended Resolution/Payoff (if planned):** Potential future ally, sympathizer, or someone with a hidden motive.
-    *   **Status:** Open.
-
----
-*Last Updated: 2025-05-22, 11:10 PM*

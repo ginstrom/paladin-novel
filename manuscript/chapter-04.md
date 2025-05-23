@@ -4,62 +4,66 @@
 
 ### Chapter 4 – Crack in the Chain
 
-Gulls circled high above, their cries cutting sharply through the salty air. Gond, Pell, and Sim moved quietly along the cliff-top path, their cloaks billowing in the stiff breeze from the sea. Darach still lay far ahead, but danger felt closer by the hour.
+Gulls wheeled overhead, their harsh cries cutting through the salt-heavy air. Gond, Pell, and Sim moved along the cliff-top path, cloaks snapping in the stiff breeze. Darach still lay leagues ahead, but the prickle between Gond's shoulder blades warned that danger stalked closer.
 
-Mid-morning, Pell suddenly stopped, crouching beside a flattened thicket. Gond joined him, examining the crushed grass and broken branches. Nearby, Sim studied broken lavender stalks carefully.
+Mid-morning, Pell dropped to a crouch beside flattened thicket. Gond joined him, studying the crushed grass and broken branches. Nearby, Sim examined trampled lavender stalks, his fingers tracing the damage.
 
-"Five, perhaps six," Gond muttered grimly. "Slave-catchers, fresh tracks."
+"Five, maybe six." Gond's voice came out flat. "Slave-catchers."
 
-Sim looked up solemnly. "Less than an hour ahead. We need caution."
+Sim straightened, brushing dirt from his hands. "Fresh tracks. Less than an hour."
 
-"Fantastic," Pell said dryly, adjusting the rope slung over his shoulder. "I was beginning to miss trouble."
+"Fantastic." Pell adjusted the rope across his shoulder. "I was beginning to miss trouble."
 
-Gond tightened his grip on the boathook he had fashioned into a weapon, his jaw set. They had little chance against seasoned slavers, but doing nothing wasn't an option. "Stay alert," he warned softly, moving forward again.
+Gond's knuckles whitened around the boathook. They had little chance against seasoned slavers, but the alternative was watching more innocents dragged away in chains. "Stay sharp."
 
-The trail descended steeply into dunes, the sounds of voices drifting upward clearly. Gond halted sharply, signaling the others to silence.
+The trail descended into rolling dunes where voices drifted upward on the wind. Gond raised his fist, and the others froze. Below, a narrow wagon creaked toward the coast road, drawn by two sturdy horses. Two slavers lounged on the driver's bench, relaxed as men counting easy coin. A third walked alongside, whip coiled at his belt like a sleeping snake.
 
-Below, a narrow wagon moved slowly toward the coast road, drawn by two sturdy horses. Two slavers sat on the driver's bench, relaxed and unaware, while a third walked beside the cart, whip coiled ominously at his belt. Behind them staggered two young captives—a boy and a girl, bound by heavy chains. The girl whimpered softly, fear evident in her every step.
+Behind the wagon stumbled two young captives—a boy and girl, heavy chains dragging at their ankles. The girl's shoulders shook with silent sobs.
 
-Rage surged in Gond's chest, hot and fierce. He glanced quickly at his companions, assessing their odds. Pell's eyes were sharp with anger, Sim quietly murmured a prayer.
+Gond's jaw clenched so hard his teeth ached. His free hand curled into a fist, nails biting into his palm. Beside him, Pell's eyes had gone cold and sharp. Sim's lips moved in what might have been prayer or curse.
 
-"We can't let this pass," Gond whispered urgently, his voice shaking slightly.
+"We can't let this pass," Gond whispered, his voice rough as grinding stone.
 
-Sim nodded calmly, a surprising steadiness in his gentle demeanor. "We must tread carefully."
+Sim nodded, that surprising steadiness settling over his features. "Carefully."
 
-"Agreed," Gond replied tersely, quickly outlining a plan. "Pell, flank wide and free the horses. Sim, you keep low and retrieve the animals afterward. I'll distract the guards."
+Gond sketched his plan in quick, harsh whispers. "Pell, wide flank. Free the horses. Sim, stay low, retrieve the animals after. I'll take the guards."
 
-Pell nodded curtly, vanishing swiftly into the tall grass. Gond took a deep breath, descended the slope carefully, and stepped boldly onto the trail.
+Pell melted into the tall grass without a sound. Gond counted to thirty, then stepped onto the trail with an easy grin plastered across his face.
 
-"Ho there!" he called, adopting an easy, confident grin. "Lost a wheel up the road—could use a hand."
+"Ho there!" He raised his hand in greeting. "Lost a wheel up the road—could use some help."
 
-The lead slaver squinted suspiciously, recognition dawning too slowly. Before he could raise the alarm, Gond was already upon him, swinging the boathook with deadly accuracy. Chaos erupted immediately. Pell burst from cover, his knife flashing quickly as he cut the horses' traces. The startled animals bolted a short distance, stopping to graze indifferently as the cart lurched, its contents spilling across the ground.
+The lead slaver squinted, recognition dawning too slowly. By the time his hand moved toward his sword, Gond was already inside his guard. The boathook caught him across the temple with a wet crack.
 
-The rear guard fired hastily, a crossbow bolt slicing through the air, grazing Gond's arm. Ignoring the sharp pain, Gond surged forward, hooking the slaver’s leg and pulling him down with brutal efficiency. Pell swiftly dispatched another, his movements fluid and deadly.
+Chaos erupted. Pell burst from cover, his knife flashing as he severed the horses' traces. The startled animals bolted a dozen paces before stopping to crop grass, indifferent to the violence behind them.
 
-Amid the turmoil, Sim moved calmly to the frightened children, freeing their shackles quickly. Once clear, he softly approached the horses, speaking quietly, offering carrots from the scattered supplies. Despite their initial fear at the scent of blood, Sim's gentle manner soon calmed them.
+The rear guard's crossbow bolt hissed past Gond's ear, close enough to part his hair. He lunged forward, hooking the man's leg and sending him sprawling. Pell's blade found the third slaver before he could draw steel.
 
-In moments, it was over. Three slavers lay incapacitated or dead, the captives freed, and their spoils gathered—weapons, food, blankets, and silver. Pell grinned fiercely, counting coins and testing a sword's balance.
+In moments, three bodies lay still in the dust. Sim moved calmly to the terrified children, producing a set of lock picks from somewhere in his robes. The shackles fell away with metallic clinks.
 
-"Good haul," he remarked, satisfied. Gond only nodded grimly, eyes thoughtful.
+"Easy," Sim murmured to the horses, approaching with carrots salvaged from the scattered supplies. Despite the scent of blood thick in the air, his gentle manner soon had them calm and willing.
 
-By evening, they camped beneath a sturdy pine, eating quietly. Gond tended his wounded arm while Sim gently cared for the children's injuries, murmuring soothing hymns. Pell busied himself securing their perimeter.
+Pell grinned as he counted coins and tested a sword's balance. "Good haul." His eyes gleamed with satisfaction.
 
-After a long silence, Gond finally spoke. "We can't continue openly toward Darach. It's too dangerous now."
+Gond only nodded, his gaze already scanning the horizon for more threats.
 
-"Then what's your plan?" Pell asked quietly, watching Gond carefully.
+By evening, they'd made camp beneath a spreading pine. Gond tended his wounded arm—the crossbow bolt had left a shallow furrow—while Sim cared for the children's injuries with soft hymns and gentle hands. Pell secured their perimeter, moving like a shadow between the trees.
 
-"There's a way-station," Gond explained, tracing Maera's map in the dirt. "We’ll hide you all there. It's defensible, hidden. I’ll head to Darach alone."
+The silence stretched until Gond finally spoke. "We can't continue openly toward Darach. Too dangerous now."
 
-Pell's protest died swiftly beneath Gond's firm gaze. Sim offered quiet reassurance. "You're making a wise choice, Gond. Protecting these lives is our priority."
+"Then what?" Pell asked, settling beside the fire.
 
-"I'll return with answers," Gond promised solemnly, rising with determination.
+Gond traced Maera's map in the dirt with a stick. "The way-station. Defensible, hidden. You'll be safe there while I go to Darach alone."
 
-At dawn, they reached the ancient, moss-covered way-station. Supplies were quickly stored, horses secured, and injured Dax gently settled atop one of the horses to ease his pain.
+Pell opened his mouth to protest, but something in Gond's expression killed the words. Sim placed a hand on the boy's shoulder—Dax, he'd said his name was. "You're making the right choice. Protecting these lives comes first."
 
-Before departing alone, Gond clasped Pell's shoulder, handing over his sword. "Keep them safe. One week. If I'm not back, head to Maera."
+"I'll return with answers." Gond stood, his shadow long in the firelight.
 
-Sim grasped Gond's forearm, warmth and trust in his steady gaze. "May Alanyi light your way."
+Dawn found them at the ancient way-station, its moss-covered stones half-hidden by climbing ivy. They stored supplies quickly, secured the horses, and helped injured Dax onto the gentler of the two mounts.
 
-Gond nodded once, resolute, turning toward the forest trail. Behind him, a young voice called out softly, "Thank you."
+Before departing, Gond clasped Pell's shoulder and pressed his sword into the rogue's hands. "Keep them safe. One week. If I'm not back, go to Maera."
 
-The simple gratitude pierced him deeply, reinforcing the weight of responsibility he now carried. He lengthened his stride toward Darach, heart hardened yet filled with renewed purpose.
+Sim grasped Gond's forearm, warmth and trust clear in his steady gaze. "Safe travels."
+
+Gond nodded once, then turned toward the forest trail. Behind him, a young voice called softly, "Thank you."
+
+The simple words hit him like a physical blow. He straightened his shoulders and lengthened his stride toward Darach, carrying the weight of their trust like armor against whatever waited ahead.

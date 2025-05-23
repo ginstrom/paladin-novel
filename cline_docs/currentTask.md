@@ -1,28 +1,28 @@
 ## Current Objective
-Set up a private GitHub repository for the "The Reluctant Paladin" project and push the existing local project files to it.
+Ensure that the chapter outline for chapters 1-11 matches the actual story content that has been written. This involves comparing the chapter-outline.md descriptions with the actual manuscript chapters to identify any discrepancies and update the outline accordingly.
 
 ## Context
-The project currently exists only locally. Using GitHub will provide version control, backup, and potential collaboration capabilities. This involves initializing a local Git repository, creating a private repository on GitHub, and connecting the two.
+The project has completed chapters 1-11 of "The Reluctant Paladin" manuscript. The chapter outline serves as the master reference document for chapter content, but it needs to be verified against the actual written chapters to ensure accuracy and consistency.
 
-## Plan for this Task
-1.  **Update `cline_docs/currentTask.md`**: Reflect this new task (this step).
-2.  **Create `.gitignore` file**: To exclude unnecessary files from version control (e.g., `.DS_Store`).
-3.  **Initialize local Git repository**:
-    *   Run `git init`.
-    *   Run `git branch -M main` (to ensure the default branch is 'main').
-4.  **Add and commit project files**:
-    *   Run `git add .`.
-    *   Run `git commit -m "Initial commit of The Reluctant Paladin project"`.
-5.  **Provide instructions for GitHub repository creation**:
-    *   Guide the user to create a new private repository on GitHub.com, without initializing it with a README, .gitignore, or license.
-6.  **Provide instructions for linking local and remote repositories**:
-    *   Guide the user to use the commands provided by GitHub after repository creation, typically:
-        *   `git remote add origin <repository_url.git>`
-        *   `git push -u origin main`
-7.  **Update `cline_docs/techStack.md`**: Add "Git" and "GitHub" under a "Version Control" section.
-8.  **Update `cline_docs/projectRoadmap.md`**: Add a task related to setting up version control.
-9.  **Update `cline_docs/codebaseSummary.md`**: Note the addition of Git, the `.gitignore` file, and the project now being under version control.
-10. **Attempt Completion**: Confirm that the user has successfully pushed the project to GitHub.
+## Key Areas to Verify
+1. Chapter titles match between outline and manuscript files
+2. Chapter summaries in outline accurately reflect actual chapter content
+3. Character developments described in outline align with what's written
+4. Plot points and events match between outline and chapters
+5. Themes and tone descriptions are consistent
+6. Any missing elements in outline that appear in actual chapters
+7. Any elements in outline that don't appear in actual chapters
 
 ## Next Steps
-1. Create the `.gitignore` file.
+1. Read the current chapter-outline.md to understand the documented structure
+2. Read each manuscript chapter (1-11) to understand actual content
+3. Compare outline descriptions with actual chapter content
+4. Identify discrepancies and missing information
+5. Update chapter-outline.md to accurately reflect the written story
+6. Update projectRoadmap.md with task completion
+
+## Files to Review
+- chapter-outline.md (master outline)
+- manuscript/chapter-01.md through manuscript/chapter-11.md (actual content)
+- cline_docs/continuity.md (for cross-reference)
+- cline_docs/characters.md (for character development tracking)

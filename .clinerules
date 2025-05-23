@@ -32,6 +32,9 @@ Core Directives:
 *   When editing files, make the minimum required changes.
 *   For creative writing tasks on this project, adhere to a third-person narrative voice with a sardonic tone, unless specified otherwise.
 *   When adding narration, always remember to show, don't tell.
+*   CRITICAL: Before writing or editing any narrative content, consult cline_docs/showDontTellReference.md for alert words and patterns to avoid.
+*   Scan all narrative writing for "tell" patterns: emotion words (rage, hope, fear), "felt" statements, "sensed" statements, mental state verbs (realized, understood, decided), and summary phrases.
+*   Replace all "telling" with concrete actions, sensory details, dialogue, and observable behaviors.
 '''
 
 # User prompt template for initiating tasks with Cline
@@ -90,6 +93,11 @@ pattern_code = "^(src|app|components|lib)/.*\.(js|ts|py|java|cs|go|rb)$"
 on_create = "apply_coding_standards" # Action: suggest initial boilerplate/comments
 on_update = "log_code_change_in_summary" # Action: prompt update to codebaseSummary.md
 
+# Apply to manuscript files
+pattern_manuscript = "^manuscript/.*\.md$"
+on_create = "apply_show_dont_tell_principles" # Action: ensure narrative follows "show, don't tell"
+on_update = "validate_show_dont_tell_compliance" # Action: scan for "tell" patterns and suggest improvements
+
 #-----------------------------
 # Consistency and Quality Checks (Cline's Operations)
 #-----------------------------
@@ -105,3 +113,15 @@ validate_tool_xml_format = true
 
 # Ensure documentation is updated after relevant code changes
 prompt_documentation_updates = true
+
+# Validate "show, don't tell" principles in narrative writing
+check_show_dont_tell_compliance = true
+
+# Alert words to scan for in narrative content
+show_dont_tell_alert_words = [
+    "rage", "hope", "fear", "joy", "despair", "anger", "relief", "confusion", "determination", "gratitude", "trust", "respect",
+    "felt determined", "felt grateful", "felt confused", "felt responsible", "felt angry",
+    "sensed danger", "sensed his mood", "sensed opportunity", "sensed tension",
+    "realized", "understood", "decided", "knew", "thought", "considered", "concluded",
+    "their bond", "growing respect", "emerging leadership", "strange alliance", "building trust"
+]

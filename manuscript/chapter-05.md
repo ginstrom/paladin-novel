@@ -4,76 +4,70 @@
 
 ### Chapter 5 – A Change of Course
 
-The pre-dawn mist curled thick and ghostly around Darach’s northern gate as Gond gently nudged Ash forward. His breath fogged in the chilly air as he adjusted his hood, hiding the mark that branded him an escaped slave. The city loomed ahead, imposing walls silhouetted against the pale dawn sky. Gond could feel his pulse quickening, every beat echoing with urgency.
+Pre-dawn mist coiled around Darach's northern gate like ghostly fingers as Gond nudged Ash forward. His breath fogged in the chill air, and he tugged his hood lower, hiding the brand that marked him as escaped property. The city's walls loomed ahead, black silhouettes against the pale sky. His pulse hammered against his throat.
 
-Two sleepy guards lounged by the portcullis, leaning on their halberds. Their eyes sharpened as Gond approached.
+Two guards lounged by the portcullis, halberds propped against their shoulders. Their eyes sharpened as Gond approached, lantern light dancing across battle-scarred faces.
 
-“Hold there,” one guard growled, stepping forward, the lantern’s flame casting flickering shadows across his battle-scarred face. “Your name and your business?”
+"Hold there." The older guard stepped forward, flame casting flickering shadows. "Name and business?"
 
-“Rosan Vale,” Gond lied smoothly, adopting the weary tone of a man burdened by travel. “Horse trader from Cliffmere. Storm scattered my stock; only Ash here remains.” He patted the cart-horse’s strong neck gently.
+"Rosan Vale." Gond adopted the weary slouch of a man beaten down by travel. "Horse trader from Cliffmere. Storm scattered my stock—only Ash here survived." He patted the cart-horse's neck.
 
-The second guard narrowed his eyes suspiciously and circled slowly, inspecting Ash’s rough harness and Gond's concealed sword. “A lone horse doesn't seem much of a trade.”
+The second guard circled slowly, eyes taking in Ash's rough harness and Gond's concealed sword. "One horse doesn't make much of a trade."
 
-Gond forced a weary smile, sliding two silver coins into the guard's open palm. “It's all I could salvage. Gate fees, yes?”
+Gond forced his lips into a tired smile, sliding two silver coins into the guard's palm. "It's what the storm left me. Gate fees?"
 
-The coins vanished swiftly, suspicion easing just a fraction. But as they stepped aside to let Gond through, the lantern swung too near, illuminating the edge of Gond’s brand. The older guard squinted sharply, recognition flickering across his eyes—then, miraculously, he said nothing.
+The coins vanished. Suspicion eased from the guards' faces, but as they stepped aside, the lantern swung too close. Light caught the edge of Gond's brand, and the older guard's eyes narrowed. Recognition flickered across his weathered features.
 
-Heart hammering, Gond urged Ash forward, spine stiff with apprehension as he passed beneath the heavy iron gate and into Darach.
+Then, inexplicably, he said nothing.
 
----
+Gond's spine went rigid as he passed beneath the iron gate, every step expecting the shout of alarm that never came.
 
-### Gazes and Ghosts
+Inside Darach's walls, the city stirred to life. Hawkers called their wares, cart wheels rumbled over cobblestones, and the air filled with the scents of bread and horse dung. But Gond felt eyes everywhere—whispers trailing him like smoke, curious glances that lingered too long.
 
-Inside the city walls, Darach stirred to life, the air quickly filling with sounds of hawkers calling their wares and carts rumbling over cobblestones. But Gond felt eyes everywhere, whispers trailing him like ghosts. He tugged his cloak tighter around himself, paranoia prickling at his neck.
+At the market square, his worst fears materialized. A wanted poster fluttered against a wooden post, the sketch crude but unmistakable—his face, his brand, clear as daylight. **WANTED ALIVE – 500 ROYALS**. The bounty had doubled.
 
-His fears solidified at the market square. A wanted poster fluttered in the breeze, a rough sketch of a face—his face—with the manacle brand unmistakably clear. His stomach churned as he read: **WANTED ALIVE – 500 ROYALS**. The bounty had doubled. Gond saw curious eyes turning toward him and knew he was moments away from discovery.
+A merchant glanced from the poster to Gond's face, eyes widening. Gond turned and walked away, forcing himself not to run. More heads turned. Whispers followed.
 
-With practiced calm, he turned swiftly back toward the gate. The younger guard glanced up in surprise, but Gond’s curt nod and purposeful stride carried him back through without question. Outside, fresh air rushed into his lungs, easing his panic. He didn't slow until Darach had faded behind him, nothing more than a smudge on the horizon.
+He made it to the gate before the shouts began.
 
----
+"You there! Stop!"
 
-### Roadside Rescue
+Gond didn't look back. The younger guard glanced up in surprise as he passed, but Gond's purposeful stride and curt nod carried him through without question. Only when Darach had shrunk to a smudge on the horizon did he allow himself to breathe freely.
 
-The northern road twisted quietly along the cliffside, bordered by wild heather and tangled shrubs. Gond’s alert eyes caught movement—a small figure struggling through mud, chains dragging at her feet. He quickly dismounted, hand cautiously raised in peace.
+The northern road twisted along cliffsides bordered by wild heather and gorse. Gond's eyes caught movement ahead—a small figure struggling through roadside mud, chains dragging at her feet. He dismounted, hands raised and empty.
 
 The young woman froze, terror stark in her wide eyes.
 
-“I won't harm you,” Gond promised softly, showing empty palms. “I've been in your chains.”
+"I won't hurt you." Gond kept his voice soft, showing his palms. "I've worn those chains."
 
-She hesitated, visibly trembling, before exhaustion and relief overwhelmed her. “Lira,” she whispered. “I escaped this morning. They'll find me soon.”
+She trembled, exhaustion warring with hope in her gaunt features. "Lira," she whispered. "Escaped this morning. They'll come for me."
 
-“They won’t,” Gond said firmly, pulling a small metal file from his pack. Kneeling swiftly, he removed her shackles. The chains fell away with a heavy thud, Lira choking back tears of relief.
+"No, they won't." Gond pulled a metal file from his pack and knelt beside her. The shackles fell away with heavy thuds. Lira choked back a sob, rubbing her raw ankles.
 
-“Can you ride?” Gond asked.
+"Can you ride?"
 
-Lira nodded gratefully, allowing him to lift her gently onto Ash’s sturdy back, her raw ankles wrapped carefully in cloth. Side by side, they hurried northward.
+She nodded, allowing him to lift her onto Ash's broad back. Her weight settled against the bedroll, arms wrapping around it for support. Together, they turned north toward safety.
 
----
+Nightfall found the way-station warm with firelight and the rich aroma of stew. Sim rose in surprise, compassion flooding his features as he welcomed Lira. Pell watched from the shadows, tension easing only when Gond explained.
 
-### Counsel at the Way-Station
+"Darach is death," Gond concluded. "We need to disappear."
 
-Nightfall found the hidden way-station warm with firelight, the aroma of simmering stew greeting them. Sim, the gentle priest of Alanyi, rose in surprise, eyes filled with compassion as he welcomed Lira. Pell, their rogue companion, watched warily, tension melting only slightly as Gond explained the situation.
+"Into thin air?" Pell's eyebrow arched.
 
-“Darach is death,” Gond concluded gravely. “We need to disappear.”
+"Into the hills." Gond pointed to Maera's map. "Too rugged for slavers. Too remote for bounty hunters. We hide, rest, plan our next move."
 
-“Into thin air?” Pell scoffed, skepticism clear.
+Sim nodded, that calm certainty settling over him. "Wisdom. Safety first."
 
-“Into the hills,” Gond corrected, pointing to Maera’s detailed map. “Few slavers venture there. Too rugged, too remote. We'll hide, rest, and figure out our next move.”
+Aerin and Dax exchanged glances, then nodded agreement. Gond felt something shift in his chest—a weight settling there, heavy but not unwelcome.
 
-Sim nodded thoughtfully, eyes calm but resolved. “A wise choice. Safety first, and then we can consider what comes next.”
+"Dawn, then." His voice carried new authority. "A fresh start."
 
-Aerin and Dax, watching intently, nodded agreement. Gond felt a powerful surge of responsibility, determination hardening in his chest.
+Pell's grin held anticipation and wariness in equal measure. "Let's hope hidden stays hidden."
 
-“Then we leave at dawn,” Gond said decisively, his voice strong and confident. “A new start, a safe haven.”
+Morning broke clear and bright, painting their small band in golden light. Gond led the way with Lira secure behind him, her arms around the bedroll. Dax dozed atop their second horse, his injured feet wrapped and healing.
 
-Pell smiled grimly, anticipation glittering in his eyes. “Let's hope quiet and hidden stays quiet and hidden.”
+They climbed steadily away from the coast, leaving the dangerous lowlands behind. The rugged hills opened before them—wild, untamed, promising sanctuary. Gond's shoulders straightened as they rode, the weight in his chest transforming into something that might have been hope.
 
----
+He caught Sim's eye and nodded. The priest smiled back, understanding passing between them without words.
 
-### Dawn Departure
-
-Morning broke clear and bright, bathing their small band in hopeful light. Gond led the way with Lira behind him, arms securely around the bedroll. Dax, his injured feet wrapped gently, dozed atop their second horse.
-
-Ascending steadily, they left the coast behind, the rugged hills opening up ahead—untamed, mysterious, and promising sanctuary. Gond’s heart lifted cautiously. Revenge would come, but first came survival and safety.
-
-He met Sim’s reassuring gaze, nodding silently in understanding. One day, justice—but today, they needed a home.
+Revenge could wait. Today, they needed a home.
