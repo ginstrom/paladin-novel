@@ -22,18 +22,22 @@
     *   Forms alliance with Iron Covenant through Thorek Ironheart (Ch 14).
     *   Commits to continental war against slave trade (Ch 15).
     *   Rejects religious authority, accepts excommunication threat (Ch 16).
-    *   **Mercy over vengeance**: Captures Borin and Kael (now slave catchers) but shows mercy, sending them with a warning message (planned).
-    *   **Final transformation**: After climactic battle, finds Borin dead and heals wounded Kael, who becomes a priest of Alanyi (planned).
-*   **Character Arc:** Vengeance → Unconscious shift to protection → Realization → Active mercy → Divine redemption
+    *   **Leads first major battle**: Commands defense against 200 professional soldiers, costly victory (Ch 17).
+    *   **Mercy over vengeance**: Captures Borin and Kael (now slave catchers) but shows mercy, sending them with a warning message (Ch 18).
+    *   **Political leadership**: Rejects Noble Knights' classist alliance, commits to true equality (Ch 19).
+    *   **Divine recognition**: Heals ancient shadow-touched wound, gains Circle of Whispers endorsement (Ch 20).
+    *   **Revolutionary leader**: Coordinates three-army alliance for final campaign (Ch 21).
+*   **Character Arc:** Vengeance → Unconscious shift to protection → Realization → Active mercy → Divine redemption → Revolutionary leader
 *   **Relationships:**
-    *   Former comrade of Borin and Kael (betrayers, later redeemed through mercy).
+    *   Former comrade of Borin and Kael (betrayers, later shown mercy).
     *   Ally and leader to Pell and Sim.
     *   Rescuer and protector of Alia, Dax, and Lira.
     *   Received aid from Maera.
     *   Student of Silviana Starweaver in divine arts.
     *   Military ally of Thorek Ironheart and Iron Covenant.
     *   Leader of growing liberation movement.
-*   **Current Status/Location:** Leading valley settlement of ~200 people, preparing for continental war (End of Chapter 16).
+    *   Recognized by Circle of Whispers as true paladin.
+*   **Current Status/Location:** Leading valley settlement of ~500 people, preparing for three-army continental campaign (End of Chapter 21).
 
 ## Pell
 *   **Bio/Description:** A thief, lean and sharp-eyed, perpetually alert and calculating. Resourceful, skilled with knives, and adept at picking locks and acquiring items (e.g., a file to remove manacles). A capable and ruthless fighter when necessary. Loyal to Gond and Sim. Initially described in Chapter 2 as being chained with Sim.
@@ -50,12 +54,14 @@
     *   Tracks settlement growth and new arrivals (Ch 13).
     *   **Pivotal question**: Asks Gond about his vengeance plans, triggering Gond's realization of transformation (Ch 13).
     *   Fights in defense against Crimson Company (Ch 13).
-    *   Provides tactical assessments and intelligence (Ch 14-16).
+    *   Provides tactical assessments and intelligence (Ch 14-21).
+    *   Leads ambush team during major battle (Ch 17).
+    *   Witnesses Gond's mercy toward Borin and Kael (Ch 18).
 *   **Relationships:**
     *   Ally of Gond and Sim.
     *   Protector of Alia and Dax.
     *   Trusted advisor and friend to Gond.
-*   **Current Status/Location:** At valley settlement, serving as Gond's tactical advisor (End of Chapter 16).
+*   **Current Status/Location:** At valley settlement, serving as Gond's tactical advisor (End of Chapter 21).
 
 ## Sim
 *   **Bio/Description:** A priest of Alanyi, the goddess of peace, light, justice, and redemption. Gentle, serene, and demonstrates his faith through consistent compassionate actions rather than words. Never proselytizes or initiates religious discussions. Surprisingly practical, with extensive knowledge of herbs, survival, and healing. A pacifist by nature who responds to questions about his faith with nature-based metaphors and deflective humility. His devotion is shown through small, unexplained rituals and his unwavering commitment to helping others.
@@ -73,13 +79,15 @@
     *   Provides medical aid during Crimson Company battle (Ch 13).
     *   Supports Gond during Willem's death and crisis of faith (Ch 14).
     *   Defends Gond against High Cleric Aldric's challenges (Ch 16).
+    *   Struggles with excommunication threat from established order (Ch 20).
+    *   Joins Reformed Order breaking from corrupt hierarchy (Ch 21).
 *   **Relationships:**
     *   Ally of Gond and Pell.
     *   Caregiver to Alia, Dax, and Lira.
     *   Devoted follower of Alanyi.
     *   Colleague of Silviana in spiritual matters.
-    *   Conflicted relationship with established Order of Alanyi.
-*   **Current Status/Location:** At valley settlement, serving as healer and spiritual advisor (End of Chapter 16).
+    *   Member of Reformed Order opposing corrupt establishment.
+*   **Current Status/Location:** At valley settlement, serving as healer and spiritual advisor (End of Chapter 21).
 
 ## Alia
 *   **Bio/Description:** A young girl, approximately 14 years old. Sister to Dax.
@@ -89,12 +97,13 @@
     *   Rescued by Gond, Pell, and Sim (Ch 4).
     *   Taken to the hidden way-station for safety (Ch 4).
     *   Expresses gratitude to Gond before he departs for Darach (Ch 4).
-    *   Becomes part of valley settlement community (Ch 8-16).
+    *   Becomes part of valley settlement community (Ch 8-21).
+    *   Helps distribute arrows during major battle (Ch 17).
 *   **Relationships:**
     *   Sister of Dax.
     *   Rescued by Gond, Pell, and Sim.
     *   Member of valley settlement community.
-*   **Current Status/Location:** At valley settlement (End of Chapter 16).
+*   **Current Status/Location:** At valley settlement (End of Chapter 21).
 
 ## Dax
 *   **Bio/Description:** A young boy, approximately 12 years old. Brother to Alia. Suffers from injured feet after capture. Recipient of Gond's first undeniable healing miracle.
@@ -105,12 +114,13 @@
     *   His injured feet are tended by Sim at the way-station (Ch 4).
     *   Rides a horse during the journey to the hills due to his injuries (Ch 5).
     *   **First healing miracle**: Mortally wounded in battle, healed by Gond's first undeniable divine intervention (Ch 10).
-    *   Becomes symbol of Gond's divine calling (Ch 11-16).
+    *   Becomes symbol of Gond's divine calling (Ch 11-21).
+    *   Helps distribute arrows during major battle (Ch 17).
 *   **Relationships:**
     *   Brother of Alia.
     *   Rescued by Gond, Pell, and Sim.
     *   First recipient of Gond's clear healing miracle.
-*   **Current Status/Location:** At valley settlement, fully healed (End of Chapter 16).
+*   **Current Status/Location:** At valley settlement, fully healed (End of Chapter 21).
 
 ## Lira
 *   **Bio/Description:** A young woman who escaped from slavers. Traumatized but resilient.
@@ -119,11 +129,11 @@
     *   Found by Gond struggling on the road north of Darach after escaping her captors (Ch 5).
     *   Freed from her shackles by Gond (Ch 5).
     *   Joins Gond's group and is taken to the way-station (Ch 5).
-    *   Becomes part of valley settlement community (Ch 8-16).
+    *   Becomes part of valley settlement community (Ch 8-21).
 *   **Relationships:**
     *   Rescued by Gond.
     *   Member of valley settlement community.
-*   **Current Status/Location:** At valley settlement (End of Chapter 16).
+*   **Current Status/Location:** At valley settlement (End of Chapter 21).
 
 ## Maera
 *   **Bio/Description:** An elderly woman, a skilled healer, living in a secluded hut on the coast. Possesses flinty eyes, a firm demeanor, and practical wisdom. Formerly served a temple in Darach but left due to corruption. Revealed to be a key organizer of the continental resistance network.
@@ -135,12 +145,13 @@
     *   Advises Gond on compassion and justice (Ch 3).
     *   **Network revelation**: Returns with armed escort and reveals her role as resistance organizer (Ch 15).
     *   Brings Elena Brightblade and intelligence about enemy responses (Ch 15).
-    *   Coordinates continental network of allies and sympathizers (Ch 15).
+    *   Coordinates continental network of allies and sympathizers (Ch 15-21).
+    *   Provides strategic intelligence and coordination for three-army campaign (Ch 21).
 *   **Relationships:**
     *   Aided Gond, Pell, and Sim.
     *   Network coordinator and strategic planner.
     *   Ally of Elena Brightblade and other resistance leaders.
-*   **Current Status/Location:** At valley settlement, coordinating resistance network (End of Chapter 16).
+*   **Current Status/Location:** At valley settlement, coordinating resistance network (End of Chapter 21).
 
 ## Silviana Starweaver
 *   **Bio/Description:** Elven lore-keeper and spiritual teacher, one of the ancient followers of Alanyi who withdrew when the goddess's influence waned among humans. Appears ageless with silver hair and eyes the color of deep forest pools. Possesses deep knowledge of Alanyi's true nature and the history of previous paladins. Speaks with the music of wind through leaves and carries the scent of pine and starlight. Beautiful in the way of growing things—ageless and serene, with a weight of years and knowledge in her ancient eyes.
@@ -154,14 +165,17 @@
     *   Helps Gond understand the costs and responsibilities of divine calling (Ch 12).
     *   Provides spiritual guidance during Gond's crisis of faith (Ch 14).
     *   Defends Gond's legitimacy against High Cleric Aldric (Ch 16).
-    *   Represents elven interests and ancient knowledge (Ch 16).
-*   **Character Arc:** Cautious observer → Spiritual mentor → Religious authority
+    *   Represents elven interests and ancient knowledge (Ch 16-21).
+    *   Uses elven magic to confuse enemies during major battle (Ch 17).
+    *   Accompanies Gond to Circle of Whispers conclave (Ch 20).
+    *   Provides diplomatic liaison with elven communities (Ch 21).
+*   **Character Arc:** Cautious observer → Spiritual mentor → Religious authority → Diplomatic liaison
 *   **Relationships:**
     *   Spiritual guide and teacher to Gond.
     *   Mentor figure to Sim, sharing ancient Alanyi traditions.
     *   Diplomatic liaison with other elven communities.
     *   Representative of Circle of Whispers.
-*   **Current Status/Location:** At valley settlement, teaching Gond and providing spiritual guidance (End of Chapter 16).
+*   **Current Status/Location:** At valley settlement, coordinating elven support for campaign (End of Chapter 21).
 
 ## Thorek Ironheart
 *   **Bio/Description:** Dwarven war-priest of the Iron Covenant, a martial holy order dedicated to protecting the innocent through righteous warfare. The Iron Covenant formed 200 years ago when dwarves broke away from the corrupt Marshal Order to preserve Turin's true teachings. Grizzled veteran with intricate braided beard adorned with small iron rings marking battles fought for justice. Carries a blessed warhammer and wears ceremonial armor inscribed with protective runes. Speaks in clipped, direct manner but possesses deep tactical wisdom. Recognizes Gond as the return of the ancient alliance between Alanyi and Turin.
@@ -171,15 +185,19 @@
     *   Assesses Gond's worthiness and finds him to be a true paladin (Ch 14).
     *   Offers Iron Covenant alliance: weapons, siege engines, tactical training (Ch 14).
     *   Forms military partnership with Gond's movement (Ch 14).
-    *   Provides strategic planning and dwarven military expertise (Ch 15-16).
+    *   Provides strategic planning and dwarven military expertise (Ch 15-21).
     *   Supports Gond against religious establishment (Ch 16).
-*   **Character Arc:** Skeptical assessor → Devoted ally → Strategic military leader
+    *   Commands center force during major battle (Ch 17).
+    *   Trains Noble Knight defectors in proper combat techniques (Ch 21).
+    *   Prepares Iron Covenant forces for three-army campaign (Ch 21).
+*   **Character Arc:** Skeptical assessor → Devoted ally → Strategic military leader → Campaign coordinator
 *   **Relationships:**
     *   Military advisor and ally to Gond.
     *   Bridge between dwarven martial traditions and Gond's guerrilla tactics.
     *   Respectful working relationship with Silviana despite cultural differences.
     *   Kinsman of Grimjaw Ironforge.
-*   **Current Status/Location:** At valley settlement, serving as military advisor (End of Chapter 16).
+    *   Military coordinator with Noble Knight defectors.
+*   **Current Status/Location:** At valley settlement, preparing Iron Covenant forces for campaign (End of Chapter 21).
 
 ## Grimjaw Ironforge
 *   **Bio/Description:** Dwarven siege engineer and leader of an elite company of warriors. Renowned for designing and operating the most effective siege engines on the continent. Massive even by dwarven standards, with arms like tree trunks and hands permanently stained by forge work. Gold-capped teeth and colorful vocabulary. His company's defection brings crucial military assets to Gond's cause.
@@ -189,13 +207,17 @@
     *   Reveals his defection from Crown of Ironhold (Ch 15).
     *   Offers siege engines and weapon manufacturing capabilities (Ch 15).
     *   Demonstrates enthusiasm for attacking fortified slave cities (Ch 15).
-    *   Provides engineering expertise for liberation army (Ch 15-16).
-*   **Character Arc:** Professional soldier → Defector for justice → Liberation army commander
+    *   Provides engineering expertise for liberation army (Ch 15-21).
+    *   Siege engines prove decisive in major battle defense (Ch 17).
+    *   Trains former slaves in metalworking and weapon crafting (Ch 19).
+    *   Prepares portable siege engines for coastal assault (Ch 21).
+*   **Character Arc:** Professional soldier → Defector for justice → Liberation army commander → Master trainer
 *   **Relationships:**
     *   Military engineer and siege specialist for Gond's forces.
     *   Kinsman of Thorek Ironheart.
     *   Professional respect for Gond's tactical innovations.
-*   **Current Status/Location:** At valley settlement, preparing siege engines for war (End of Chapter 16).
+    *   Mentor to former slaves learning crafts.
+*   **Current Status/Location:** At valley settlement, preparing siege engines for coastal campaign (End of Chapter 21).
 
 ## Elena Brightblade
 *   **Bio/Description:** Former Royal Guard captain from Westmarch. Tall, regal, with the bearing of someone accustomed to command. Her armor is practical but well-made, and the sword at her side shows the wear of frequent use. Resigned her commission when she learned of royal funding for slave trade. Brings military expertise and intelligence network.
@@ -206,13 +228,17 @@
     *   Provides intelligence about enemy responses to Gond's activities (Ch 15).
     *   Explains scope of continental resistance network (Ch 15).
     *   Warns of organized enemy response to Crimson Company failure (Ch 15).
-    *   Contributes strategic planning for liberation campaign (Ch 15-16).
-*   **Character Arc:** Royal Guard → Moral defector → Resistance leader
+    *   Contributes strategic planning for liberation campaign (Ch 15-21).
+    *   Coordinates crossbow companies during major battle (Ch 17).
+    *   Provides intelligence about Noble Knights and their factions (Ch 19).
+    *   Warns about slave cities' 4000-man army (Ch 21).
+*   **Character Arc:** Royal Guard → Moral defector → Resistance leader → Strategic coordinator
 *   **Relationships:**
     *   Military strategist for Gond's movement.
     *   Ally of Maera in resistance network.
     *   Professional soldier supporting liberation cause.
-*   **Current Status/Location:** At valley settlement, providing military intelligence and planning (End of Chapter 16).
+    *   Intelligence coordinator for three-army campaign.
+*   **Current Status/Location:** At valley settlement, coordinating intelligence for campaign (End of Chapter 21).
 
 ## High Cleric Aldric
 *   **Bio/Description:** Leader of the established Order of Alanyi. A man whose expensive robes and soft hands speak of a life spent far from the hardships his goddess supposedly championed. Represents corrupt religious hierarchy that serves political rather than divine interests. Demands submission to traditional authority.
@@ -224,12 +250,15 @@
     *   Threatens excommunication and heresy charges (Ch 16).
     *   Witnesses Gond's healing of Lily but dismisses it (Ch 16).
     *   Departs in anger when Gond refuses submission (Ch 16).
-*   **Character Arc:** Corrupt authority → Challenged legitimacy → Rejected power
+    *   Declares Reformed Order heretical and calls for holy war (Ch 21).
+    *   Allies with slave cities, blessing their cause as divinely ordained (Ch 21).
+*   **Character Arc:** Corrupt authority → Challenged legitimacy → Rejected power → Enemy alliance
 *   **Relationships:**
     *   Superior to Sim in Order of Alanyi hierarchy.
     *   Opponent of Gond's movement.
     *   Representative of established religious corruption.
-*   **Current Status/Location:** Departed valley settlement, planning religious opposition (End of Chapter 16).
+    *   Ally of slave cities against liberation movement.
+*   **Current Status/Location:** Allied with slave cities, preparing religious opposition (End of Chapter 21).
 
 ## Sister Marta
 *   **Bio/Description:** Young priest from Westport Temple, perhaps thirty years old, with the calloused hands of someone who works for a living despite her clerical robes. Represents sympathetic faction within established orders who question corrupt authority.
@@ -240,12 +269,15 @@
     *   Witnesses miraculous healing and declares Gond legitimate (Ch 16).
     *   Promises Westport Temple will remember Gond's divine blessing (Ch 16).
     *   Represents growing schism within religious orders (Ch 16).
-*   **Character Arc:** Skeptical observer → Convinced witness → Sympathetic ally
+    *   Leads Reformed Order delegation joining Gond's cause (Ch 21).
+    *   Brings 20 priests and priestesses to support liberation (Ch 21).
+*   **Character Arc:** Skeptical observer → Convinced witness → Sympathetic ally → Reformed Order leader
 *   **Relationships:**
-    *   Member of Order of Alanyi but sympathetic to Gond.
-    *   Potential ally within established religious structure.
+    *   Leader of Reformed Order supporting Gond.
+    *   Former member of corrupt establishment.
     *   Witness to Gond's divine legitimacy.
-*   **Current Status/Location:** Departed with religious delegation, but sympathetic to Gond's cause (End of Chapter 16).
+    *   Religious coordinator for liberation movement.
+*   **Current Status/Location:** At valley settlement, leading Reformed Order support (End of Chapter 21).
 
 ## Battlemaster Korgan Ironshield
 *   **Bio/Description:** Iron Covenant representative at religious meeting. Dwarf in armor bearing crossed hammers of Turin's order, but with differences marking him as Iron Covenant faction. Confident and direct in defending dwarven religious legitimacy.
@@ -256,12 +288,15 @@
     *   Accuses established orders of corruption (Ch 16).
     *   Supports Gond against High Cleric Aldric's demands (Ch 16).
     *   Represents dwarven religious interests (Ch 16).
-*   **Character Arc:** Religious defender → Gond supporter → Alliance representative
+    *   Brings news of slave cities' alliance and 2000-man army (Ch 17).
+    *   Coordinates Iron Covenant military support (Ch 21).
+*   **Character Arc:** Religious defender → Gond supporter → Alliance representative → Military coordinator
 *   **Relationships:**
     *   Iron Covenant representative.
     *   Ally of Thorek Ironheart.
     *   Supporter of Gond's legitimacy.
-*   **Current Status/Location:** Departed with religious delegation, representing Iron Covenant support (End of Chapter 16).
+    *   Military liaison for dwarven forces.
+*   **Current Status/Location:** Coordinating Iron Covenant forces for campaign (End of Chapter 21).
 
 ## Alanyi
 *   **Bio/Description:** Goddess of peace, light, justice, and redemption. Also known as the goddess of mercy. Her faith is often ridiculed as weak or ineffectual in a harsh world, and many of her temples are in ruin.
@@ -269,12 +304,14 @@
 *   **Key Actions/Events:**
     *   Worshipped by Sim.
     *   Calls Silviana to find and teach Gond (Ch 11).
-    *   Grants divine power to Gond as her paladin (Ch 6-16).
+    *   Grants divine power to Gond as her paladin (Ch 6-21).
     *   Ancient alliance with Turin preserved by dwarves (historical).
+    *   Divine power enables healing of shadow-touched wound (Ch 20).
 *   **Relationships:** 
     *   Deity worshipped by Sim and Silviana.
     *   Divine patron of Gond's paladin calling.
     *   Ancient partner to Turin in original Marshal Order.
+    *   Recognized by Circle of Whispers as active divine force.
 *   **Current Status/Location:** Divine entity, actively supporting Gond's mission.
 
 ## Borin
@@ -283,15 +320,15 @@
 *   **Key Actions/Events:**
     *   Alongside Kael, betrayed Gond, leading to Gond's drugging and enslavement (Ch 1).
     *   Toasted Gond as the "luckiest sword on the coast" shortly before the betrayal (Ch 1).
-    *   **Becomes a slave catcher**: Turns to hunting escaped slaves for bounty money (planned).
-    *   **Captured by Gond**: Taken prisoner but shown mercy instead of being killed (planned).
-    *   **Carries warning message**: Released to warn other mercenaries about pursuing Gond's people (planned).
+    *   **Becomes a slave catcher**: Turns to hunting escaped slaves for bounty money (Ch 18).
+    *   **Captured by Gond**: Taken prisoner during liberation raid but shown mercy instead of being killed (Ch 18).
+    *   **Carries warning message**: Released to warn other mercenaries about pursuing Gond's people (Ch 18).
     *   **Dies in final battle**: Found dead after the climactic battle, representing the fate of those who choose violence (planned).
 *   **Character Arc:** Betrayer → Slave catcher → Recipient of mercy → Death in battle
 *   **Relationships:**
     *   Former comrade of Gond (betrayer, later shown mercy).
     *   Co-conspirator with Kael.
-*   **Current Status/Location:** Unknown (presumably operating as slave catcher).
+*   **Current Status/Location:** Released with warning message, presumably spreading word to mercenaries (End of Chapter 18).
 
 ## Kael
 *   **Bio/Description:** Mercenary and former comrade of Gond. Described as having cold eyes and a smirking demeanor. After betraying Gond, becomes a slave catcher but eventually experiences redemption through Gond's divine mercy.
@@ -299,116 +336,71 @@
 *   **Key Actions/Events:**
     *   Alongside Borin, betrayed Gond (Ch 1).
     *   Callously remarked, "Business, mate. Nothing personal," during the betrayal (Ch 1).
-    *   **Becomes a slave catcher**: Turns to hunting escaped slaves for bounty money (planned).
-    *   **Captured by Gond**: Taken prisoner but shown mercy instead of being killed (planned).
-    *   **Carries warning message**: Released to warn other mercenaries about pursuing Gond's people (planned).
+    *   **Becomes a slave catcher**: Turns to hunting escaped slaves for bounty money (Ch 18).
+    *   **Captured by Gond**: Taken prisoner during liberation raid but shown mercy instead of being killed (Ch 18).
+    *   **Carries warning message**: Released to warn other mercenaries about pursuing Gond's people (Ch 18).
     *   **Wounded in final battle**: Survives the climactic battle but is badly injured (planned).
     *   **Healed by Gond**: Receives divine healing from the man he betrayed, demonstrating ultimate mercy (planned).
     *   **Becomes priest of Alanyi**: Transforms into a servant of the goddess of mercy, completing his redemption arc (planned).
 *   **Character Arc:** Betrayer → Slave catcher → Recipient of mercy → Divine healing → Priest of Alanyi
 *   **Relationships:**
-    *   Former comrade of Gond (betrayer, later redeemed through divine mercy).
+    *   Former comrade of Gond (betrayer, later shown mercy).
     *   Co-conspirator with Borin.
     *   Eventually becomes fellow servant of Alanyi alongside Sim.
-*   **Current Status/Location:** Unknown (presumably operating as slave catcher).
+*   **Current Status/Location:** Released with warning message, presumably spreading word to mercenaries (End of Chapter 18).
 
 ## The Circle of Whispers
 *   **Bio/Description:** Council of elven elders who decide whether to support Gond's cause. Composed of ancient elves who remember Alanyi's previous manifestations and maintain the old traditions. They communicate through subtle magical means and observe human affairs from hidden groves.
-*   **First Appearance:** Chapter 20 (planned)
+*   **First Appearance:** Chapter 20
 *   **Key Actions/Events:**
     *   Debates whether Gond represents true divine calling or dangerous pretender (Ch 20).
-    *   Provides official elven endorsement of Gond's paladin status (Ch 20-21).
-    *   Offers ancient knowledge and resources for final campaign (Ch 22).
-*   **Character Arc:** Skeptical observers → Cautious supporters → Active allies
+    *   Tests Gond by having him heal ancient shadow-touched wound (Ch 20).
+    *   Provides official elven endorsement of Gond's paladin status (Ch 20).
+    *   Offers intelligence gift about slave cities' hidden assets and routes (Ch 20).
+    *   Commits elven nations to support liberation cause (Ch 20).
+    *   Coordinates elven forces for northern campaign (Ch 21).
+*   **Character Arc:** Skeptical observers → Divine testers → Official endorsers → Active allies
 *   **Relationships:**
     *   Silviana serves as their representative to Gond.
     *   Provides religious legitimacy to counter human establishment opposition.
-*   **Current Status/Location:** To be introduced (Chapter 20).
+    *   Ancient authority recognizing Gond's divine calling.
+*   **Current Status/Location:** Grove of First Light, coordinating elven support for campaign (End of Chapter 21).
 
-## The Noble Knights of Turin (Human Defectors)
-*   **Bio/Description:** Noble-born knights who originally served in the corrupt Marshal Order but oppose slavery while maintaining classist attitudes toward peasants. Drawn from aristocratic families, they possess military training, fine equipment, and political connections. Despite opposing slavery, they look down on Gond's followers as beneath their station. Focus on overthrowing corrupt leadership rather than liberating slaves. Do not formally break from the Marshal Order until the rebellion gains momentum.
-*   **First Appearance:** Chapter 19 (planned)
+## Aelindra
+*   **Bio/Description:** Speaker for the Circle of Whispers, eldest member with white starlight hair and eyes holding the depth of centuries. Ancient elf who transcends simple categories, existing partially in this realm and partially in more fundamental reality.
+*   **First Appearance:** Chapter 20
 *   **Key Actions/Events:**
-    *   Begin secret coordination with Gond's movement while maintaining official positions (Ch 19).
-    *   Formally break from the Marshal Order when rebellion reaches full swing (Ch 21).
-    *   Form separate army that coordinates with but remains independent from Gond's forces (Ch 22).
-    *   Focus assault on the Holy City of Turin to overthrow corrupt rulers (Ch 23-24).
-    *   Witness Turin's divine wrath strike down corrupt leadership (Ch 24).
-*   **Character Arc:** Secret sympathizers → Open defectors → Independent allies → Witnesses to divine justice
+    *   Leads Circle of Whispers conclave to test Gond (Ch 20).
+    *   Witnesses Gond heal shadow-touched wound that resisted all healing for 3000 years (Ch 20).
+    *   Formally recognizes Gond as true paladin of Alanyi (Ch 20).
+    *   Provides intelligence gift about slave cities to aid liberation (Ch 20).
+    *   Commits elven nations to support Gond's cause (Ch 20).
+*   **Character Arc:** Ancient observer → Divine witness → Formal endorser
 *   **Relationships:**
-    *   Uneasy alliance with Gond's movement - cooperation despite mutual class tensions.
-    *   Coordinate military strategy while maintaining separate command structure.
-    *   Bridge between established nobility and revolutionary forces.
-*   **Current Status/Location:** To be introduced (Chapter 19).
+    *   Leader of Circle of Whispers.
+    *   Ancient authority validating Gond's divine calling.
+    *   Ally providing crucial intelligence and support.
+*   **Current Status/Location:** Grove of First Light, coordinating elven campaign support (End of Chapter 20).
 
-## Turin
-*   **Bio/Description:** God of justice and protector of the weak. Originally worshipped alongside Alanyi in the Marshal Order, where Paladins of Alanyi and Battlemasters of Turin fought evil side by side. When human leaders corrupted the order's teachings 200 years ago, interpreting "justice" as enforcing human laws including slavery, the dwarves broke away to preserve Turin's true teachings. Turin's divine wrath will ultimately manifest to strike down those who perverted his sacred mission.
-*   **First Appearance:** Referenced in dwarven lore (Chapter 14)
+## Sir Roderick Ashford
+*   **Bio/Description:** Third son of the Duke of Westmarch, leader of Noble Knights faction seeking to reform slavery system while preserving class hierarchy. Wears masterwork armor and bears crossed hammers of Turin's order with subtle differences. Represents aristocratic opposition to slavery that maintains classist attitudes.
+*   **First Appearance:** Chapter 19
 *   **Key Actions/Events:**
-    *   Originally served alongside Alanyi in the ancient Marshal Order (historical).
-    *   Teachings corrupted by human leaders 200 years ago (historical).
-    *   Preserved in true form by the dwarven Iron Covenant (ongoing).
-    *   Divine wrath manifests to destroy corrupt leadership in Holy City of Turin (Ch 24, planned).
-*   **Character Arc:** Ancient alliance → Corruption of teachings → Preservation by dwarves → Divine retribution
+    *   Leads Noble Knights delegation offering alliance with conditions (Ch 19).
+    *   Proposes ending slavery while preserving "proper order" and class hierarchy (Ch 19).
+    *   Rejected by Gond for classist attitudes and unwillingness to accept true equality (Ch 19).
+    *   Revealed to profit from child slavery despite reform rhetoric (Ch 21).
+    *   Expels Noble Knight defectors who discover his hypocrisy (Ch 21).
+*   **Character Arc:** Reform advocate → Exposed hypocrite → Factional opponent
 *   **Relationships:**
-    *   Divine partner to Alanyi in the original sacred alliance.
-    *   Worshipped by the Iron Covenant in his true form.
-    *   Perverted by corrupt human leadership of the Marshal Order.
-*   **Current Status/Location:** Divine entity, preparing divine intervention.
+    *   Leader of classist Noble Knights faction.
+    *   Opponent of true equality and liberation.
+    *   Former commander of Sir Marcus Brightwater and defectors.
+*   **Current Status/Location:** Leading remaining Noble Knights loyal to established order (End of Chapter 21).
 
----
-### Part III New Characters
-
-## Captain Voss
-*   **Bio/Description:** Leader of the Crimson Company slaver force. Professional mercenary with expensive armor and cold, calculating eyes. Hired specifically to capture Gond. Represents escalation of enemy response to liberation activities.
-*   **First Appearance:** Chapter 13
+## Sir Marcus Brightwater
+*   **Bio/Description:** Respected Noble Knights commander who discovered Sir Roderick's hypocrisy regarding child slavery. Leads defector faction that abandons classist attitudes to join true liberation cause. Battle-hardened knight with dented armor showing recent conflict.
+*   **First Appearance:** Chapter 21
 *   **Key Actions/Events:**
-    *   Leads 53-man professional slaver force against valley settlement (Ch 13).
-    *   Demands Gond's surrender, threatens to sell other refugees (Ch 13).
-    *   Killed during battle when divine-enhanced defenders rout his forces (Ch 13).
-*   **Character Arc:** Professional threat → Defeated enemy → Casualty of war
-*   **Relationships:**
-    *   Enemy of Gond and liberation movement.
-    *   Representative of organized slaver response.
-*   **Current Status/Location:** Deceased (Chapter 13).
-
-## Willem
-*   **Bio/Description:** Young refugee, approximately 16 years old, who died despite Gond's healing attempts. One of settlement's newest arrivals who took up sword for first time during Crimson Company attack. His death triggers Gond's crisis of faith about divine power limitations.
-*   **First Appearance:** Chapter 14
-*   **Key Actions/Events:**
-    *   Takes up sword for first time to defend settlement (Ch 14).
-    *   Mortally wounded by crossbow bolt during battle (Ch 14).
-    *   Dies despite Gond's desperate healing attempts (Ch 14).
-    *   Death triggers Gond's crisis of faith and spiritual renewal (Ch 14).
-*   **Character Arc:** New refugee → Brave defender → Tragic casualty → Catalyst for growth
-*   **Relationships:**
-    *   Settlement member who looked to Gond for protection.
-    *   Symbol of divine power's limitations and cost of leadership.
-*   **Current Status/Location:** Deceased (Chapter 14).
-
-## Mira Thornfield
-*   **Bio/Description:** Middle-aged refugee from destroyed village. Suffered internal injuries and broken arm while hiding from slavers who attacked her village. Demonstrates growing reputation drawing desperate people from greater distances.
-*   **First Appearance:** Chapter 12
-*   **Key Actions/Events:**
-    *   Travels for days following rumors of healer (Ch 12).
-    *   Found at valley's edge with severe internal injuries (Ch 12).
-    *   Healed by Gond in controlled demonstration of divine power (Ch 12).
-    *   Becomes part of settlement community (Ch 12).
-*   **Character Arc:** Desperate refugee → Healing recipient → Community member
-*   **Relationships:**
-    *   Healed by Gond.
-    *   Example of settlement's growing reputation.
-*   **Current Status/Location:** At valley settlement (End of Chapter 16).
-
-## Marcus
-*   **Bio/Description:** Elderly man from Westport seeking healing for his granddaughter. Traveled 100 miles on foot following rumors of the healer. Represents impossible expectations and scope of need that Gond's reputation creates.
-*   **First Appearance:** Chapter 13
-*   **Key Actions/Events:**
-    *   Travels three weeks on foot from Westport (Ch 13).
-    *   Seeks healing for granddaughter with wasting sickness (Ch 13).
-    *   Cannot bring child due to her weakness (Ch 13).
-    *   Demonstrates growing legend's reach and burden (Ch 13).
-*   **Character Arc:** Desperate grandfather → Symbol of impossible expectations
-*   **Relationships:**
-    *   Represents countless desperate people seeking miracles.
-    *   Example of
+    *   Discovers Sir Roderick's contracts for child slavery on plantation raid (Ch 21).
+    *   Confronts Sir Roderick about hypocrisy, leading

@@ -28,6 +28,13 @@
 - **Chapter 15**: Maera returns with resistance network, Grimjaw Ironforge defects with siege engines, Elena Brightblade joins
 - **Chapter 16**: Religious delegation arrives, High Cleric Aldric demands submission, Gond refuses, religious schism begins
 
+### Part IV: Forging a Free Nation (Chapters 17-21)
+- **Chapter 17**: First major coordinated attack by 200 professional soldiers, dwarven siege engines prove essential, costly victory with 7 dead, Battlemaster Korgan brings news of 2000-man enemy army
+- **Chapter 18**: Coordinated liberation raids across three provinces, capture and mercy toward Borin and Kael (now slave catchers), vengeance-to-mercy transformation complete, settlement grows to 400 people
+- **Chapter 19**: Political organization challenges with multi-racial council, Sir Roderick Ashford's Noble Knights offer alliance with classist conditions, Gond rejects "proper order" for true equality, settlement reaches 500 people
+- **Chapter 20**: Religious crisis as temples split over Gond's legitimacy, Circle of Whispers formal conclave, Gond heals ancient shadow-touched wound, elven recognition as true paladin, intelligence gift about slave cities
+- **Chapter 21**: Noble Knight defectors led by Sir Marcus Brightwater join after discovering Sir Roderick's hypocrisy, Reformed Order declares independence from High Temple, three-army coordination planned for final campaign
+
 ## Character Developments
 
 ### Gond's Transformation Arc
