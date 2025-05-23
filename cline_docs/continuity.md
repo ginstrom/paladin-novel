@@ -1,0 +1,353 @@
+# Story Continuity Tracking for "The Reluctant Paladin"
+
+**IMPORTANT: Review this document *before* adding or significantly altering narrative content to ensure consistency.**
+
+---
+
+## Key Characters
+
+*This section will track individual characters. For each character, note:*
+*- **Name:** (And any aliases)
+*- **First Appearance:** (Chapter/Scene)
+*- **Physical Description:** (Key features, attire, changes over time)
+*- **Personality Traits:** (Core characteristics, motivations, flaws)
+*- **Background/History:** (Relevant past events, relationships)
+*- **Significant Arcs/Events:** (Major turning points, decisions, and their impact on the character)
+*- **Current Status/Location:** (As of the latest narrative point)
+
+**Example:**
+*   **Gond:**
+    *   **First Appearance:** Chapter 1
+    *   **Physical Description:** Initially appears disheveled, later more composed. Scar above left eyebrow. Branded on forehead with slave mark.
+    *   **Personality Traits:** Cynical, reluctant, underlying sense of justice, prone to internal monologues, capable of cold fury.
+    *   **Background/History:** Former mercenary, betrayed by comrades (Borin and Kael), drugged, and sold into slavery. Details of paladin awakening to be added.
+    *   **Significant Arcs/Events:** Betrayal, enslavement (branded), initial assessment of fellow captives (Chapter 1), escape from slave ship (Chapter 2), awakening as a paladin (details pending).
+    *   **Significant Arcs/Events:** Betrayal, enslavement (branded), initial assessment of fellow captives (Chapter 1), escape from slave ship (Chapter 2), meeting Maera (Chapter 3), ambushing slavers and rescuing Aerin & Dax (Chapter 4), scouting Darach, discovering bounty, and retreating (Chapter 5), rescuing Lira (Chapter 5), deciding to head for the hills (Chapter 5).
+    *   **Current Status/Location:** Leading a small band of fugitives (Pell, Sim, Aerin, Dax, Lira) towards the hills for safety, having left the way-station (as of end of Chapter 5).
+
+*   **Borin:**
+    *   **First Appearance:** Chapter 1 (flashback, mentioned by name)
+    *   **Physical Description:** Not yet described in detail.
+    *   **Personality Traits:** Perceived as loyal by Gond before betrayal, capable of treachery for "business."
+    *   **Background/History:** Former mercenary comrade of Gond.
+    *   **Significant Arcs/Events:** Betrayed Gond, leading to his enslavement. Glimpsed by Gond operating in Darach (Chapter 5).
+    *   **Current Status/Location:** Operating in Darach (as of Chapter 5).
+
+*   **Kael:**
+    *   **First Appearance:** Chapter 1 (flashback, mentioned by name)
+    *   **Physical Description:** Cold eyes, glittering in shadow (from flashback).
+    *   **Personality Traits:** Cold, pragmatic, treacherous.
+    *   **Background/History:** Former mercenary comrade of Gond.
+    *   **Significant Arcs/Events:** Betrayed Gond ("Business, mate. Nothing personal."), leading to his enslavement. Glimpsed by Gond operating in Darach (Chapter 5).
+    *   **Current Status/Location:** Operating in Darach (as of Chapter 5).
+
+*   **Jord (formerly "Thug Slave"):**
+    *   **First Appearance:** Chapter 1 (described as "Thug Slave"), named in Chapter 2.
+    *   **Physical Description:** Built like a dockside brawler, thick muscle, sullen resentment, bruised face, labored breathing.
+    *   **Personality Traits:** Hot-headed, impulsive, dangerous spark in eyes, potentially violent.
+    *   **Background/History:** Fellow slave on the ship with Gond, chained beside him.
+    *   **Significant Arcs/Events:** Observed by Gond in Chapter 1. Warned by Gond not to act prematurely. His nerve snapped during escape attempt, attracting attention. Died during the escape attempt in Chapter 2, hit by a crossbow bolt, tried to drag Gond down.
+    *   **Current Status/Location:** Deceased (as of Chapter 2).
+
+*   **Pell (formerly "Wiry Man"):**
+    *   **First Appearance:** Chapter 1 (present, un-interacted with), named in Chapter 2.
+    *   **Physical Description:** Lean, sharp-eyed, wiry build, face like a clenched fist. Sustained a cut to his arm and forehead during escape (Chapter 2).
+    *   **Personality Traits:** Defiant, courageous, quick to act, surprisingly cheerful under duress, alert, calculating, resourceful, loyal to Gond's group.
+    *   **Background/History:** Fellow slave on the ship with Gond.
+    *   **Significant Arcs/Events:** Assisted Gond in escaping the slave ship (Chapter 2), noticed guard shift sloppiness. Survived shipwreck, landed ashore with Gond and Sim (Chapter 3). Acquired rope, later a sword. Participated in ambush of slavers (Chapter 4). Left in charge of way-station when Gond went to Darach (Chapter 4). Welcomed Gond and Lira back (Chapter 5).
+    *   **Current Status/Location:** With Gond's group heading towards the hills (as of end of Chapter 5).
+
+*   **Sim:**
+    *   **First Appearance:** Chapter 2
+    *   **Physical Description:** Slender frame.
+    *   **Personality Traits:** Gentle, serene, quiet faith (priest of Alanyi), soothing, patient, practical, courageous, pacifist (refuses dagger), steady, non-judgmental.
+    *   **Background/History:** Priest of Alanyi. Fellow slave on the ship, chained with Pell.
+    *   **Significant Arcs/Events:** Whispered prayers on slave ship. Participated in escape, unlocking chains (Chapter 2). Survived shipwreck, landed ashore (Chapter 3). Gave advice on finding freshwater and edible plants. Met Maera. Mentioned Alanyite shrine in Darach. Participated in ambush of slavers, calmed horses, tended to children's injuries (Chapter 4). Stayed at way-station. Welcomed Gond and Lira (Chapter 5).
+    *   **Current Status/Location:** With Gond's group heading towards the hills (as of end of Chapter 5).
+
+*   **Greasy (Guard):**
+    *   **First Appearance:** Chapter 2
+    *   **Physical Description:** Not detailed.
+    *   **Personality Traits:** Careless, taunting.
+    *   **Background/History:** Guard on the slave ship.
+    *   **Significant Arcs/Events:** Identified as a weak link by Pell. Pulled into the hold by Gond during escape, skull cracked.
+    *   **Current Status/Location:** Presumably deceased or incapacitated on the slave ship (as of Chapter 2).
+
+*   **Dead Slave (Unnamed, Ch 1):**
+    *   **First Appearance:** Chapter 1
+    *   **Physical Description:** Unnaturally still, head lolling, vacant eyes.
+    *   **Personality Traits:** N/A
+    *   **Background/History:** One of a pair of slaves chained in front of Gond.
+    *   **Significant Arcs/Events:** Observed by Gond as dead in Chapter 1.
+    *   **Current Status/Location:** Deceased (as of Chapter 1).
+
+*   **Dying Slave (Unnamed, Ch 1):**
+    *   **First Appearance:** Chapter 1
+    *   **Physical Description:** Gaunt, weak cough, rattling breath, waxy skin.
+    *   **Personality Traits:** Listless.
+    *   **Background/History:** One of a pair of slaves chained in front of Gond, beside the dead slave.
+    *   **Significant Arcs/Events:** Observed by Gond as dying in Chapter 1.
+    *   **Current Status/Location:** Presumably deceased shortly after Chapter 1.
+
+*   **Maera:**
+    *   **First Appearance:** Chapter 3
+    *   **Physical Description:** Elderly woman, flinty eyes, capable hands.
+    *   **Personality Traits:** Firm, observant, practical, compassionate despite initial terseness, humorous.
+    *   **Background/History:** Former temple servant in Darach, left due to corruption. Lives as a hermit healer.
+    *   **Significant Arcs/Events:** Provided shelter, food, and healing to Gond, Pell, and Sim. Gave them supplies and directions to a pilgrim way-station. Offered advice ("Compassion first, Justice will follow").
+    *   **Current Status/Location:** Her hut on the coast (as of Chapter 3).
+
+*   **Aerin:**
+    *   **First Appearance:** Chapter 4
+    *   **Physical Description:** Young girl.
+    *   **Personality Traits:** Fearful initially.
+    *   **Background/History:** Captured by slavers with her brother Dax.
+    *   **Significant Arcs/Events:** Rescued by Gond, Pell, and Sim from a slave cart. Taken to the way-station. Thanked Gond.
+    *   **Current Status/Location:** With Gond's group heading towards the hills (as of end of Chapter 5).
+
+*   **Dax:**
+    *   **First Appearance:** Chapter 4
+    *   **Physical Description:** Young boy, injured feet.
+    *   **Personality Traits:** Not detailed.
+    *   **Background/History:** Captured by slavers with his sister Aerin.
+    *   **Significant Arcs/Events:** Rescued by Gond, Pell, and Sim from a slave cart. Feet injured, cared for by Sim. Transported on a horse. Taken to the way-station.
+    *   **Current Status/Location:** With Gond's group heading towards the hills, riding a horse (as of end of Chapter 5).
+
+*   **Unnamed Slavers (Chapter 4 Ambush):**
+    *   **First Appearance:** Chapter 4
+    *   **Physical Description:** Three slavers; one on driver's bench, one walking with whip.
+    *   **Personality Traits:** Relaxed, unaware initially.
+    *   **Background/History:** Transporting Aerin and Dax.
+    *   **Significant Arcs/Events:** Ambushed by Gond, Pell, and Sim. One hooked by Gond, one dispatched by Pell, one fired crossbow.
+    *   **Current Status/Location:** Incapacitated or dead (as of Chapter 4).
+
+*   **Darach Gate Guards (Chapter 5):**
+    *   **First Appearance:** Chapter 5
+    *   **Physical Description:** Two guards; one older, battle-scarred, one younger.
+    *   **Personality Traits:** Older guard initially suspicious, then possibly complicit or indifferent after seeing brand. Younger guard surprised by Gond's quick exit.
+    *   **Background/History:** Guards at the northern gate of Darach.
+    *   **Significant Arcs/Events:** Challenged Gond upon entry. Accepted a bribe. Older guard saw Gond's brand but let him pass. Allowed Gond to exit without question.
+    *   **Current Status/Location:** Northern gate of Darach (as of Chapter 5).
+
+*   **Lira:**
+    *   **First Appearance:** Chapter 5
+    *   **Physical Description:** Young woman, terror in her eyes, raw ankles from chains.
+    *   **Personality Traits:** Fearful, then relieved and grateful.
+    *   **Background/History:** Escaped slave.
+    *   **Significant Arcs/Events:** Found by Gond on the road from Darach. Freed from her shackles by Gond. Transported on Ash. Taken to the way-station.
+    *   **Current Status/Location:** With Gond's group heading towards the hills, riding with Gond on Ash (as of end of Chapter 5).
+
+*   **Ash (Horse):**
+    *   **First Appearance:** Chapter 5 (mentioned as "cart-horse")
+    *   **Physical Description:** Sturdy cart-horse.
+    *   **Personality Traits:** Calm.
+    *   **Background/History:** Used by Gond as cover to enter Darach.
+    *   **Significant Arcs/Events:** Carried Gond into and out of Darach. Carried Lira and Gond towards the way-station and then towards the hills.
+    *   **Current Status/Location:** With Gond's group heading towards the hills (as of end of Chapter 5).
+
+---
+
+## Major Plot Points
+
+*This section will list significant events in chronological order or by arc.*
+*- **Event/Plot Point:** (Brief description)
+*- **Key Characters Involved:**
+*- **Chapter/Scene:**
+*- **Immediate Consequences:**
+*- **Long-term Implications/Foreshadowing:**
+
+**Example:**
+*   **Event/Plot Point:** Gond's Betrayal and Enslavement
+    *   **Key Characters Involved:** Gond, Borin, Kael.
+    *   **Chapter/Scene:** Revealed via flashback in Chapter 1. Takes place in an alley behind the Drunken Dragon.
+    *   **Immediate Consequences:** Gond is captured, branded, and wakes up as a slave on a ship.
+    *   **Long-term Implications/Foreshadowing:** Sets up Gond's motivation for revenge/justice, his distrust, and the circumstances leading to his paladin awakening. The slave mark itself is a significant identifier.
+
+*   **Event/Plot Point:** Gond's Escape from the Slave Ship
+    *   **Key Characters Involved:** Gond, Pell (formerly Wiry Man), Sim, Jord, Greasy (Guard), various unnamed slave guards and sailors.
+    *   **Chapter/Scene:** Chapter 2.
+    *   **Immediate Consequences:** Gond, Pell, and Sim are free from the ship but are now adrift at sea. Jord and Greasy are killed/incapacitated. Several other guards injured/killed.
+    *   **Long-term Implications/Foreshadowing:** Gond is now actively hunted. His resourcefulness and combat skills are reaffirmed. The alliance with Pell and Sim is forged. Sets the stage for their journey.
+
+*   **Event/Plot Point:** Meeting Maera and Receiving Aid
+    *   **Key Characters Involved:** Gond, Pell, Sim, Maera.
+    *   **Chapter/Scene:** Chapter 3.
+    *   **Immediate Consequences:** The trio receives food, shelter, healing, supplies, and directions towards Darach and a pilgrim way-station.
+    *   **Long-term Implications/Foreshadowing:** Maera's advice ("Compassion first, Justice will follow") may influence Gond. The way-station becomes a temporary refuge.
+
+*   **Event/Plot Point:** Ambush of Slavers and Rescue of Aerin & Dax
+    *   **Key Characters Involved:** Gond, Pell, Sim, Aerin, Dax, three unnamed slavers.
+    *   **Chapter/Scene:** Chapter 4.
+    *   **Immediate Consequences:** Aerin and Dax are freed. The group acquires weapons, supplies, and two horses. Three slavers are killed/incapacitated. Gond is slightly wounded.
+    *   **Long-term Implications/Foreshadowing:** Gond takes on more responsibility. The group is better equipped but also more conspicuous. The way-station is established as a temporary base.
+
+*   **Event/Plot Point:** Gond's Solo Trip to Darach and Discovery of Bounty
+    *   **Key Characters Involved:** Gond, Darach Gate Guards. (Borin and Kael glimpsed).
+    *   **Chapter/Scene:** Chapter 5.
+    *   **Immediate Consequences:** Gond learns there's a 500 Royal bounty on his head. He sees his betrayers. Realizes direct revenge is too risky and retreats.
+    *   **Long-term Implications/Foreshadowing:** Darach is confirmed as hostile territory. The threat level increases. Gond's plans for revenge are deferred.
+
+*   **Event/Plot Point:** Rescue of Lira
+    *   **Key Characters Involved:** Gond, Lira.
+    *   **Chapter/Scene:** Chapter 5.
+    *   **Immediate Consequences:** Lira is freed and joins Gond's group.
+    *   **Long-term Implications/Foreshadowing:** Gond's reputation as a rescuer may be unintentionally growing. The group size increases.
+
+*   **Event/Plot Point:** Decision to Head for the Hills
+    *   **Key Characters Involved:** Gond, Pell, Sim, Aerin, Dax, Lira.
+    *   **Chapter/Scene:** End of Chapter 5.
+    *   **Immediate Consequences:** The group abandons the plan to go to Darach (for now) and seeks a more remote sanctuary.
+    *   **Long-term Implications/Foreshadowing:** Sets the stage for finding a permanent haven and the challenges of survival in the wilderness.
+
+---
+
+## Timeline
+
+*A chronological list of key events with approximate dates or relative timing.*
+*- **Date/Relative Time:** (e.g., "Two weeks before the Festival of Renewal," "Day 1 of captivity")
+*- **Event:**
+
+**Example:**
+*   **Relative Time:** Night before Chapter 1 events
+    *   **Event:** Gond is drugged and betrayed by Borin and Kael in an alley behind the Drunken Dragon.
+*   **Relative Time:** Start of Chapter 1
+    *   **Event:** Gond awakens as a slave on a ship, discovers he has been branded. Observes fellow captives: Jord, Pell, Sim (unnamed initially), a dead slave, and a dying slave.
+*   **Relative Time:** "Days" after Chapter 1 events (during Chapter 2)
+    *   **Event:** Gond, with Pell and Sim, escapes the slave ship. Jord dies. Greasy (guard) is incapacitated.
+*   **Relative Time:** Shortly after escape (Chapter 3)
+    *   **Event:** Gond, Pell, and Sim wash ashore. They meet Maera, who provides aid and directs them to a way-station and Darach.
+*   **Relative Time:** Days later, en route towards Darach (Chapter 4)
+    *   **Event:** The group ambushes a slave cart, rescuing Aerin and Dax. Gond is wounded. They establish the way-station as a temporary base. Gond leaves for Darach alone.
+*   **Relative Time:** Next day (Chapter 5)
+    *   **Event:** Gond enters Darach, sees wanted poster (500 Royals bounty), glimpses Borin & Kael, and quickly retreats.
+*   **Relative Time:** Same day, on road from Darach (Chapter 5)
+    *   **Event:** Gond rescues Lira.
+*   **Relative Time:** Evening of same day (Chapter 5)
+    *   **Event:** Gond returns to the way-station with Lira. Group decides to head for the hills.
+*   **Relative Time:** Dawn, next day (End of Chapter 5)
+    *   **Event:** Gond's group departs the way-station, heading inland towards the hills.
+
+---
+
+## World-Building Rules & Details
+
+*This section covers the established rules and details of the world.*
+*- **Magic System:**
+    *   Source of magic
+    *   Types of magic/spells
+    *   Limitations/costs
+    *   Who can use magic
+*   **Geography:**
+    *   Key locations (cities, regions, landmarks)
+    *   Climate
+    *   Maps (if any, or descriptions)
+*   **Cultures & Factions:**
+    *   Names of cultures/factions
+    *   Beliefs, customs, laws (e.g., slave branding)
+    *   Relationships between groups
+    *   Political structures
+*   **Deities & Religion:**
+    *   Names of gods/goddesses
+    *   Domains, tenets
+    *   Religious practices, clergy (e.g., Alyani, Sim)
+*   **Economy & Trade:**
+    *   Currency
+    *   Major industries/resources (e.g., slave trade)
+*   **Flora & Fauna:**
+    *   Unique plants or creatures
+
+**Example:**
+*   **Deities & Religion:**
+    *   **Alanyi:** Goddess of Peace. Worshipped by Sim. Her followers are sometimes ridiculed, and temples mostly destroyed (per outline for Ch 10). Sim mentions an Alanyite shrine in Darach (Chapter 3).
+*   **Cultures & Factions:**
+    *   **Slave Mark:** A recognized brand (two intertwined manacles) indicating enslaved status. Known by "every free man and woman on the coast." (Chapter 1). Wanted posters feature it.
+    *   **Mercenaries:** Groups like Gond's former company operate, sometimes betraying their own for "business."
+    *   **Slavers:** Organized groups that capture, transport, and sell slaves. Utilize slave ships and overland carts.
+*   **Geography:**
+    *   **Darach:** A walled city, a significant port or hub. Has a northern gate. Market square. Seems to be a center for slaver activity and where Borin & Kael operate. (Chapter 3, 5)
+    *   **Cliffmere:** Location mentioned by Gond as his supposed origin when entering Darach. (Chapter 5)
+    *   **Coastal Region:** Features cliffs, beaches, gullies, streams. (Chapter 3, 4)
+    *   **Pilgrim Way-stations:** Exist, possibly offering shelter or supplies. Maera directs the group to one. (Chapter 3, 4, 5)
+    *   **The Hills:** Remote, rugged areas inland, considered safer from slavers. (Chapter 5)
+*   **Flora & Fauna:**
+    *   **Herbs:** Maera uses a pungent, soothing salve for Gond's brand (Chapter 3). Sim identifies fleabane, thrift (near streams), and edible sea-kale (Chapter 3). Lavender (Chapter 4).
+    *   **Animals:** Goats (Maera has one, Ch 3). Horses (used by slavers, two acquired by Gond's group, Ch 4; Ash used by Gond, Ch 5). Gulls (Ch 4).
+*   **Economy & Trade:**
+    *   **Bounties:** Offered for escaped slaves (e.g., 500 Royals for Gond, Ch 5).
+    *   **Gate Fees:** Charged for entering cities like Darach (Ch 5).
+    *   **Silver Coins:** Used as currency.
+
+---
+
+## Items of Significance
+
+*Tracking important objects, artifacts, or weapons.*
+*- **Item Name:**
+*- **Description:** (Appearance, material)
+*- **Origin/History:**
+*- **Abilities/Properties:** (Magical or otherwise)
+*- **Current Possessor/Location:**
+*- **Significance to Plot:**
+
+**Example:**
+*   **Gond's Branding Iron (Implicit):** The tool used to mark him as a slave.
+*   **Pell's Rusty File:** Used to free the group from manacles after reaching shore (Chapter 2).
+*   **Maera's Salve:** A pungent, soothing salve used to treat Gond's brand (Chapter 3).
+*   **Gond's Boathook:** Warped piece of driftwood fashioned into a weapon by Gond (Chapter 3), used in Chapter 4 ambush.
+*   **Wanted Poster for Gond:** Features a sketch of his face, the brand, and a 500 Royal bounty (Chapter 5).
+*   **Lira's Shackles:** Removed by Gond using a small metal file (Chapter 5).
+
+---
+
+## Unresolved Threads / Foreshadowing
+
+*List of plot points, mysteries, or hints that need to be addressed later.*
+*- **Thread/Foreshadowing:** (Brief description)
+*- **Introduced:** (Chapter/Scene)
+*- **Intended Resolution/Payoff (if planned):**
+*- **Status:** (Open/Resolved)
+
+**Example:**
+*   **Thread/Foreshadowing:** The exact nature and full implications of "The Mark of Betrayal" (Chapter 1 title and the physical brand).
+    *   **Introduced:** Chapter 1.
+    *   **Intended Resolution/Payoff (if planned):** The brand's impact on Gond's journey, recognition by others (confirmed by wanted poster and guard reaction in Ch 5), potential magical properties or links to his paladinhood.
+    *   **Status:** Open (full implications still unfolding).
+*   **Thread/Foreshadowing:** Kael's comment "Business, mate. Nothing personal."
+    *   **Introduced:** Chapter 1 (flashback).
+    *   **Intended Resolution/Payoff (if planned):** Who hired them? What was the "business"? Who is the ultimate beneficiary of Gond's enslavement? Borin and Kael are in Darach.
+    *   **Status:** Open.
+*   **Thread/Foreshadowing:** The destination and purpose of the slave ship.
+    *   **Introduced:** Chapter 1 (setting).
+    *   **Intended Resolution/Payoff (if planned):** Where is Gond being taken? What fate awaits him and the other slaves?
+    *   **Status:** Partially Resolved (Gond, Pell, Sim escaped before reaching the intended destination). The fate of other slaves on board remains open.
+*   **Thread/Foreshadowing:** The fate of Gond, Pell, and Sim after escaping the ship.
+    *   **Introduced:** End of Chapter 2.
+    *   **Intended Resolution/Payoff (if planned):** How they survive, where they land, initial struggles.
+    *   **Status:** Resolved (They landed ashore, met Maera, and are now heading for the hills as of Ch 5).
+*   **Thread/Foreshadowing:** Maera's past in Darach and her reasons for leaving.
+    *   **Introduced:** Chapter 3.
+    *   **Intended Resolution/Payoff (if planned):** May become relevant if the group returns to Darach or interacts more with its temple/religious structures.
+    *   **Status:** Open.
+*   **Thread/Foreshadowing:** Sim's mention of an Alanyite shrine in Darach and its archives.
+    *   **Introduced:** Chapter 3.
+    *   **Intended Resolution/Payoff (if planned):** Could hold information about Gond's betrayers or the nature of Alanyi's influence.
+    *   **Status:** Open.
+*   **Thread/Foreshadowing:** The future of Aerin, Dax, and Lira.
+    *   **Introduced:** Chapters 4 & 5.
+    *   **Intended Resolution/Payoff (if planned):** Their role in the developing community, potential skills or challenges they bring.
+    *   **Status:** Open.
+*   **Thread/Foreshadowing:** The group's journey into the hills and establishment of a sanctuary.
+    *   **Introduced:** End of Chapter 5.
+    *   **Intended Resolution/Payoff (if planned):** As per outlines for Part II (Chapters 6-9).
+    *   **Status:** Open.
+*   **Thread/Foreshadowing:** Gond's deferred vengeance against Borin and Kael.
+    *   **Introduced:** Chapter 1, reinforced in Chapter 5.
+    *   **Intended Resolution/Payoff (if planned):** Future confrontation.
+    *   **Status:** Open.
+*   **Thread/Foreshadowing:** The older Darach gate guard who saw Gond's brand but said nothing.
+    *   **Introduced:** Chapter 5.
+    *   **Intended Resolution/Payoff (if planned):** Potential future ally, sympathizer, or someone with a hidden motive.
+    *   **Status:** Open.
+
+---
+*Last Updated: 2025-05-22, 11:10 PM*

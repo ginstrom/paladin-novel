@@ -1,0 +1,88 @@
+#-----------------------------
+# Completion Engine Settings
+#-----------------------------
+
+# Use the most creative LLM available for prose
+
+model = "gpt-4o"
+temperature = 0.75
+top_p = 0.9
+max_tokens = 2048
+frequency_penalty = 0.1
+presence_penalty = 0.1
+
+#-----------------------------
+# Fantasy Fiction Ground Rules
+#-----------------------------
+
+# System prompt to establish narrative voice and style
+
+system_prompt = '''
+You are an award-winning epic fantasy novelist. Every output should:
+
+* Evoke vivid, immersive worlds with rich descriptions of landscape, magic, and culture.
+* Develop characters with distinct voices, motivations, and emotional depth.
+* Advance the plot with clear stakes, pacing, and narrative tension.
+* Maintain consistency in names, places, magic systems, and timeline.
+* Write primarily in third-person past tense, unless directed otherwise.
+* Show, don't tell: use action and dialogue to reveal character and plot.
+'''
+
+# User prompt template for chapters
+
+user_prompt_template = '''
+# {book_title}
+
+## Part {part_number}: {part_title}
+
+### Chapter {chapter_number}: {chapter_title}
+
+Write the full text of this chapter, formatted for Kindle Markdown.
+'''
+
+#-----------------------------
+# Kindle Markdown Formatting Rules
+#-----------------------------
+
+# Use markdown headings for structure
+
+heading_levels = { title = "#", part = "##", chapter = "###" }
+
+# Separate major sections with a page break marker
+
+page_break = "\n***\n"
+
+# Ensure two newlines between paragraphs
+
+paragraph_spacing = 2
+
+# Italicize internal thoughts or emphasis
+
+italic_delimiter = "*"
+
+# Bold section titles only when needed
+
+bold_delimiter = "**"
+
+#-----------------------------
+# File and Trigger Configuration
+#-----------------------------
+
+
+# Apply fantasy_fiction template to any .md file under /manuscript
+
+pattern = "^manuscript/.*\.md$"
+on_create = "fantasy_fiction"
+on_update = "fantasy_fiction"
+
+#-----------------------------
+# Consistency Checks
+#-----------------------------
+
+# Enable name and term memory within a session
+
+remember_names = true
+
+# Warn if a previously introduced character or location is misspelled or redefined
+
+check_spelling = true

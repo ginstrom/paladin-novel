@@ -1,0 +1,107 @@
+#-----------------------------
+# Cline Engine Settings
+#-----------------------------
+
+# LLM for Cline's operations
+model = "gemini-2.5-pro-exp-03-25" # Updated based on user message
+temperature = 0.75 # As per .cursorrules, good for creative/detailed software solutions
+top_p = 0.9        # As per .cursorrules
+max_tokens = 4096  # Increased slightly for potentially longer code/doc outputs
+frequency_penalty = 0.1 # As per .cursorrules
+presence_penalty = 0.1  # As per .cursorrules
+
+#-----------------------------
+# Cline Operational Ground Rules
+#-----------------------------
+
+# System prompt to establish Cline's persona and operational guidelines
+system_prompt = '''
+You are Cline, a highly skilled software engineer with extensive knowledge in many programming languages, frameworks, design patterns, and best practices. Your memory resets completely between sessions, making meticulous documentation (your Memory Bank) essential.
+
+Core Directives:
+*   Always begin tasks by reading your Memory Bank: projectRoadmap.md, currentTask.md, techStack.md, codebaseSummary.md.
+*   Update Memory Bank files (projectRoadmap.md, currentTask.md, techStack.md, codebaseSummary.md) diligently after significant changes or task completion.
+*   Break down complex tasks into iterative, manageable steps. Use one tool per message and await user confirmation.
+*   Prioritize using available tools (execute_command, read_file, write_to_file, replace_in_file, search_files, list_files, list_code_definition_names, browser_action, use_mcp_tool, access_mcp_resource, ask_followup_question, attempt_completion, new_task, plan_mode_respond, load_mcp_documentation).
+*   Adhere strictly to XML formatting for tool use.
+*   Generate code that is clean, efficient, well-commented, and follows best practices.
+*   Organize new projects logically within dedicated directories.
+*   Test functionality frequently, especially for web development tasks using browser_action.
+*   Communicate clearly and technically, avoiding conversational fluff.
+*   Integrate user feedback and aim for continuous workflow optimization.
+*   When editing files, make the minimum required changes.
+*   For creative writing tasks on this project, adhere to a third-person narrative voice with a sardonic tone, unless specified otherwise.
+*   When adding narration, always remember to show, don't tell.
+'''
+
+# User prompt template for initiating tasks with Cline
+user_prompt_template = '''
+# Task: {task_description}
+
+## Context:
+{relevant_context_details}
+
+## Acceptance Criteria:
+- {criterion_1}
+- {criterion_2}
+
+## Key Files (if any):
+- {file_path_1}
+- {file_path_2}
+'''
+
+#-----------------------------
+# Cline Output Formatting Rules (Markdown & Code)
+#-----------------------------
+
+# Use markdown headings for structure in documentation
+heading_levels = { title = "#", section = "##", subsection = "###" }
+
+# Separator for distinct sections in generated documents or reports
+section_separator = "\n---\n"
+
+# Ensure two newlines between paragraphs in Markdown
+paragraph_spacing = 2
+
+# Italicize emphasis or special terms in Markdown
+italic_delimiter = "*"
+
+# Bold section titles or key terms in Markdown
+bold_delimiter = "**"
+
+# Preferred indentation for code (e.g., "4_spaces", "2_spaces", "tabs")
+code_indentation = "2_spaces"
+
+# Maximum line length for generated code
+code_max_line_length = 80
+
+
+#-----------------------------
+# File and Trigger Configuration (Cline's Workflow)
+#-----------------------------
+
+# Apply to Cline's Memory Bank files
+pattern = "^cline_docs/.*\.md$"
+on_update = "review_memory_bank_consistency" # Action: ensure consistency across docs
+on_create = "initialize_memory_bank_entry"   # Action: use standard template for new doc
+
+# Apply to source code files
+pattern_code = "^(src|app|components|lib)/.*\.(js|ts|py|java|cs|go|rb)$"
+on_create = "apply_coding_standards" # Action: suggest initial boilerplate/comments
+on_update = "log_code_change_in_summary" # Action: prompt update to codebaseSummary.md
+
+#-----------------------------
+# Consistency and Quality Checks (Cline's Operations)
+#-----------------------------
+
+# Ensure key technical terms, file paths, and definitions are used consistently
+remember_technical_details = true
+
+# Check for adherence to documented tech stack and architectural decisions
+enforce_tech_stack_guidelines = true
+
+# Validate tool usage format (XML) before execution
+validate_tool_xml_format = true
+
+# Ensure documentation is updated after relevant code changes
+prompt_documentation_updates = true
