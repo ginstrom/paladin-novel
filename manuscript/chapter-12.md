@@ -60,6 +60,8 @@ Gond felt the rage building—the old, familiar fury at the injustice of it all.
 
 The power flowed through him like warm honey, slower and more controlled than before. He felt it seeking out the damaged places within her—the internal bleeding, the shattered ribs, the trauma that went deeper than flesh. But as the healing progressed, Gond became aware of something else: the cost.
 
+For a heartbeat, the world blazed white around him—that same overwhelming pulse of divine essence he'd felt with Dax, but fainter now, more controlled. The connection formed between his life force and hers, a bridge of golden light that let him pour his strength into her broken body. Each mended bone drew from his own reserves, each sealed wound carved a little deeper into the hollow space beneath his ribs.
+
 Each mended bone drew strength from his own. Each sealed wound left him a little more hollow. The divine power wasn't limitless—it was borrowed, somehow, from his own life force. The realization should have frightened him, but instead it brought clarity. This was the true burden of his calling: not just the responsibility of choice, but the literal price of each miracle.
 
 When the healing was complete, Mira sat up slowly, her color restored, her breathing clear. She stared at her mended arm in wonder, flexing fingers that had been broken moments before.

@@ -102,6 +102,8 @@ The circle fell silent, all attention focused on the former Royal Guard.
 
 The weight of her words settled over the gathering like a physical presence. Gond felt the divine power stirring within him, responding to the threat against those under his protection. But he also felt something else—a clarity of purpose that cut through the fear and uncertainty.
 
+The familiar pulse flickered through him, weaker than before but still unmistakable—that echo of blazing light from Dax's healing, from Mira's restoration. Each time he drew upon the divine power, the hollow space beneath his ribs seemed to expand slightly, as if something essential was being slowly carved away. The sensation lasted only a moment, but it left him with the growing awareness that his strength was not infinite.
+
 "Then we don't wait for them to come to us," he said quietly.
 
 "What do you mean?" Maera asked.

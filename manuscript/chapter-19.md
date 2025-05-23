@@ -6,21 +6,55 @@
 
 The council chamber buzzed with tension as representatives from three different cultures tried to hammer out the basic laws of their emerging nation. Gond sat at the head of the long table, watching the debate with growing frustration.
 
-"The dwarven way is clear," Thorek was saying, his fist striking the table for emphasis. "Justice through strength. Those who break the law face the hammer."
+"The dwarven way is clear," Thorek was saying, his fist striking the table for emphasis. The wooden surface shuddered under the blow, sending inkwells jumping and parchments fluttering. "Justice through strength. Those who break the law face the hammer."
 
-"And what of mercy?" Sim countered gently. "Alanyi teaches that redemption is always possible."
+"And what of mercy?" Sim countered gently, his weathered hands folded calmly in his lap even as others around the table bristled. "Alanyi teaches that redemption is always possible."
 
-"Easy words from someone who's never had his family enslaved," growled Grimjaw. "Some crimes deserve death."
+Grimjaw's chair scraped against stone as he leaned forward, his massive frame casting a shadow across the table. "Easy words from someone who's never had his family enslaved." His voice rumbled like distant thunder. "Some crimes deserve death."
 
-Elena leaned forward, her voice cutting through the argument. "We need practical laws, not philosophical debates. How do we handle theft? Assault? Desertion in wartime?"
+Elena leaned forward, her armor creaking as she moved, one hand flat on the table while the other gestured sharply. "We need practical laws, not philosophical debates. How do we handle theft? Assault? Desertion in wartime?"
 
-"The elven councils have deliberated such matters for centuries," Silviana offered. "Perhaps we could adapt—"
+"The elven councils have deliberated such matters for centuries," Silviana offered, her voice carrying the weight of ages. She sat perfectly still, hands clasped, but her eyes tracked every speaker with ancient patience. "Perhaps we could adapt—"
 
-"Elven justice takes decades," Thorek interrupted. "We don't have that luxury."
+"Elven justice takes decades," Thorek interrupted, his beard bristling as he turned toward her. "We don't have that luxury."
+
+Maera shifted in her seat near the wall, her healer's instincts reading the rising tension in the room. "What about precedent? Surely there are human traditions we can draw from?"
+
+"Which humans?" Pell asked from his corner, arms crossed as he watched the debate with sardonic amusement. "The former slaves who've never known law except the overseer's whip? The merchants who follow coin over conscience? The nobles who think birth determines worth?"
+
+Thorek's fist came down again, harder this time. "Enough dancing around the issue!" His voice boomed off the stone walls. "A man steals bread to feed his family—what's the punishment?"
+
+"Depends on the circumstances," Sim said, his voice a stark contrast to the dwarf's volume. "Was he starving? Were his children dying? The river that flows around the stone—"
+
+"Bah!" Grimjaw spat, his gold teeth glinting as he scowled. "Pretty metaphors won't feed empty bellies or stop thieves from taking what isn't theirs."
+
+Elena's hand moved to rest on her sword hilt, a gesture of frustration rather than threat. "This is exactly the problem. We're so busy debating philosophy that we can't agree on basics."
+
+Silviana's eyebrows rose slightly, the only sign of her growing irritation. "Philosophy, as you call it, is the foundation upon which all law rests. Without understanding why we punish, how can we determine appropriate—"
+
+"Because some bastards need killing!" Thorek roared, surging to his feet. His chair toppled backward with a crash. "You want philosophy? Here's philosophy: evil exists. Some people choose it. When they do, they forfeit their right to draw breath."
+
+Sim remained seated, but his shoulders straightened as he met the dwarf's glare. "And who decides what constitutes evil? You? Me? The loudest voice in the room?" His tone stayed gentle, but steel ran beneath the words. "The mountain may seem permanent, but even it yields to patient water."
+
+"More riddles," Elena muttered, rolling her eyes as she leaned back in her chair. "Wonderful. Perhaps we could solve our legal problems with a collection of nature metaphors."
+
+Pell's laugh was sharp as broken glass. "At least the priest's riddles make more sense than dwarven 'justice.' What's next, trial by combat for pilfering a sweetroll?"
+
+Thorek whirled toward him, face flushing red above his braided beard. "Mock our ways all you like, thief. At least we don't hide behind pretty words when hard choices need making."
+
+"Hard choices?" Sim's voice carried a note of sadness. "Is it so hard to choose mercy over vengeance? To seek healing rather than harm?"
+
+"Tell that to the families of the dead," Grimjaw growled, his massive hands clenched into fists on the table. "Tell that to the children sold into slavery while you're busy seeking 'healing.'"
+
+The chamber erupted into overlapping arguments. Thorek and Grimjaw shouting about justice and strength, their voices echoing off stone walls. Sim speaking quietly but persistently about redemption and second chances, his words nearly lost in the din. Elena's sharp interjections cutting through the noise like blade strokes. Silviana's measured responses growing cooler with each interruption.
 
 Gond rubbed his temples, feeling a headache building. Three weeks of these sessions, and they'd barely agreed on the most basic principles. The settlement had grown to nearly five hundred souls, but growth brought problems he'd never anticipated.
 
-"What about the humans?" asked Maera from her seat near the wall. "We're the majority here. Shouldn't our customs take precedence?"
+"ENOUGH!" His voice cracked like a whip, divine authority lending it weight that silenced the room instantly. Every face turned toward him, some defiant, others chastened. "We're supposed to be building something better than what came before. This—" He gestured at the chaos around the table. "—this is exactly what the old system produced. People talking past each other, caring more about being right than being effective."
+
+The silence stretched, broken only by the sound of Thorek righting his fallen chair.
+
+"What about the humans?" asked Maera from her seat near the wall, her voice carefully neutral. "We're the majority here. Shouldn't our customs take precedence?"
 
 "Which humans?" Pell asked dryly. "The former slaves who've never known law except the overseer's whip? The merchants who follow coin over conscience? The nobles who think birth determines worth?"
 

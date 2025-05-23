@@ -10,13 +10,15 @@ Iron clinked against his wrist as he tried to sit up. Manacles. Of course. His s
 
 The hold stretched before him in the dim light—a collection of hunched shapes chained in pairs. The air hung thick with the smell of unwashed bodies, fear-sweat, and something else. Something that made him breathe through his mouth.
 
-The man beside him had shoulders like a dock worker and fists to match, though purple bruises mottled his face. His breathing came in harsh rasps, and when his eyes flicked open, they held the kind of spark that meant trouble. The muscles in his jaw kept working, like he was chewing on words too dangerous to speak.
+The man beside him had shoulders like a dock worker and fists to match, though purple bruises mottled his face. Rope burns circled his thick wrists where he'd fought his bonds, and calluses on his palms spoke of years hauling nets or loading cargo. His breathing came in harsh rasps, and when his eyes flicked open, they held the kind of spark that meant trouble. The muscles in his jaw kept working, like he was chewing on words too dangerous to speak.
 
-Across from Gond, two figures slumped forward. One sat perfectly still—too still. His head lolled at an angle that spoke of either a broken neck or final surrender, and flies had begun their grisly work around his vacant stare. His companion coughed wetly, each breath a visible struggle. Waxy skin stretched over sharp cheekbones, and his chest barely moved with each shallow intake.
+Across from Gond, two figures slumped forward. One sat perfectly still—too still. His head lolled at an angle that spoke of either a broken neck or final surrender, and flies had begun their grisly work around his vacant stare. Tattered silk clung to his frame—once fine clothing now stained with blood and worse. A merchant, perhaps, or minor noble who'd trusted the wrong people.
+
+His companion coughed wetly, each breath a visible struggle. Waxy skin stretched over sharp cheekbones, and his chest barely moved with each shallow intake. Ink stains marked his fingertips, and spectacles hung broken from a chain around his neck. A scribe or clerk, reduced to this.
 
 *Not much time left for that one.*
 
-Two more bodies lay motionless further into the hold. Behind him, someone breathed like an angry bull, all snorts and barely contained fury.
+Two more bodies lay motionless further into the hold—a woman with farmer's hands and sun-weathered skin, and what might have been a young man, though the shadows made it hard to tell. Behind him, someone breathed like an angry bull, all snorts and barely contained fury. The occasional clink of metal suggested a soldier or guard, still wearing pieces of armor they hadn't bothered to strip.
 
 Gond flexed his fingers, testing the chain's give. Solid. Professional work. His captors knew their business.
 
@@ -24,13 +26,21 @@ Memory crept back in fragments—Borin's flushed face raised in a toast at the P
 
 The alley behind the inn. The prick of something sharp in his neck. Darkness.
 
-An itch flared across his forehead, and his fingers rose instinctively. They found raised, tender flesh—still raw, still seeping. The shape was unmistakable even by touch alone. Two interlocking rings. A slave's brand.
+An itch flared across his forehead, and his fingers rose instinctively. They found raised, tender flesh—still raw, still seeping. Heat radiated from the wound, and the skin felt thick and ridged under his touch. Two interlocking circles, each no larger than a copper coin, burned into his flesh with deliberate precision.
 
-His hand fell away, fingers curling into a fist.
+His breath caught. His hand trembled against the brand for a heartbeat before jerking away as if the flesh had turned to flame. The fingers that had traced the marks curled slowly into a fist, knuckles white in the dim light.
 
-A bucket of murky water sat within reach, its surface barely catching the moonlight. Gond leaned forward until he could make out his reflection—a ghost-pale face staring back, marked forever by the crude iron circles burned into his skin.
+A muscle jumped in his jaw. His chest rose and fell in careful, measured breaths—too careful, too controlled. The kind of breathing a man used when the alternative was screaming.
 
-The ship creaked around him in steady rhythm. Above, boots scuffed across deck planks, punctuated by coarse laughter and the occasional crack of a whip. When food came—moldy bread and brackish water in filthy buckets—guards tossed it down like they were feeding animals. Those too weak to crawl for their share simply went without.
+A bucket of murky water sat within reach, its surface barely catching the moonlight. Gond stared at it for a long moment, his throat working silently. When he finally leaned forward, his movements were deliberate, almost mechanical. The reflection that stared back showed a ghost-pale face, hollow-eyed and marked forever by the crude iron circles that branded him property.
+
+His free hand clenched against his thigh. The chain between his wrists clinked softly as a tremor ran through his shoulders—brief, quickly suppressed, but there nonetheless.
+
+The ship creaked around him in steady rhythm. Above, boots scuffed across deck planks, punctuated by coarse laughter and the occasional crack of a whip. When food came—moldy bread and brackish water in filthy buckets—guards tossed it down like they were feeding animals. The dock worker beside Gond lunged for his portion with desperate efficiency, tearing into the moldy crust like a man who'd known hunger before. The dying scribe could only manage a few sips of water before his head lolled back, exhausted by the effort.
+
+In the far corner, a woman's voice whispered what sounded like a lullaby—broken, barely audible, but persistent. Someone else muttered prayers in a dialect Gond didn't recognize, the words punctuated by the soft clink of what might have been prayer beads. The soldier behind him said nothing, but his breathing had the rhythm of a man counting—perhaps tracking time, perhaps just staying sane.
+
+Those too weak to crawl for their share simply went without.
 
 One guard leaned over the hatch opening, grinning down at them. "Comfortable down there, are we? Don't worry—journey's nearly over. Then the real fun begins."
 
