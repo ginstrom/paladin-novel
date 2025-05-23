@@ -128,7 +128,7 @@ Thorek gestured toward the settlement below. "I found a man who stands between t
 
 "Allies?"
 
-"The Iron Covenant has watched the corruption of the Marshal Order for two centuries," Thorek said, his voice carrying the weight of old anger. "We have seen Turin's teachings twisted to serve those who would enslave the innocent. We have waited for a sign that the old alliance between our peoples might be renewed."
+"The Iron Covenant has watched the corruption of the Marshal Order for two centuries," Thorek said, his voice carrying the weight of old anger. "We have seen Turin's teachings twisted to serve those who would enslave the innocent. It began when the kingdom banned worship of Gorlatch—the old evil god—and his followers went underground, infiltrating other orders. The corruption spread like poison through the ranks." His expression darkened. "We have waited for a sign that the old alliance between our peoples might be renewed."
 
 He stepped forward, extending his hand to Gond. "Your victory today was not won by divine power alone. It was won by people standing together, fighting for something greater than themselves. That is the true strength of a paladin—not the miracles you can work, but the hope you can inspire in others."
 

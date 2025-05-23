@@ -116,7 +116,19 @@ Sister Marta's expression darkened. "High Cleric Aldric has declared us heretics
 
 "It gets worse," Sister Marta continued. "He's allied with the slave cities, claiming that their cause is divinely ordained. They're calling it a crusade to restore proper order."
 
-The implications were staggering. The established religious hierarchy wasn't just opposing Gond politically—they were actively supporting the slave trade, blessing it with divine authority.
+Gond felt pieces clicking into place in his mind, connections forming that painted a horrifying picture. "The false priests we encountered—the ones claiming to serve Kemiss. They revealed something about a master plan."
+
+"What kind of plan?" Sir Marcus asked.
+
+"The systematic weakening of Alanyi's influence," Silviana said, her ancient eyes wide with understanding. "The corruption of the religious orders, the elevation of commerce over compassion, the spread of slavery as an institution blessed by false divine authority."
+
+"Gorlatch," Thorek growled, his hand moving to his warhammer. "The banned god's followers have been working for centuries to corrupt the very foundations of faith."
+
+Sister Marta's face went pale. "You're saying the slave trade itself was designed as a weapon against the divine?"
+
+"Think about it," Gond said grimly. "Every slave auction blessed by corrupt priests. Every temple that turned from mercy to profit. Every time commerce was declared more sacred than compassion. It wasn't just greed—it was a deliberate campaign to poison the well of faith itself."
+
+The implications were staggering. The established religious hierarchy wasn't just opposing Gond politically—they were actively supporting a centuries-long plan to corrupt divine worship itself.
 
 "Then we know where we stand," Gond said quietly. "No more pretense, no more half-measures. This is war."
 

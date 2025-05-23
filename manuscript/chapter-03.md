@@ -46,7 +46,7 @@ Maera moved between them with efficient grace, binding Pell's bruised ribs with 
 
 "You're a healer?" Sim asked, watching her work.
 
-"Served a temple in Darach once." Her voice carried the weight of old disappointments. "Corruption outweighed compassion." She glanced at the dagger Pell offered him. "Pacifist?"
+"Served a temple in Darach once." Her voice carried the weight of old disappointments. "Corruption outweighed compassion. Priests of Kemiss conducting slave auctions on the very temple steps, blessing chains with holy water." Her mouth twisted with disgust. "Commerce became more sacred than mercy." She glanced at the dagger Pell offered him. "Pacifist?"
 
 Sim's hands remained folded in his lap. "My path is mercy. I heal and guide."
 

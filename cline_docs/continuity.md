@@ -153,21 +153,23 @@
 
 ### Active Plot Threads
 1. **Multi-racial alliance building**: Dwarves (Iron Covenant) and elves (Circle of Whispers) joining human liberation movement
-2. **Religious schism**: Established orders vs. Iron Covenant vs. sympathetic factions
+2. **Religious schism**: Established orders vs. Iron Covenant vs. sympathetic factions vs. Reformed Order
 3. **Resistance network expansion**: Maera's continental network of allies
 4. **Enemy escalation**: Organized response to Gond's growing threat
 5. **Vengeance to mercy transformation**: Gond's complete spiritual evolution
 6. **Military preparation**: Siege engines, weapons, tactical training for larger war
 7. **Divine sword evolution**: Weapon growing in power alongside Gond's spiritual development
+8. **Gorlatch conspiracy**: Ancient evil god's centuries-long plan to corrupt divine worship through slavery
 
 ### Foreshadowing Elements
 1. **Borin and Kael's fate**: Still operating as slave catchers, destined for mercy encounter
 2. **Continental war**: Multiple armies coordinating for final campaign
 3. **Divine intervention**: Turin's wrath against corrupt leadership
 4. **Multi-racial society**: Vision of humans, dwarves, and elves united
-5. **Religious legitimacy**: Circle of Whispers endorsement pending
-6. **Noble Knights emergence**: Aristocratic faction opposing slavery
-7. **Sword's ultimate power**: Blue-white light and fear-cutting abilities
+5. **Religious legitimacy**: Circle of Whispers endorsement achieved
+6. **Noble Knights emergence**: Aristocratic faction split between reform and true equality
+7. **Sword's ultimate power**: Blue-white light and fear-cutting abilities demonstrated
+8. **Gorlatch's master plan**: Systematic corruption of religious orders and elevation of commerce over compassion
 
 ## World-Building Elements
 

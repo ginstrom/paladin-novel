@@ -90,9 +90,17 @@ As the argument continued, Gond found himself studying the faces around him. The
 
 Aldric turned to him with obvious irritation. "What is it, Brother?"
 
-"When did the Order of Alanyi last send aid to the oppressed? When did we last stand against injustice, regardless of the political consequences?" Sim's voice grew stronger as he continued. "When did we last act like servants of the goddess of mercy and redemption?"
+"When did the Order of Alanyi last send aid to the oppressed? When did we last stand against injustice, regardless of the political consequences?" Sim's voice grew stronger as he continued. "When did we last act like servants of the goddess of mercy and redemption? When did we last challenge the priests of Kemiss who bless slave auctions and call commerce more sacred than compassion?"
 
-The question hung in the air like an accusation. Aldric's face flushed with anger, but before he could respond, another voice joined the conversation.
+The question hung in the air like an accusation. Aldric's face flushed with anger. "The priests of Kemiss serve a legitimate deity. Commerce and trade are necessary for civilization—"
+
+"Commerce built on human suffering is an abomination," Korgan interrupted. "Turin teaches that justice comes before profit, always."
+
+"Easy words from those who don't understand the complexities of governance," Aldric shot back. "The world requires compromise, accommodation with existing power structures—"
+
+"The world requires courage to stand against evil, regardless of the cost," Silviana said quietly. "That is what separates divine service from political expedience."
+
+Before Aldric could respond, another voice joined the conversation.
 
 "An excellent question," said a new arrival, stepping into the circle with the quiet confidence of someone accustomed to being heard. She was young, perhaps thirty, with the calloused hands of someone who worked for a living despite her clerical robes. "I'm Sister Marta of the Westport Temple. I've traveled here to see for myself what manner of man claims to serve our goddess."
 

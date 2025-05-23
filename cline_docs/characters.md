@@ -403,4 +403,72 @@
 *   **First Appearance:** Chapter 21
 *   **Key Actions/Events:**
     *   Discovers Sir Roderick's contracts for child slavery on plantation raid (Ch 21).
-    *   Confronts Sir Roderick about hypocrisy, leading
+    *   Confronts Sir Roderick about hypocrisy, leading to expulsion from Noble Knights (Ch 21).
+    *   Leads 20 defector knights to join Gond's cause (Ch 21).
+    *   Provides intelligence about enemy positions and weaknesses (Ch 21).
+*   **Character Arc:** Loyal knight → Disillusioned reformer → True liberation ally
+*   **Relationships:**
+    *   Former subordinate of Sir Roderick Ashford.
+    *   Leader of Noble Knight defectors joining Gond.
+    *   Military ally providing tactical knowledge.
+*   **Current Status/Location:** At valley settlement, leading defector knights in liberation cause (End of Chapter 21).
+
+## Kemiss
+*   **Bio/Description:** God of commerce and trade, legitimate deity whose priests have been impersonated by Gorlatch clerics. Represents the proper balance between commerce and ethics, corrupted by false worship that elevates profit over compassion.
+*   **First Appearance:** Mentioned in Chapter 3
+*   **Key Actions/Events:**
+    *   Legitimate priests conduct honest trade and commerce (background).
+    *   False priests claiming his authority bless slave auctions (Ch 3, 11, 16).
+    *   True worship corrupted by Gorlatch infiltration (Ch 20, 21).
+*   **Relationships:**
+    *   Legitimate deity whose worship has been corrupted.
+    *   Opposed to Gorlatch's evil influence.
+    *   Represents proper commerce vs. exploitative trade.
+*   **Current Status/Location:** Divine entity, true worship being restored.
+
+## Gorlatch
+*   **Bio/Description:** Banned evil god whose worship was outlawed 200 years ago. Works through false priests and corrupted institutions to weaken divine worship and spread suffering. Master of fear magic and spiritual corruption.
+*   **First Appearance:** Mentioned in Chapter 14, revealed in Chapter 20
+*   **Key Actions/Events:**
+    *   Worship banned 200 years ago, coinciding with Marshal Order corruption (Ch 14).
+    *   Followers infiltrate other religious orders as false priests (Ch 20).
+    *   Orchestrates centuries-long plan to corrupt divine worship through slavery (Ch 21).
+    *   Uses fear magic and spiritual corruption as weapons (Ch 20).
+*   **Character Arc:** Ancient evil → Underground corruption → Exposed conspiracy
+*   **Relationships:**
+    *   Enemy of all legitimate divine worship.
+    *   Opposed by Alanyi, Turin, and other good deities.
+    *   Master of false priests and corrupted clerics.
+*   **Current Status/Location:** Divine entity, working through remaining followers.
+
+## Brother Aldwin
+*   **Bio/Description:** False priest of Gorlatch posing as a priest of Kemiss. Thin man with pale skin and dark hair, practiced smile hiding predatory nature. Leader of delegation sent to corrupt or eliminate Gond.
+*   **First Appearance:** Chapter 20
+*   **Key Actions/Events:**
+    *   Arrives claiming to represent merchant guilds of Millhaven (Ch 20).
+    *   Attempts to negotiate "reform" of slavery rather than abolition (Ch 20).
+    *   Uses fear magic to immobilize Gond's allies (Ch 20).
+    *   Reveals Gorlatch's centuries-long corruption plan (Ch 20).
+    *   Destroyed by Gond's divine sword (Ch 20).
+*   **Character Arc:** False merchant → Exposed evil cleric → Destroyed enemy
+*   **Relationships:**
+    *   Servant of Gorlatch posing as priest of Kemiss.
+    *   Partner of Brother Cassius in infiltration mission.
+    *   Enemy of Gond and divine worship.
+*   **Current Status/Location:** Destroyed in Chapter 20.
+
+## Brother Cassius
+*   **Bio/Description:** False priest of Gorlatch posing as a priest of Kemiss. Younger companion to Brother Aldwin, voice carries odd resonance suggesting inhuman nature. Uses fear magic and shadow abilities.
+*   **First Appearance:** Chapter 20
+*   **Key Actions/Events:**
+    *   Arrives with Brother Aldwin claiming merchant authority (Ch 20).
+    *   Advocates for "gradual transition" to maintain slavery (Ch 20).
+    *   Reveals inhuman nature when exposed (Ch 20).
+    *   Uses fear magic and shadow attacks against Gond (Ch 20).
+    *   Destroyed by Gond's divine sword (Ch 20).
+*   **Character Arc:** False merchant → Exposed shadow creature → Destroyed enemy
+*   **Relationships:**
+    *   Servant of Gorlatch posing as priest of Kemiss.
+    *   Partner of Brother Aldwin in infiltration mission.
+    *   Enemy of divine light and freedom.
+*   **Current Status/Location:** Destroyed in Chapter 20.

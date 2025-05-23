@@ -44,7 +44,87 @@ Gond felt his stomach tighten. The Circle of Whispers was the highest authority 
 
 "Three days hence, at the Grove of First Light. They've requested that Gond appear before them to answer for his actions."
 
-"Requested?" Pell snorted. "Sounds more like a summons."
+"And there's one more thing," the messenger added, consulting another scroll. "A delegation from Millhaven arrived yesterday, seeking audience. They claim to represent the merchant guilds, but..." He hesitated.
+
+"But what?" Gond asked.
+
+"Something felt wrong about them. The guards said they carried themselves like priests, but their robes bore the symbols of Kemiss, god of commerce."
+
+Silviana's eyes sharpened. "Priests of Kemiss? Here?"
+
+"They're waiting in the guest quarters," the messenger confirmed. "Said they'd wait as long as necessary to speak with you."
+
+Thorek's hand moved to his warhammer. "Could be a trap."
+
+"Or an opportunity," Gond said thoughtfully. "Let's see what the merchants want first. Then we'll deal with the Circle of Whispers."
+
+***
+
+The delegation from Millhaven waited in the settlement's guest quarters, a modest building that had once housed refugees but now served for diplomatic meetings. As Gond approached with Thorek, Elena, and Silviana flanking him, he studied the two men through the window.
+
+They wore the robes of Kemiss priests—rich blue fabric with golden thread depicting scales and coins. But something felt wrong about them. Their posture was too rigid, their eyes too watchful, and beneath the commercial symbols, Gond caught glimpses of other markings that seemed to shift when he wasn't looking directly at them.
+
+"Greetings," said the elder of the two as Gond entered. He was a thin man with pale skin and dark hair, his smile too wide and too practiced. "I am Brother Aldwin, and this is Brother Cassius. We represent the merchant guilds of Millhaven."
+
+"What brings merchants to our settlement?" Gond asked, taking a seat across from them.
+
+"Trade opportunities," Aldwin replied smoothly. "Your... liberation activities have disrupted certain supply chains. We're here to discuss alternative arrangements that might benefit all parties."
+
+Gond felt the divine power stirring uneasily in his chest, like a warning bell. There was something fundamentally wrong about these men, something that made his paladin senses recoil.
+
+"What kind of arrangements?" Elena asked.
+
+"Practical ones," Cassius spoke for the first time, his voice carrying an odd resonance. "The slave trade serves important economic functions. Perhaps we could find ways to... reform it rather than destroy it entirely."
+
+"Reform slavery?" Thorek's hand moved to his warhammer. "That's like reforming murder."
+
+"Now, now," Aldwin said, raising his hands in a placating gesture. "We understand your moral concerns. But consider the economic realities. Sudden liberation creates chaos, unemployment, social upheaval. Surely a gradual transition would be more humane?"
+
+As he spoke, Gond felt something else—a creeping sensation of fear trying to worm its way into his mind. Not natural fear, but something imposed from outside, like invisible fingers pressing against his thoughts.
+
+"You're not priests of Kemiss," Silviana said suddenly, her elven senses apparently detecting the same wrongness.
+
+The two men's facades cracked slightly. Aldwin's smile became predatory, while Cassius's eyes flashed with something that wasn't entirely human.
+
+"Perceptive," Aldwin said. "But then, we expected no less from the so-called paladin's advisors."
+
+The fear effect intensified, washing over the room like a tide. Gond saw Elena's hand freeze halfway to her sword, while Thorek stood motionless, his face pale with unnatural terror. Even Silviana seemed caught in the spell's grip.
+
+But Gond felt the divine power surge in response, burning away the imposed fear like sunlight through fog. More than that—he sensed the true nature of the men before him. Not merchants, not even priests of Kemiss, but something far darker.
+
+"Gorlatch," he said, the name coming to him with divine certainty.
+
+Both men hissed, their human masks slipping further. "The Forbidden God has many servants," Cassius snarled. "More than you know. We have worked for centuries to build what you seek to destroy."
+
+"The slave trade," Gond realized. "It was never just about profit. It was about corruption, about weakening Alanyi's influence."
+
+"Finally, he understands," Aldwin laughed, a sound like breaking glass. "Every chain forged, every auction blessed, every temple that turned from mercy to commerce—all part of the great work. The waning of the light, the triumph of profitable darkness."
+
+The fear spell pulsed stronger, but Gond drew his sword. The silver blade blazed with blue-white light, and suddenly his companions could move again. Elena's sword cleared its sheath, Thorek raised his warhammer, and Silviana began weaving protective magic.
+
+"Impossible," Cassius breathed, staring at the glowing blade. "No mortal weapon should be able to cut through our power."
+
+"Good thing it's not mortal," Gond replied, advancing on them.
+
+The false priests shed their human forms entirely, revealing themselves as creatures of shadow and malice. They struck with claws of darkness and voices that spoke words in no earthly language.
+
+But Gond's sword cut through their attacks like they were made of mist. Each stroke of the divine blade sent waves of courage through his allies, dispelling the lingering effects of the fear magic. Elena's blade found its mark, Thorek's hammer crushed shadow-stuff, and Silviana's magic bound the creatures in place.
+
+In moments, it was over. The Gorlatch clerics dissolved into wisps of darkness, their dying screams echoing with promises of vengeance.
+
+"Well," Pell said from the doorway, where he'd arrived just in time to see the end of the fight. "That was educational."
+
+Gond sheathed his sword, feeling the divine light fade but not disappear entirely. "Now we know what we're really fighting. Not just slavery, but the corruption behind it. Gorlatch's influence, working through false priests and corrupted institutions."
+
+"The pieces fit," Silviana said thoughtfully. "The timing of the slave trade's expansion, the corruption of the religious orders, the way commerce became more sacred than compassion. It's all connected."
+
+"Then we know what we have to do," Thorek said grimly. "Root out the corruption wherever we find it. No more half-measures."
+
+As they left the guest quarters, Gond felt the weight of revelation settling on his shoulders. The enemy was larger and more insidious than they'd imagined. But they'd also proven something important—his divine power could cut through even ancient evil.
+
+***
+
+"Requested?" Pell snorted as they returned to the council chamber. "The Circle of Whispers sounds more like a summons."
 
 "It is both," Silviana said carefully. "The Circle doesn't command, but their invitations are rarely refused."
 

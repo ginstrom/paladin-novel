@@ -28,7 +28,7 @@ Sim's gaze lingered on the weathered stones. "This was a sanctuary. Once, such t
 
 "Perfect." Pell's eyes swept the surroundings, cataloging defensive positions. "We'll blend right in with the ruins."
 
-Gond approached the ancient walls, studying the faded carvings—symbols of peace, intertwined hands worn smooth by centuries of weather. He touched one carving, the damp stone cold beneath his fingertips. The tugging in his chest intensified.
+Gond approached the ancient walls, studying the faded carvings—symbols of peace, intertwined hands worn smooth by centuries of weather. He touched one carving, the damp stone cold beneath his fingertips. The tugging in his chest intensified, but beneath the pull of something sacred, he sensed something else—a lingering taint, like the memory of corruption that had once defiled this holy place.
 
 "We shelter here." He forced authority into his voice, though the words felt strange on his tongue. "Sim, will the old gods mind squatters?"
 

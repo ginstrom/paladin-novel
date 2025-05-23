@@ -68,6 +68,10 @@ Murmurs rippled through the crowd. Gond felt heat rise in his cheeks, uncomforta
 
 The words hit the crowd like a physical blow. Some gasped, others fell to their knees. Gond heard someone whisper a prayer, another person sob with what sounded like relief.
 
+"Forgotten her light?" Gond asked. "What do you mean?"
+
+Silviana's expression grew grave. "The goddess of mercy has been pushed aside by those who profit from suffering. Where once her temples offered sanctuary, now the priests of Kemiss—god of commerce—hold sway, blessing chains and counting coin from slave auctions. And darker still..." She paused, glancing around at the listening crowd. "There are whispers of banned worship returning, evil cloaked in false righteousness."
+
 "I'm not a paladin," Gond said, his voice rougher than he intended. "I'm a mercenary who got lucky."
 
 Silviana's expression grew gentle but firm. "Luck does not raise the dead, Gond. Luck does not call an elf from her forest home after a century of silence. Luck does not gather the lost and broken and forge them into something stronger." She gestured toward the settlement around them. "Look at what you have built here. Look at what you have become."
