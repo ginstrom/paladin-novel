@@ -12,7 +12,7 @@ Gond's jaw tightened. "I feel like an idiot."
 
 "That is progress." Her voice carried the hint of a smile. "Yesterday you felt like a fraud."
 
-Three weeks had passed since the elven lore-keeper's arrival, three weeks of what she called "divine education" and what he called "sitting around pretending to be mystical." The settlement had grown accustomed to seeing them together each dawn—the gruff former mercenary and the ageless elf, an unlikely pair of teacher and student.
+Three weeks had passed since the elven lore-keeper's arrival. Three weeks of what she called "divine education" and what he called "sitting around pretending to be mystical." The settlement had grown accustomed to seeing them together each dawn—the gruff former mercenary and the ageless elf, an unlikely pair of teacher and student.
 
 "Close your eyes," Silviana instructed. "Reach for the warmth you felt when you healed Dax."
 
@@ -34,7 +34,7 @@ The price. Gond's hand moved unconsciously to his chest, where a persistent ache
 
 "The exhaustion will lessen," Silviana said, reading his thoughts with unsettling accuracy. "As you learn to work with the divine flow rather than against it."
 
-A commotion from below interrupted their session. Voices raised in argument, the sound of running feet. Gond was on his feet before he'd consciously decided to move, his hand reaching for the sword that wasn't there—he'd left his weapons in his hut, as Silviana insisted during their morning sessions.
+A commotion from below interrupted their session. Voices raised in argument, the sound of running feet. Gond was on his feet before he'd consciously decided to move. His hand reached for the sword that wasn't there—he'd left his weapons in his hut, as Silviana insisted during their morning sessions.
 
 "Gond!" Pell's voice carried up the slope, sharp with urgency. "We need you!"
 
@@ -42,7 +42,7 @@ The thief appeared through the trees, his usually composed face tight with worry
 
 "Found her at the valley's edge," Pell said without preamble. "Says she's been walking for days, following rumors of a healer."
 
-The woman raised her head, and Gond saw the desperation in her eyes—the same look he'd seen in every refugee who'd found their way here. But this was different. Worse. Her skin had a grayish pallor, and when she tried to speak, blood flecked her lips.
+The woman raised her head. Gond saw the desperation in her eyes—the same look he'd seen in every refugee who'd found their way here. But this was different. Worse. Her skin had a grayish pallor. When she tried to speak, blood flecked her lips.
 
 "Internal injuries," Sim said quietly. "Beyond my skills."
 
@@ -60,15 +60,15 @@ Gond felt the rage building—the old, familiar fury at the injustice of it all.
 
 The power flowed through him like warm honey, slower and more controlled than before. He felt it seeking out the damaged places within her—the internal bleeding, the shattered ribs, the trauma that went deeper than flesh. But as the healing progressed, Gond became aware of something else: the cost.
 
-For a heartbeat, the world blazed white around him—that same overwhelming pulse of divine essence he'd felt with Dax, but fainter now, more controlled. The connection formed between his life force and hers, a bridge of golden light that let him pour his strength into her broken body. Each mended bone drew from his own reserves, each sealed wound carved a little deeper into the hollow space beneath his ribs.
+The world blazed white around him. That same overwhelming pulse of divine essence he'd felt with Dax, but fainter now. More controlled. The connection formed between his life force and hers, a bridge of golden light that let him pour his strength into her broken body. Each mended bone drew from his own reserves. Each sealed wound carved a little deeper into the hollow space beneath his ribs.
 
-Each mended bone drew strength from his own. Each sealed wound left him a little more hollow. The divine power wasn't limitless—it was borrowed, somehow, from his own life force. The realization should have frightened him, but instead it brought clarity. This was the true burden of his calling: not just the responsibility of choice, but the literal price of each miracle.
+The divine power wasn't limitless—it was borrowed, somehow, from his own life force. The realization should have frightened him, but instead it brought clarity. This was the true burden of his calling: not just the responsibility of choice, but the literal price of each miracle.
 
 When the healing was complete, Mira sat up slowly, her color restored, her breathing clear. She stared at her mended arm in wonder, flexing fingers that had been broken moments before.
 
 "How?" she breathed.
 
-Gond swayed slightly as he stood, Silviana's steadying hand on his elbow. "Rest here tonight," he told Mira. "Sim will see that you're fed and given clean clothes. Tomorrow, if you choose to stay, we'll find you a place among us."
+Gond swayed slightly as he stood. Silviana's steadying hand touched his elbow. "Rest here tonight," he told Mira. "Sim will see that you're fed and given clean clothes. Tomorrow, if you choose to stay, we'll find you a place among us."
 
 As they helped Mira to one of the guest shelters, Gond caught Silviana's eye. The elf nodded approvingly, but her expression remained serious.
 

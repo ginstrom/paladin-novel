@@ -15,13 +15,13 @@
 - **Chapter 4**: Ambush slave cart, rescue Aerin and Dax, acquire horses, **Gond acquires crude black iron sword**
 - **Chapter 5**: Gond scouts Darach alone, abandons revenge pursuit for group safety, rescues Lira, **refuses better weapons in favor of crude sword**
 - **Chapter 6**: First mystical encounter at ruined temple of Alanyi
-- **Chapter 7**: Gradual awakening of divine abilities, settle in hidden valley
-- **Chapter 8**: Valley community establishment, refugees arrive
-- **Chapter 9**: Defensive preparations, signs of divine enhancement
-- **Chapter 10**: Major battle, first undeniable healing miracle (Dax), **sword transforms to silver-white steel, cleaves enemy weapon**
+- **Chapter 7**: **Three weeks after finding the valley** - Gradual awakening of divine abilities, settle in hidden valley
+- **Chapter 8**: Valley community establishment, refugees arrive, **discovery of previous refugee bones creates tension about valley safety**, **food shortage crisis forces dangerous foraging mission to Thornfield farmstead**, **first reports of systematic village raids with smoke columns on horizon**
+- **Chapter 9**: Defensive preparations, signs of divine enhancement, **discovery of slaver map marking their valley location**, **revelation of 40-man professional force planned for attack**, **emergency evacuation to Thornwood wilderness**, **slavers arrive to find abandoned camp**
+- **Chapter 10**: Major battle, first undeniable healing miracle (Dax), **sword transforms to silver-white steel, cleaves enemy weapon**, **Sim strikes slaver's wrist to protect children - establishes his pacifism boundary**
 
 ### Part III: An Unlikely Saint (Chapters 11-16)
-- **Chapter 11**: Silviana Starweaver arrives, Gond accepts paladin identity, **Silviana shares elven lore about divine paladin blades**
+- **Chapter 11**: **A month after the healing miracle** - Silviana Starweaver arrives, Gond accepts paladin identity, **Silviana shares elven lore about divine paladin blades**, **Gond's brand visibly fading as divine power grows**, **Silviana explains brand-erasing ability will develop**
 - **Chapter 12**: Divine power training with Silviana, learning costs and control
 - **Chapter 13**: Settlement grows to 200 people, slaver attack by Crimson Company, Pell's pivotal question about vengeance, Gond realizes transformation
 - **Chapter 14**: Willem dies despite healing attempt, crisis of faith, Thorek Ironheart arrives, Iron Covenant alliance formed, **Thorek examines sword and declares it beyond mortal forging ability**
@@ -31,12 +31,26 @@
 ### Part IV: Forging a Free Nation (Chapters 17-21)
 - **Chapter 17**: First major coordinated attack by 200 professional soldiers, dwarven siege engines prove essential, costly victory with 7 dead, Battlemaster Korgan brings news of 2000-man enemy army
 - **Chapter 18**: Coordinated liberation raids across three provinces, capture and mercy toward Borin and Kael (now slave catchers), vengeance-to-mercy transformation complete, settlement grows to 400 people
-- **Chapter 19**: Political organization challenges with multi-racial council, Sir Roderick Ashford's Noble Knights offer alliance with classist conditions, Gond rejects "proper order" for true equality, settlement reaches 500 people
+- **Chapter 19**: Political organization challenges with multi-racial council, Sir Roderick Ashford's Noble Knights offer alliance with classist conditions, Gond rejects "proper order" for true equality, settlement reaches 500 people, **Pell refuses blood money from enemy agent - demonstrates character growth from "coins over conscience"**
 - **Chapter 20**: Religious crisis as temples split over Gond's legitimacy, Circle of Whispers formal conclave, Gond heals ancient shadow-touched wound, elven recognition as true paladin, intelligence gift about slave cities
 - **Chapter 21**: Noble Knight defectors led by Sir Marcus Brightwater join after discovering Sir Roderick's hypocrisy, Reformed Order declares independence from High Temple, three-army coordination planned for final campaign
 
 ### Part V: The War for Freedom (Chapters 22-25)
-- **Chapter 24**: Climactic battle for Darach, **sword emits blue-white light, cuts through evil clerics' fear magic, creates wake of courage for liberation army**
+- **Chapter 24**: Climactic battle for Darach, **sword emits blue-white light, cuts through evil clerics' fear magic, creates wake of courage for liberation army**, **Gond demonstrates brand-erasing ability - heals freed slaves and completely removes their slavery brands**
+
+## Gond's Divine Powers - Brand Fading and Erasing
+
+### Brand Fading Timeline
+- **Chapters 1-10**: Brand clearly visible and painful, marking Gond as escaped property
+- **Chapter 11**: Brand visibly fading as divine power grows, "more shadow than scar"
+- **Chapters 11+**: Silviana explains this is natural progression as connection to Alanyi deepens
+- **Future development**: Complete erasure as Gond's power matures
+
+### Brand-Erasing Ability
+- **Chapter 11**: Silviana explains Gond will develop ability to erase others' brands through healing touch
+- **Chapter 24**: First demonstration - Gond heals freed slaves and completely erases their slavery brands
+- **Significance**: "One of the greatest gifts a paladin of mercy can offer: the chance to be truly free, unmarked by past suffering"
+- **Symbolic meaning**: Not just physical healing but spiritual liberation from bondage
 
 ## Gond's Divine Sword - Spiritual Metaphor
 
@@ -78,6 +92,20 @@
 - **Key moment (Chapter 13)**: Realizes revenge is no longer his focus
 - **Crisis point (Chapter 14)**: Learns divine power has limits, accepts burden
 - **Political awakening (Chapter 16)**: Rejects religious authority, commits to total war
+
+### Pell's Character Growth Arc
+- **Early chapters**: "Coins over conscience" attitude, materialistic focus
+- **Chapter 4**: Excited about "good haul" from slaver ambush, counting coins
+- **Chapter 19**: **Pivotal growth moment** - Refuses substantial blood money from enemy agent
+- **Character transformation**: From "coin over conscience, profit over principle" to "Some things aren't for sale"
+- **New values**: "These people aren't just my allies—they're my family. And I don't sell out family"
+
+### Sim's Pacifism Boundary
+- **Core belief**: "Every living being has the right to defend themselves and those who cannot defend themselves"
+- **Chapter 10**: **Defining moment** - Strikes slaver's wrist to protect children during attack
+- **Boundary established**: Will use minimal violence only to protect innocents
+- **Internal conflict**: "The minimum necessary. But that doesn't make it easier"
+- **Character consistency**: Refuses to participate in offensive operations, maintains healing/support role
 
 ### New Character Introductions (Part III)
 

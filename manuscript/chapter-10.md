@@ -34,11 +34,15 @@ But they had left their mark.
 
 Korven lay sprawled near the children's shelter, his body riddled with crossbow bolts. He had died defending those he'd sworn to protect. Nearby, old Marta sat propped against a tree, her sightless eyes staring at nothing, a slaver's blade still protruding from her chest.
 
+Sim knelt beside the children's shelter, cradling his right hand against his chest. His knuckles were split and bloody, and a slaver's sword lay abandoned nearby, its wielder nowhere to be seen. When Gond approached, the priest looked up with pain-filled eyes.
+
+"I had to," Sim said quietly, his voice heavy with anguish. "He was going for the children. I couldn't—" He swallowed hard. "I struck his wrist. Just enough to make him drop the blade. The minimum necessary." His shoulders sagged. "Every living being has the right to defend themselves and those who cannot defend themselves. But that doesn't make it easier."
+
 And in the center of the camp, young Dax lay gasping in a spreading pool of his own blood.
 
 The boy's chest rose and fell in ragged, desperate rhythm. Pink froth bubbled from his lips with each labored breath. A slaver's mace had crushed his ribs, driving bone fragments deep into his lungs. Each breath was a struggle, each heartbeat weaker than the last.
 
-Sim knelt beside him, hands glowing faintly as he channeled what healing power he possessed. Sweat beaded on the priest's forehead, his face growing ashen with effort. His hands trembled, the light flickering like a dying candle.
+Sim moved from the children's shelter to kneel beside Dax, ignoring the pain in his injured hand as he channeled what healing power he possessed. Sweat beaded on the priest's forehead, his face growing ashen with effort. His hands trembled, the light flickering like a dying candle.
 
 "He's beyond my help," Sim whispered, his voice breaking. Tears streamed down his weathered cheeks. "The damage is too great. I cannot—" His hands fell to his sides, the faint glow extinguished.
 

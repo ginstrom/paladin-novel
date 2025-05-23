@@ -360,6 +360,26 @@ Elena followed his gaze and seemed to understand. "Borin and Kael?"
 
 "Then I'll do what I have to do." Gond started walking toward the inner city, where reports suggested the last pockets of resistance were being mopped up. "But I'm hoping it won't come to that."
 
+As he made his way through the liberated streets of Darach, Gond passed a group of freed slaves huddled near a fountain. Many bore fresh wounds from the battle, but it was the older scars that drew his attention—the brands that marked them as property, burned into foreheads and hands with deliberate cruelty.
+
+An elderly woman looked up as he approached, her eyes widening with recognition. "You're him," she whispered. "The Paladin of Mercy."
+
+"I'm just a man trying to help," Gond said gently, kneeling beside a wounded child. The boy couldn't have been more than ten, his arm badly cut and his forehead bearing the twin circles of slavery. "May I?"
+
+The woman nodded, tears streaming down her cheeks as Gond placed his hands on the child's wounds. Divine light flowed from his palms, knitting torn flesh and easing pain. But as the healing progressed, something unexpected happened.
+
+The brand on the boy's forehead began to fade, the raised scar tissue smoothing away as if it had never existed. Within moments, unmarked skin remained where the slave mark had been burned.
+
+Gasps echoed from the watching crowd as they witnessed the impossible—not just healing, but the complete erasure of slavery's mark.
+
+"The brands," the elderly woman breathed, touching her own marked forehead with trembling fingers. "You can remove them?"
+
+"It seems I can," Gond said, as surprised as anyone by this new manifestation of his power. He looked around at the gathered faces, seeing hope kindle in eyes that had known only despair. "Who else needs healing?"
+
+They came forward then, one by one—men, women, and children bearing the scars of bondage. Gond touched each brand with gentle hands, watching as divine light erased not just the physical marks but the spiritual wounds they represented. Each healing left unmarked skin and renewed dignity in its wake.
+
+"Free," the elderly woman whispered, staring at her reflection in the fountain's water. For the first time in decades, her forehead bore no mark of ownership. "Truly free."
+
 As he made his way through the liberated streets of Darach, Gond reflected on how much had changed since that first desperate escape from the slave ship. He'd started this journey seeking revenge against the men who'd betrayed him. Now he found himself hoping for their redemption instead.
 
 It was a strange feeling, but not an unwelcome one.

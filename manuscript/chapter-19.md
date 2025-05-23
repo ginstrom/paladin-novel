@@ -214,6 +214,46 @@ Gond's hand moved to his sword hilt. "Then we'll be ready. All of us, standing t
 
 ***
 
+As the sun set behind the western hills, Pell made his way through the settlement's quieter sections, checking the perimeter defenses as he did each evening. The encounter with the Noble Knights had left everyone on edge, and extra vigilance seemed prudent.
+
+He was examining a concealed watchtower when a figure emerged from the shadows—a man in merchant's clothing, well-fed and soft-handed, clearly not one of their refugees.
+
+"Pell, isn't it?" the stranger said quietly. "I was hoping we could talk."
+
+Pell's hand moved instinctively to his knife. "Depends what you're selling."
+
+"Information. Or rather, I'm buying it." The man produced a leather pouch that clinked with the weight of gold. "My employers are very interested in your settlement's... capabilities. Defenses, numbers, leadership structure. The usual intelligence."
+
+"Your employers?"
+
+"Let's just say they represent interests that would prefer to resolve this situation through negotiation rather than bloodshed." The man's smile was oily. "A hundred gold royals for a detailed map of your defenses. Two hundred for information about Gond's daily routine. Five hundred if you can tell us about any weaknesses in your alliance with the dwarves and elves."
+
+Pell stared at the pouch, remembering a time when such an offer would have been irresistible. Good coin for simple information—no violence required, no one directly harmed. Just business, as Kael might have said.
+
+"That's a lot of gold," he said slowly.
+
+"Indeed. Enough to set a man up for life, if he's smart about it." The stranger's eyes gleamed. "You strike me as a practical man. Surely you can see that this little rebellion can't last forever. When it falls—and it will fall—those who showed foresight will be rewarded."
+
+Pell was quiet for a long moment, weighing the pouch in his mind. Then he thought of Sarah learning metalwork from Grimjaw, her face bright with pride. Of the children playing freely in the settlement's squares. Of Gond healing the wounded without asking for payment or status.
+
+"You know what?" Pell said, stepping back from the offered gold. "I used to think like you. Coin over conscience, profit over principle. But I've learned something these past months."
+
+"Which is?"
+
+"Some things aren't for sale." Pell's voice carried quiet conviction. "These people aren't just my allies—they're my family. And I don't sell out family, no matter how much gold you're offering."
+
+The stranger's expression hardened. "You're making a mistake. When this all comes crashing down—"
+
+"Then we'll face it together." Pell drew his knife, the blade gleaming in the moonlight. "Now I suggest you leave. Quickly. Before I decide you're a threat that needs eliminating."
+
+The man backed away, clutching his pouch. "You'll regret this choice."
+
+"Maybe," Pell replied. "But I'll regret it as a free man, not as someone who sold his soul for gold."
+
+As the stranger disappeared into the darkness, Pell felt something settle in his chest—a sense of rightness he hadn't experienced in years. The old Pell would have taken the money without hesitation. But that man was gone, replaced by someone who understood that true wealth couldn't be counted in coins.
+
+***
+
 That evening, as the settlement settled into its nightly routine, Gond walked among his people. The conversation with Sir Roderick had left him troubled, not because of the knight's opposition, but because of what it represented.
 
 They weren't just fighting the slave trade anymore. They were fighting an entire worldview, a system of beliefs that had shaped civilization for centuries. The idea that some people were born to rule and others to serve was so deeply ingrained that even those who opposed slavery couldn't imagine true equality.

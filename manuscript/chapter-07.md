@@ -4,17 +4,13 @@
 
 ### Chapter 7: The Gradual Awakening
 
-Morning brought them deeper into the wilderness, seeking the permanent sanctuary Gond had promised. The temple experience lingered like a half-remembered dream, but practical matters demanded attention—defensible ground, fresh water, shelter for the growing stream of refugees.
-
-As they moved through rugged terrain, Gond's eyes caught details that had escaped him before. The way morning light slanted through the trees, revealing hidden paths. How bird calls shifted when danger approached. The subtle signs that marked safe water from tainted.
-
-When Pell started down what appeared to be a clear trail, Gond's hand shot out, stopping him.
+Three weeks after finding the valley, when Pell started down what appeared to be a clear trail, Gond's hand shot out, stopping him. Bird calls had shifted to warning silence, and something prickled along his spine.
 
 "Wait."
 
 Pell frowned, scanning the area. "Looks clear to me."
 
-But something prickled along Gond's spine—a wrongness he couldn't name. He studied the path more carefully, noting how the grass lay too flat, how no birds sang in the nearby trees. "There." He pointed to a barely visible depression in the earth. "Pit trap. And fresh horse dung beyond those rocks."
+He studied the path more carefully, noting how the grass lay too flat, how no birds sang in the nearby trees. "There." He pointed to a barely visible depression in the earth. "Pit trap. And fresh horse dung beyond those rocks."
 
 Within minutes, dust clouds appeared on the horizon. Slave catchers, moving fast along the very route Pell had suggested.
 

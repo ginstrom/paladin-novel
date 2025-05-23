@@ -394,26 +394,36 @@ And for the first time in his life, Gond was truly at peace.
 
 ***
 
-*Epilogue*
+Ten years later, Kael knelt in the garden of the New Temple, watching a group of children plant seedlings in the rich earth. Their small hands worked carefully, following his gentle guidance as he showed them how to nurture new life.
 
-*Ten years after the liberation of the coastal cities, the Continental Alliance had grown to encompass nearly the entire known world. The last holdout cities had joined peacefully, drawn by the prosperity and stability that freedom had brought to their neighbors.*
+"Brother Kael," a young girl asked, her face smudged with dirt, "why do we plant trees we'll never see grow tall?"
 
-*Gond served as the Alliance's first Chancellor, a position he held for five years before stepping down to focus on education and healing. He established the first integrated schools, where children of all races learned together, and founded hospitals that served everyone regardless of their ability to pay.*
+"Because someone planted the trees that shade us now," he said, his voice carrying the peace of a man who had found his purpose. "We plant for those who come after."
 
-*Kael became one of the most respected priests in the Alliance, known for his work with former slaves and his powerful sermons about redemption and second chances. He never married, dedicating his life entirely to his calling, but he was beloved by thousands who found hope in his story.*
+The children nodded solemnly, then returned to their work with renewed focus. Among them, human and dwarven and elven faces worked side by side, their laughter echoing off the temple walls.
 
-*Elena served as Minister of Defense for fifteen years, overseeing the transformation of the liberation army into a peacekeeping force dedicated to protecting the Alliance's borders and maintaining internal stability. She eventually retired to write the definitive history of the liberation wars.*
+***
 
-*Thorek returned to the dwarven territories, where he helped establish the new relationship between the Iron Covenant and the Alliance. He lived to see his great-grandchildren playing with human and elven children in the integrated communities that had become commonplace throughout the continent.*
+Elena set down her quill and flexed her fingers, ink-stained from hours of writing. Through her study window, she could see Gond in the hospital courtyard below, his hands glowing softly as he healed a young mother's fever. Even in retirement, he couldn't resist helping those in need.
 
-*Silviana became the Alliance's first Ambassador to the Elven Territories, working to heal the ancient divisions between her people and the other races. She lived for another century, long enough to see the establishment of the first truly integrated cities where all three races lived as equals.*
+"Still working on that memoir?" he asked later, joining her for their evening walk through the city streets.
 
-*The slave trade never returned. The economic and social systems that had supported it were replaced by institutions based on cooperation and mutual benefit. Within a generation, slavery became not just illegal but literally unthinkable—a relic of a darker age that people studied in history books but could barely imagine.*
+"Someone has to record what really happened," she said. "Before the legends make us all ten feet tall and breathing fire."
 
-*And in the harbor district of Darach, where the first slaves had been freed during the liberation, a statue was erected. It showed three figures—human, dwarf, and elf—standing together with their hands clasped in unity. The inscription at its base read simply: "To those who chose freedom over fear, hope over hatred, and unity over division. May their example light the way for all who come after."*
+Gond chuckled. "Too late for that, I think."
 
-*The reluctant paladin had become a legend, but more importantly, he had helped create a world where such legends were no longer necessary.*
+They paused before the new statue in Harbor Square—three figures with clasped hands, their bronze faces turned toward the setting sun. Children played at its base while their parents conducted business in a dozen languages, the sounds of a free city at peace.
 
-*The age of slavery was over. The age of freedom had begun.*
+***
 
-*And it would endure.*
+The dedication ceremony drew thousands to the square. Gond stood before the statue, feeling the weight of history and hope in equal measure. The inscription gleamed in the afternoon light: "To those who chose freedom over fear, hope over hatred, and unity over division."
+
+"We didn't fight to become legends," he told the crowd, his voice carrying clearly across the square. "We fought to become unnecessary. And in that, we have succeeded."
+
+The applause that followed was thunderous, but Gond's attention was on the children in the crowd—human, dwarven, and elven faces looking up at him with curiosity rather than awe. To them, this was simply the world as it had always been.
+
+That, more than any statue or ceremony, was the true measure of their victory.
+
+The age of slavery was over. The age of freedom had begun.
+
+And it would endure.

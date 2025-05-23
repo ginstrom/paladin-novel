@@ -46,7 +46,7 @@ They made their way down the winding path to the settlement's heart, where a cro
 
 The crowd parted as Gond approached, and he got his first clear look at her. She was beautiful in the way of growing things—ageless and serene, with eyes the color of deep forest pools. But there was something else in those eyes, a weight of years and knowledge that made Gond feel suddenly young and foolish.
 
-She studied him with the same intensity, her gaze lingering on his branded forehead before moving to his hands, his stance, his expression. When she spoke, her voice carried the music of wind through leaves.
+She studied him with the same intensity, her gaze lingering on his forehead where the slave brand had once burned so clearly. The twin circles were still visible, but faded now—more shadow than scar, as if the divine power growing within him was slowly erasing the mark of his bondage. When she spoke, her voice carried the music of wind through leaves.
 
 "You are the one they call the Healer of the Hills."
 
@@ -91,6 +91,12 @@ The weight of their expectation pressed down on him like a physical thing. Part 
 "All right," he said finally. "Say I accept it. Say I am what you think I am. What then?"
 
 "Then you learn," Silviana said. "You grow into your power, and your power grows with you. You discover what it truly means to serve the goddess of mercy and justice."
+
+She gestured toward his fading brand. "Already the goddess works to free you from the marks of bondage. As your connection to Alanyi deepens, her light will erase all traces of your enslavement. And in time..." Her voice grew soft with wonder. "In time, you will carry that same gift to others. The touch that heals wounds can also heal the scars of slavery itself."
+
+"You mean I could remove their brands?" Gond asked, thinking of the marked faces throughout the settlement.
+
+"More than remove—erase completely, as if they had never been. It is one of the greatest gifts a paladin of mercy can offer: the chance to be truly free, unmarked by past suffering."
 
 "And after that?"
 
