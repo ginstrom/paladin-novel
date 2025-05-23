@@ -1,41 +1,45 @@
 ### Chapter 1: The Mark of Betrayal
 
-Gond awoke slowly, consciousness arriving like an unwelcome guest—each new sensation a fresh insult. First, taste: blood mixed unpleasantly with stale ale and something bitter, almost medicinal. Then came smell, a gut-churning blend of salty ocean brine, unwashed bodies, and moldy wood. Next, the pain: a relentless ache pulsed behind his eyes, punctuated by sharper agony across his forehead. Wonderful.
+Gond's tongue stuck to the roof of his mouth like old leather. The taste coating his teeth—blood, stale ale, and something bitter that made his throat constrict—told him this wasn't a typical morning after. His forehead throbbed with each heartbeat, the pain sharp enough to make his eyes water before he'd even opened them.
 
-He opened an eye, immediately regretting it as a dim, swaying gloom greeted him. Moonlight seeped through the cracked wooden ceiling, hinting at movement—a gentle, nauseating roll beneath him.
+When he finally cracked one eyelid, pale moonlight leaked through gaps in warped planking above. The surface beneath him rose and fell in a gentle rhythm that sent his stomach lurching sideways. 
 
-A ship, then. Just my luck. Gond shifted slightly, rewarded by the clink of iron and a tug at his wrist. Manacled, of course.
+*Ship.* The realization hit him like cold water. *Wonderful.*
 
-"Must’ve been one hell of a night," he muttered, his voice cracking like brittle parchment. "Or a terrible one."
+Iron clinked against his wrist as he tried to sit up. Manacles. Of course. His second attempt to rise succeeded, though he had to lean heavily against splintered timber that felt damp under his palm.
 
-He attempted to sit up, head spinning in protest, and immediately toppled back with a groan. Steeling himself, Gond slowly rose again, leaning back heavily against damp, splintering timber. His eyes adjusted, making out other shapes, dimly lit by the faint moonbeams filtering through the cracks. A dozen miserable wretches huddled around him, chained together in pairs, shivering or simply too numb to care.
+The hold stretched before him in the dim light—a collection of hunched shapes chained in pairs. The air hung thick with the smell of unwashed bodies, fear-sweat, and something else. Something that made him breathe through his mouth.
 
-Lovely company I keep these days.
+The man beside him had shoulders like a dock worker and fists to match, though purple bruises mottled his face. His breathing came in harsh rasps, and when his eyes flicked open, they held the kind of spark that meant trouble. The muscles in his jaw kept working, like he was chewing on words too dangerous to speak.
 
-A rank odor, ripe with stale sweat and despair, emanated from the man chained beside him. Gond registered it with the weary disinterest of one long accustomed to the stench of close-packed, miserable humanity. The man was built like a dockside brawler, all thick muscle and sullen resentment, though bruises marred his face and his breathing was labored. His eyes, when they flickered open, held a dull, dangerous spark. *This one might fight*, Gond thought, his gaze lingering for a moment, *or get us all killed trying.*
+Across from Gond, two figures slumped forward. One sat perfectly still—too still. His head lolled at an angle that spoke of either a broken neck or final surrender, and flies had begun their grisly work around his vacant stare. His companion coughed wetly, each breath a visible struggle. Waxy skin stretched over sharp cheekbones, and his chest barely moved with each shallow intake.
 
-He shifted his gaze to the pair chained before him. One lay unnaturally still, head lolling at an angle that spoke of a broken neck or a final, exhausted surrender. Flies already buzzed around the open, vacant eyes. Beside him, the other slave, a gaunt figure, coughed weakly, a rattling sound deep in his chest. Each breath seemed a monumental effort, his skin a waxy, translucent sheen. *Not long for this world, either of them,* Gond assessed, a familiar grimness settling in. Gond thought briefly of the many bodies he had seen during his 10-odd years as a mercenary. Nearly all of them had died in battle, he recalled. Seeing men dead or dying in such a way was somehow much sadder. Gond turned away and continued surveying his surroundings.
+*Not much time left for that one.*
 
-Ahead, two bodies slumped in defeat, unmoving and likely closer to death than life. Behind him came the rasping breath of someone whose fury simmered audibly, like an angry kettle ready to boil over.
+Two more bodies lay motionless further into the hold. Behind him, someone breathed like an angry bull, all snorts and barely contained fury.
 
-Lovely crew. We’ll be a riot at parties.
+Gond flexed his fingers, testing the chain's give. Solid. Professional work. His captors knew their business.
 
-Gond flexed his hands, testing the chains, finding them solid and depressingly secure. His captors weren’t amateurs, then. Sighing inwardly, he turned his thoughts to memories—fragments of laughter and tankards clinking in the dim warmth of the Prancing Dragon Inn. Borin's drunken voice rang in his ears: "To Gond, luckiest sword on the coast!" followed quickly by Kael’s smirk, cold eyes glittering in shadow, whispering, "Business, mate. Nothing personal."
+Memory crept back in fragments—Borin's flushed face raised in a toast at the Prancing Dragon, his voice booming over the tavern's din: "To Gond, luckiest sword on the coast!" Kael's answering smirk, those cold eyes catching torchlight as he leaned close. "Business, mate. Nothing personal."
 
-"Loyal friends indeed," Gond muttered bitterly.
+The alley behind the inn. The prick of something sharp in his neck. Darkness.
 
-A sudden itch flared on his forehead, and his fingers rose instinctively, brushing tender, inflamed flesh. His blood ran cold as he recognized the shape, freshly branded—a slave’s mark, two intertwined manacles burned cruelly into his skin.
+An itch flared across his forehead, and his fingers rose instinctively. They found raised, tender flesh—still raw, still seeping. The shape was unmistakable even by touch alone. Two interlocking rings. A slave's brand.
 
-"Bastards," Gond spat, anger rising sharp and fierce.
+His hand fell away, fingers curling into a fist.
 
-His gaze fell on a bucket of brackish water set nearby, its surface barely reflecting the dim light. Grimacing, Gond leaned forward, peering into the murky reflection. A ghostly image stared back, a face battered and bruised, marked forever by the brand. He felt a surge of nausea, not from seasickness but rage—a rage that sharpened his senses and clarified his thoughts.
+A bucket of murky water sat within reach, its surface barely catching the moonlight. Gond leaned forward until he could make out his reflection—a ghost-pale face staring back, marked forever by the crude iron circles burned into his skin.
 
-The rhythmic creaking of the hull, the muttered curses and sobs around him, and the careless banter of guards drifting down from above—they painted a grim picture. Not just any ship. A slave ship.
+The ship creaked around him in steady rhythm. Above, boots scuffed across deck planks, punctuated by coarse laughter and the occasional crack of a whip. When food came—moldy bread and brackish water in filthy buckets—guards tossed it down like they were feeding animals. Those too weak to crawl for their share simply went without.
 
-Footsteps echoed above, laughter coarse and indifferent. Occasionally, food was tossed down carelessly—a scrap of moldy bread, stale water in filthy pails. Those too weak or slow were left where they lay, living or dead indistinguishable in the shadows. Whips cracked casually, warnings to the noisy or unruly.
+One guard leaned over the hatch opening, grinning down at them. "Comfortable down there, are we? Don't worry—journey's nearly over. Then the real fun begins."
 
-Gond smiled humorlessly. Well, at least the service matches the accommodations.
+More laughter echoed from above.
 
-His attention shifted to the hatch above, outlined dimly against the faint lamplight. Guards lounged there, bored and complacent—too complacent. Gond’s cold fury hardened into resolve. Patience, cunning, and opportunity would see him free. Survive first. Then repay every betrayal in kind.
+Gond's gaze drifted to the hatch, studying the lazy way the guards moved, how they clustered together instead of watching properly. Sloppy. Overconfident.
 
-"Rest up, friends," he whispered grimly into the darkness. "The entertainment's just about to begin."
+He settled back against the hull, closing his eyes. Let them think him broken. Let them grow careless.
+
+His lips curved in the barest suggestion of a smile.
+
+*Entertainment's just about to begin.*
