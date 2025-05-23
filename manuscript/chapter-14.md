@@ -100,7 +100,31 @@ Gond's eyes snapped open to see a figure emerging from the tree line—a dwarf, 
 
 Gond struggled to his feet, suddenly aware of how he must look—exhausted, bloodstained, hollow-eyed with grief and doubt. "And what did you find?"
 
-Thorek studied him for a long moment, then gestured toward the settlement below. "I found a man who stands between the innocent and those who would harm them. I found someone willing to spend his own life force to heal the wounded. I found a leader who grieves for those he could not save." The dwarf's expression softened slightly. "I found a paladin, though one who has forgotten that even divine champions need allies."
+Thorek studied him for a long moment, his eyes moving from Gond's face to the sword at his side. The dwarf's expression shifted, professional interest replacing casual assessment.
+
+"May I?" Thorek gestured toward the weapon.
+
+Gond hesitated, then drew the blade and offered it hilt-first. The silver steel caught the dappled sunlight, its surface unmarked despite the morning's battle.
+
+Thorek took the sword with the reverence of a master craftsman, his calloused fingers running along the fuller, testing the balance, examining the edge with an expert's eye. His breathing grew shallow as he studied the weapon, turning it this way and that in the light.
+
+"By Turin's hammer," he whispered, his voice filled with awe. "This is no mortal blade."
+
+"What do you mean?" Gond asked.
+
+The dwarf looked up, his eyes wide with something approaching religious fervor. "I have worked metal for over two centuries, lad. I have forged weapons for kings and heroes, blades that have carved their names into legend. But this..." He held the sword up, watching light play along its perfect edge. "This is beyond my ability to forge. Beyond any mortal smith's ability."
+
+Silviana moved closer, her ancient eyes studying the weapon with new interest. "The old songs speak of such blades. Weapons transformed by divine will, forged not in earthly fires but in the crucible of righteous purpose."
+
+"You're saying the sword changed itself?" Gond's voice was barely above a whisper.
+
+"I'm saying," Thorek replied, carefully returning the weapon to Gond's hands, "that you carry a blade touched by the divine. The steel itself has been blessed, transformed into something that exists as much in the realm of spirit as in the world of flesh."
+
+Gond stared at the sword, remembering the moment in battle when he'd drawn it to find crude iron transformed to silver steel. "I thought I was imagining it."
+
+"The gods rarely work in ways that leave room for doubt," Silviana said softly. "When they choose to act directly in the mortal world, their touch is unmistakable."
+
+Thorek gestured toward the settlement below. "I found a man who stands between the innocent and those who would harm them. I found someone willing to spend his own life force to heal the wounded. I found a leader who grieves for those he could not save." The dwarf's expression softened slightly. "I found a paladin, though one who has forgotten that even divine champions need allies."
 
 "Allies?"
 

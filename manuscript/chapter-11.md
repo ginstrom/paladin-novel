@@ -98,6 +98,32 @@ Gond nodded slowly, feeling something settle into place inside his chest—not r
 
 Silviana smiled, and for the first time it reached her ancient eyes. "The first lesson begins now. Come—there is much to discuss, and the day grows short."
 
+As they walked toward Gond's shelter, Silviana's gaze fell upon the sword at Gond's side. Her steps slowed, and she tilted her head as if listening to something only she could hear.
+
+"Your blade," she said quietly. "May I see it?"
+
+Gond hesitated, then drew the silver sword. Even in the afternoon light, it seemed to gleam with its own inner radiance, the steel unmarked despite weeks of use.
+
+Silviana's eyes widened with recognition. "By the ancient trees," she whispered. "I had heard rumors, but to see it with my own eyes..." She looked up at Gond with something approaching reverence. "Do you know what you carry?"
+
+"A sword that used to be crude iron," Gond said. "It changed during the battle when I first healed Dax."
+
+"Not just any sword. A blade touched by divine will." Silviana's voice carried the weight of ancient knowledge. "The old songs speak of such weapons—steel transformed by righteous purpose, forged not in earthly fires but in the crucible of a paladin's awakening. There have been perhaps a dozen such blades in all the long years since Alanyi first walked among mortals."
+
+Sim moved closer, his eyes bright with wonder. "The legends are true, then? About paladin weapons?"
+
+"More than true. They are living things, in their way—extensions of the divine will that flows through their bearers." Silviana gestured toward the blade. "That steel will never dull, never break, never fail you in righteous battle. It will grow in power as you grow, becoming more than mere metal as your connection to Alanyi deepens."
+
+Gond stared at the sword, remembering the moment it had sheared through the slaver captain's weapon like parchment. "It cut through steel during the battle."
+
+"And it will do far more than that, in time." Silviana's expression grew distant, remembering. "The last such blade I saw was carried by Ser Aldric the Pure, three centuries past. His sword could cleave through enchanted armor as if it were silk, and its light could banish shadows that had never known the sun."
+
+"What happened to him?" Gond asked.
+
+"He fell defending a village from a demon incursion, his blade blazing like a star until the very end." Silviana's voice was soft with old grief. "But the sword endured. It always does, waiting for the next worthy hand to claim it."
+
+Gond sheathed the weapon carefully, feeling its weight differently now. Not just steel and leather, but legacy and responsibility.
+
 As they walked toward Gond's shelter, the crowd began to disperse, but Gond could feel their eyes following him. The weight of their hope, their faith, their need. It no longer felt quite so crushing. Instead, it felt like purpose.
 
 The transformation was complete. The real work was just beginning.

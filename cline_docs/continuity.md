@@ -12,19 +12,19 @@
 - **Chapter 3**: Meet Maera, receive aid and guidance toward Darach
 
 ### Part II: Seeds of Rebellion (Chapters 4-10)
-- **Chapter 4**: Ambush slave cart, rescue Aerin and Dax, acquire horses
-- **Chapter 5**: Gond scouts Darach alone, abandons revenge pursuit for group safety, rescues Lira
+- **Chapter 4**: Ambush slave cart, rescue Aerin and Dax, acquire horses, **Gond acquires crude black iron sword**
+- **Chapter 5**: Gond scouts Darach alone, abandons revenge pursuit for group safety, rescues Lira, **refuses better weapons in favor of crude sword**
 - **Chapter 6**: First mystical encounter at ruined temple of Alanyi
 - **Chapter 7**: Gradual awakening of divine abilities, settle in hidden valley
 - **Chapter 8**: Valley community establishment, refugees arrive
 - **Chapter 9**: Defensive preparations, signs of divine enhancement
-- **Chapter 10**: Major battle, first undeniable healing miracle (Dax)
+- **Chapter 10**: Major battle, first undeniable healing miracle (Dax), **sword transforms to silver-white steel, cleaves enemy weapon**
 
 ### Part III: An Unlikely Saint (Chapters 11-16)
-- **Chapter 11**: Silviana Starweaver arrives, Gond accepts paladin identity
+- **Chapter 11**: Silviana Starweaver arrives, Gond accepts paladin identity, **Silviana shares elven lore about divine paladin blades**
 - **Chapter 12**: Divine power training with Silviana, learning costs and control
 - **Chapter 13**: Settlement grows to 200 people, slaver attack by Crimson Company, Pell's pivotal question about vengeance, Gond realizes transformation
-- **Chapter 14**: Willem dies despite healing attempt, crisis of faith, Thorek Ironheart arrives, Iron Covenant alliance formed
+- **Chapter 14**: Willem dies despite healing attempt, crisis of faith, Thorek Ironheart arrives, Iron Covenant alliance formed, **Thorek examines sword and declares it beyond mortal forging ability**
 - **Chapter 15**: Maera returns with resistance network, Grimjaw Ironforge defects with siege engines, Elena Brightblade joins
 - **Chapter 16**: Religious delegation arrives, High Cleric Aldric demands submission, Gond refuses, religious schism begins
 
@@ -34,6 +34,40 @@
 - **Chapter 19**: Political organization challenges with multi-racial council, Sir Roderick Ashford's Noble Knights offer alliance with classist conditions, Gond rejects "proper order" for true equality, settlement reaches 500 people
 - **Chapter 20**: Religious crisis as temples split over Gond's legitimacy, Circle of Whispers formal conclave, Gond heals ancient shadow-touched wound, elven recognition as true paladin, intelligence gift about slave cities
 - **Chapter 21**: Noble Knight defectors led by Sir Marcus Brightwater join after discovering Sir Roderick's hypocrisy, Reformed Order declares independence from High Temple, three-army coordination planned for final campaign
+
+### Part V: The War for Freedom (Chapters 22-25)
+- **Chapter 24**: Climactic battle for Darach, **sword emits blue-white light, cuts through evil clerics' fear magic, creates wake of courage for liberation army**
+
+## Gond's Divine Sword - Spiritual Metaphor
+
+### Sword Evolution Timeline
+1. **Chapter 4**: Origin - Crude, nearly black iron sword from slaver ambush, more iron than steel
+2. **Chapter 5**: Attachment - Gond feels inexplicably drawn to weapon, refuses superior blades
+3. **Chapter 10**: Transformation - Becomes silver-white finest sword-steel during first major battle
+4. **Chapter 10**: Recognition - Refugee comments "Finally picked a weapon worthy of a leader"
+5. **Chapter 10**: Power - Sword cleaves through enemy captain's weapon like parchment
+6. **Chapter 11**: Lore - Silviana shares elven knowledge of divine paladin blades from ancient songs
+7. **Chapter 14**: Examination - Thorek declares it "beyond my ability to forge" and "touched by the divine"
+8. **Chapter 24**: Ultimate manifestation - Blue-white light emission, cuts through fear magic, creates courage zone
+
+### Sword Abilities Progression
+- **Early stages**: Crude appearance but inexplicable attachment
+- **Chapter 10**: Silver-white transformation, supernatural sharpness, weapon-cleaving
+- **Chapter 24**: Light emission, magical fear dispelling, courage aura creation
+- **Future potential**: Mentioned abilities include cutting through enchanted armor, banishing supernatural shadows
+
+### Symbolic Meaning
+- **Black iron**: Gond's cynical mercenary past
+- **Silver-white steel**: Divine transformation and paladin awakening
+- **Blue-white light**: Ultimate spiritual evolution and divine purpose
+- **Fear-cutting**: Ability to overcome evil and inspire hope in others
+- **Weapon evolution parallels character growth**: From crude tool to divine instrument
+
+### Expert Recognition
+- **Thorek Ironheart**: Master dwarven smith declares it beyond mortal crafting ability
+- **Silviana Starweaver**: Recognizes it from ancient elven songs about paladin blades
+- **Historical context**: Only a dozen such blades in all history since Alanyi first walked among mortals
+- **Previous example**: Ser Aldric the Pure's blade (3 centuries ago) could cleave enchanted armor and banish supernatural shadows
 
 ## Character Developments
 
@@ -124,6 +158,7 @@
 4. **Enemy escalation**: Organized response to Gond's growing threat
 5. **Vengeance to mercy transformation**: Gond's complete spiritual evolution
 6. **Military preparation**: Siege engines, weapons, tactical training for larger war
+7. **Divine sword evolution**: Weapon growing in power alongside Gond's spiritual development
 
 ### Foreshadowing Elements
 1. **Borin and Kael's fate**: Still operating as slave catchers, destined for mercy encounter
@@ -132,6 +167,7 @@
 4. **Multi-racial society**: Vision of humans, dwarves, and elves united
 5. **Religious legitimacy**: Circle of Whispers endorsement pending
 6. **Noble Knights emergence**: Aristocratic faction opposing slavery
+7. **Sword's ultimate power**: Blue-white light and fear-cutting abilities
 
 ## World-Building Elements
 
@@ -146,6 +182,7 @@
 - **Iron Covenant weapons**: Superior dwarven craftsmanship
 - **Resistance network**: 200+ fighters locally, thousands continentally
 - **Professional defectors**: Former soldiers joining liberation cause
+- **Divine paladin blade**: Gond's transformed sword with supernatural abilities
 
 ### Political Landscape
 - **Slave trade infrastructure**: Coastal cities as processing hubs
@@ -160,6 +197,7 @@
 4. **Specific enemy response to Crimson Company failure**
 5. **Maera's full network scope and capabilities**
 6. **Religious orders' final factional alignments**
+7. **Sword's full potential and future evolution**
 
 ## Key Locations
 
@@ -186,3 +224,4 @@
 4. **Cost of leadership and impossible choices**
 5. **Transformation from personal to political struggle**
 6. **Faith tested through failure and doubt**
+7. **Spiritual growth manifested through divine artifacts**

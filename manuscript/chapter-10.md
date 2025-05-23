@@ -10,11 +10,15 @@ Gond moved through the battle like a man possessed, every decision flowing from 
 
 "Behind you!" Pell shouted, engaging two slavers near the valley's entrance.
 
+Gond drew his sword as he spun to face the threat. The blade that emerged from its sheath was no longer the crude, dark iron he had carried for weeks. Instead, it gleamed like polished silver, its edge sharp as winter starlight. The transformation was so complete, so impossible, that for a moment he could only stare.
+
+"By the gods," breathed a nearby refugee, lowering his bow. "Finally picked a weapon worthy of a leader."
+
 Gond spun, his blade meeting the descending sword of a massive slaver captain. The man's strength was enormous, each blow driving Gond back step by step. Steel rang against steel as they fought, the captain's experience evident in every calculated strike.
 
 The slaver's blade slipped past Gond's guard, the point driving deep into his thigh. Fire shot up his leg, and he stumbled, blood flowing freely down to pool in his boot. The watching refugees gasped—such a wound would cripple a man, leave him limping for life if he survived at all.
 
-But Gond fought on, his movements barely hindered. He feinted left, then drove his sword up under the captain's guard, finding the gap between breastplate and helm. The man toppled backward, his weapon clattering on stone.
+But Gond fought on, his movements barely hindered. The transformed blade sang through the air with supernatural sharpness. When the captain raised his sword to block Gond's next strike, the silver blade sheared through the steel like parchment, continuing its arc to find the gap between breastplate and helm. The man toppled backward, his severed weapon clattering in two pieces on the stone.
 
 The battle turned decisively. The remaining slavers, seeing their leader fall and their ambush turned against them, broke and fled. Gond's people pursued them to the valley's edge, ensuring they wouldn't return.
 

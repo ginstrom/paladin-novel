@@ -42,9 +42,19 @@ In moments, three bodies lay still in the dust. Sim moved calmly to the terrifie
 
 "Easy," Sim murmured to the horses, approaching with carrots salvaged from the scattered supplies. Despite the scent of blood thick in the air, his gentle manner soon had them calm and willing.
 
-Pell grinned as he counted coins and tested a sword's balance. "Good haul." His eyes gleamed with satisfaction.
+Pell grinned as he counted coins and tested a sword's balance. "Good haul." His eyes gleamed with satisfaction. "This one's decent steel—much better than that old boathook."
 
-Gond only nodded, his gaze already scanning the horizon for more threats.
+Gond knelt beside the fallen slavers, examining their weapons. Two carried standard mercenary blades, well-maintained but unremarkable. The third bore a sword that made him pause. The weapon was crude, its blade nearly black with a dull, matte finish that seemed to drink in the light. More iron than steel, by the look of it—the kind of cheap weapon slave catchers carried when they couldn't afford better.
+
+His fingers closed around the leather-wrapped hilt. The balance felt wrong, the weight distributed poorly, yet something about it called to him. He lifted it, testing the edge against his thumb. Sharp enough, despite its rough appearance.
+
+"That one's garbage," Pell observed, hefting his own prize. "Take this instead—proper steel, decent balance."
+
+Gond shook his head, sliding the dark blade through his belt. "This one will do."
+
+Pell shrugged, pocketing the better weapon. "Your funeral. Though I suppose you've always had strange tastes."
+
+Gond only nodded, his gaze already scanning the horizon for more threats, the crude sword's weight somehow comforting at his side.
 
 By evening, they'd made camp beneath a spreading pine. Gond tended his wounded arm—the crossbow bolt had left a shallow furrow—while Sim cared for the children's injuries with soft hymns and gentle hands. Pell secured their perimeter, moving like a shadow between the trees.
 
@@ -60,7 +70,7 @@ Pell opened his mouth to protest, but something in Gond's expression killed the 
 
 Dawn found them at the ancient way-station, its moss-covered stones half-hidden by climbing ivy. They stored supplies quickly, secured the horses, and helped injured Dax onto the gentler of the two mounts.
 
-Before departing, Gond clasped Pell's shoulder and pressed his sword into the rogue's hands. "Keep them safe. One week. If I'm not back, go to Maera."
+Before departing, Gond clasped Pell's shoulder and pressed the better steel blade into the rogue's hands. "Keep them safe. One week. If I'm not back, go to Maera."
 
 Sim grasped Gond's forearm, warmth and trust clear in his steady gaze. "Safe travels."
 

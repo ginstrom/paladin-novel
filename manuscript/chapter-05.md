@@ -26,6 +26,12 @@ Inside Darach's walls, the city stirred to life. Hawkers called their wares, car
 
 At the market square, his worst fears materialized. A wanted poster fluttered against a wooden post, the sketch crude but unmistakable—his face, his brand, clear as daylight. **WANTED ALIVE – 500 ROYALS**. The bounty had doubled.
 
+Near the weapon stalls, a smith's apprentice called out, "Fine blades! Steel from the northern forges!" The display glittered with polished swords, their edges bright and true. One in particular caught the light—a well-balanced blade with a leather-wrapped grip, far superior to the crude weapon at his side.
+
+Gond's hand moved unconsciously to his sword hilt, feeling the rough iron beneath his palm. The dark blade had served him well enough, and something about abandoning it felt wrong. Like discarding a loyal companion for a prettier face.
+
+He turned away from the weapons without a second glance.
+
 A merchant glanced from the poster to Gond's face, eyes widening. Gond turned and walked away, forcing himself not to run. More heads turned. Whispers followed.
 
 He made it to the gate before the shouts began.
