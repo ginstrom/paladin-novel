@@ -4,28 +4,150 @@
 
 ### Chapter 12: Healing Hands, Troubled Heart
 
-[[ TODO: fill in chapter outline 12 ]]
+The morning sun filtered through the valley's canopy, casting dappled shadows across the clearing where Gond sat cross-legged on a flat stone. His hands rested palm-up on his knees, fingers slightly curled as Silviana had shown him. The position felt ridiculous—like a street performer waiting for coins.
 
-**Chapter Summary from Outline:**
-- Gond learns to consciously channel his healing powers with Sim's guidance
-- The emotional and physical toll of using divine abilities
-- Struggles with the responsibility of life-and-death decisions
-- Community expectations weigh heavily on his shoulders
-- Growing reputation attracts both hope and unwanted attention
+"Breathe," Silviana said from her place on the moss-covered log beside him. "Feel the light within you, not as a foreign thing, but as part of your very essence."
 
-**Key Scenes to Include:**
-- Training sessions with Sim on controlling divine power
-- Gond experiencing the physical drain of healing
-- Difficult decisions about who to heal and when
-- Community members seeking miracles for minor ailments
-- Signs that word is spreading beyond the valley
+Gond's jaw tightened. "I feel like an idiot."
 
-**Character Development:**
-- Gond learning the limits and costs of his abilities
-- Growing understanding of divine responsibility
-- Tension between helping individuals and protecting the community
+"That is progress." Her voice carried the hint of a smile. "Yesterday you felt like a fraud."
 
-**Tone Notes:**
-- Show the burden of divine power, not just its wonder
-- Explore the ethical complexities of miraculous healing
-- Maintain focus on Gond's humanity despite his divine gifts
+Three weeks had passed since the elven lore-keeper's arrival, three weeks of what she called "divine education" and what he called "sitting around pretending to be mystical." The settlement had grown accustomed to seeing them together each dawn—the gruff former mercenary and the ageless elf, an unlikely pair of teacher and student.
+
+"Close your eyes," Silviana instructed. "Reach for the warmth you felt when you healed Dax."
+
+Gond obeyed, though his shoulders remained rigid. The memory came easily enough—the desperate pull in his chest, the sensation of something flowing out of him and into the dying man. But trying to summon that feeling deliberately was like grasping smoke.
+
+"I can't—" he began.
+
+"You are trying to command it," Silviana interrupted. "Divine power is not a sword to be wielded. It is a river to be channeled."
+
+"Rivers can be dammed."
+
+"And what happens to a river when it is dammed?"
+
+Gond opened his eyes to find her watching him with those ancient, knowing eyes. "It finds another way through. Or it builds pressure until it breaks free."
+
+"Precisely." She gestured toward the settlement below, where smoke rose from cooking fires and the sounds of daily life drifted upward. "Your power has been finding its own way through—in moments of crisis, when your conscious mind steps aside. But such uncontrolled manifestations exact a price."
+
+The price. Gond's hand moved unconsciously to his chest, where a persistent ache had settled after each healing. Not pain exactly, but a hollowness, as if something essential had been carved away. After healing Dax, he'd slept for nearly two days. The smaller healings since—a child's fever, an infected wound, a broken bone—left him drained for hours.
+
+"The exhaustion will lessen," Silviana said, reading his thoughts with unsettling accuracy. "As you learn to work with the divine flow rather than against it."
+
+A commotion from below interrupted their session. Voices raised in argument, the sound of running feet. Gond was on his feet before he'd consciously decided to move, his hand reaching for the sword that wasn't there—he'd left his weapons in his hut, as Silviana insisted during their morning sessions.
+
+"Gond!" Pell's voice carried up the slope, sharp with urgency. "We need you!"
+
+The thief appeared through the trees, his usually composed face tight with worry. Behind him came Sim, supporting a woman Gond didn't recognize—middle-aged, her clothes torn and bloodied, her left arm hanging at an unnatural angle.
+
+"Found her at the valley's edge," Pell said without preamble. "Says she's been walking for days, following rumors of a healer."
+
+The woman raised her head, and Gond saw the desperation in her eyes—the same look he'd seen in every refugee who'd found their way here. But this was different. Worse. Her skin had a grayish pallor, and when she tried to speak, blood flecked her lips.
+
+"Internal injuries," Sim said quietly. "Beyond my skills."
+
+Gond felt the familiar pull in his chest, the divine power stirring in response to suffering. But this time, instead of letting it flow unchecked, he tried to apply Silviana's teachings. He closed his eyes briefly, reaching for that sense of channeling rather than commanding.
+
+"Bring her to the healing circle," he said, his voice steadier than he felt.
+
+They'd established the healing circle at Silviana's suggestion—a ring of smooth stones in a grove where the light fell just so, where the very air seemed to hum with potential. As they laid the woman on the soft grass within the circle, Gond knelt beside her and placed his hands gently on her shoulders.
+
+"What's your name?" he asked.
+
+"Mira," she whispered. "Mira Thornfield. My... my village. They came in the night. Slavers. I hid in the root cellar, but when I tried to help the others..." She coughed, more blood staining her lips.
+
+Gond felt the rage building—the old, familiar fury at the injustice of it all. But beneath that anger, something else stirred. The divine light, responding not to his commands but to his compassion. He let himself feel Mira's pain, her terror, her desperate hope.
+
+The power flowed through him like warm honey, slower and more controlled than before. He felt it seeking out the damaged places within her—the internal bleeding, the shattered ribs, the trauma that went deeper than flesh. But as the healing progressed, Gond became aware of something else: the cost.
+
+Each mended bone drew strength from his own. Each sealed wound left him a little more hollow. The divine power wasn't limitless—it was borrowed, somehow, from his own life force. The realization should have frightened him, but instead it brought clarity. This was the true burden of his calling: not just the responsibility of choice, but the literal price of each miracle.
+
+When the healing was complete, Mira sat up slowly, her color restored, her breathing clear. She stared at her mended arm in wonder, flexing fingers that had been broken moments before.
+
+"How?" she breathed.
+
+Gond swayed slightly as he stood, Silviana's steadying hand on his elbow. "Rest here tonight," he told Mira. "Sim will see that you're fed and given clean clothes. Tomorrow, if you choose to stay, we'll find you a place among us."
+
+As they helped Mira to one of the guest shelters, Gond caught Silviana's eye. The elf nodded approvingly, but her expression remained serious.
+
+"You felt it," she said once they were alone again. "The true cost."
+
+"Part of me," Gond said, settling heavily onto a fallen log. "Each healing takes part of me."
+
+"Not takes," Silviana corrected. "Transforms. The divine power does not diminish you—it changes you. Makes you more than you were, but different from what you were."
+
+Gond considered this as he watched the settlement below. More people had arrived in recent days—word of the "healer in the hills" spreading despite their efforts at secrecy. Each new face brought hope and desperation in equal measure. Each represented another choice, another burden.
+
+"How many?" he asked.
+
+Silviana didn't need clarification. "In the old stories, the greatest paladins healed hundreds. Some say thousands. But they were different afterward—more divine than mortal, touched by something beyond human understanding."
+
+"And if I refuse? If I say no more healings?"
+
+"Then you would still be a paladin," Silviana said gently. "Divine power manifests in many ways. Healing is only one gift among many."
+
+But even as she spoke, Gond knew he wouldn't refuse. Couldn't refuse. Not when faces like Mira's looked to him with such desperate hope. The choice had been made the moment he'd first felt the divine light stir within him—perhaps even before that, in the slave ship's hold when he'd chosen to help others escape rather than flee alone.
+
+"The exhaustion will pass," Silviana continued. "Your body will adapt, learn to channel the power more efficiently. But the weight of choice—that will only grow heavier."
+
+As if summoned by her words, another commotion arose from the settlement's edge. More voices, more urgent calls for the healer. Gond closed his eyes and felt the divine power stirring again, ready to answer the call.
+
+"How do you bear it?" he asked. "Knowing that every choice to heal one person might mean being too weak to heal the next?"
+
+Silviana was quiet for a long moment, her gaze distant. "You learn to trust," she said finally. "Trust that the divine light knows its own purpose, even when you cannot see it. Trust that each healing, each choice, serves a greater pattern."
+
+"And if the pattern demands more than I can give?"
+
+"Then you give what you can, and trust that it will be enough."
+
+Another call echoed up from below—Pell's voice again, urgent but not panicked. Gond pushed himself to his feet, his body protesting the movement. The hollow ache in his chest had deepened, but beneath it, he felt something else: a strange sense of rightness, as if he were finally walking a path meant for him.
+
+"Come," Silviana said, rising gracefully beside him. "Let us see what new challenge awaits."
+
+As they made their way down the slope, Gond reflected on the morning's lesson. He was beginning to understand that divine power wasn't something he possessed—it was something that possessed him, flowed through him, changed him with each use. The thought should have terrified him, but instead it brought an odd sort of peace.
+
+He was no longer the man who'd awakened in chains, driven by thoughts of revenge. That man had died somewhere between the slave ship and this valley, replaced by someone he was still learning to recognize. Someone who chose to heal rather than harm, to protect rather than pursue vengeance.
+
+The irony wasn't lost on him. In losing his old self, he'd found something far more valuable—a purpose that went beyond personal satisfaction or gain. It was a burden, yes, but it was also a gift.
+
+And as another desperate soul waited below, seeking the touch of divine grace, Gond found himself grateful for both the burden and the gift. Even if he didn't fully understand either yet.
+
+The path ahead remained uncertain, but for the first time since his awakening as a paladin, Gond felt ready to walk it—one healing, one choice, one transformation at a time.
+
+***
+
+The afternoon brought three more refugees: a family fleeing burned farmlands, their youngest child burning with fever. Gond healed the boy, then spent an hour teaching the parents how to recognize the signs of infection. By evening, the hollow ache in his chest had become a constant companion, but the child's laughter as he played with the other settlement children made the cost seem worthwhile.
+
+As darkness fell and the settlement settled into its nightly routines, Gond found himself sitting by the central fire, staring into the flames. Silviana approached with two cups of the herbal tea she favored—something that tasted of pine needles and starlight.
+
+"The hardest lesson," she said, settling beside him, "is learning when not to heal."
+
+Gond accepted the cup gratefully, letting its warmth seep into his hands. "Meaning?"
+
+"A paladin's power is finite, even if it renews itself. Spend it all on minor ailments, and you may have nothing left when true crisis strikes. Heal every petitioner who arrives, and word will spread until thousands come seeking miracles you cannot provide."
+
+The weight of her words settled over him like a heavy cloak. "So I'm supposed to choose who deserves healing and who doesn't?"
+
+"You are supposed to choose wisely. To see the larger pattern, the greater need." Silviana sipped her tea, her expression thoughtful. "A healer who saves one life may inspire a dozen others to acts of courage. A miracle witnessed by the right person may turn the tide of a war."
+
+"And how am I supposed to know which healing will have which effect?"
+
+"You don't," she said simply. "You trust in the divine wisdom that flows through you, and you make the best choices you can with the knowledge you have."
+
+Gond drank his tea in silence, watching the flames dance and shift. Around them, the settlement hummed with quiet activity—families sharing evening meals, guards taking their posts, the soft murmur of conversation and laughter. All of it made possible by his choice to heal rather than flee, to build rather than destroy.
+
+"The boy today," he said finally. "His fever—it wasn't life-threatening, was it?"
+
+"Probably not. Sim's herbs would have broken it in a day or two."
+
+"But his parents' faces when I healed him instantly..."
+
+"Hope," Silviana finished. "You gave them hope. And hope, properly nurtured, can be more powerful than any sword."
+
+Gond nodded slowly, beginning to understand. Each healing was more than just the mending of flesh—it was a statement, a promise, a beacon for others to follow. The divine power flowing through him wasn't just about individual miracles, but about building something larger. A movement. A cause.
+
+A revolution.
+
+The thought should have daunted him, but instead it filled him with a strange sense of anticipation. Tomorrow would bring new challenges, new choices, new opportunities to channel the divine light in service of something greater than himself.
+
+And for the first time since accepting his calling, Gond found himself looking forward to whatever came next.
