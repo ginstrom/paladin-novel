@@ -7,12 +7,12 @@
 - **Several months ago**: Gond betrayed by Borin and Kael, sold into slavery
 
 ### Part I: The Rude Awakening (Chapters 1-3)
-- **Chapter 1**: Gond awakens in slave ship, recalls betrayal
-- **Chapter 2**: Escape from slave ship, Jord dies, Gond/Pell/Sim reach shore
-- **Chapter 3**: Meet Maera, receive aid and guidance toward Darach
+- **Chapter 1**: Gond awakens in slave ship, recalls betrayal, **establishes his previous attitude toward slavery as mercenary**
+- **Chapter 2**: Escape from slave ship, Jord dies, Gond/Pell/Sim reach shore, **Pell's coast knowledge enables strategic timing**
+- **Chapter 3**: Meet Maera, receive aid and guidance toward Darach, **Gond reflects on his past avoidance of slaver contracts**
 
 ### Part II: Seeds of Rebellion (Chapters 4-10)
-- **Chapter 4**: Ambush slave cart, rescue Aerin and Dax, acquire horses, **Gond acquires crude black iron sword**
+- **Chapter 4**: Ambush slave cart, rescue Aerin and Dax, acquire horses, **Gond acquires crude black iron sword**, **realizes his fundamental shift from passive acceptance to active resistance**
 - **Chapter 5**: Gond scouts Darach alone, abandons revenge pursuit for group safety, rescues Lira, **refuses better weapons in favor of crude sword**
 - **Chapter 6**: First mystical encounter at ruined temple of Alanyi
 - **Chapter 7**: **Three weeks after finding the valley** - Gradual awakening of divine abilities, settle in hidden valley
@@ -37,6 +37,23 @@
 
 ### Part V: The War for Freedom (Chapters 22-25)
 - **Chapter 24**: Climactic battle for Darach, **sword emits blue-white light, cuts through evil clerics' fear magic, creates wake of courage for liberation army**, **Gond demonstrates brand-erasing ability - heals freed slaves and completely removes their slavery brands**
+
+## Continuity Fixes Implemented
+
+### Pell's Coast Knowledge
+- **Chapter 2**: Added Pell's background as former fishing boat worker from Millhaven
+- **Strategic knowledge**: Recognizes Widow's Cape and ship navigation patterns
+- **Escape timing**: Third watch coincides with ship angling close to shore (200 yards)
+- **Local expertise**: Knows deep currents and coastal hazards that force ships inshore
+
+### Gond's Slavery Background and Perspective Shift
+- **Chapter 1**: Established Gond's previous selective mercenary work, avoiding slaver contracts out of distaste
+- **Historical context**: Slaver's Guild too powerful to fight, kings and nobles profit from trade, temples bless operations
+- **Previous attitude**: Accepted slavery as unchangeable fact of life, "not his fight"
+- **Chapter 3**: Added reflection on witnessing temple slave auctions, walking past branded faces
+- **Self-recognition**: Acknowledges past cowardice disguised as pragmatism
+- **Chapter 4**: Pivotal realization that his perspective has fundamentally shifted
+- **Transformation trigger**: Personal experience of slavery brands him, makes resistance personal and urgent
 
 ## Gond's Divine Powers - Brand Fading and Erasing
 
@@ -83,17 +100,123 @@
 - **Historical context**: Only a dozen such blades in all history since Alanyi first walked among mortals
 - **Previous example**: Ser Aldric the Pure's blade (3 centuries ago) could cleave enchanted armor and banish supernatural shadows
 
+## Divine System and Religious Orders
+
+### Pantheon of Gods
+
+#### Alanyi
+- **Domains**: Healing and joy
+- **Symbol**: Intertwined circles
+- **Role**: Primary divine patron of Gond's paladin calling
+- **Manifestation**: Speaks through Gond at critical moments, causing his face to glow with otherworldly light
+
+#### Turin
+- **Domains**: Blessing weapons and armor
+- **Connection**: Patron deity of Iron Covenant (dwarven faction)
+- **Historical significance**: True teachings preserved by dwarves after 200-year schism with Marshal Order
+
+#### Kemiss
+- **Domains**: Skill in tradecraft
+- **Role**: Patron of artisans and craftspeople
+
+#### Semit
+- **Domains**: God of the forge, weaponcraft, armory, and machinery
+- **Connection**: Likely patron of dwarven smiths and engineers
+
+#### Gorlatch
+- **Domains**: Fear, paralyzation, illusion and deception
+- **Role**: Antagonistic divine force, ancient evil god
+- **Conspiracy**: Centuries-long plan to corrupt divine worship through slavery and fear
+
+### Divine Magic System
+
+#### Healing Power Mechanics
+- **Nature**: **NOT FINITE** - Healing power draws from healer's reserves but these reserves replenish over time
+- **Sustainability**: Unlike finite magical systems, divine healing can be performed repeatedly as reserves naturally restore
+- **Key limitations**:
+  - **Capacity of the healer**: Individual skill, experience, and spiritual development level
+  - **Will of the god**: Divine permission, instruction, or prohibition
+  - **Connection of patient to the god**: Faith, worthiness, spiritual receptivity
+
+#### Divine Intervention and Consequences
+- **Divine control**: Gods may forbid healing or instruct healer to stop partway through treatment
+- **Defiance consequences**: Healer may ignore divine instruction and pour out all energy in defiance of deity
+- **Risks of defiance**: Severe self-harm, death, or becoming "fallen" (losing divine connection)
+- **Spiritual balance**: Divine healing requires harmony between healer's will and divine purpose
+
+### Paladin Powers and Development
+
+#### Universal Paladin Abilities
+- **Healing**: All paladins possess divine healing capabilities
+- **Combat prowess**: Unusually good fighting ability enhanced by divine blessing
+
+#### Individual Powers
+- **Uniqueness**: Most powers are unique to each paladin
+- **Deity influence**: Some powers more common depending on patron deity (e.g., fear removal for Alanyi paladins)
+- **Development**: Powers grow through spiritual development and as rewards for great deeds
+- **Progression**: Abilities manifest over time as divine connection deepens
+
+#### Gond's Power Progression
+1. **Healing**: Basic divine healing ability
+2. **Prowess in battle**: Enhanced combat skills and reflexes
+3. **Heightened senses**: Supernatural awareness and perception
+4. **Calming effect**: Ability to bring peace and reduce tension
+5. **Immunity from fear**: Personal protection against fear-based attacks
+6. **Protecting others from fear/granting courage**: Extending fear immunity to allies
+7. **Divine manifestation**: When Alanyi speaks through him, face appears to glow with otherworldly light
+8. **Brand erasing**: Ability to completely remove slave brands through healing touch
+
+### Gond's Brand Transformation
+
+#### Evolution Timeline
+- **Early stages**: Slave brand (cross manacles) clearly visible and painful
+- **Chapter 11+**: Brand visibly fading as divine power grows, "more shadow than scar"
+- **Progressive transformation**: Over time, brand fades completely
+- **Divine replacement**: In certain moments, appears not as slavery brand but as Alanyi's intertwined circles
+
+#### Moonlight Manifestation
+- **Special visibility**: Under moonlight, mark appears as faintly glowing silvery lines on Gond's forehead
+- **Symbol transformation**: Displays Alanyi's intertwined circles rather than slave manacles
+- **Divine significance**: Visual representation of spiritual transformation from bondage to divine service
+
+#### Brand-Erasing Ability Development
+- **Chapter 11**: Silviana explains Gond will develop ability to erase others' brands
+- **Chapter 24**: First demonstration - completely removes slavery brands from freed slaves
+- **Mechanism**: Healing touch that erases both physical mark and spiritual bondage
+- **Significance**: "One of the greatest gifts a paladin of mercy can offer: the chance to be truly free, unmarked by past suffering"
+
+### Enhanced Sword Evolution Details
+
+#### Physical Transformation Stages
+1. **Initial state**: Poor quality, more iron than steel, nearly black from impurities
+2. **Pell's assessment**: Jokingly called "pick sticker" due to crude appearance
+3. **Gradual improvement**: Quality increases over time, gains "proper shine"
+4. **Pell's observation**: "Finally knocked some of the rust off, it's got a proper shine now"
+5. **Battle transformation**: Becomes fully silver in first major battle
+6. **Ultimate manifestation**: Blue-white light emission with advanced divine powers
+
+#### Divine Abilities Development
+- **Early stage**: Inexplicable attachment despite crude appearance
+- **Chapter 10**: Silver-white transformation, supernatural sharpness, weapon-cleaving ability
+- **Advanced powers**: Light emission, cutting through fear spells, daunting evil foes
+- **Chapter 24**: Blue-white light, fear magic dispelling, courage aura creation
+- **Future potential**: Cutting through enchanted armor, banishing supernatural shadows
+
 ## Character Developments
 
 ### Gond's Transformation Arc
-- **Chapters 1-5**: Vengeance-driven mercenary → Unconscious protector
+- **Pre-betrayal**: Selective mercenary avoiding slaver contracts, accepting slavery as unchangeable
+- **Chapters 1-5**: Vengeance-driven mercenary → Unconscious protector → Active resistance
 - **Chapters 6-10**: Reluctant divine vessel → Emerging paladin
 - **Chapters 11-16**: Accepting paladin → Revolutionary leader
+- **Key moment (Chapter 4)**: Realizes he can no longer walk away from slavery
 - **Key moment (Chapter 13)**: Realizes revenge is no longer his focus
 - **Crisis point (Chapter 14)**: Learns divine power has limits, accepts burden
 - **Political awakening (Chapter 16)**: Rejects religious authority, commits to total war
 
 ### Pell's Character Growth Arc
+- **Background**: Former fishing boat worker from Millhaven, turned to "more profitable work"
+- **Coast knowledge**: Provides strategic advantage in escape planning
 - **Early chapters**: "Coins over conscience" attitude, materialistic focus
 - **Chapter 4**: Excited about "good haul" from slaver ambush, counting coins
 - **Chapter 19**: **Pivotal growth moment** - Refuses substantial blood money from enemy agent
@@ -244,8 +367,9 @@
 
 ### External Threats
 - **Darach**: Nearby city with increased bounties on escapees
-- **Millhaven**: Burned village, source of recent refugees
+- **Millhaven**: Burned village, source of recent refugees, Pell's hometown
 - **Coastal cities**: Major slave trade hubs targeted for liberation
+- **Widow's Cape**: Rocky promontory where ships angle close to shore
 
 ## Themes Developed in Part III
 1. **Divine responsibility and its burdens**

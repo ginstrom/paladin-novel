@@ -165,6 +165,7 @@
     *   Helps Gond understand the costs and responsibilities of divine calling (Ch 12).
     *   Provides spiritual guidance during Gond's crisis of faith (Ch 14).
     *   Defends Gond's legitimacy against High Cleric Aldric (Ch 16).
+    *   Guides Sister Marta in understanding the old ways of Alanyi worship (Ch 16).
     *   Represents elven interests and ancient knowledge (Ch 16-21).
     *   Uses elven magic to confuse enemies during major battle (Ch 17).
     *   Accompanies Gond to Circle of Whispers conclave (Ch 20).
@@ -173,6 +174,7 @@
 *   **Relationships:**
     *   Spiritual guide and teacher to Gond.
     *   Mentor figure to Sim, sharing ancient Alanyi traditions.
+    *   Spiritual advisor to Sister Marta on old ways.
     *   Diplomatic liaison with other elven communities.
     *   Representative of Circle of Whispers.
 *   **Current Status/Location:** At valley settlement, coordinating elven support for campaign (End of Chapter 21).
@@ -241,7 +243,7 @@
 *   **Current Status/Location:** At valley settlement, coordinating intelligence for campaign (End of Chapter 21).
 
 ## High Cleric Aldric
-*   **Bio/Description:** Leader of the established Order of Alanyi. A man whose expensive robes and soft hands speak of a life spent far from the hardships his goddess supposedly championed. Represents corrupt religious hierarchy that serves political rather than divine interests. Demands submission to traditional authority.
+*   **Bio/Description:** Leader of Turin's ascendant followers, representing the shift in religious power as Turin's influence grows while Alanyi's wanes. A man whose expensive robes bear the crossed hammers of the god of justice, though his soft hands speak of a life spent far from the hardships his god supposedly champions. Represents corrupt religious hierarchy that serves political rather than divine interests. Demands submission to traditional authority.
 *   **First Appearance:** Chapter 16
 *   **Key Actions/Events:**
     *   Leads religious delegation to challenge Gond's legitimacy (Ch 16).
@@ -254,27 +256,49 @@
     *   Allies with slave cities, blessing their cause as divinely ordained (Ch 21).
 *   **Character Arc:** Corrupt authority → Challenged legitimacy → Rejected power → Enemy alliance
 *   **Relationships:**
-    *   Superior to Sim in Order of Alanyi hierarchy.
+    *   Leader of Turin's ascendant religious faction.
     *   Opponent of Gond's movement.
     *   Representative of established religious corruption.
     *   Ally of slave cities against liberation movement.
+    *   Superior to Brother Castor in religious hierarchy.
 *   **Current Status/Location:** Allied with slave cities, preparing religious opposition (End of Chapter 21).
 
+## Brother Castor
+*   **Bio/Description:** Thin, nervous priest in the faded robes of Alanyi—one of only two representatives of the once-mighty order in the religious delegation. Represents the decline of Alanyi's influence and the corruption of her remaining followers. Sycophantic and eager to please, constantly seeking approval from High Cleric Aldric. Parrots every accusation and challenge brought forth by Aldric.
+*   **First Appearance:** Chapter 16
+*   **Key Actions/Events:**
+    *   Arrives with religious delegation as one of only two Alanyi priests (Ch 16).
+    *   Echoes Aldric's skepticism about Gond's divine calling (Ch 16).
+    *   Parrots accusations of charlatanism and demands for credentials (Ch 16).
+    *   Supports Aldric's threats of excommunication and heresy charges (Ch 16).
+    *   Desperately dismisses Gond's healing miracle as "tricks and illusions" (Ch 16).
+    *   Departs with Aldric's delegation in failure (Ch 16).
+*   **Character Arc:** Sycophantic follower → Exposed corruption → Rejected authority
+*   **Relationships:**
+    *   Subordinate to High Cleric Aldric, seeking constant approval.
+    *   Represents corrupted faction of Alanyi's order.
+    *   Contrast to Sister Marta's authentic faith.
+    *   Enemy of Gond's movement through blind loyalty to corrupt authority.
+*   **Current Status/Location:** Departed with Aldric's delegation, presumably supporting slave cities (End of Chapter 16).
+
 ## Sister Marta
-*   **Bio/Description:** Young priest from Westport Temple, perhaps thirty years old, with the calloused hands of someone who works for a living despite her clerical robes. Represents sympathetic faction within established orders who question corrupt authority.
+*   **Bio/Description:** Young priest from Westport Temple, perhaps thirty years old, with the calloused hands of someone who works for a living despite her clerical robes. Follows the old ways of Alanyi worship and seeks guidance from Silviana on authentic spiritual practices. Represents the sympathetic faction within established orders who question corrupt authority and maintain secret traditional practices.
 *   **First Appearance:** Chapter 16
 *   **Key Actions/Events:**
     *   Arrives with religious delegation to assess Gond (Ch 16).
-    *   Challenges Gond to heal Lily's withered arm (Ch 16).
-    *   Witnesses miraculous healing and declares Gond legitimate (Ch 16).
-    *   Promises Westport Temple will remember Gond's divine blessing (Ch 16).
+    *   Shows reverence for Silviana's knowledge of old ways (Ch 16).
+    *   Seeks Silviana's counsel on whether to request healing demonstration (Ch 16).
+    *   Witnesses Gond's healing of Lily's withered arm (Ch 16).
+    *   Declares Gond carries divine blessing despite political complications (Ch 16).
+    *   Promises Westport Temple will remember the true divine manifestation (Ch 16).
     *   Represents growing schism within religious orders (Ch 16).
     *   Leads Reformed Order delegation joining Gond's cause (Ch 21).
     *   Brings 20 priests and priestesses to support liberation (Ch 21).
-*   **Character Arc:** Skeptical observer → Convinced witness → Sympathetic ally → Reformed Order leader
+*   **Character Arc:** Seeker of old ways → Convinced witness → Reformed Order leader → Liberation ally
 *   **Relationships:**
+    *   Student of Silviana in ancient Alanyi traditions.
     *   Leader of Reformed Order supporting Gond.
-    *   Former member of corrupt establishment.
+    *   Contrast to Brother Castor's sycophantic corruption.
     *   Witness to Gond's divine legitimacy.
     *   Religious coordinator for liberation movement.
 *   **Current Status/Location:** At valley settlement, leading Reformed Order support (End of Chapter 21).
@@ -299,7 +323,7 @@
 *   **Current Status/Location:** Coordinating Iron Covenant forces for campaign (End of Chapter 21).
 
 ## Alanyi
-*   **Bio/Description:** Goddess of peace, light, justice, and redemption. Also known as the goddess of mercy. Her faith is often ridiculed as weak or ineffectual in a harsh world, and many of her temples are in ruin.
+*   **Bio/Description:** Goddess of peace, light, justice, and redemption. Also known as the goddess of mercy. Her faith is often ridiculed as weak or ineffectual in a harsh world, and many of her temples are in ruin. Her influence has waned among humans as Turin's power has grown ascendant.
 *   **First Appearance:** Mentioned by Sim in Chapter 2.
 *   **Key Actions/Events:**
     *   Worshipped by Sim.
@@ -308,11 +332,12 @@
     *   Ancient alliance with Turin preserved by dwarves (historical).
     *   Divine power enables healing of shadow-touched wound (Ch 20).
 *   **Relationships:** 
-    *   Deity worshipped by Sim and Silviana.
+    *   Deity worshipped by Sim, Silviana, and Sister Marta.
     *   Divine patron of Gond's paladin calling.
     *   Ancient partner to Turin in original Marshal Order.
     *   Recognized by Circle of Whispers as active divine force.
-*   **Current Status/Location:** Divine entity, actively supporting Gond's mission.
+    *   Influence waning as Turin's grows among human orders.
+*   **Current Status/Location:** Divine entity, actively supporting Gond's mission despite declining human worship.
 
 ## Borin
 *   **Bio/Description:** Mercenary and former comrade of Gond. After betraying Gond, he and Kael turned to slave catching for profit. Represents the path Gond could have taken without divine intervention.
@@ -370,105 +395,4 @@
 *   **Bio/Description:** Speaker for the Circle of Whispers, eldest member with white starlight hair and eyes holding the depth of centuries. Ancient elf who transcends simple categories, existing partially in this realm and partially in more fundamental reality.
 *   **First Appearance:** Chapter 20
 *   **Key Actions/Events:**
-    *   Leads Circle of Whispers conclave to test Gond (Ch 20).
-    *   Witnesses Gond heal shadow-touched wound that resisted all healing for 3000 years (Ch 20).
-    *   Formally recognizes Gond as true paladin of Alanyi (Ch 20).
-    *   Provides intelligence gift about slave cities to aid liberation (Ch 20).
-    *   Commits elven nations to support Gond's cause (Ch 20).
-*   **Character Arc:** Ancient observer → Divine witness → Formal endorser
-*   **Relationships:**
-    *   Leader of Circle of Whispers.
-    *   Ancient authority validating Gond's divine calling.
-    *   Ally providing crucial intelligence and support.
-*   **Current Status/Location:** Grove of First Light, coordinating elven campaign support (End of Chapter 20).
-
-## Sir Roderick Ashford
-*   **Bio/Description:** Third son of the Duke of Westmarch, leader of Noble Knights faction seeking to reform slavery system while preserving class hierarchy. Wears masterwork armor and bears crossed hammers of Turin's order with subtle differences. Represents aristocratic opposition to slavery that maintains classist attitudes.
-*   **First Appearance:** Chapter 19
-*   **Key Actions/Events:**
-    *   Leads Noble Knights delegation offering alliance with conditions (Ch 19).
-    *   Proposes ending slavery while preserving "proper order" and class hierarchy (Ch 19).
-    *   Rejected by Gond for classist attitudes and unwillingness to accept true equality (Ch 19).
-    *   Revealed to profit from child slavery despite reform rhetoric (Ch 21).
-    *   Expels Noble Knight defectors who discover his hypocrisy (Ch 21).
-*   **Character Arc:** Reform advocate → Exposed hypocrite → Factional opponent
-*   **Relationships:**
-    *   Leader of classist Noble Knights faction.
-    *   Opponent of true equality and liberation.
-    *   Former commander of Sir Marcus Brightwater and defectors.
-*   **Current Status/Location:** Leading remaining Noble Knights loyal to established order (End of Chapter 21).
-
-## Sir Marcus Brightwater
-*   **Bio/Description:** Respected Noble Knights commander who discovered Sir Roderick's hypocrisy regarding child slavery. Leads defector faction that abandons classist attitudes to join true liberation cause. Battle-hardened knight with dented armor showing recent conflict.
-*   **First Appearance:** Chapter 21
-*   **Key Actions/Events:**
-    *   Discovers Sir Roderick's contracts for child slavery on plantation raid (Ch 21).
-    *   Confronts Sir Roderick about hypocrisy, leading to expulsion from Noble Knights (Ch 21).
-    *   Leads 20 defector knights to join Gond's cause (Ch 21).
-    *   Provides intelligence about enemy positions and weaknesses (Ch 21).
-*   **Character Arc:** Loyal knight → Disillusioned reformer → True liberation ally
-*   **Relationships:**
-    *   Former subordinate of Sir Roderick Ashford.
-    *   Leader of Noble Knight defectors joining Gond.
-    *   Military ally providing tactical knowledge.
-*   **Current Status/Location:** At valley settlement, leading defector knights in liberation cause (End of Chapter 21).
-
-## Kemiss
-*   **Bio/Description:** God of commerce and trade, legitimate deity whose priests have been impersonated by Gorlatch clerics. Represents the proper balance between commerce and ethics, corrupted by false worship that elevates profit over compassion.
-*   **First Appearance:** Mentioned in Chapter 3
-*   **Key Actions/Events:**
-    *   Legitimate priests conduct honest trade and commerce (background).
-    *   False priests claiming his authority bless slave auctions (Ch 3, 11, 16).
-    *   True worship corrupted by Gorlatch infiltration (Ch 20, 21).
-*   **Relationships:**
-    *   Legitimate deity whose worship has been corrupted.
-    *   Opposed to Gorlatch's evil influence.
-    *   Represents proper commerce vs. exploitative trade.
-*   **Current Status/Location:** Divine entity, true worship being restored.
-
-## Gorlatch
-*   **Bio/Description:** Banned evil god whose worship was outlawed 200 years ago. Works through false priests and corrupted institutions to weaken divine worship and spread suffering. Master of fear magic and spiritual corruption.
-*   **First Appearance:** Mentioned in Chapter 14, revealed in Chapter 20
-*   **Key Actions/Events:**
-    *   Worship banned 200 years ago, coinciding with Marshal Order corruption (Ch 14).
-    *   Followers infiltrate other religious orders as false priests (Ch 20).
-    *   Orchestrates centuries-long plan to corrupt divine worship through slavery (Ch 21).
-    *   Uses fear magic and spiritual corruption as weapons (Ch 20).
-*   **Character Arc:** Ancient evil → Underground corruption → Exposed conspiracy
-*   **Relationships:**
-    *   Enemy of all legitimate divine worship.
-    *   Opposed by Alanyi, Turin, and other good deities.
-    *   Master of false priests and corrupted clerics.
-*   **Current Status/Location:** Divine entity, working through remaining followers.
-
-## Brother Aldwin
-*   **Bio/Description:** False priest of Gorlatch posing as a priest of Kemiss. Thin man with pale skin and dark hair, practiced smile hiding predatory nature. Leader of delegation sent to corrupt or eliminate Gond.
-*   **First Appearance:** Chapter 20
-*   **Key Actions/Events:**
-    *   Arrives claiming to represent merchant guilds of Millhaven (Ch 20).
-    *   Attempts to negotiate "reform" of slavery rather than abolition (Ch 20).
-    *   Uses fear magic to immobilize Gond's allies (Ch 20).
-    *   Reveals Gorlatch's centuries-long corruption plan (Ch 20).
-    *   Destroyed by Gond's divine sword (Ch 20).
-*   **Character Arc:** False merchant → Exposed evil cleric → Destroyed enemy
-*   **Relationships:**
-    *   Servant of Gorlatch posing as priest of Kemiss.
-    *   Partner of Brother Cassius in infiltration mission.
-    *   Enemy of Gond and divine worship.
-*   **Current Status/Location:** Destroyed in Chapter 20.
-
-## Brother Cassius
-*   **Bio/Description:** False priest of Gorlatch posing as a priest of Kemiss. Younger companion to Brother Aldwin, voice carries odd resonance suggesting inhuman nature. Uses fear magic and shadow abilities.
-*   **First Appearance:** Chapter 20
-*   **Key Actions/Events:**
-    *   Arrives with Brother Aldwin claiming merchant authority (Ch 20).
-    *   Advocates for "gradual transition" to maintain slavery (Ch 20).
-    *   Reveals inhuman nature when exposed (Ch 20).
-    *   Uses fear magic and shadow attacks against Gond (Ch 20).
-    *   Destroyed by Gond's divine sword (Ch 20).
-*   **Character Arc:** False merchant → Exposed shadow creature → Destroyed enemy
-*   **Relationships:**
-    *   Servant of Gorlatch posing as priest of Kemiss.
-    *   Partner of Brother Aldwin in infiltration mission.
-    *   Enemy of divine light and freedom.
-*   **Current Status/Location:** Destroyed in Chapter 20.
+    *
