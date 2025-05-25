@@ -26,13 +26,13 @@ The massive dwarf emerged from behind his siege engine, bronze-reinforced and gl
 
 "Three columns, professional soldiers. Can your engine cover the eastern approach?"
 
-Grimjaw's grin widened. "Cover it? I can turn it into a bloody graveyard. Just give me targets."
+Grimjaw's grin widened. "Cover it? I can turn it into a firey graveyard. Just give me targets."
 
 Thorek nodded approvingly. "The engine's positioned well. Overlapping fields of fire with the crossbow positions. But two hundred soldiers..." He stroked his braided beard. "We'll need every advantage."
 
 Elena pointed to the settlement's layout. "They'll expect desperate refugees hiding behind makeshift walls. Instead, they'll find prepared positions and coordinated defense."
 
-Gond surveyed his people as they began their preparations. Sim moved among the fighters, checking wounds from previous skirmishes. Silviana stood near the ancient oak, her hands pressed against its bark, lips moving in silent prayer. Aerin and Dax helped distribute arrows, their faces grim but determined.
+Gond surveyed his people as they began their preparations. Sim moved among the fighters, checking wounds from previous skirmishes. Silviana stood near the ancient oak, her hands pressed against its bark, lips moving in silent prayer. Aerin and Dax helped distribute bolts and arrows, their faces grim but determined.
 
 "Pell, take twenty of our best and position them in the rocks above the eastern pass. Let the first column through, then hit them from behind."
 
@@ -64,7 +64,7 @@ The first column advanced down the slope, shields locked, ladders ready. Behind 
 
 Gond waited until the attackers reached the valley floor. "Grimjaw! Give them a welcome!"
 
-The siege engine's arm snapped forward with a sound like thunder. The massive stone sailed through the air and crashed into the center of the advancing column. Bodies flew like broken dolls, the neat formation dissolving into chaos.
+The siege engine's arm snapped forward with a sound like thunder. A rain of small boulders, soaked in ptich and set alight, crashed into the center of the advancing column. Bodies fell under the onslaught, and burning pitch splashed in a large radius. The neat formation dissolved into chaos.
 
 "Again!" Grimjaw roared, his crew already reloading.
 
@@ -110,7 +110,7 @@ But Gond wasn't finished. He pressed the attack, leading his fighters up the slo
 
 The sun was setting by the time they finished counting the cost. Forty-three enemy dead, the rest fled into the hills. But victory had come at a price.
 
-Gond knelt beside Willem's body, the young man's face peaceful in death. A crossbow bolt had taken him through the heart during the final charge. Beside him lay Marta, an elderly woman who'd joined them only weeks ago. A sword thrust had ended her life as she tried to protect the children.
+Gond knelt beside Sif's body, the young man's face peaceful in death. A crossbow bolt had taken him through the heart during the final charge. Beside him lay Marta, an elderly woman who'd joined them only weeks ago. A sword thrust had ended her life as she tried to protect the children.
 
 Seven dead. Nineteen wounded. The settlement's first major battle had been won, but the price was written in blood and tears.
 
@@ -188,7 +188,13 @@ Silviana emerged from the shadows, her elven features sharp in the moonlight. "T
 
 Gond looked around at the faces surrounding him—dwarf, elf, and human united in common cause. The settlement's first victory had proven they could fight, but the real war was just beginning.
 
-"Then we'd better start preparing," he said. "Send word to every ally, every sympathizer. If they want a war, we'll give them one they'll never forget."
+"Then we'll make time," said Gond. "We'll hit their caravans and attack their supply chains. Every slave caravan we liberate strengthens out cause and weakens them." 
+
+That was not what Gond had planned to say. His own surprise was mirrored in the faces around him, but Gond had learned not to question when his goddess chose to speak through him.
+
+"Until now we've been on the defensive. Now it's time to take the fight to the slavers. We'll catch them off guard and buy the time we need to prepare."
+
+The others stared at him awestruck, seeing something in him that he could not feel himself. Then Silviania gave a little shake, nodded and started discussing the new plans with Thorek and the others. This seemed to break the spell, and everyone started to move.
 
 As the group dispersed to spread the word, Gond remained standing in the settlement's center. The funeral pyres had burned down to glowing embers, but their light still flickered in the darkness.
 
@@ -202,4 +208,4 @@ They'd faced professional soldiers and won. They'd proven that free people fight
 
 The reluctant paladin was gone, burned away in the fires of battle. In his place stood something new—a leader ready to forge a free nation from the ashes of the old world.
 
-The real war was about to begin.
+The real war was about to begin. And they would land the next blow.

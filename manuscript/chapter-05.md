@@ -24,13 +24,7 @@ Gond's spine went rigid as he passed beneath the iron gate. Every step expected 
 
 Inside Darach's walls, the city stirred to life. Hawkers called their wares. Cart wheels rumbled over cobblestones. The air filled with the scents of bread and horse dung. But Gond felt eyes everywhere—whispers trailing him like smoke, curious glances that lingered too long.
 
-At the market square, his worst fears materialized. A wanted poster fluttered against a wooden post. The sketch was crude but unmistakable—his face, his brand, clear as daylight. **WANTED ALIVE – 500 ROYALS**. The bounty had doubled.
-
-Near the weapon stalls, a smith's apprentice called out, "Fine blades! Steel from the northern forges!" The display glittered with polished swords, their edges bright and true. One in particular caught the light—a well-balanced blade with a leather-wrapped grip, far superior to the crude weapon at his side.
-
-Gond's hand moved unconsciously to his sword hilt. He felt the rough iron beneath his palm. The dark blade had served him well enough. Something about abandoning it felt wrong. Like discarding a loyal companion for a prettier face.
-
-He turned away from the weapons without a second glance.
+At the market square, his worst fears materialized. A wanted poster fluttered against a wooden post. The sketch was crude but unmistakable—his face, his brand, clear as daylight. **WANTED ALIVE – 500 ROYALS**. It was double the normal bounty for an escaped slave.
 
 A merchant glanced from the poster to Gond's face, eyes widening. Gond turned and walked away, forcing himself not to run. More heads turned. Whispers followed.
 
@@ -60,7 +54,7 @@ Nightfall found the way-station warm with firelight and the rich aroma of stew. 
 
 "Into thin air?" Pell's eyebrow arched.
 
-"Into the hills." Gond pointed to Maera's map. "Too rugged for slavers. Too remote for bounty hunters. We hide, rest, plan our next move."
+"Into the hills." Gond recalled Maera's map. "Too rugged for slavers. Too remote for bounty hunters. We hide, rest, plan our next move."
 
 Sim nodded, that calm certainty settling over him. "Wisdom. Safety first."
 

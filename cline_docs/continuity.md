@@ -31,8 +31,8 @@
 ### Part IV: Forging a Free Nation (Chapters 17-21)
 - **Chapter 17**: First major coordinated attack by 200 professional soldiers, dwarven siege engines prove essential, costly victory with 7 dead, Battlemaster Korgan brings news of 2000-man enemy army
 - **Chapter 18**: Coordinated liberation raids across three provinces, capture and mercy toward Borin and Kael (now slave catchers), vengeance-to-mercy transformation complete, settlement grows to 400 people
-- **Chapter 19**: Political organization challenges with multi-racial council, Sir Roderick Ashford's Noble Knights offer alliance with classist conditions, Gond rejects "proper order" for true equality, settlement reaches 500 people, **Pell refuses blood money from enemy agent - demonstrates character growth from "coins over conscience"**
-- **Chapter 20**: Religious crisis as temples split over Gond's legitimacy, Circle of Whispers formal conclave, Gond heals ancient shadow-touched wound, elven recognition as true paladin, intelligence gift about slave cities
+- **Chapter 19**: **"The Price of War"** (formerly "Dawn of a New Order"). Council debates war strategy against slaver cities. Gond's charisma grows. Sir Roderick Ashford of Noble Knights visits; ideological clash on social order, but less confrontational. Roderick offers conditional support. Alanyi's symbol briefly appears on Gond's brow (seen by Sim, Silviana). Pell accepts gold from Roderick's squire (Alaric) for intel, then brings it to council. They decide to use Pell as a channel for selective information. Settlement reaches 500 people. News of Slavers' Alliance army (3000 strong) and spreading uprisings arrives.
+- **Chapter 20**: **"Revelation and Ripples"**. Messenger from capital reports High Temple proclamation declaring Gond saint or heretic, splitting temples. News of Circle of Whispers conclave request and Millhaven delegation arrival. Gond discerns Gorlatch priests' deception, defeats them. At Grove of First Light, Gond heals shadow-touched elf (Alanyi's symbol briefly seen on his brow by Silviana, Aelindra, healed elf). Circle of Whispers recognizes Gond as true paladin, offers intelligence on slave cities. Return to settlement; council plans response to continental chaos and new intelligence.
 - **Chapter 21**: Noble Knight defectors led by Sir Marcus Brightwater join after discovering Sir Roderick's hypocrisy, Reformed Order declares independence from High Temple, three-army coordination planned for final campaign
 
 ### Part V: The War for Freedom (Chapters 22-25)
@@ -108,7 +108,7 @@
 - **Domains**: Healing and joy
 - **Symbol**: Intertwined circles
 - **Role**: Primary divine patron of Gond's paladin calling
-- **Manifestation**: Speaks through Gond at critical moments, causing his face to glow with otherworldly light
+- **Manifestation**: Speaks through Gond at critical moments, causing his face to glow with otherworldly light. Her symbol (intertwined circles) can momentarily appear on Gond's brow, replacing the slave brand, visible to those with spiritual sensitivity (Ch 19 during discussion with Sir Roderick, seen by Sim & Silviana; Ch 20 during healing of shadow-touched elf, seen by Silviana, Aelindra, and the healed elf).
 
 #### Turin
 - **Domains**: Blessing weapons and armor
@@ -149,6 +149,10 @@
 #### Universal Paladin Abilities
 - **Healing**: All paladins possess divine healing capabilities
 - **Combat prowess**: Unusually good fighting ability enhanced by divine blessing
+
+#### Attitude to conflict
+- **Conflict seeking**: "A paladin's duty is to root out evil, not hide from it."
+- **Inspiring**: Paladins inspire in others the courage to resist evil. They naturally draw followers to fight.
 
 #### Individual Powers
 - **Uniqueness**: Most powers are unique to each paladin
@@ -219,9 +223,9 @@
 - **Coast knowledge**: Provides strategic advantage in escape planning
 - **Early chapters**: "Coins over conscience" attitude, materialistic focus
 - **Chapter 4**: Excited about "good haul" from slaver ambush, counting coins
-- **Chapter 19**: **Pivotal growth moment** - Refuses substantial blood money from enemy agent
-- **Character transformation**: From "coin over conscience, profit over principle" to "Some things aren't for sale"
-- **New values**: "These people aren't just my allies—they're my family. And I don't sell out family"
+- **Chapter 19**: **Pivotal growth & loyalty moment** - Approached by Sir Roderick's squire (Alaric) with offer of gold for intelligence. Accepts initial payment, feigning consideration, but immediately brings the offer and gold to Gond and the council. Agrees to act as a channel for selective information. This demonstrates his loyalty and repurposing of his old skills for the cause, moving beyond simple refusal of blood money to active participation in counter-intelligence.
+- **Character transformation**: From "coin over conscience, profit over principle" to "Some things aren't for sale" and active agent for the liberation.
+- **New values**: "These people aren't just my allies—they're my family. And I don't sell out family." Utilizes past cunning for the group's benefit.
 
 ### Sim's Pacifism Boundary
 - **Core belief**: "Every living being has the right to defend themselves and those who cannot defend themselves"

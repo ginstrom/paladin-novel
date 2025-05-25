@@ -10,17 +10,17 @@ The first sign of trouble came with the dawn—a line of smoke rising from the v
 
 "Could be." Gond's fingers drummed against his sword pommel. "But fires don't usually travel in straight lines toward specific valleys."
 
-The settlement had grown considerably in the weeks since Silviana's arrival. What had once been a handful of refugees huddled around a single fire now sprawled across the valley floor—dozens of shelters, cooking areas, workshops, and storage pits. The population had swelled to nearly two hundred souls, all drawn by whispered tales of the "healer in the hills."
+The settlement had grown considerably in the weeks since Silviana's arrival. What had once been a handful of refugees huddled around a single fire now sprawled across the valley floor—dozens of shelters, cooking areas, workshops, and storage pits. The population had swelled to nearly two hundred souls, all drawn by whispered tales of the "Healer in the Hills."
 
 And that, Gond reflected grimly, was precisely the problem.
 
 "How many today?" he asked.
 
-Pell consulted the tally marks carved into a piece of bark—his method for tracking new arrivals. "Seventeen yesterday. Twenty-three the day before. Word's spreading faster than we can contain it."
+Pell consulted the tally marks carved into a piece of bark—his method for tracking new arrivals. "Seven yesterday. Thirteen the day before. Word's spreading faster than we can contain it."
 
 The numbers told the story Gond had been dreading. Each healing, each miracle, sent ripples outward through the network of desperate people seeking hope. Refugees told other refugees. Escaped slaves whispered to those still in bondage. Sympathetic villagers passed along rumors to anyone who would listen.
 
-The "healer in the hills" was becoming a legend, and legends, Gond had learned, were dangerous things.
+The "Healer in the Hills" was becoming a legend, and legends, Gond had learned, were dangerous things.
 
 "Gond!" Sim's voice carried across the settlement, urgent but controlled. The priest emerged from between two shelters, supporting an elderly man whose clothes marked him as a city dweller—fine fabric, now torn and stained from hard travel.
 
@@ -30,7 +30,7 @@ As they approached, Gond could see the man's condition—exhaustion, dehydration
 
 "This is Marcus," Sim said as they reached the group. "He's traveled from Westport. Three weeks on foot."
 
-Westport. Gond's jaw tightened. That was nearly a hundred miles south—farther than any previous refugee had traveled to reach them. The implications were troubling.
+Westport. Gond's jaw tightened. That was nearly a hundred miles southeast—farther than any previous refugee had traveled to reach them. The implications were troubling.
 
 Marcus raised his head, and Gond saw tears cutting tracks through the grime on his cheeks. "My granddaughter," he whispered. "The wasting sickness. The healers in Westport... they said there was nothing... but I heard stories. A man who could work miracles. Please, I have gold—"
 
@@ -72,7 +72,7 @@ Millhaven. Gond knew the name—a farming community about twenty miles east. Clo
 
 "How many slavers?" Pell asked, already thinking tactically.
 
-"Fifty, maybe more. Professional outfit, not the usual raiders. They had a list." The woman's eyes found Gond, and he saw recognition dawn in them. "They were asking about the healer. Offering gold for information."
+"Fifty, maybe more. Professional outfit, not the usual raiders. They had a list." The woman's eyes found Gond, and he saw recognition dawn in them. "They were asking about the healer."
 
 The words hit the settlement like a physical blow. Conversations stopped. Children moved closer to their parents. Hands drifted toward weapons.
 
@@ -118,7 +118,7 @@ The observation hit Gond like a revelation. When had he last thought about his f
 
 "When did I stop caring about revenge?"
 
-Pell was quiet for a moment, watching the evacuation preparations with thoughtful eyes. "Hard to say exactly. Maybe when you chose to scout Darach alone instead of hunting for information about your betrayers. Maybe when you started healing people instead of planning how to hurt the ones who wronged you." He shrugged. "Or maybe it was gradual—so slow you didn't notice until now."
+Pell was quiet for a moment, watching the evacuation preparations with thoughtful eyes. "Hard to say exactly. Maybe when you chose to leave Darach with your betrayers alive. Maybe when you started healing people instead of planning how to hurt the ones who wronged you." He shrugged. "Or maybe it was gradual—so slow you didn't notice until now."
 
 Gond felt something shift inside him, like a weight he'd been carrying for so long he'd forgotten it was there suddenly lifting away. The rage that had sustained him through slavery, through escape, through those first desperate weeks of freedom—it was gone. Not suppressed or controlled, but genuinely absent, replaced by something else entirely.
 
@@ -154,7 +154,7 @@ The crowd stirred uneasily. Someone called out, "But there are too many of them!
 
 "There are too many of us to run," Gond replied. "Too many children, too many elderly, too many who can't move fast enough to escape. So we don't run. We fight."
 
-"That's suicide," Aerin protested, pushing through the crowd. "We should at least try to get the children out—"
+"That's suicide," Lira protested, pushing through the crowd. "We should at least try to get the children out—"
 
 "And leave them orphans in the wilderness?" Gond shook his head. "No. We stay together. We protect each other. And we trust that sometimes, when the cause is just, fifty isn't always more than two hundred."
 
@@ -214,7 +214,7 @@ Gond stepped forward, placing himself between the slavers and his people. He cou
 
 "Captain Voss," he called out. "You came here hunting a legend. I hope you're prepared for what you find."
 
-The divine light exploded outward from Gond like a physical force, washing over the settlement in a wave of golden radiance. Where it touched the defenders, it left them stronger, faster, more resilient. Where it reached the slavers, it did something else entirely—it showed them exactly what they were facing.
+Gond drew his sword. Divine light exploded outward from it like a physical force, washing over the settlement in a wave of golden radiance. Where it touched the defenders, it left them stronger, faster, more resilient. Where it reached the slavers, it did something else entirely—it showed them exactly what they were facing.
 
 For a moment, the battlefield was silent except for the sound of horses shifting nervously and men muttering prayers. Then Voss raised his crossbow, his face twisted with sudden fear and fury.
 

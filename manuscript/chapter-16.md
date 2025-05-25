@@ -8,7 +8,7 @@ The delegation arrived three days after Maera's war council, announced by the so
 
 "Holy orders," Silviana said, joining him on the platform. Her usually serene expression was troubled. "Multiple orders, by the look of it."
 
-Gond counted the banners as they drew closer. The silver tree of the Order of Alanyi—Sim's order, though these representatives looked far more formal than the gentle priest. The crossed hammers of Turin's Battlemasters, their armor gleaming despite the dust of travel. And others he didn't recognize: a golden sun, a silver moon, a stylized flame.
+Gond counted the banners as they drew closer. The crossed hammers of Turin's Battlemasters dominated the procession, their armor gleaming despite the dust of travel—clearly the ascendant power among the holy orders. The intertwined circles of Alanyi were present but fewer, carried by only two figures who seemed diminished beside Turin's representatives. And others he didn't recognize: a golden sun, a silver moon, a stylized flame.
 
 "They're not here for healing," Pell observed, appearing beside them with his usual silent grace. "Look at the formation—that's a diplomatic mission, not a pilgrimage."
 
@@ -22,7 +22,9 @@ They had their answer within the hour, as the delegation reached the settlement'
 
 The meeting was arranged in the settlement's council area, with representatives from both sides seated around the central fire. Gond took his place flanked by Silviana and Thorek, while Sim sat slightly apart—his position as a member of one of the visiting orders creating an obvious conflict of loyalties.
 
-The leader of the delegation proved to be High Cleric Aldric of the Order of Alanyi, a man whose expensive robes and soft hands spoke of a life spent far from the hardships his goddess supposedly championed. When he spoke, his voice carried the practiced authority of someone accustomed to being obeyed.
+The leader of the delegation proved to be High Cleric Aldric, leader of Turin's ascendant followers, a man whose expensive robes bore the crossed hammers of the god of justice. His soft hands spoke of a life spent far from the hardships his god supposedly championed. When he spoke, his voice carried the practiced authority of someone accustomed to being obeyed.
+
+Beside him sat a thin, nervous priest in the faded robes of Alanyi—one of only two representatives of the once-mighty order. Brother Castor's eyes darted constantly to Aldric, as if seeking approval for his very presence.
 
 "Gond of the Valley," he began formally, "I come bearing greetings from the Council of Sacred Orders, and questions that require answers."
 
@@ -35,6 +37,8 @@ The questions hung in the air like accusations. Around the circle, Gond could se
 "I claim no title," Gond said finally. "I am what I am. The divine power that flows through me is its own authority."
 
 "Divine power?" Aldric's tone suggested polite skepticism. "Many claim such things. Hedge wizards, charlatans, madmen—all insist their abilities come from the gods. What proof do you offer?"
+
+"Yes, what proof?" Brother Castor echoed immediately, his voice shrill with nervous energy. "Charlatans and madmen, exactly as the High Cleric says. Where are your credentials? Your ordination papers?"
 
 Before Gond could respond, Sim stood slowly. The gentle priest's face was pale but determined as he faced his superior.
 
@@ -70,6 +74,8 @@ Aldric settled back into his seat, though his expression remained hostile. "The 
 
 "Then you would be declared a false prophet, your followers excommunicated, and your movement condemned as heretical." Aldric's smile was coldly satisfied. "The consequences would be... severe."
 
+"Severe indeed!" Brother Castor added eagerly, wringing his hands. "Heretical movements must be stamped out before they spread their poison. The High Cleric speaks wisdom!"
+
 Gond felt the divine power stirring within him, responding to the threat against those under his protection. But this wasn't a situation that could be resolved with healing or blessing. This was politics, pure and simple—an attempt to control or destroy what he'd built.
 
 "I see," he said quietly. "And what of the slaves who've been freed? The refugees who've found sanctuary? The hope that's been kindled in the hearts of the oppressed? What happens to them if I submit to your authority?"
@@ -82,7 +88,7 @@ The implication was clear: submit, and perhaps some of what Gond had built would
 
 "The Iron Covenant is a rebel faction," one of the other visiting clerics protested. "They have no authority to grant recognition."
 
-"We have the authority of two centuries of faithful service," Korgan replied. "The authority of standing against corruption when others embraced it. The authority of preserving divine truth when others perverted it for political gain."
+"We have the authority of two millenium of faithful service," Korgan replied. "The authority of standing against corruption when others embraced it. The authority of preserving divine truth when others perverted it for political gain."
 
 As the argument continued, Gond found himself studying the faces around him. The visiting clerics were clearly divided—some nodding along with Aldric's demands, others looking uncomfortable with the High Cleric's heavy-handed approach. His own people were watching him intently, waiting to see how he would respond to this challenge.
 
@@ -106,15 +112,13 @@ Before Aldric could respond, another voice joined the conversation.
 
 Aldric turned to her with obvious relief. "Sister Marta. Your timing is fortuitous. Perhaps you can help this pretender understand the importance of proper religious authority."
 
-But Marta's attention was focused on Gond, her gaze assessing him with professional interest. "I've heard remarkable stories about you. Healing the incurable, inspiring the hopeless, standing against impossible odds. Are they true?"
+But Marta's attention was focused on Silviana, her eyes bright with something approaching reverence. "Lore-keeper Starweaver," she said, inclining her head respectfully. "I have studied the old texts, the ones that speak of Alanyi's true nature before the orders became... political. Your presence here suggests this man may indeed carry the ancient blessing."
 
-"Some of them," Gond replied carefully.
+Silviana studied the young priest with interest. "You follow the old ways, Sister?"
 
-"Show me."
+"As best I can," Marta replied quietly. "The Westport Temple still maintains some of the original practices, though we must be... discrete about it." She glanced meaningfully at Aldric and Brother Castor. "I came here seeking guidance. If this man truly serves our goddess as the stories claim..."
 
-The simple request caught everyone off guard. Aldric sputtered protests about proper procedures and controlled conditions, but Marta ignored him, her attention fixed on Gond.
-
-"There's a child in my party," she continued. "Born with a withered arm, useless since birth. If you truly carry Alanyi's blessing, heal her."
+"There's a child in my party," she continued, turning to Gond but clearly deferring to Silviana's judgment. "Born with a withered arm, useless since birth. Lore-keeper, would you counsel me to ask for healing? Is this the test that would reveal truth?"
 
 Gond felt the divine power stirring in response to the challenge, but also something else—a sense that this moment would define everything that came after. Not just his relationship with the established religious orders, but the future of everything he'd built.
 
@@ -128,7 +132,7 @@ Gond knelt before her, placing his hands gently on her shoulders. "What's your n
 
 "Lily, I'm going to try to help your arm. It might feel strange, but it won't hurt. Is that all right?"
 
-She nodded solemnly, and Gond placed his hands on her withered limb. The divine power flowed through him like warm honey, seeking out the malformed bones and twisted muscles. But this wasn't like healing a wound or curing a disease—this was reshaping something that had been wrong from birth, rewriting the very structure of her body.
+She nodded solemnly, and Gond placed his hands on her withered limb. The famliar feel of the divine power flowed through him, seeking out the malformed bones and twisted muscles. But this wasn't like healing a wound or curing a disease—this was reshaping something that had been wrong from birth, rewriting the very structure of her body.
 
 The effort was enormous, drawing on reserves of divine energy Gond hadn't known he possessed. Around him, he could hear gasps of amazement as Lily's arm began to change, bones straightening, muscles filling out, skin taking on healthy color.
 
@@ -138,9 +142,11 @@ When it was finished, the child flexed her fingers experimentally, wonder dawnin
 
 The circle was silent for a long moment, the implications of what they'd witnessed settling over everyone present. Finally, Sister Marta spoke.
 
-"I've seen enough," she said quietly. "This man carries divine blessing, whatever the politics of the situation might be."
+"I've seen enough," she said quietly. "Your power was very great. This man carries divine blessing, whatever the politics of the situation might be."
 
 "One miracle proves nothing," Aldric said, but his voice lacked its earlier conviction.
+
+"Nothing at all!" Brother Castor chimed in desperately, though his voice wavered. "Tricks and illusions! The High Cleric is right to be skeptical!"
 
 "It proves everything," Korgan replied firmly. "Divine power doesn't flow to the unworthy, regardless of what titles they claim or what authorities recognize them."
 
@@ -158,13 +164,17 @@ The High Cleric's face darkened. "You refuse to submit to proper religious autho
 
 "So be it," Gond said simply.
 
-As the official delegation prepared to depart, their mission clearly failed, Sister Marta approached Gond privately.
+As the official delegation prepared to depart, their mission clearly failed, Sister Marta approached Silviana and Gond quietly.
 
-"You know what this means," she said quietly. "Open war with the established religious hierarchy. They'll use every tool at their disposal to destroy you."
+"Lore-keeper," she said, her voice filled with quiet determination. "I have learned much today. The old ways... they are not dead, are they? There are still those who remember Alanyi's true calling."
+
+Silviana smiled gently. "The old ways endure, Sister. They wait for those with courage to embrace them again."
+
+Marta turned to Gond. "You know what this means," she said quietly. "Open war with the established religious hierarchy. They'll use every tool at their disposal to destroy you."
 
 "I know," Gond replied. "But some things are worth fighting for."
 
-She studied his face for a long moment, then nodded slowly. "The Westport Temple will remember what we witnessed here today. When the time comes to choose sides, we'll know where we stand."
+She studied his face for a long moment, then nodded slowly. "The Westport Temple still maintains the old practices in secret. We will remember what we witnessed here today—not just the healing, but the return of Alanyi's true servant. When the time comes to choose sides, we'll know where we stand."
 
 As the various delegations departed—some in anger, others in thoughtful silence—Gond found himself standing with his core allies around the dying fire. The weight of what had just transpired settled over them like a heavy cloak.
 
@@ -182,7 +192,7 @@ Gond looked around at the faces of his friends and allies, seeing determination 
 
 "Now," he said, "we prepare for war. Not just against slavers and their allies, but against everyone who profits from the current system. It won't be easy, and it won't be quick. But it's necessary."
 
-As the council dispersed and people returned to their various duties, Gond remained by the fire, staring into the flames and thinking about the future. Part III of his journey was ending—the reluctant paladin had become something else entirely.
+As the council dispersed and people returned to their various duties, Gond remained by the fire, staring into the flames and thinking about the future. This part of his journey was ending—the reluctant paladin had become something else entirely.
 
 What came next would test everything he'd learned, everything he'd built, and everyone who'd chosen to stand with him. But for the first time since accepting his calling, Gond felt truly ready for whatever lay ahead.
 

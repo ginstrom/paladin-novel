@@ -4,15 +4,9 @@
 
 ### Chapter 3 – Shore of Second Chances
 
-Grey dawn crept across the horizon, its pale fingers barely penetrating the heavy clouds that pressed down on the beach. Gond's eyes opened to cold, wet sand grinding against his cheek. His fingers still clutched a splintered driftwood plank, knuckles white and numb. Waves lapped at his legs with gentle mockery.
+"Come on," Gond said. "Our path lies ahead." Gond hauled himself to his feet, legs shaking.
 
-His body screamed as he pushed himself upright—muscles cramped from the swim, salt crusting his skin, lungs still raw from swallowing seawater. Nearby, Pell rolled onto his back with a weak laugh that turned into a coughing fit.
-
-"That went exactly as planned," the rogue managed between spasms, spitting brine.
-
-Further down the shore, Sim knelt with his palms pressed into the sand, lips moving in whispered prayer. His slender frame trembled—whether from cold or exhaustion, Gond couldn't tell.
-
-Gond hauled himself to his feet, legs shaking. "Up." He extended a hand to Pell, then moved toward the priest. "Cold kills slower than slavers, but it still kills."
+When his companions hesitated, he extended a hand to Pell, then moved toward the priest. "Cold kills slower than slavers, but it still kills."
 
 Sim looked up, offering a nod. "Inland. Freshwater." He pointed toward a gap in the dunes. "Fleabane and thrift cluster near streams—we can follow them to water."
 
@@ -46,7 +40,15 @@ Maera moved between them with efficient grace, binding Pell's bruised ribs with 
 
 "You're a healer?" Sim asked, watching her work.
 
-"Served a temple in Darach once." Her voice carried the weight of old disappointments. "Corruption outweighed compassion. Priests of Kemiss conducting slave auctions on the very temple steps, blessing chains with holy water." Her mouth twisted with disgust. "Commerce became more sacred than mercy." She glanced at the dagger Pell offered him. "Pacifist?"
+"Served a temple in Darach once." Her voice carried the weight of old disappointments. "Corruption outweighed compassion. Priests of Kemiss conducting slave auctions on the very temple steps, blessing chains with holy water." Her mouth twisted with disgust. "Commerce became more sacred than mercy." 
+
+Gond's jaw tightened at her words. He'd seen those auctions himself—stood in the crowds, watched the bidding, told himself it wasn't his concern. The priests' blessing had made it all seem legitimate, ordained. Just another part of the world's harsh order, like storms or drought. Something to endure, not fight.
+
+*How many times had he walked past those temple steps?* How many branded faces had he ignored, convincing himself that one sword couldn't change an empire built on human misery? The Guild's reach extended into every port, every palace. Even the temples blessed their work.
+
+He'd been a coward. Called it pragmatism, but it was cowardice plain and simple.
+
+Maera glanced at Sim. "You're not armed, while your companion here has a spare dagger. Don't you fight?"
 
 Sim's hands remained folded in his lap. "My path is mercy. I heal and guide."
 
@@ -60,7 +62,7 @@ Gond set down his empty bowl. "We're heading for Darach. Need information. Need.
 
 Pell's eyes brightened at the mention of the city. "Streets full of opportunity. Coin changing hands."
 
-"The old archives there," Sim added quietly. "They might hold answers about those who betrayed us."
+"How far will we get with these brands?" asked Sim dubiously. Gond's jaw hardened and his eyes could have been chips of flint.
 
 Maera listened, her weathered face thoughtful. "There's a pilgrim way-station south of here." She sketched directions in the dirt floor with a charred stick. "Find supplies, rest. Perhaps clarity."
 

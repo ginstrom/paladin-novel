@@ -56,7 +56,7 @@ It wasn't a question. Gond nodded anyway, acutely aware of the watching crowd. "
 
 "What kind of calling?"
 
-Silviana stepped closer, and Gond caught the scent of pine and starlight that seemed to cling to her. "The touch of Alanyi. Her power flows through this place like a river, and you..." She reached out as if to touch his face, then stopped, her hand hovering inches from his skin. "You are the source. I sense great gifts growing in you—some already awakened, others still sleeping, waiting for their time."
+Silviana stepped closer, and Gond caught the scent of pine and lavender that seemed to cling to her. "The touch of Alanyi. Her power flows through this place like a river, and you..." She reached out as if to touch his face, then stopped, her hand hovering inches from his skin. "You are the source. I sense great gifts growing in you—some already awakened, others still sleeping, waiting for their time."
 
 Murmurs rippled through the crowd. Gond felt heat rise in his cheeks, uncomfortable with the scrutiny. "I don't know about gifts. I just do what I can to help."
 
@@ -70,9 +70,9 @@ The words hit the crowd like a physical blow. Some gasped, others fell to their 
 
 "Forgotten her light?" Gond asked. "What do you mean?"
 
-Silviana's expression grew grave. "The goddess of mercy has been pushed aside by those who profit from suffering. Where once her temples offered sanctuary, now the priests of Kemiss—god of commerce—hold sway, blessing chains and counting coin from slave auctions. And darker still..." She paused, glancing around at the listening crowd. "There are whispers of banned worship returning, evil cloaked in false righteousness."
+Silviana's expression grew grave. "The goddess of mercy has been pushed aside by those who profit from suffering. Where once her temples offered sanctuary, now the priests of Kemiss—god of commerce—hold sway, blessing slavers' chains and counting coin from slave auctions. And darker still..." She paused, glancing around at the listening crowd. "There are whispers of banned worship returning, evil cloaked in false righteousness."
 
-"I'm not a paladin," Gond said, his voice rougher than he intended. "I'm a mercenary who got lucky."
+"I'm not a paladin," Gond said, his voice rougher than he intended. "I'm a mercenary who can heal."
 
 Silviana's expression grew gentle but firm. "Luck does not raise the dead, Gond. Luck does not call an elf from her forest home after a century of silence. Luck does not gather the lost and broken and forge them into something stronger." She gestured toward the settlement around them. "Look at what you have built here. Look at what you have become."
 
@@ -82,7 +82,7 @@ Gond followed her gaze, seeing the community through her eyes. The former slaves
 
 "They followed where you led. They trusted where you guided. They believed because you gave them reason to believe." Silviana's voice carried absolute certainty. "That is what paladins do, Gond. They kindle hope in the hopeless. They stand as light against the darkness."
 
-Sim stepped forward, his face bright with vindication. "I told you," he said quietly. "From the beginning, I told you what you were becoming."
+Sim stepped forward, his face bright. "Accept it, Gond. We all can see it."
 
 Gond looked at his friend, then at the elf, then at the faces surrounding them. All waiting for his response. All hoping he would accept what they already believed.
 
@@ -90,7 +90,7 @@ The weight of their expectation pressed down on him like a physical thing. Part 
 
 "All right," he said finally. "Say I accept it. Say I am what you think I am. What then?"
 
-"Then you learn," Silviana said. "You grow into your power, and your power grows with you. You discover what it truly means to serve the goddess of mercy and justice."
+"Then you learn," Silviana said. "You grow into your power, and your power grows with you. You discover what it truly means to serve the goddess of peace and mercy."
 
 She gestured toward his fading brand. "Already the goddess works to free you from the marks of bondage. As your connection to Alanyi deepens, her light will erase all traces of your enslavement. And in time..." Her voice grew soft with wonder. "In time, you will carry that same gift to others. The touch that heals wounds can also heal the scars of slavery itself."
 

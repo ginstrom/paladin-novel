@@ -20,7 +20,7 @@ The slaver's blade slipped past Gond's guard, the point driving deep into his th
 
 But Gond fought on, his movements barely hindered. The transformed blade sang through the air with supernatural sharpness. When the captain raised his sword to block Gond's next strike, the silver blade sheared through the steel like parchment, continuing its arc to find the gap between breastplate and helm. The man toppled backward, his severed weapon clattering in two pieces on the stone.
 
-The battle turned decisively. The remaining slavers, seeing their leader fall and their ambush turned against them, broke and fled. Gond's people pursued them to the valley's edge, ensuring they wouldn't return.
+The battle turned decisively. The remaining slavers, seeing their leader fall and their ambush turned against them, broke and fled. Gond's people pursued them to the valley's edge before turning back whooping.
 
 As the last echoes of combat faded, Pell approached Gond, his face pale. "That wound—" He pointed at Gond's leg, where blood had soaked through the fabric. "I saw that blade go deep. Should have crippled you, maybe worse."
 
@@ -28,15 +28,15 @@ Gond looked down, pulling aside the torn cloth. Where he expected to find a gapi
 
 "I could have sworn..." Pell shook his head, backing away. "I saw it happen. We all did."
 
-The return to camp revealed a different horror. Overturned pots, scattered belongings, and drag marks in the dirt told the story. Two slavers had crept in during the battle, targeting those who couldn't fight—the elderly, the women, the children. They had fled when word reached them that their main force was broken.
+The return to camp revealed a different horror. Overturned pots, scattered belongings, and drag marks in the dirt told the story. Two slavers had crept in during the battle, targeting those who couldn't fight—the elderly, the women, the children. They had fled when they realized that their main force was broken.
 
 But they had left their mark.
 
-Korven lay sprawled near the children's shelter, his body riddled with crossbow bolts. He had died defending those he'd sworn to protect. Nearby, old Marta sat propped against a tree, her sightless eyes staring at nothing, a slaver's blade still protruding from her chest.
+Korven lay sprawled near the children's shelter, his body riddled with crossbow bolts. He had died defending those he'd sworn to protect. Nearby, old Marta sat propped against a tree, her sightless eyes staring at nothing, blood still seeping from a gash in her chest.
 
 Sim knelt beside the children's shelter, cradling his right hand against his chest. His knuckles were split and bloody, and a slaver's sword lay abandoned nearby, its wielder nowhere to be seen. When Gond approached, the priest looked up with pain-filled eyes.
 
-"I had to," Sim said quietly, his voice heavy with anguish. "He was going for the children. I couldn't—" He swallowed hard. "I struck his wrist. Just enough to make him drop the blade. The minimum necessary." His shoulders sagged. "Every living being has the right to defend themselves and those who cannot defend themselves. But that doesn't make it easier."
+"I had to," Sim said quietly, his voice heavy with anguish. "He was going for the children. I couldn't—" He swallowed hard. "I struck his wrist. Just enough to make him drop the blade." His shoulders sagged. "Every living being has the right to defend themselves and those who cannot defend themselves. But that doesn't make it easier."
 
 And in the center of the camp, young Dax lay gasping in a spreading pool of his own blood.
 
@@ -46,27 +46,27 @@ Sim moved from the children's shelter to kneel beside Dax, ignoring the pain in 
 
 "He's beyond my help," Sim whispered, his voice breaking. Tears streamed down his weathered cheeks. "The damage is too great. I cannot—" His hands fell to his sides, the faint glow extinguished.
 
-Around them, the survivors gathered in a silent circle. Shoulders slumped in defeat. Hands covered mouths to stifle sobs. Eyes turned away from the dying boy, unable to bear witness to their helplessness. Aerin knelt beside her brother, her tears falling onto his blood-stained face, but she spoke no words of plea. Hope had died with Korven and Marta.
+Around them, the survivors gathered in a silent circle. Shoulders slumped in defeat. Hands covered mouths to stifle sobs. Eyes turned away from the dying boy, unable to bear witness to their helplessness. Aerin knelt beside her brother, her tears falling onto his blood-stained face, but she spoke no words of plea.
 
-Something stirred deep in Gond's chest—a pull he could neither name nor resist. His feet carried him forward without conscious thought, drawn by an invisible thread that seemed to connect his heart to the dying boy. The circle of mourners parted before him, their faces etched with resignation.
+Gond felt a pull he could neither name nor resist. His feet carried him forward without conscious thought, drawn by an invisible thread that seemed to connect his heart to the dying boy. The circle of mourners parted before him, their faces etched with resignation.
 
 He knelt beside Dax, his hands hovering over the terrible wounds. The boy's breathing grew shallower, more labored. Time was running out.
 
-Aerin looked up, her face streaked with tears. She reached out as if to stop him, to spare him the futility of trying where Sim had failed.
+Aerin looked up, her face streaked with tears. She reached out as if to stop him.
 
-"Let him work," Sim said quietly, catching her wrist. His eyes never left Gond's face. "Let him do what he was born to do."
+"Let him work," Sim said quietly, catching her wrist. His eyes never left Gond's face.
 
 Gond placed his palms on Dax's chest and closed his eyes. At first, nothing. No warmth, no power, no divine presence. Just the sticky wetness of blood and the broken rhythm of a failing heart beneath his hands.
 
 *Alanyi,* he prayed silently, the words forming without conscious thought. *If you're there, if this is real, help me save him.*
 
-Gradually, like dawn breaking over distant mountains, he became aware of something else. A flicker of life, faint as a dying ember in the depths of winter. Dax's essence, barely clinging to the broken shell of his body, ready to slip away into darkness.
+Gradually, like dawn breaking over distant mountains, he became aware of a presence. A flicker of life, faint as a dying ember in the depths of winter. Dax's essence, barely clinging to the broken shell of his body, ready to slip away into darkness.
 
 Gond cupped that fragile spark in his mind, breathing on it as one might coax life from the last coal in a cold hearth. He imagined the boy whole—ribs unbroken, lungs clear, blood flowing as it should. He poured his will into that vision, feeding the ember with everything he had.
 
 The spark flared. Grew. Blazed into brilliant flame.
 
-Suddenly, Dax's life force erupted like a wildfire, burning so bright it drove Gond's awareness back, overwhelming his senses with its intensity. Golden light poured from his hands, illuminating the entire camp with radiance that put the afternoon sun to shame.
+Suddenly, Dax's life force erupted like a wildfire, burning so bright it drove Gond's awareness back, overwhelming his senses with its intensity. Golden light poured from his hands, illuminating the entire camp with radiance that outshone the afternoon sun.
 
 The boy's wounds began to close. Bones knitted together with audible clicks. Torn flesh mended itself. The blood that had pooled beneath him seemed to flow backward, returning to his body as if time itself were reversing.
 

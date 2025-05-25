@@ -48,7 +48,7 @@ The crowd that had gathered around them began to disperse, some weeping, others 
 
 "Gond—"
 
-"Seven people died today because they believed in me. Because they thought the 'healer in the hills' could protect them from anything." He looked up at Sim, his eyes hollow. "What if they were wrong? What if I'm just a fraud with a few lucky breaks?"
+"Seven people died today because they believed in me. Because they thought the 'Healer in the Hills' could protect them from anything." He looked up at Sim, his eyes hollow. "What if they were wrong? What if I'm just a fraud with a few lucky breaks?"
 
 Before Sim could answer, Silviana appeared at Gond's side. The elf's usually serene expression was troubled, her ancient eyes reflecting a pain that went deeper than the day's losses.
 
@@ -104,7 +104,7 @@ Thorek studied him for a long moment, his eyes moving from Gond's face to the sw
 
 "May I?" Thorek gestured toward the weapon.
 
-Gond hesitated, then drew the blade and offered it hilt-first. The silver steel caught the dappled sunlight, its surface unmarked despite the morning's battle.
+Gond hesitated, then drew his blade and offered it hilt-first. The silver steel caught the dappled sunlight, its surface unmarked despite the morning's battle.
 
 Thorek took the sword with the reverence of a master craftsman, his calloused fingers running along the fuller, testing the balance, examining the edge with an expert's eye. His breathing grew shallow as he studied the weapon, turning it this way and that in the light.
 
@@ -146,7 +146,7 @@ Gond felt something shift inside him—not the divine power he'd grown accustome
 
 "Aye, there will."
 
-"More losses. More choices I'll have to make."
+"More losses. More hard choices."
 
 "Aye. But you will not make them alone."
 
@@ -182,7 +182,7 @@ The circle fell silent, all eyes turning to him. In the firelight, Gond could se
 
 Thorek leaned forward, his eyes gleaming with interest. "That's not a battle, lad. That's a war."
 
-"Then it's a war." Gond's voice carried a certainty he hadn't felt since Willem's death. "A war for freedom, for justice, for the right of people to live without fear of chains."
+"Then it's a war." Gond's voice carried a certainty he hadn't felt since Willem's death. "A war for the right of people to live without fear of chains."
 
 "The Iron Covenant has been preparing for such a war for two centuries," Thorek said slowly. "We have weapons, siege engines, warriors trained in the old ways. But we have lacked something crucial—a cause that could unite the scattered forces of good."
 

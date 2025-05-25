@@ -30,7 +30,7 @@ They had their answer within the hour, as the column reached the settlement's ed
 
 "War changes everyone," she replied simply. Then, turning to her companion, "Allow me to present Captain Elena Brightblade, formerly of the Royal Guard of Westmarch."
 
-The woman stepped forward, her gaze assessing Gond with professional interest. "So you're the one they're calling the Liberator. You're younger than I expected."
+The woman stepped forward, her gaze assessing Gond with professional interest. "So you're the one they're calling the Healer in the Hills. You're younger than I expected."
 
 "And you're farther from Westmarch than I'd expect a Royal Guard to be," Gond replied carefully.
 
@@ -64,7 +64,7 @@ Maera nodded. "The network has been growing for years—people connected by shar
 
 "And now?" Gond asked, though he suspected he already knew the answer.
 
-"Now we have the Liberator," Maera said simply. "The paladin who stands against the slave trade, who offers hope to the hopeless and protection to the innocent. The man who proved that divine power still flows to those worthy of it."
+"Now we have the Healer of the Hills," Maera said simply. "The paladin who stands against the slave trade, who offers hope to the hopeless and protection to the innocent. The man who proved that divine power still flows to those worthy of it."
 
 Gond felt the familiar stirring of divine energy, responding to the faith and hope radiating from those around him. But beneath it was something else—a growing awareness of the scope of what was being offered to him.
 
@@ -134,7 +134,7 @@ The planning session that followed stretched late into the night, maps and intel
 
 "Easier said than done," Pell observed. "Those cities have walls, guards, political protection."
 
-"Walls can be broken," Grimjaw said confidently, patting the bronze fittings of his siege engine. "Guards can be defeated. As for political protection..." He shrugged. "Hard to protect something that's been reduced to rubble."
+"Walls can be broken," Grimjaw said confidently. "Guards can be defeated. As for political protection..." He shrugged. "Hard to protect something that's been reduced to rubble."
 
 "We're not talking about destroying cities," Gond said firmly. "We're talking about liberating them. There's a difference."
 

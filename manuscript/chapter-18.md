@@ -32,11 +32,11 @@ The freed slaves were already moving toward the rally point, guided by Elena's t
 
 The question hung in the air like a blade. By the laws of war, captured slave catchers faced execution. By the laws of justice, these two had earned death a dozen times over. By the laws of personal vengeance...
 
-Gond drew his sword. The blade caught the morning light, its edge sharp enough to split hairs. Borin and Kael watched him approach, neither man begging or trying to flee.
+Gond drew his sword. Blueish-white light blazed from its blade. The two captives squinted and drew back their teeth in grimaces.
 
 "You know," Borin said conversationally, "I always wondered what happened to you. Heard rumors about some paladin stirring up trouble, but never thought..."
 
-He raised the sword, feeling the weight of it in his hands. One stroke would end it. Justice for their betrayal, vengeance for the months of slavery, retribution for every person they'd helped enslave since.
+Gorn felt the weight of the sword in his hands. One stroke would end it. Justice for their betrayal, vengeance for the months of slavery, retribution for every person they'd helped enslave since. He reached inside himself for guidance, but the goddess seemed withdrawn, as if waiting.
 
 "Aye," Borin agreed. "Been living on borrowed time since we took that job. Should have known better than to cross the luckiest sword on the coast."
 
@@ -44,15 +44,13 @@ Gond's vision blurred. The sword felt impossibly heavy, as if it weighed more th
 
 The word whispered through his mind like wind through leaves. Not justice, not vengeance, but mercy.
 
-Pell hesitated, then drew his knife and sliced through the ropes. Borin and Kael rubbed their wrists, watching Gond with expressions of complete bewilderment.
+Gond hesitated, then drew his knife and sliced through the ropes. Borin and Kael rubbed their wrists, watching Gond with expressions of complete bewilderment.
 
 "Here's what's going to happen," Gond said, his voice carrying the authority of divine calling. "You're going to walk away from here. You're going to spread the word to every mercenary company, every slave catcher, every hired sword on this continent."
 
 He stepped closer, and both men flinched despite themselves.
 
-"Tell them that Gond the Paladin protects the free people of this land. Tell them that anyone who hunts my people, anyone who tries to drag them back into chains, will face divine judgment. Tell them that mercy is offered once, and only once."
-
-Gond's smile was sharp as winter wind. "Then you'll spend the rest of your lives looking over your shoulders, wondering when Alanyi's justice will finally catch up with you."
+"Tell them that Gond the Paladin protects the free people of this land. Tell them that anyone who hunts my people, anyone who tries to drag them back into chains, will face divine judgment."
 
 He turned away, then paused. "Oh, and Borin? Kael? If I ever see you again, if you ever threaten my people again, I won't hesitate. The next time we meet, one of us dies."
 
@@ -77,6 +75,8 @@ Maera spread a map across the table, marking successful raids with red pins. "We
 Silviana entered the tent, her elven features troubled. "I've received word from the Circle of Whispers. They're... concerned about recent developments."
 
 "Religious ones. Your reputation is spreading faster than we anticipated. Some temples are declaring you a saint, others a heretic. The established orders are fracturing."
+
+"We are gaining allies. This could work on our Favor," replied Maera.
 
 "Or it could work against us," Silviana replied. "Religious wars have a way of consuming everything in their path."
 

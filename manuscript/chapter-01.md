@@ -14,7 +14,7 @@ Iron clinked against his wrist as he tried to sit up. Manacles. Of course. His s
 
 The hold stretched before him in the dim light. A collection of hunched shapes chained in pairs. The air hung thick with the smell of unwashed bodies, fear-sweat, and something else. Something that made him breathe through his mouth.
 
-The man beside him had shoulders like a dock worker and fists to match. Purple bruises mottled his face. Rope burns circled his thick wrists where he'd fought his bonds. Calluses on his palms spoke of years hauling nets or loading cargo. His breathing came in harsh rasps. When his eyes flicked open, they held the kind of spark that meant trouble. The muscles in his jaw kept working, like he was chewing on words too dangerous to speak.
+The man beside him had shoulders like a dock worker and fists to match. Purple bruises mottled his face.  His thick wrists were chaged where he'd fought his bonds. His breathing came in harsh rasps. When his eyes flicked open, they held the kind of spark that meant trouble. The muscles in his jaw kept working, like he was chewing on words too dangerous to speak.
 
 Across from Gond, two figures slumped forward. One sat perfectly still—too still. His head lolled at an angle that spoke of either a broken neck or final surrender. Flies had begun their grisly work around his vacant stare. Tattered silk clung to his frame—once fine clothing now stained with blood and worse. A merchant, perhaps, or minor noble who'd trusted the wrong people.
 
@@ -24,11 +24,24 @@ His companion coughed wetly, each breath a visible struggle. Waxy skin stretched
 
 Two more bodies lay motionless further into the hold. A woman with farmer's hands and sun-weathered skin. What might have been a young man, though the shadows made it hard to tell. Behind him, someone breathed like an angry bull, all snorts and barely contained fury. The occasional clink of metal suggested a soldier or guard, still wearing pieces of armor they hadn't bothered to strip.
 
+
 Gond flexed his fingers, testing the chain's give. Solid. Professional work. His captors knew their business.
 
-Memory crept back in fragments. Borin's flushed face raised in a toast at the Prancing Dragon, his voice booming over the tavern's din: "To Gond, luckiest sword on the coast!" Kael's answering smirk, those cold eyes catching torchlight as he leaned close. "Business, mate. Nothing personal."
+Memory crept back in fragments. Borin's flushed face raised in a toast at the Prancing Dragon, his voice booming over the tavern's din: "To Gond, luckiest sword on the coast!" A swimming head too drunk after just two pints of ale. Kael's answering smirk, those cold eyes catching torchlight as he leaned close. "Business, mate. Nothing personal."
 
-The alley behind the inn. The prick of something sharp in his neck. Darkness.
+The alley behind the inn. Then darkness.
+
+*Luckiest sword on the coast.* The bitter irony wasn't lost on him. He'd built that reputation by being selective about his contracts. Never worked for slavers—not out of any grand moral stance, just distaste for the business. The Slaver's Guild paid well enough, but their work left a sour taste that no amount of coin could wash away. He'd seen their ships before, heard the stories from other mercenaries who took their silver. Always told himself it wasn't his fight.
+
+The Guild was too powerful, too connected. Kings and nobles lined their pockets with slaver gold. Temples blessed their ventures. Who was one sword to stand against an empire built on human misery? Better to take honest work—caravan guards, debt collection, the occasional border skirmish. Clean jobs with clean coin.
+
+*Look how well that worked out.*
+
+Behind him were a wiry man who had the same look of a mercenary that Gond did when he looked in a mirror. Beside the mercenary was a slim, unassuming man whos aura of calm seemed out place. Catching the eye of the mercenary, Gond murmured: "How long was I out?"
+
+"A couple of days. Weren't sure you were going to come to there, mate. Name's Pell by the way. And my companion here is Sim." Sim sketched a nod with a wry smile.
+
+"And that lunk chained up to you is Jord." Jord gave a grunt and turned away.
 
 An itch flared across his forehead. His fingers rose instinctively. They found raised, tender flesh—still raw, still seeping. Heat radiated from the wound. The skin felt thick and ridged under his touch. Two interlocking circles, each no larger than a copper coin, burned into his flesh with deliberate precision.
 
@@ -38,7 +51,12 @@ A muscle jumped in his jaw. His chest rose and fell in careful, measured breaths
 
 A bucket of murky water sat within reach, its surface barely catching the moonlight. Gond stared at it for a long moment, his throat working silently. When he finally leaned forward, his movements were deliberate, almost mechanical. The reflection that stared back showed a ghost-pale face, hollow-eyed and marked forever by the crude iron circles that branded him property.
 
-His free hand clenched against his thigh. The chain between his wrists clinked softly as a tremor ran through his shoulders—brief, quickly suppressed, but there nonetheless.
+
+"Yeah, you've got one just like the rest of us," murmured Pell sympathetically.
+
+For the first time, Gond looked around and saw the same manacle tatoo on every forehead in the hold. 
+
+Gond's free hand clenched against his thigh. The chain between his wrists clinked softly as a tremor ran through his shoulders—brief, quickly suppressed, but there nonetheless.
 
 The ship creaked around him in steady rhythm. Above, boots scuffed across deck planks, punctuated by coarse laughter and the occasional crack of a whip. When food came—moldy bread and brackish water in filthy buckets—guards tossed it down like they were feeding animals. The dock worker beside Gond lunged for his portion with desperate efficiency. He tore into the moldy crust like a man who'd known hunger before. The dying scribe could only manage a few sips of water before his head lolled back, exhausted by the effort.
 

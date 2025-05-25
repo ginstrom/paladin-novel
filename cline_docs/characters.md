@@ -24,10 +24,11 @@
     *   Rejects religious authority, accepts excommunication threat (Ch 16).
     *   **Leads first major battle**: Commands defense against 200 professional soldiers, costly victory (Ch 17).
     *   **Mercy over vengeance**: Captures Borin and Kael (now slave catchers) but shows mercy, sending them with a warning message (Ch 18).
-    *   **Political leadership**: Rejects Noble Knights' classist alliance, commits to true equality (Ch 19).
+    *   **Political & Charismatic Leadership**: Leads war council, debates strategy for war against slaver cities. Engages with Sir Roderick Ashford of the Noble Knights, highlighting ideological differences regarding social order while maintaining a less confrontational, more charismatic demeanor. Roderick offers conditional support. Witnesses see Alanyi's symbol on his brow (Ch 19).
+    *   **Strategic Use of Intelligence**: Agrees to use Pell as a channel to pass selective information to Sir Roderick's faction (Ch 19).
     *   **Divine recognition**: Heals ancient shadow-touched wound, gains Circle of Whispers endorsement (Ch 20).
     *   **Revolutionary leader**: Coordinates three-army alliance for final campaign (Ch 21).
-*   **Character Arc:** Vengeance → Unconscious shift to protection → Realization → Active mercy → Divine redemption → Revolutionary leader
+*   **Character Arc:** Vengeance → Unconscious shift to protection → Realization → Active mercy → Divine redemption → Charismatic Revolutionary leader
 *   **Relationships:**
     *   Former comrade of Borin and Kael (betrayers, later shown mercy).
     *   Ally and leader to Pell and Sim.
@@ -54,9 +55,11 @@
     *   Tracks settlement growth and new arrivals (Ch 13).
     *   **Pivotal question**: Asks Gond about his vengeance plans, triggering Gond's realization of transformation (Ch 13).
     *   Fights in defense against Crimson Company (Ch 13).
-    *   Provides tactical assessments and intelligence (Ch 14-21).
+    *   Provides tactical assessments and intelligence (Ch 14-18).
     *   Leads ambush team during major battle (Ch 17).
     *   Witnesses Gond's mercy toward Borin and Kael (Ch 18).
+    *   **Temptation & Loyalty Test**: Approached by Sir Roderick's squire (Alaric) with offer of gold for intelligence. Accepts initial payment but brings the offer and gold to Gond and the council (Ch 19).
+    *   **Intelligence Channel**: Agrees to act as a conduit for passing selective information to Sir Roderick's faction (Ch 19).
 *   **Relationships:**
     *   Ally of Gond and Sim.
     *   Protector of Alia and Dax.
@@ -232,7 +235,7 @@
     *   Warns of organized enemy response to Crimson Company failure (Ch 15).
     *   Contributes strategic planning for liberation campaign (Ch 15-21).
     *   Coordinates crossbow companies during major battle (Ch 17).
-    *   Provides intelligence about Noble Knights and their factions (Ch 19).
+    *   Provides intelligence about Noble Knights and their factions, participates in war council (Ch 19).
     *   Warns about slave cities' 4000-man army (Ch 21).
 *   **Character Arc:** Royal Guard → Moral defector → Resistance leader → Strategic coordinator
 *   **Relationships:**
@@ -331,6 +334,7 @@
     *   Grants divine power to Gond as her paladin (Ch 6-21).
     *   Ancient alliance with Turin preserved by dwarves (historical).
     *   Divine power enables healing of shadow-touched wound (Ch 20).
+    *   Her symbol (intertwined circles) momentarily appears on Gond's brow during his discussion with Sir Roderick, witnessed by Sim and Silviana (Ch 19).
 *   **Relationships:** 
     *   Deity worshipped by Sim, Silviana, and Sister Marta.
     *   Divine patron of Gond's paladin calling.

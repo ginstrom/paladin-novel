@@ -4,17 +4,19 @@
 
 ### Chapter 6: Whispers in Stone
 
-Dawn broke grey and muted over their makeshift camp. Gond stood at the edge of the way-station's crumbling walls, watching the mist roll through the valleys below. Behind him, the growing number of refugees stirred—nearly two dozen souls now, drawn by whispers and desperate hope.
+Dawn broke grey and muted over their makeshift camp. Sim approached, stamping his feet at the cold.
 
-"We can't stay here." His voice cut through the morning quiet. The others gathered around him, faces turned upward with the expectation he'd grown to recognize and dread.
+"We have four days of hard travel behind us," began Sim. "The little ones are exhuasted. We should rest for the day."
 
-Sim approached, brushing dirt from his knees after morning prayers. "There are older sanctuaries in these hills. Places forgotten by most."
+"We can't stay here." Gond's voice cut through the morning quiet. "Word of the slaver caravan we hit must have spread by now. They'll be searching for us." The others gathered around him, faces turned upward with the expectation he'd grown to recognize and dread.
+
+"There are older sanctuaries in these hills," said Sim calmly. "Places forgotten by most."
 
 Pell snorted, shouldering his pack. "Forgotten ruins sound perfect for forgotten people."
 
-"Lead the way." Gond hefted his own gear, ignoring the weight of two dozen gazes following his every movement.
+"Lead the way." Gond hefted his own gear, motioning the others to do the same.
 
-The priest guided them deeper into mist-shrouded hills, following paths that seemed more memory than trail. Soft drizzle whispered through the landscape, turning everything grey and ghostly. Behind Gond trudged their small army—Pell scanning for threats, Aerin and Dax supporting each other, Lira walking with newfound strength, and the handful of other refugees who had somehow found them in this wilderness.
+The priest guided them deeper into mist-shrouded hills, following paths that seemed more memory than trail. Soft drizzle whispered through the landscape, turning everything grey and ghostly. Behind Gond trudged their small band—Pell scanning for threats, Aerin and Dax supporting each other, Lira walking with newfound strength.
 
 "Sim," Gond called as they climbed a particularly steep slope. "You've been muttering prayers since dawn. Do your gods offer directions, or is that extra?"
 
@@ -26,7 +28,7 @@ Pale stone emerged from the grey—ancient walls partially hidden by climbing iv
 
 Sim's gaze lingered on the weathered stones. "This was a sanctuary. Once, such temples stood throughout the land. Now they crumble, forgotten."
 
-"Perfect." Pell's eyes swept the surroundings, cataloging defensive positions. "We'll blend right in with the ruins."
+"Perfect." Pell's eyes swept the surroundings with a calculating gaze. "We'll blend right in with the ruins."
 
 Gond approached the ancient walls, studying the faded carvings—symbols of peace, intertwined hands worn smooth by centuries of weather. He touched one carving, the damp stone cold beneath his fingertips. The tugging in his chest intensified, but beneath the pull of something sacred, he sensed something else—a lingering taint, like the memory of corruption that had once defiled this holy place.
 
@@ -34,7 +36,7 @@ Gond approached the ancient walls, studying the faded carvings—symbols of peac
 
 "These stones have sheltered travelers for centuries." The priest's eyes held quiet humor. "Even the irreverent."
 
-They moved quickly, establishing camp within the temple's crumbling embrace. Soon a fire crackled in what had once been the main sanctuary, casting dancing shadows across broken columns. Dax's feet received Sim's gentle attention while Aerin and Lira prepared their meager meal.
+They moved quickly, establishing camp within the temple's crumbling embrace. Soon a fire crackled in what had once been the main sanctuary, casting dancing shadows across broken columns. Dax's feet received Sim's gentle attention while Aerin and Lira prepared their meager meal. 
 
 As night deepened, Gond found himself walking deeper into the ruins. His feet carried him through half-collapsed archways without conscious direction, until he reached a chamber that remained surprisingly intact. Stone benches surrounded a simple altar, its surface worn smooth by countless reverent hands.
 
@@ -46,9 +48,7 @@ Warmth flooded through him, sudden and disorienting. The chamber blurred, then s
 
 The vision shattered. Gond staggered backward, his palm burning where it had touched the stone. The altar was cold granite again, nothing more. But the warmth remained, spreading through his chest like wine.
 
-He dropped onto the nearest bench, hands shaking. Exhaustion. Had to be exhaustion. The stress of leadership, the constant vigilance, the weight of so many lives depending on his choices. Hallucinations were common enough among soldiers pushed too far.
-
-But the warmth lingered, and with it, a certainty he couldn't explain or dismiss.
+He dropped onto the nearest bench, hands shaking. Exhaustion. Had to be exhaustion. The stress of leadership, the constant vigilance, the weight of lives depending on his choices. Hallucinations were common enough among soldiers pushed too far. But the warmth lingered.
 
 Footsteps echoed in the outer chamber. Gond composed himself, forcing his breathing to steady. When he emerged, Sim stood waiting, those perceptive eyes taking in every detail of Gond's appearance.
 
@@ -60,8 +60,8 @@ That night, sleep eluded Gond. He lay staring up at the fractured ceiling where 
 
 The warmth in his chest pulsed gently, like a second heartbeat.
 
-"Hope," he whispered to the darkness, tasting the word like something foreign. "Well, Alanyi, if you've chosen a fool, at least you've chosen one who knows he's a fool."
+"Hope," he whispered to the darkness, tasting the word like something foreign. "Well, if I'm a fool to believe in hope then at least I know I'm a fool."
 
-Somewhere in the ruins, wind sighed through broken stone, carrying what might have been laughter—or perhaps just the echo of his own bitter amusement.
+Somewhere in the ruins, wind sighed through broken stone, carrying what might have been laughter—or perhaps just the echo of his own wry amusement.
 
-But the warmth remained, and with it, the growing certainty that his path had changed in ways he was only beginning to understand.
+But the warmth remained until sleep finally took him.
