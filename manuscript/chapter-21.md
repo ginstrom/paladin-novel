@@ -14,13 +14,13 @@ Gond met them in the settlement's center, flanked by Thorek and Silviana. The co
 
 "What happened?" Gond asked.
 
-Sir Marcus dismounted heavily, his movements those of a man pushed beyond exhaustion. "Civil war. The Noble Knights have split down the middle. Half still believe we can reform the system from within. The other half..." He gestured to his battered companions. "We've seen enough."
+Sir Marcus dismounted heavily, his movements those of a man pushed beyond exhaustion. Fresh scars crisscrossed his knuckles, and a partially healed cut ran from his left temple to his jaw—the kind of wound that came from fighting someone you'd once called brother. "Civil war. The Noble Knights have split down the middle. Half still believe we can reform the system from within. The other half..." He gestured to his battered companions. "We've seen enough."
 
 "Seen enough of what?"
 
-"The truth." Sir Marcus's voice carried bitter anger. "Three days ago, we raided a plantation outside Westmarch. Found children in the fields, some no older than eight. When we demanded their release, the overseer showed us a contract signed by Sir Roderick himself."
+"The truth." Sir Marcus's voice cracked like breaking stone, each word forced through clenched teeth. His hands trembled—not with fear, but with barely contained rage that made his armor rattle softly. "Three days ago, we raided a plantation outside Westmarch. Found children in the fields, some no older than eight. When we demanded their release, the overseer showed us a contract signed by Sir Roderick himself."
 
-The words hit like physical blows. Gond felt divine power stir in his chest, responding to his anger.
+The words hit like physical blows. Heat bloomed beneath Gond's ribs, spreading outward through his chest like molten metal seeking release. His fingertips tingled with electric warmth, and for a moment, the air around him seemed to shimmer with barely visible light.
 
 "Roderick's been playing both sides," Sir Marcus continued. "Talking about honor and reform while his family profits from child slavery. When we confronted him..." He touched a bandage on his forehead. "Let's just say the discussion became heated."
 
@@ -68,7 +68,7 @@ The evening council meeting was larger than usual, packed with representatives f
 
 "Of being noticed," Sim replied quietly. "For two centuries, Alanyi's worship has been... discouraged. Not banned outright, but marginalized, forgotten, allowed to wither. Her temples fell into ruin while Turin's grew grand and wealthy."
 
-Silviana's ancient eyes held deep sadness. "The elves remember when her light shone as bright as any god's. When healing and joy were valued as highly as strength and justice."
+Silviana's gaze dropped to her hands, her fingers tracing the grain of the wooden table as if reading ancient stories in its surface. When she looked up again, moisture gathered at the corners of her eyes—the first crack in her elven composure that any of them had witnessed. "The elves remember when her light shone as bright as any god's. When healing and joy were valued as highly as strength and justice."
 
 "What changed?" one of the newer knights asked.
 
@@ -86,7 +86,7 @@ The change was subtle at first—a deepening of his voice, a luminous quality to
 
 "My children," the voice said, and it was Gond's throat that formed the words, but the presence behind them was unmistakably divine, ancient, and infinitely compassionate. "How long have you wandered in darkness, believing that strength alone could light your way?"
 
-Silviana gasped, her elven senses immediately recognizing the divine presence. Sim fell to his knees, tears streaming down his weathered face. Even the hardened knights felt something stir in their hearts—a warmth they'd forgotten existed.
+Silviana gasped, her elven senses immediately recognizing the divine presence. Her hands flew to her heart as if trying to contain something that threatened to burst free. Sim fell to his knees, tears streaming down his weathered face, his weathered hands pressed flat against the floor in reverent prostration. The dwarven representatives shifted forward as one, their beards bristling with sudden energy, while several reached instinctively for the holy symbols at their throats. Even the hardened knights felt something stir in their hearts—Sir Marcus's scarred hands trembled as he gripped the table's edge, his knuckles white with the effort of remaining upright. Former slaves throughout the chamber began to weep openly, their faces transformed by wonder and disbelief that such grace could touch their broken lives.
 
 "I have not abandoned you," Alanyi continued through Gond's transformed voice. "Though my temples lie in ruins, though my priests hide in shadows, though the world has forgotten the sound of joyful laughter and the touch of gentle healing—I remain. In every act of mercy, in every moment of compassion, in every choice to heal rather than harm, I am there."
 
@@ -146,7 +146,7 @@ Thorek hefted his warhammer, but his expression was thoughtful rather than merel
 
 ***
 
-The next few days passed in a whirlwind of preparation, but now every action carried deeper meaning. Weapons were blessed not just for battle, but for the sacred work of liberation. Maps were studied not just for tactical advantage, but for the locations of ruined temples that could be reclaimed. Messages flew between allied forces, carrying word of the divine mandate that now guided their cause.
+The next few days passed in a whirlwind of preparation, but now every action carried deeper meaning. In the settlement's makeshift temple, Sim worked alongside Silviana to consecrate weapons with ancient rites—swords gleamed with faint silver light after being anointed with blessed oils, crossbow bolts were carved with tiny symbols of Alanyi's mercy, and even the siege engines received ritual purification with sacred water drawn from the settlement's deepest well. Maps were studied not just for tactical advantage, but for the locations of ruined temples that could be reclaimed. Messages flew between allied forces, carrying word of the divine mandate that now guided their cause.
 
 The transformation in the settlement was remarkable. The Noble Knight defectors, who had arrived seeking simple justice, now spoke of restoration and healing with the fervor of converts. Former slaves who had fought for freedom now understood they were part of something greater—the return of hope itself to a world that had forgotten its meaning.
 
@@ -162,7 +162,7 @@ Gond was quiet for a long moment, watching the diverse gathering that had become
 
 "Something like that." Gond's smile was rueful. "Though I suppose I'm not doing it alone."
 
-Indeed, the burden was shared. Sim had thrown himself into his new role with quiet determination, working with Silviana to compile the scattered knowledge of Alanyi's rites and teachings. The elven lore-keeper proved invaluable, her ancient memory holding songs and ceremonies that had been lost to human knowledge for centuries.
+Indeed, the burden was shared. Sim had thrown himself into his new role, his shoulders squared with newfound purpose as he worked late into each night by candlelight, carefully transcribing ancient texts with Silviana. His gentle hands moved with steady precision across parchment, recording the scattered knowledge of Alanyi's rites and teachings. The elven lore-keeper proved invaluable, her ancient memory holding songs and ceremonies that had been lost to human knowledge for centuries.
 
 The military preparations continued as well, but with new purpose. Elena coordinated with the elven forces, planning strikes that would not only disrupt the slave trade but also secure locations where Alanyi's temples could be rebuilt. Thorek worked with his Iron Covenant allies to ensure their assault on the inland strongholds would leave room for healing and restoration rather than just destruction.
 
@@ -233,4 +233,3 @@ But as Gond looked out over the settlement—at the workshops and training groun
 They'd already won the most important victory. They'd proven that Alanyi's vision was possible, that mercy and justice could work together, that healing was stronger than hatred.
 
 Now all they had to do was share that victory with the world.
-

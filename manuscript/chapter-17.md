@@ -6,7 +6,7 @@
 
 The messenger stumbled into the valley at dawn, his horse lathered with sweat and foam. Pell caught the man as he slid from the saddle, legs buckling beneath him.
 
-"Three columns," the scout gasped, clutching Pell's arm. "Coming from the east. Maybe two hundred men. Professional soldiers, not slavers."
+"Three columns," the scout gasped, clutching Pell's arm. "Coming from the east. Maybe two hundred men. They march in perfect formation—shields locked, spears angled at identical degrees, no stragglers or wanderers. These aren't slavers grabbing easy prey."
 
 Gond emerged from the council tent, Thorek and Elena flanking him. The dwarf's hand rested on his warhammer, while Elena's fingers drummed against her sword hilt.
 
@@ -46,7 +46,7 @@ Pell nodded, already selecting his team with quick gestures.
 
 The dwarf's eyes gleamed. "Like the old days, when Turin and Alanyi fought side by side."
 
-Gond felt the familiar warmth in his chest, divine power stirring in response to the coming battle. "Let's hope we're worthy of that legacy."
+Heat bloomed beneath Gond's ribs, spreading outward like molten honey through his veins. His fingertips tingled with electric warmth as divine power stirred in response to the coming battle. "Let's hope we're worthy of that legacy."
 
 ***
 
@@ -64,9 +64,9 @@ The first column advanced down the slope, shields locked, ladders ready. Behind 
 
 Gond waited until the attackers reached the valley floor. "Grimjaw! Give them a welcome!"
 
-The siege engine's arm snapped forward with a sound like thunder. A rain of small boulders, soaked in ptich and set alight, crashed into the center of the advancing column. Bodies fell under the onslaught, and burning pitch splashed in a large radius. The neat formation dissolved into chaos.
+The siege engine's massive frame groaned as the windlass released. The throwing arm snapped forward with a sound like thunder, counterweight stones plummeting in their mesh of chains. A rain of small boulders, soaked in pitch and set alight, crashed into the center of the advancing column. Bodies fell under the onslaught, and burning pitch splashed in a large radius. The neat formation dissolved into chaos.
 
-"Again!" Grimjaw roared, his crew already reloading.
+"Again!" Grimjaw roared, his crew already cranking the windlass system, their muscles straining against the massive mechanism.
 
 The second shot scattered the crossbowmen on the ridge. The third punched through the enemy's shield wall, leaving a gap filled with screaming wounded.
 
@@ -90,13 +90,13 @@ But the enemy captain was no fool. He'd held his reserve for exactly this moment
 
 The settlement's eastern wall shuddered under the impact of grappling hooks and ladders. Defenders rushed to meet the assault, but the enemy had momentum now.
 
-Gond felt divine power surge through him, hot and urgent. His sword blazed with silver light as he vaulted over the palisade.
+The warmth in Gond's chest suddenly blazed like a forge fire, power coursing through his muscles until they hummed with divine strength. His sword erupted in silver light as he vaulted over the palisade.
 
 "For freedom!" he roared.
 
 The cry was taken up by every throat in the settlement. Thorek's warhammer sang through the air, crushing skulls and shattering shields. Elena's blade danced like quicksilver, finding gaps in armor with surgical precision.
 
-But it was Gond who turned the tide. Divine power flowed through him like molten gold, enhancing his speed, his strength, his awareness. He moved through the enemy ranks like a force of nature, his blazing sword cutting down anyone who stood against him.
+But it was Gond who turned the tide. Divine power flowed through him like molten gold, enhancing his speed, his strength, his awareness. He moved through the enemy ranks with fluid grace, his blazing sword cutting down anyone who stood against him. Each strike flowed into the next, his feet finding perfect footing on treacherous ground while his blade danced between opponents.
 
 A crossbow bolt took him in the shoulder, spinning him around. Another grazed his thigh. But the wounds closed almost as quickly as they opened, divine healing knitting flesh and bone.
 
@@ -188,13 +188,13 @@ Silviana emerged from the shadows, her elven features sharp in the moonlight. "T
 
 Gond looked around at the faces surrounding him—dwarf, elf, and human united in common cause. The settlement's first victory had proven they could fight, but the real war was just beginning.
 
-"Then we'll make time," said Gond. "We'll hit their caravans and attack their supply chains. Every slave caravan we liberate strengthens out cause and weakens them." 
+"Then we'll make time," Gond said, his voice carrying an authority that seemed to come from somewhere beyond himself. The words flowed with divine certainty, each syllable ringing with conviction. "We'll hit their caravans and attack their supply chains. Every slave caravan we liberate strengthens our cause and weakens them."
 
 That was not what Gond had planned to say. His own surprise was mirrored in the faces around him, but Gond had learned not to question when his goddess chose to speak through him.
 
 "Until now we've been on the defensive. Now it's time to take the fight to the slavers. We'll catch them off guard and buy the time we need to prepare."
 
-The others stared at him awestruck, seeing something in him that he could not feel himself. Then Silviania gave a little shake, nodded and started discussing the new plans with Thorek and the others. This seemed to break the spell, and everyone started to move.
+The others stared at him with expressions caught between awe and reverence, their eyes reflecting something in him that he could not feel himself. Then Silviana gave a little shake of her head, nodded slowly, and started discussing the new plans with Thorek and the others. This seemed to break the spell, and everyone started to move with renewed purpose.
 
 As the group dispersed to spread the word, Gond remained standing in the settlement's center. The funeral pyres had burned down to glowing embers, but their light still flickered in the darkness.
 
@@ -207,5 +207,3 @@ Hope.
 They'd faced professional soldiers and won. They'd proven that free people fighting for their homes could stand against any army. And now, with allies gathering from across the continent, they might actually have a chance.
 
 Paladin's Rise was gone, burned away in the fires of battle. In his place stood something new—a leader ready to forge a free nation from the ashes of the old world.
-
-The real war was about to begin. And they would land the next blow.

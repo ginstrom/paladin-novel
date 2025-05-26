@@ -24,7 +24,7 @@ Gond had noticed. The guard thought himself clever, dangling strips of dried mea
 
 "We wait for his shift," Gond said.
 
-Pell's eyes glittered with something more than hunger. "Know this stretch of coast. Grew up working the fishing boats out of Millhaven before I found more profitable work." His voice dropped even lower. "Ship's been angling northwest since yesterday. We're coming up on Widow's Cape—nasty bit of rocks that juts out like a broken finger. Captains always swing in close to avoid the deep currents beyond."
+Pell's eyes glittered with something more than hunger. His weathered hands bore the calluses of rope work, and when he spoke of the sea, his voice carried the cadence of a man born to salt spray. "Know this stretch of coast like my own scars. Grew up working the fishing boats out of Millhaven before I found more profitable work." His voice dropped even lower. "Ship's been angling northwest since yesterday. We're coming up on Widow's Cape—nasty bit of rocks that juts out like a broken finger. Captains always swing in close to avoid the deep currents beyond."
 
 "How close?" Gond asked.
 
@@ -98,7 +98,7 @@ Gond's hand shot up, fingers closing on the guard's rough tunic. One sharp yank,
 
 "Now!"
 
-Pell moved like water, flowing over Greasy's prone form to snatch keys and shortsword. Steel flashed as he freed himself, then tossed the keys to Sim, who caught them without looking up from his quiet prayers.
+Pell moved like water, flowing over Greasy's prone form to snatch keys and shortsword. Steel flashed as he freed himself, then tossed the keys to Sim, who caught them without looking up from his quiet prayers. Gond snatched the guard's short sword from his belt as he climbed past.
 
 "Jord, Wait—" Gond started, but the big man roared and charged upward, chains trailing behind him like anchor rope. Shouts erupted from above.
 
@@ -112,9 +112,9 @@ Pell appeared at his shoulder, his knife work quick and merciless. Prisoners pou
 
 Then Gond and Jord were up and over. Cold water hit him like a physical blow, driving the air from his lungs. Almost before they hit the water, a crossbow string sang. Jord jerked, the bolt sprouting from his chest like a deadly flower. His eyes went wide, then dim. Slowly he began to sink, still chained to Gond's wrist.
 
-Gond felt himself borne down by the bulk of the big man. Quickly, he brought his blade down on Jord's wrist. Sawing desparately through sinew and bone, at last the hand was severed . Lungs bursting, he struggled to reach the surface. Gond's dagger tumbled away into darkness as he swam upward.
+Gond felt himself borne down by the bulk of the big man. The salt water burned his eyes and nose as he fought against Jord's dead weight. Quickly, he brought his blade down on Jord's wrist. Sawing desperately through sinew and bone, the water around them turning dark with blood. At last the hand was severed. Lungs bursting, pressure crushing his chest like iron bands, he struggled to reach the surface. His short sword tumbled away into the black depths as he clawed upward through the freezing water.
 
-Gond's head broke the surface and he took a gasping breath of cold air. Around him, other bodies splashed into the waves. Some went under immediately, dragged down by iron weights. Others surfaced, gasping and flailing. Bolts were striking the water all around the fleeing slaves. He saw the woman who had been singing a lullaby struck in front of him and sink immediately, the dark ocean seeming to swallow her.
+Gond's head broke the surface and he took a gasping breath of cold air that tasted of salt and freedom. Around him, other bodies splashed into the waves—some went under immediately, dragged down by iron weights, their final gasps lost beneath the surface. Others surfaced, gasping and flailing, arms thrashing desperately against the pull of the sea. Crossbow bolts hissed through the air and struck the water all around the fleeing slaves with sharp splashes. He saw the woman who had been singing a lullaby struck in front of him, her eyes wide with shock before she sank immediately, the dark ocean swallowing her without a sound.
 
 Twenty yards ahead, Pell and Sim swam with steady strokes, still chained together but moving as if they'd practiced the maneuver. Their coordination spoke of quick thinking and natural teamwork.
 
@@ -148,5 +148,4 @@ The joke fell flat in the grey morning air, but it served its purpose—a remind
 
 When the last manacle finally fell away, Gond stood and brushed sand from his clothes. His legs still shook, and the world tilted slightly with each movement, but he forced himself upright. Inland, smoke rose from a small chimney, promising warmth and perhaps answers.
 
-He looked at his unlikely companions—the sharp-eyed mercenary thief and the gentle priest—and felt something shift in his chest. Not quite trust, but maybe its distant cousin. They had bled together, suffered together, lost a friend together. That had to count for something.
-
+He looked at his unlikely companions—the sharp-eyed mercenary thief and the gentle priest—and his chest tightened, then released, as if iron bands had suddenly snapped. Not quite trust, but maybe its distant cousin. They had bled together, suffered together, lost a friend together. That had to count for something.

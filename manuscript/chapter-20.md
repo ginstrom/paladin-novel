@@ -10,9 +10,9 @@ The messenger arrived at dawn, his horse foam-flecked and trembling with exhaust
 
 Gond helped steady the messenger, noting the man's travel-stained robes marked him as a temple courier. "What kind of proclamation?"
 
-"About you." The messenger's eyes were wide with something between awe and fear. "They've declared you either the greatest saint in a century or the most dangerous heretic since the Sundering Wars."
+"About you." The messenger's pupils dilated with shock, his mouth working soundlessly for a moment before words emerged. "They've declared you either the greatest saint in a century or the most dangerous heretic since the Sundering Wars."
 
-Gond’s lips thinned. Another bloody complication. "And the temples are offering a consensus on which I am?" he asked, his voice dry.
+Gond's lips thinned. Another bloody complication. "And the temples are offering a consensus on which I am?" he asked, his voice dry.
 
 "Both, it seems. The temples are splitting down the middle."
 
@@ -26,11 +26,11 @@ Within the hour, the council chamber was packed with representatives from every 
 
 "The High Temple in the capital calls you a pretender using stolen magic for political gain. They've issued writs of excommunication and branded your followers as heretics."
 
-Sim's face had gone pale. "Excommunication? But that means—"
+Sim's face had gone pale, the color draining from his cheeks as his hands trembled slightly in his lap. "Excommunication? But that means—"
 
 "It means nothing," Thorek interrupted gruffly. "The Iron Covenant learned long ago that corrupt priests don't speak for the gods."
 
-"Easy for you to say," Sim replied. "You have your own religious authority. I'm a priest of Alanyi, sworn to obey the established order."
+"Easy for you to say," Sim replied, his voice barely above a whisper. "You have your own religious authority. I'm a priest of Alanyi, sworn to obey the established order."
 
 "Are you?" Silviana asked quietly. "Or are you a servant of the goddess herself?"
 
@@ -46,7 +46,7 @@ Gond felt his stomach tighten. The Circle of Whispers was the highest authority 
 
 "And there's one more thing," the messenger added, consulting another scroll. "A delegation from Millhaven arrived yesterday, seeking audience. They claim to represent the merchant guilds."
 
-Gond’s expression didn’t change, but a new alertness entered his eyes. "Millhaven, you say? And they arrived *yesterday*?" The timing, as always, was suspect. "Something about them troubles you. What did you feel?"
+Gond's expression didn't change, but a new alertness entered his eyes. "Millhaven, you say? And they arrived *yesterday*?" The timing, as always, was suspect. "Something about them troubles you. What did you feel?"
 
 "Nothing I can put my finger on, Lord Gond... just a feeling. They're too smooth, their eyes too quick. And they don't carry the smell of incense, more like... old coin and something else I can't name."
 
@@ -60,11 +60,11 @@ Silviana's eyes sharpened. "Priests of Kemiss? Here?"
 
 Thorek's hand moved to his warhammer. "Could be a trap."
 
-Gond’s gaze sharpened. Priests who didn’t act like priests, arriving just as the world was tilting on its axis. Coincidence was a luxury he rarely encountered. "An opportunity, perhaps," Gond said, his voice measured. "Or a different kind of test. We'll see what these 'merchants' want. Then we address the Circle."
+Gond's gaze sharpened. Priests who didn't act like priests, arriving just as the world was tilting on its axis. Coincidence was a luxury he rarely encountered. "An opportunity, perhaps," Gond said, his voice measured. "Or a different kind of test. We'll see what these 'merchants' want. Then we address the Circle."
 
 ***
 
-The delegation from Millhaven waited in the settlement's guest quarters, a modest building that had once housed refugees but now served for diplomatic meetings. As Gond approached with Thorek, Elena, and Silviana flanking him, he observed the two men through the open doorway before entering. The messenger’s unease had been contagious.
+The delegation from Millhaven waited in the settlement's guest quarters, a modest building that had once housed refugees but now served for diplomatic meetings. As Gond approached with Thorek, Elena, and Silviana flanking him, he observed the two men through the open doorway before entering. The messenger's unease had been contagious.
 
 They wore the robes of Kemiss priests—rich blue fabric with golden thread depicting scales and coins. Yet, their stillness was that of predators, not priests. Their eyes, when they flickered towards the sound of approach, held a flat, assessing quality. Gond noted the way their hands rested, not in pious contemplation, but as if ready to move with speed. Beneath the embroidered symbols of commerce, he caught the faint, unsettling shimmer of other markings, like heat haze over dark water.
 
@@ -74,7 +74,7 @@ They wore the robes of Kemiss priests—rich blue fabric with golden thread depi
 
 "Trade opportunities," Aldwin replied smoothly. "Your... liberation activities have disrupted certain supply chains. We're here to discuss alternative arrangements that might benefit all parties."
 
-Gond felt the divine power stirring uneasily in his chest, like a warning bell. There was something fundamentally wrong about these men, something that made his paladin senses recoil.
+The air in the room seemed to thicken, carrying an acrid scent like burning copper. Gond felt the divine power stirring uneasily in his chest, like a warning bell. There was something fundamentally wrong about these men, something that made his paladin senses recoil.
 
 "What kind of arrangements?" Elena asked.
 
@@ -92,7 +92,7 @@ The two men's facades cracked slightly. Aldwin's smile became predatory, while C
 
 "Perceptive," Aldwin said. "But then, we expected no less from the so-called paladin's advisors."
 
-The fear effect intensified, washing over the room like a tide. Gond saw Elena's hand freeze halfway to her sword, while Thorek stood motionless, his face pale with unnatural terror. Even Silviana seemed caught in the spell's grip.
+The fear effect intensified, washing over the room like a tide. Gond saw Elena's hand freeze halfway to her sword, her face draining of color as her pupils dilated with unnatural terror. Thorek stood motionless, his weathered features pale and his breathing shallow. Even Silviana seemed caught in the spell's grip, her usual composure cracking as her hands trembled against her staff.
 
 But Gond felt the divine power surge in response, burning away the imposed fear like sunlight through fog. More than that—he sensed the true nature of the men before him. Not merchants, not even priests of Kemiss, but something far darker.
 
@@ -178,11 +178,11 @@ The eldest, a figure whose hair was white as starlight and whose eyes held the d
 
 "I claim nothing," Gond replied, his voice steady as he stepped forward. He met Aelindra's ancient gaze without flinching. "I am what Alanyi, or fate, or sheer bloody-mindedness has made me. If your Circle deems that 'divine authority,' that is your word for it. I call it a heavy load and a path I walk because I must."
 
-A subtle murmur, like the rustling of ancient leaves, passed through the Circle. Aelindra’s lips curved slightly.
+A subtle murmur, like the rustling of ancient leaves, passed through the Circle. Aelindra's lips curved slightly.
 
 "An interesting answer," Aelindra mused. "Most who stand before us, touched by power, are eager to proclaim their divine mandate. You sound like a man sentenced to a duty he cannot escape."
 
-"That’s a fair assessment," Gond said with a wry twist of his lips. "I didn't seek this. I was a mercenary, content with my coin and my anonymity. This path chose me, through fire and chains. Responsibility, as it turns out, is a stubborn master."
+"That's a fair assessment," Gond said with a wry twist of his lips. "I didn't seek this. I was a mercenary, content with my coin and my anonymity. This path chose me, through fire and chains. Responsibility, as it turns out, is a stubborn master."
 
 Another member of the Circle, a male elf with silver hair and eyes like deep forest pools, leaned forward. "Yet you wield power that could only come from divine blessing. We have felt it from here—the healing light, the righteous fury, the touch of something beyond mortal ken."
 
@@ -222,7 +222,7 @@ For a heartbeat, the outcome hung in balance. Then the shadow shattered like gla
 
 When the light faded, the arm was whole.
 
-The Circle sat in stunned silence. Even Aelindra's ancient composure had cracked, her eyes wide with something approaching awe, now tinged with a new, deeper contemplation. Silviana exchanged a quick, almost imperceptible glance with her, a silent question and affirmation passing between them.
+The Circle sat in stunned silence. Even Aelindra's ancient composure had cracked, her eyes widening as her mouth fell slightly open, her hands gripping the arms of her stone seat. The other members leaned forward as one, their eternal stillness broken by this unprecedented moment.
 
 "In three thousand years," she whispered, "no power has been able to heal shadow-touch. Not elven magic, not dwarven runes, not even the high priests of the old gods."
 
@@ -276,7 +276,7 @@ Gond dismounted, the weariness of the past days settling into his bones, yet a n
 
 ***
 
-The council chamber buzzed with a nervous energy. Maps, old and newly acquired from the Circle, lay spread across the main table. Maera’s scouts, dusty and grim-faced, stood ready to give their reports.
+The council chamber buzzed with a nervous energy. Maps, old and newly acquired from the Circle, lay spread across the main table. Maera's scouts, dusty and grim-faced, stood ready to give their reports.
 
 "From the Northern Passes," one began, "three temples of Alanyi have declared for Gond. Their priests are now hunted by Royalist patrols. Lord Valerius of Stonebridge has mobilized his household guard, claiming to 'restore order'."
 

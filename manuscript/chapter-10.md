@@ -6,7 +6,7 @@
 
 The slave catchers' confidence shattered like glass against stone. Gond's ambush unfolded with devastating precision—arrows whistled from concealed positions, pit traps swallowed horses and riders, coordinated attacks turned the hunters into the hunted.
 
-Gond moved through the battle like a man possessed, every decision flowing from instincts that seemed to see around corners. When the enemy tried to flank left, he was already there with a counter-ambush. When they attempted to retreat to higher ground, his archers were waiting. The flow of combat spread before him like a map, each move predictable, each counter-move inevitable.
+Gond flowed through the battle with fluid grace, his blade dancing between opponents while his feet found perfect footing on treacherous ground. Every decision flowed from instincts that seemed to see around corners. When the enemy tried to flank left, he was already there with a counter-ambush. When they attempted to retreat to higher ground, his archers were waiting. The flow of combat spread before him like a map, each move predictable, each counter-move inevitable.
 
 "Behind you!" Pell shouted, engaging two slavers near the valley's entrance.
 
@@ -70,15 +70,19 @@ Suddenly, Dax's life force erupted like a wildfire, burning so bright it drove G
 
 The boy's wounds began to close. Bones knitted together with audible clicks. Torn flesh mended itself. The blood that had pooled beneath him seemed to flow backward, returning to his body as if time itself were reversing.
 
-Gond's vision went white. The blazing essence pushed him out, severing his connection to the healing. He swayed, his hands falling away from Dax's chest as consciousness returned in fragments.
+Heat flooded through Gond's arms, as if molten gold flowed through his veins instead of blood. His palms burned where they touched the boy's chest, not with pain but with an intensity that made his bones ache. The power coursed through him like lightning, leaving his muscles trembling and his breath coming in sharp gasps.
+
+Gond's vision went white. The blazing essence pushed him out, severing his connection to the healing. He swayed, his hands falling away from Dax's chest as consciousness returned in fragments. His fingertips still tingled with residual warmth, and the taste of copper and starlight lingered on his tongue.
 
 When his sight cleared, Dax was sitting up, his hand moving to where the fatal wounds had been. Nothing remained but unmarked skin. His eyes were clear and bright, no trace of pain or injury marring his young face.
 
-The silence that followed was profound. Fifty refugees stared at Gond with expressions that ranged from awe to fear to something approaching worship. The golden light faded, leaving only the ordinary afternoon sun, but its memory blazed in every watching eye.
+Not a breath stirred the air. Even the wind had stilled, as if nature itself held its breath. The crackling of dying embers from overturned cook fires seemed thunderous in the absolute quiet. Fifty refugees stared at Gond with expressions that ranged from awe to fear to something approaching worship. The golden light faded, leaving only the ordinary afternoon sun, but its memory blazed in every watching eye.
 
-"Alanyi's mercy," someone whispered.
+"Alanyi's mercy," someone whispered from the back of the crowd.
 
-"A miracle," breathed another.
+"A miracle," breathed another, falling to his knees.
+
+An older formed her fingers into the intertwined circles of Alanyi repeatedly, her lips moving in silent prayer. A young father clutched his children closer, his eyes wide with wonder and fear. Several refugees stepped backward, as if afraid to stand too close to such divine power, while others pressed forward, reaching out with trembling hands as if to touch the lingering traces of holy light.
 
 Gond staggered backward, his legs giving out beneath him. He sat heavily on the ground, staring at his hands as they trembled with residual power. There was no denying it now, no rationalizing it away. The force that had flowed through him was divine, unmistakable in its nature and scope.
 

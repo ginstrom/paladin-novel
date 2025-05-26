@@ -32,7 +32,7 @@ Beside him sat a thin, nervous priest in the faded robes of Alanyi—one of only
 
 Aldric's smile was thin and cold. "Very well. By what authority do you claim the title of Paladin? Who ordained you? What tests did you pass? What vows did you swear?"
 
-The questions hung in the air like accusations. Around the circle, Gond could see the tension building—his people bristling at the implied challenge, while the visiting clerics watched with calculating eyes.
+The questions hung in the air like accusations. Around the circle, shoulders stiffened and hands drifted toward weapon hilts. Thorek's jaw clenched while Silviana's fingers traced patterns on her staff. The visiting clerics leaned forward like predators scenting weakness, their gazes sharp and assessing.
 
 "I claim no title," Gond said finally. "I am what I am. The divine power that flows through me is its own authority."
 
@@ -90,7 +90,7 @@ The implication was clear: submit, and perhaps some of what Gond had built would
 
 "We have the authority of two millenium of faithful service," Korgan replied. "The authority of standing against corruption when others embraced it. The authority of preserving divine truth when others perverted it for political gain."
 
-As the argument continued, Gond found himself studying the faces around him. The visiting clerics were clearly divided—some nodding along with Aldric's demands, others looking uncomfortable with the High Cleric's heavy-handed approach. His own people were watching him intently, waiting to see how he would respond to this challenge.
+As the argument continued, Gond found himself studying the faces around him. The visiting clerics were clearly divided—some nodding along with Aldric's demands, others shifting in their seats and avoiding eye contact with the High Cleric. His own people were watching him intently, waiting to see how he would respond to this challenge.
 
 "May I ask a question?" Sim said suddenly, his quiet voice cutting through the debate.
 
@@ -112,7 +112,7 @@ Before Aldric could respond, another voice joined the conversation.
 
 Aldric turned to her with obvious relief. "Sister Marta. Your timing is fortuitous. Perhaps you can help this pretender understand the importance of proper religious authority."
 
-But Marta's attention was focused on Silviana, her eyes bright with something approaching reverence. "Lore-keeper Starweaver," she said, inclining her head respectfully. "I have studied the old texts, the ones that speak of Alanyi's true nature before the orders became... political. Your presence here suggests this man may indeed carry the ancient blessing."
+But Marta's attention was focused on Silviana, her pupils dilated with wonder as she took in the elven lore-keeper's presence. Her hands trembled slightly as she clasped them before her. "Lore-keeper Starweaver," she said, inclining her head respectfully. "I have studied the old texts, the ones that speak of Alanyi's true nature before the orders became... political. Your presence here suggests this man may indeed carry the ancient blessing."
 
 Silviana studied the young priest with interest. "You follow the old ways, Sister?"
 
@@ -132,17 +132,17 @@ Gond knelt before her, placing his hands gently on her shoulders. "What's your n
 
 "Lily, I'm going to try to help your arm. It might feel strange, but it won't hurt. Is that all right?"
 
-She nodded solemnly, and Gond placed his hands on her withered limb. The famliar feel of the divine power flowed through him, seeking out the malformed bones and twisted muscles. But this wasn't like healing a wound or curing a disease—this was reshaping something that had been wrong from birth, rewriting the very structure of her body.
+She nodded solemnly, and Gond placed his hands on her withered limb. The familiar warmth of divine power flowed through him, seeking out the malformed bones and twisted muscles. But this wasn't like healing a wound or curing a disease—this was reshaping something that had been wrong from birth, rewriting the very structure of her body.
 
 The effort was enormous, drawing on reserves of divine energy Gond hadn't known he possessed. Around him, he could hear gasps of amazement as Lily's arm began to change, bones straightening, muscles filling out, skin taking on healthy color.
 
-When it was finished, the child flexed her fingers experimentally, wonder dawning in her eyes as she realized she could move them freely for the first time in her life.
+When it was finished, the child flexed her fingers experimentally, her mouth falling open in silent wonder as she realized she could move them freely for the first time in her life.
 
 "Thank you," she whispered, then ran back to Sister Marta with tears of joy streaming down her face.
 
 The circle was silent for a long moment, the implications of what they'd witnessed settling over everyone present. Finally, Sister Marta spoke.
 
-"I've seen enough," she said quietly. "Your power was very great. This man carries divine blessing, whatever the politics of the situation might be."
+"I've seen enough," she said quietly. "This man carries divine blessing, whatever the politics of the situation might be."
 
 "One miracle proves nothing," Aldric said, but his voice lacked its earlier conviction.
 
@@ -156,7 +156,7 @@ But as he looked around at the faces of his people—refugees who'd found hope, 
 
 "High Cleric Aldric," he said, rising to his feet. "I thank you for your offer, but I must decline."
 
-The High Cleric's face darkened. "You refuse to submit to proper religious authority?"
+Aldric's face darkened, his mouth twisting into a scowl. "You refuse to submit to proper religious authority?"
 
 "I refuse to submit to authority that serves politics rather than divine will," Gond replied. "I refuse to accept oversight from those who've forgotten what it means to serve the oppressed."
 

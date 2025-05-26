@@ -60,7 +60,7 @@ Pell snorted. "How's a pacifist supposed to defend himself from slave catchers? 
 
 Sim's eyes held steady calm. "Even the tiny field mouse will defend itself when attacked, and Alanyi blesses it."
 
-Maera's weathered face showed the first hint of interest. "Alanyi." She repeated the name like tasting wine. "Haven't heard that name spoken with reverence in years. Most prefer Turin these days—justice through strength, order through force." Her fingers traced the rim of her bowl. "Easier to justify the trade when your god values order above mercy."
+Maera leaned forward, her fingers pausing mid-stir over the pot. "Alanyi." She repeated the name like tasting wine. "Haven't heard that name spoken with reverence in years. Most prefer Turin these days—justice through strength, order through force." Her fingers traced the rim of her bowl. "Easier to justify the trade when your god values order above mercy."
 
 "The trade?" Pell asked, though his tone suggested he already knew.
 
@@ -88,7 +88,7 @@ Gond's jaw hardened. "You seem well-informed about current bounties."
 
 "Information travels. Merchants talk. Fishermen gossip." Maera shrugged, but Pell's sharp eyes had caught something—the way she'd known the exact bounty amount, the casual mention of the Crimson Company by name. Details that suggested more than casual interest.
 
-"There's a pilgrim way-station south of here," Maera continued, sketching directions in the dirt floor with a charred stick. "Old shrine to Alanyi, abandoned now. Stone walls, good water, hidden from the main roads. Travelers used to stop there for blessing and rest."
+"There's a pilgrim way-station south of here," Maera continued, sketching directions in the dirt floor with a charred stick. She drew a rough coastline, then marked an X inland. "Old shrine to Alanyi, abandoned now. Stone walls, good water, hidden from the main roads. Travelers used to stop there for blessing and rest."
 
 "Used to?" Sim leaned forward.
 
@@ -108,7 +108,7 @@ Gond's eyes fixed on the crude map. "Striking back."
 
 "You're advising against it," Sim observed.
 
-"I'm advising caution. Revenge is a luxury the living can afford. The dead collect no debts." Maera stood, moving to her shelves. She selected several items—a small vial of dark liquid, strips of cloth that looked suspiciously like bandages, a pouch that clinked with the sound of coins. "But I don't make choices for others. Each person walks their own path."
+"I'm advising caution. Revenge is a luxury the living can afford. The dead collect no debts." Maera stood, moving to her shelves. Her voice neither rose nor fell, each word measured like coins on a scale. She selected several items—a small vial of dark liquid, strips of cloth that looked suspiciously like bandages, a pouch that clinked with the sound of coins. "But I don't make choices for others. Each person walks their own path."
 
 She pressed a larger satchel into Sim's hands—dried provisions, bundled herbs, and the additional supplies. "The way-station first. Rest, plan, decide. The hills will still be there if you choose them. Blackwater too, though it may choose you first."
 

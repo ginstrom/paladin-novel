@@ -14,7 +14,7 @@ Gond stood at the settlement's rebuilt watchtower, studying the approaching grou
 
 "Twenty mounted, maybe more following on foot," Pell reported. "Mixed group—some look like soldiers, others like civilians. And there's something else." He handed the spyglass to Gond. "Look at the rear guard."
 
-Gond adjusted the focus and felt his breath catch. Bringing up the rear of the column was a sight that defied belief—a massive siege engine being pulled by a team of oxen, its bronze-reinforced frame gleaming in the morning sun. And beside it, directing its movement with the casual expertise of a master craftsman, was a dwarf even larger than Thorek.
+Gond adjusted the focus and felt his breath catch. Bringing up the rear of the column was a sight that defied belief—a massive siege engine being pulled by a team of oxen, its bronze-reinforced frame gleaming in the morning sun. The machine stood nearly twice the height of a man, its throwing arm crafted from laminated wood strips bound with iron bands. Counterweight stones hung in a mesh of chains and pulleys, while the frame itself was inscribed with dwarven runes that seemed to pulse with their own inner light. And beside it, directing its movement with the casual expertise of a master craftsman, was a dwarf even larger than Thorek.
 
 "Grimjaw Ironforge," Thorek breathed, his voice filled with something between awe and disbelief. "What in Turin's name is he doing here?"
 
@@ -22,7 +22,7 @@ Gond adjusted the focus and felt his breath catch. Bringing up the rear of the c
 
 "Know him? Lad, Grimjaw is the finest siege engineer in the known world. His engines have broken more fortress walls than any other dwarf alive." Thorek's expression was troubled. "But he serves the Crown of Ironhold. Has for thirty years. What would bring him here?"
 
-They had their answer within the hour, as the column reached the settlement's edge and Maera dismounted with the fluid grace of someone half her age. But it was the woman beside her who commanded immediate attention—tall, regal, with the bearing of someone accustomed to command. Her armor was practical but well-made, and the sword at her side showed the wear of frequent use.
+They had their answer within the hour, as the column reached the settlement's edge and Maera dismounted with the fluid grace of someone half her age. But it was the woman beside her who commanded immediate attention—tall, regal, with the bearing of someone accustomed to command. Her armor was practical but well-made, and the sword at her side showed the wear of frequent use. As she dismounted, her feet found the ground in a perfect fighting stance—weight balanced, knees slightly bent, one hand resting casually on her sword hilt while her eyes swept the settlement's defenses with professional assessment.
 
 "Gond," Maera said, approaching with a smile that didn't quite reach her eyes. "You've been busy since we last met."
 
@@ -30,15 +30,15 @@ They had their answer within the hour, as the column reached the settlement's ed
 
 "War changes everyone," she replied simply. Then, turning to her companion, "Allow me to present Captain Elena Brightblade, formerly of the Royal Guard of Westmarch."
 
-The woman stepped forward, her gaze assessing Gond with professional interest. "So you're the one they're calling the Healer in the Hills. You're younger than I expected."
+The woman stepped forward, her movement flowing from the mounted stance into a warrior's approach—shoulders square, spine straight, each step deliberate and controlled. Her gaze assessed Gond with professional interest, taking in his posture, the way he carried his sword, the confidence in his bearing. "So you're the one they're calling the Healer in the Hills. You're younger than I expected."
 
 "And you're farther from Westmarch than I'd expect a Royal Guard to be," Gond replied carefully.
 
 Elena's smile was sharp as a blade. "Former Royal Guard. I resigned my commission when I learned what my king was really funding with his tax revenues." Her expression darkened. "Turns out the slave trade has more friends in high places than I'd realized."
 
-Before Gond could respond, a commotion from the rear of the column drew their attention. The massive dwarf—Grimjaw, presumably—was directing the positioning of his siege engine with a stream of colorful curses that would have made a sailor blush. The machine itself was a work of art, its bronze fittings inscribed with runes that seemed to pulse with their own inner light.
+Before Gond could respond, a commotion from the rear of the column drew their attention. The massive dwarf—Grimjaw, presumably—was directing the positioning of his siege engine with a stream of colorful curses that would have made a sailor blush. The machine itself was a work of art, its bronze fittings inscribed with runes that seemed to pulse with their own inner light. Gond could see the intricate mechanism of the release trigger, the precisely calculated angles of the throwing arm, the massive windlass system that would cock the weapon for firing.
 
-Gond noticed how the refugees gathered to watch, their eyes wide with wonder. In the months since they'd established the valley settlement, they'd grown accustomed to the sound of Korven's makeshift forge and the sight of Dax's carpentry crews. But this was something else entirely—a weapon of war that spoke of professional military capability.
+Gond noticed how the refugees gathered to watch, their pupils dilated with amazement, mouths slightly agape as they took in the sheer scale of the war machine. Children pointed with trembling fingers while their parents drew them closer, torn between wonder and fear. In the months since they'd established the valley settlement, they'd grown accustomed to the sound of Korven's makeshift forge and the sight of Dax's carpentry crews. But this was something else entirely—a weapon of war that spoke of professional military capability.
 
 "Grimjaw!" Thorek called out, striding toward his kinsman. "What brings you to this place?"
 
@@ -50,7 +50,7 @@ The larger dwarf looked up from his work, his face splitting into a grin that re
 
 He gestured toward the siege engine and the wagons behind it. "Brought more than just myself, too. Three wagonloads of proper steel, bronze fittings, and enough tools to outfit a real forge. That little setup your man Korven's been working with—" He shook his head dismissively. "Good for horseshoes and nails, maybe. But if you're planning to take on fortified cities, you'll need weapons that can punch through stone walls."
 
-Gond felt the weight of expectation settling on his shoulders again, but this time it was different. These weren't desperate refugees seeking miracles—these were professionals, soldiers and leaders who'd made calculated decisions to join his cause.
+Gond's shoulders straightened as if an invisible yoke had been placed across them, the muscles between his shoulder blades tightening with the sudden awareness of what was being offered—and what it would demand of him. These weren't desperate refugees seeking miracles—these were professionals, soldiers and leaders who'd made calculated decisions to join his cause.
 
 "How many more are coming?" he asked Maera.
 
@@ -118,7 +118,7 @@ Gond stood, his gaze sweeping across the assembled faces. "I mean we stop reacti
 
 "We're already committed," Gond replied. "The moment I chose to heal instead of hide, the moment I decided to build something instead of just surviving—we were committed. The only question is whether we fight on our terms or theirs."
 
-Grimjaw's laugh was like the rumble of distant thunder. "Now that's the kind of talk I like to hear! My engines have been idle too long."
+Grimjaw's laugh rumbled like distant thunder, his eyes brightening as his weathered face creased into deep lines of anticipation. His massive hands rubbed together with barely contained eagerness. "Now that's the kind of talk I like to hear! My engines have been idle too long."
 
 "The Iron Covenant stands ready," Thorek added formally. "Our weapons, our warriors, our knowledge—all at your disposal."
 
@@ -176,11 +176,11 @@ Gond felt the familiar stirring of divine power, responding automatically to the
 
 "Show me," he said.
 
-The family huddled near the settlement's entrance—a man and woman in their thirties, three children ranging from perhaps six to twelve, and an elderly woman who lay on a makeshift stretcher. Even from a distance, Gond could see the gray pallor of approaching death, the labored breathing that spoke of a body giving up its fight.
+The family huddled near the settlement's entrance—a man and woman in their thirties, three children ranging from perhaps six to twelve, and an elderly woman who lay on a makeshift stretcher. Even from a distance, Gond could see the gray pallor of approaching death, the labored breathing that spoke of a body giving up its fight. The scent of sickness hung in the air—that particular mixture of fever sweat and something deeper, more final.
 
 "This is Jorik and Mira," Sim said quietly as they approached. "Their children—Tam, Bess, and little Fen. And this is Jorik's mother, Grandmother Nessa."
 
-The old woman's eyes fluttered open as Gond knelt beside her stretcher. Despite her condition, her gaze was clear and aware. "You're him," she whispered. "The healer. I told them... told them we had to reach you."
+The old woman's eyes fluttered open as Gond knelt beside her stretcher. Despite her condition, her gaze was clear and aware. Her breath came in shallow whispers, each exhalation carrying the faint rattle of fluid in her lungs. "You're him," she whispered. "The healer. I told them... told them we had to reach you."
 
 "Grandmother, save your strength," Jorik said, his voice thick with grief. "The healer is here now. He'll make you well."
 
@@ -190,7 +190,7 @@ Gond's hands trembled slightly. The instruction was clear, just as it had been w
 
 "I understand," he whispered, so quietly that only the goddess could hear.
 
-Instead of the full healing power he might have channeled, Gond let only a gentle warmth flow through his hands. Not the blazing light that could mend bones and restore life, but a softer radiance that eased pain and brought peace. The old woman's labored breathing grew easier, the lines of suffering smoothing from her face.
+Instead of the full healing power he might have channeled, Gond let only a gentle warmth flow through his hands. Not the blazing light that could mend bones and restore life, but a softer radiance that eased pain and brought peace. The old woman's labored breathing grew easier, the lines of suffering smoothing from her face. The scent of sickness faded, replaced by something cleaner—like wildflowers after rain.
 
 "Better?" he asked gently.
 
@@ -206,11 +206,11 @@ Jorik's face crumpled. "We would have come anyway. For the children—"
 
 "Would you?" Nessa asked gently. "Or would grief have made you think it was too dangerous, too uncertain? I know you, my son. You would have found reasons to stay, to accept what seemed inevitable." She reached out with a trembling hand to touch his cheek. "I stayed because you needed hope. And now... now you're here. You're safe. The children will grow up free."
 
-Gond felt tears stinging his eyes as he watched the family's grief and understanding war across their faces.
+Gond felt tears stinging his eyes as he watched the family's grief and understanding war across their faces. The firelight flickered across the old woman's peaceful features, casting gentle shadows that seemed to soften the harsh reality of approaching death.
 
 "I'm ready now," the old woman said, her voice growing fainter. "Ready to meet Alanyi in the next world."
 
-She closed her eyes, her breathing growing shallow. Within minutes, it stopped entirely, her face peaceful in the firelight.
+She closed her eyes, her breathing growing shallow. The night air seemed to still around them, as if the world itself was holding its breath. Within minutes, her chest ceased its gentle rise and fall, her face peaceful in the firelight. The scent of wildflowers lingered for a moment longer, then faded into the cool night air.
 
 The family wept, but it was the clean grief of acceptance rather than the bitter anguish of senseless loss. As they held each other, Gond stood slowly, feeling the weight of divine wisdom settling over him.
 

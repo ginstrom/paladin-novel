@@ -14,7 +14,7 @@ But it wasn't enough. Gond could see that much without divine sight. The boy's s
 
 Around them, the settlement bore the scars of battle. The slavers had been routed—those who survived the initial charge had fled into the forest, leaving behind their dead and wounded. Captain Voss himself lay among the fallen, his expensive armor no protection against the fury of people fighting for their homes.
 
-It should have been a moment of triumph. Instead, Gond felt only the weight of what the victory had cost.
+It should have been a moment of triumph. Instead, Gond's shoulders sagged as if invisible stones had been piled upon them, each fallen defender adding to the burden that pressed down on his spine.
 
 "How many?" he asked.
 
@@ -32,7 +32,7 @@ Gond's hands trembled. The divine instruction was clear, undeniable. But Willem 
 
 "No," Gond whispered, pouring more power into the healing. "I can save him. I can—"
 
-The divine presence withdrew, leaving him to channel his own mortal will against death itself. Sweat beaded on Gond's forehead as he fought to continue the healing without divine support. The effort was enormous, like trying to hold back an ocean with his bare hands. His vision blurred, his hands shook, and he felt something fundamental within himself beginning to tear.
+The warmth that had filled his chest suddenly drained away, leaving behind a hollow ache that echoed with each heartbeat. His fingertips, which had tingled with divine energy moments before, now felt cold and numb. The golden light flickered and died, abandoning him to channel his own mortal will against death itself. Sweat beaded on Gond's forehead as he fought to continue the healing without divine support. The effort was enormous, like trying to hold back an ocean with his bare hands. His vision blurred, his hands shook, and he felt something fundamental within himself beginning to tear.
 
 Around him, he could hear voices—Sim urging him to stop, Silviana speaking urgently in elven, others calling out in alarm as they saw him collapsing.
 
@@ -64,11 +64,11 @@ The trail wound through dense forest, marked only by occasional stones that seem
 
 "To a place of answers," Silviana replied. "Or perhaps, to a place where the right questions become clear."
 
-They emerged into a circular clearing dominated by a single massive oak tree, its trunk so wide that a dozen people holding hands couldn't have encircled it. The tree's branches spread overhead like a living cathedral, and at its base, carved into the bark itself, was a symbol Gond recognized—the intertwined circles of Alanyi, goddess of mercy and redemption.
+They emerged into a circular clearing dominated by a single massive oak tree, its trunk so wide that a dozen people holding hands couldn't have encircled it. The bark was deeply furrowed, each groove and ridge telling the story of countless seasons. The scent of rich earth and growing things filled the air, while overhead, the canopy rustled with a sound like distant voices sharing ancient secrets. The tree's branches spread overhead like a living cathedral, and at its base, carved into the bark itself, was a symbol Gond recognized—the intertwined circles of Alanyi, goddess of mercy and redemption.
 
 "This tree was here when my people first came to these lands," Silviana said, settling cross-legged at its base. "It was ancient then, and that was over a thousand years ago. The symbol was carved by the first paladin of Alanyi to walk these paths."
 
-Gond approached the tree slowly, his fingers tracing the worn grooves of the carving. "How many paladins have there been?"
+Gond approached the tree slowly, his fingers tracing the worn grooves of the carving. The bark felt warm beneath his touch, as if life pulsed just beneath the surface. "How many paladins have there been?"
 
 "Fewer than you might think. More than the world remembers." Silviana's voice carried the weight of centuries. "Each one faced the same crisis you face now—the moment when divine power proves insufficient to prevent all suffering, when the burden of choice becomes too heavy to bear."
 
@@ -108,13 +108,13 @@ Thorek studied him for a long moment, his eyes moving from Gond's face to the sw
 
 Gond hesitated, then drew his blade and offered it hilt-first. The silver steel caught the dappled sunlight, its surface unmarked despite the morning's battle.
 
-Thorek took the sword with the reverence of a master craftsman, his calloused fingers running along the fuller, testing the balance, examining the edge with an expert's eye. His breathing grew shallow as he studied the weapon, turning it this way and that in the light.
+Thorek took the sword with the reverence of a master craftsman, his calloused fingers running along the fuller, testing the balance, examining the edge with an expert's eye. His breathing grew shallow as he studied the weapon, turning it this way and that in the light. The dwarf's weathered hands traced the blade's surface with the delicate touch of someone who understood metal at its most fundamental level. He held it up to catch the light, squinted at the grain of the steel, even brought it close to his ear and tapped it gently with one thick finger, listening to the tone it produced.
 
 "By Turin's hammer," he whispered, his voice filled with awe. "This is no mortal blade."
 
 "What do you mean?" Gond asked.
 
-The dwarf looked up, his eyes wide with something approaching religious fervor. "I have worked metal for over two centuries, lad. I have forged weapons for kings and heroes, blades that have carved their names into legend. But this..." He held the sword up, watching light play along its perfect edge. "This is beyond my ability to forge. Beyond any mortal smith's ability."
+The dwarf looked up, his eyes wide with something approaching religious fervor. "I have worked metal for over two centuries, lad. I have forged weapons for kings and heroes, blades that have carved their names into legend. But this..." He held the sword up, watching light play along its perfect edge. "The steel is too pure, the balance too perfect. The edge holds a sharpness that should be impossible to maintain. And the way it resonates when struck—it sings with harmonics I've never heard from earthly metal. This is beyond my ability to forge. Beyond any mortal smith's ability."
 
 Silviana moved closer, her ancient eyes studying the weapon with new interest. "The old songs speak of such blades. Weapons transformed by divine will, forged not in earthly fires but in the crucible of righteous purpose."
 
@@ -134,7 +134,7 @@ Thorek gestured toward the settlement below. "I found a man who stands between t
 
 He stepped forward, extending his hand to Gond. "Your victory today was not won by divine power alone. It was won by people standing together, fighting for something greater than themselves. That is the true strength of a paladin—not the miracles you can work, but the hope you can inspire in others."
 
-Gond looked at the offered hand, then at Silviana, who nodded encouragingly. Slowly, he reached out and clasped the dwarf's forearm in the traditional warrior's greeting.
+Gond looked at the offered hand, then at Silviana, who nodded encouragingly. Slowly, he reached out and clasped the dwarf's forearm in the traditional warrior's greeting. As their hands met, Thorek spoke a phrase in the old dwarven tongue, his voice carrying the weight of ritual and ceremony. The metal rings in his beard chimed softly, and for a moment, the air itself seemed to thrum with significance.
 
 "The Iron Covenant offers its aid," Thorek said formally. "Our weapons, our knowledge, our strength in the battles to come. But more than that, we offer partnership—the chance to rebuild what was broken, to restore the alliance that once stood against the darkness."
 

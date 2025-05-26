@@ -6,13 +6,13 @@
 
 The air in the council chamber was thick enough to spread on hardtack, a blend of woodsmoke, old parchment, and the distinct aroma of simmering dwarven frustration. Maps lay unfurled across the long table, weighted down with daggers and whetstones, depicting the Slavers' Coast and the fortified cities that were their ultimate targets. Gond, seated at the head, let his gaze drift over the faces assembled. Each bore the marks of the coming conflict in their own way.
 
-"A direct assault on Port Bloodsand is madness," Thorek Ironheart rumbled, his fist a heavy punctuation mark on the map, perilously close to a spilled inkwell. "But a feint, drawing their main force, while Grimjaw's beauties crack open their western gate? That has the ring of proper dwarven strategy." His beard, braided with iron rings, bristled with conviction. "Strike hard, strike fast. Justice demands no less."
+"A direct assault on Saltmere is madness," Thorek Ironheart rumbled, his fist a heavy punctuation mark on the map, perilously close to a spilled inkwell. "But a feint, drawing their main force, while Grimjaw's beauties crack open their western gate? That has the ring of proper dwarven strategy." His beard, braided with iron rings, bristled with conviction. "Strike hard, strike fast. Justice demands no less."
 
 Sim, his weathered hands resting calmly in his lap, offered a counterpoint as gentle as falling leaves. "And what of the innocents within, Thorek? The slaves, the conscripts, those caught in the gears of this war? Alanyi teaches that the path to true victory is paved with mercy, not just might. Can we not offer terms? A chance for surrender before the hammers fall?"
 
 Grimjaw Ironforge, whose own hands looked capable of bending iron bars, let out a snort that sounded like a bellows deflating. "Mercy? Tell that to the ghosts in the slave pits, priest. Some rats need drowning, not a life raft." His gold-capped teeth flashed. "We hit them where they live, break their will to fight. That's the only mercy slavers understand."
 
-Elena Brightblade, her practical armor a stark contrast to Silviana’s flowing robes, tapped a slender finger on a coastal fortress. "Philosophical differences aside, our immediate concern is logistics. Port Bloodsand has a deep-water harbor. Taking it cripples their supply lines from the southern kingdoms. But their fleet is formidable. How do we neutralize it without a navy of our own?"
+Elena Brightblade, her practical armor a stark contrast to Silviana's flowing robes, tapped a slender finger on a coastal fortress. "Philosophical differences aside, our immediate concern is logistics. Saltmere has a deep-water harbor. Taking it cripples their supply lines from the southern kingdoms. But their fleet is formidable. How do we neutralize it without a navy of our own?"
 
 "The elven fleets of old faced similar challenges," Silviana Starweaver murmured, her voice like the rustle of ancient leaves. Her eyes, pools of forest shadow, held the wisdom of centuries. "Deception, coastal raids to draw out their patrols, using the very currents against them. The sea can be a fickle ally, or a devastating foe."
 
@@ -32,7 +32,7 @@ Elena was already at the window. "Noble Knights, by the look of their banners. S
 
 Thorek grunted. "Come to tell us how to fight our war, have they?"
 
-Gond’s smile was wry. "Perhaps. Or perhaps they've merely come to observe the 'rabble' in action. Let us extend our hospitality."
+Gond's smile was wry. "Perhaps. Or perhaps they've merely come to observe the 'rabble' in action. Let us extend our hospitality."
 
 ***
 
@@ -42,7 +42,7 @@ Sir Roderick Ashford, his polished armor gleaming, dismounted with the practiced
 
 "Granted, Sir Roderick," Gond replied, his tone even, a hint of his old sardonic humor lacing his words. "It's not every day our humble war council is graced by such distinguished guests."
 
-The knight’s answering smile was thin, his eyes assessing. "Your 'humble' efforts have caused considerable stir in less humble circles. May we speak in private? Our discussion touches on matters of… delicate alliance."
+The knight's answering smile was thin, his eyes assessing. "Your 'humble' efforts have caused considerable stir in less humble circles. May we speak in private? Our discussion touches on matters of… delicate alliance."
 
 Gond led Sir Roderick to a smaller chamber, Thorek and Elena taking positions near the door, a silent testament to their own authority. Silviana, a shadow in her forest-hued robes, settled into a quiet corner, her presence a subtle weight in the room.
 
@@ -60,21 +60,21 @@ Sir Roderick met his gaze directly. "There are many within the Noble Knights, my
 
 Gond felt a familiar weariness, but pushed it down. This was not a man to be baited into anger. "And who determines this 'proper order,' Sir Roderick? And this 'natural hierarchy'?"
 
-"History determines it. Breeding. Education. The capacity to govern is not found in every field hand or dock worker, however much we may pity their former plight." Roderick’s certainty was absolute, the conviction of generations.
+"History determines it. Breeding. Education. The capacity to govern is not found in every field hand or dock worker, however much we may pity their former plight." Roderick's certainty was absolute, the conviction of generations.
 
 Gond nodded slowly. "I see. You would break their chains, only to fit them with a different sort of leash." He paused, then continued, his voice calm, almost gentle. "In our valley, Sir Roderick, former field hands now forge weapons. Former quarry slaves now learn siege craft from dwarven masters. Women who were once property now command troops and debate strategy. We find leadership in the most unexpected places, once the opportunity is given."
 
-As Gond spoke, his conviction infusing his words, Silviana’s eyes narrowed slightly. Sim, who had quietly entered and stood near the doorway, drew a soft breath. For a fleeting instant, to them, the faded slave brand on Gond's brow seemed to shimmer, the intertwined manacles resolving into two luminous, intertwined circles of silver light – the symbol of Alanyi. Then it was gone, leaving only the faint scar. Gond himself remained oblivious, his focus entirely on the knight before him.
+As Gond spoke, his conviction infusing his words, Silviana's eyes narrowed slightly. Sim, who had quietly entered and stood near the doorway, drew a soft breath. For a fleeting instant, to them, the faded slave brand on Gond's brow seemed to shimmer, the intertwined manacles resolving into two luminous, intertwined circles of silver light – the symbol of Alanyi. Then it was gone, leaving only the faint scar. Gond himself felt nothing—no warmth, no tingling, no divine presence stirring within him. The power remained dormant, waiting.
 
-Roderick shifted, a flicker of something unreadable in his eyes. "A charming experiment in idealism. But a nation cannot be run by a council of… equals. Someone must lead. Someone must make the hard decisions."
+Roderick shifted, his posture straightening as his jaw tightened almost imperceptibly. His fingers drummed once against his thigh before he caught himself and stilled them. "A charming experiment in idealism. But a nation cannot be run by a council of… equals. Someone must lead. Someone must make the hard decisions."
 
 "We make them together," Gond said simply. "Human, dwarf, elf. Noble-born and common-born. It is not always easy. It is often loud." A ghost of a smile. "But the decisions are ours, forged in shared purpose, not imposed by birthright." He leaned forward, his gaze holding Roderick's. "We are not seeking to reform the old system, Sir Knight. We are building something entirely new."
 
-Roderick was silent for a long moment. "You speak of revolution," he said at last, his voice flat.
+Roderick was silent for a long moment, his eyes studying Gond's face as if searching for cracks in his resolve. "You speak of revolution," he said at last, his voice flat.
 
 "We speak of freedom," Gond corrected gently. "True freedom. For everyone."
 
-The knight rose, his hand falling to the pommel of his sword. "Then our paths, it seems, diverge more sharply than I had hoped." He looked at Gond, a strange mixture of disapproval and something akin to reluctant respect in his expression. "You are a compelling speaker, Gond of the Valley. And a dangerous idealist. Such dreams rarely survive contact with the world's realities."
+The knight rose, his hand falling to the pommel of his sword. "Then our paths, it seems, diverge more sharply than I had hoped." He looked at Gond, his brow furrowing slightly as his mouth pressed into a thin line—disapproval warring with something that might have been reluctant admiration. "You are a compelling speaker, Gond of the Valley. And a dangerous idealist. Such dreams rarely survive contact with the world's realities."
 
 "Perhaps," Gond allowed. "But we intend to change those realities."
 
@@ -82,7 +82,7 @@ Roderick gave a curt nod. "When your war efforts align with objectives that serv
 
 "Thank you for the counsel, Sir Roderick," Gond said. "And for the offer of conditional aid. We will welcome any genuine effort to end slavery, from whatever quarter it may come."
 
-After the knights had departed, their shining armor receding into the afternoon sun, Pell slipped into the chamber. He carried a small, surprisingly heavy pouch.
+After the knights had departed, their shining armor receding into the afternoon sun, Pell slipped into the chamber. He carried a small, surprisingly heavy pouch, his fingers working it with the practiced ease of someone who understood the weight and feel of different coins.
 
 "One of Roderick's men," Pell said, his voice carefully neutral as he tossed the pouch onto the table. It landed with a dull clink of gold. "A squire, name of Alaric. Seems he thought my loyalties might be… negotiable."
 
@@ -90,11 +90,11 @@ Gond raised an eyebrow. "And are they?"
 
 Pell grinned, a flash of his old self. "Everything has a price, as they say. He offered this for a bit of information. Troop numbers, defensive plans, any juicy disagreements in the council. Seemed to think Sir Roderick might find it useful for his 'conditional aid'."
 
-Elena picked up the pouch, weighing it. "Generous."
+Elena picked up the pouch, weighing it with the practiced assessment of someone who'd handled many such transactions. Her eyebrows rose slightly at the heft. "Generous."
 
 "Indeed," Gond mused. He looked at Pell. "And what did you tell this enterprising young squire?"
 
-"I told him I'd consider his most generous offer," Pell said, his eyes glinting. "And that I'd need a bit more upfront to ensure my… discretion." He produced another, smaller pouch. "He was quite accommodating."
+"I told him I'd consider his most generous offer," Pell said, his eyes glinting with mischief. "And that I'd need a bit more upfront to ensure my… discretion." He produced another, smaller pouch from within his cloak, letting it drop beside the first with a satisfying chink. "He was quite accommodating."
 
 Thorek chuckled, a sound like rocks tumbling. "A thief to the end, eh lad?"
 
@@ -106,7 +106,7 @@ Gond nodded slowly, a plan forming in his mind. "Indeed. Sir Roderick wishes to 
 
 ***
 
-The council reconvened, the maps now bearing new marks, new possibilities. The encounter with Roderick, and Pell’s subsequent revelation, had added another layer of complexity to their already daunting task.
+The council reconvened, the maps now bearing new marks, new possibilities. The encounter with Roderick, and Pell's subsequent revelation, had added another layer of complexity to their already daunting task.
 
 "So, we feed this Alaric just enough to keep Roderick interested," Elena summarized, "and perhaps steer his 'conditional aid' in directions that benefit us most. Risky. But potentially very useful."
 

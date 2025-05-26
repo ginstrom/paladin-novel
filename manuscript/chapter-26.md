@@ -10,7 +10,7 @@ The morning after Turin's divine wrath had cleansed the Citadel of Asham-Val, Go
 
 "Turin's justice was... comprehensive," Gond replied, watching a group of children—the same ones who had been branded in the dungeons—playing freely in the courtyard while Sim's acolytes kept gentle watch. Their laughter echoed off the ancient stones, a sound the citadel had not heard in decades.
 
-A knock at the door interrupted his thoughts. Elena entered, her expression mixing exhaustion with satisfaction. "The last of the holdouts have surrendered. Sir Marcus reports that even the most fanatical defenders are laying down their arms. They're asking for... forgiveness."
+A knock at the door interrupted his thoughts. Elena entered, her shoulders sagging with exhaustion but her eyes bright with satisfaction. "The last of the holdouts have surrendered. Sir Marcus reports that even the most fanatical defenders are laying down their arms. They're asking for... forgiveness."
 
 "And Mordain?"
 
@@ -36,7 +36,7 @@ The third messenger brought the most significant news of all. A formal delegatio
 
 Gond was quiet for a long moment, looking around the hall where Turin's true symbols now hung alongside Alanyi's intertwined circles. The two deities' emblems seemed to complement each other—justice and mercy working in harmony.
 
-"Alanyi called me not as a ruler but as a warrier for good," he said finally. "I fought this war to ensure that no one would ever again have the power to enslave another human being."
+"Alanyi called me not as a ruler but as a warrior for good," he said finally. "I fought this war to ensure that no one would ever again have the power to enslave another human being."
 
 "Then what do you propose?" Maera asked. "The continent needs leadership, needs structure. Without it, we risk falling back into the old patterns."
 
@@ -52,7 +52,7 @@ The Continental Congress convened six weeks later in the great amphitheater of M
 
 Gond's opening address was brief but powerful. He spoke not as a conqueror but as a servant, outlining a vision of governance based on consent rather than force, on cooperation rather than domination. When he finished, the applause was thunderous, but more importantly, the questions that followed were thoughtful, engaged, hopeful.
 
-The debates that followed were sometimes heated, often complex, but always civil. The framework they developed over the following weeks was revolutionary—a federal system that preserved local autonomy while ensuring universal rights, a rotating leadership that prevented the concentration of power, and most importantly, constitutional protections for the fundamental dignity of every thinking being.
+The debates that followed were sometimes heated, often complex, but always civil. Voices rose and fell in passionate argument, hands gestured emphatically as points were made and countered, but no weapons were drawn, no threats were uttered. The framework they developed over the following weeks was revolutionary—a federal system that preserved local autonomy while ensuring universal rights, a rotating leadership that prevented the concentration of power, and most importantly, constitutional protections for the fundamental dignity of every thinking being.
 
 The signing ceremony took place at sunset, with representatives from dozens of communities adding their names to the Charter of Free Peoples. As the last signature was added, a cheer went up that could be heard for miles.
 
@@ -74,17 +74,17 @@ Gond considered the question, looking out over the peaceful valley where childre
 
 "No," he said finally. "No regrets. It wasn't the life I planned, but it was the life that was needed."
 
-A commotion near the cottage drew their attention. A young man in the simple brown robes of an acolyte was approaching, his face bright with excitement. It took Gond a moment to recognize him—Kael, transformed by years of service from a bitter mercenary into a dedicated priest.
+A commotion near the cottage drew their attention. A young man in the simple brown robes of an acolyte was approaching, his face bright with excitement and his stride quick with purpose. It took Gond a moment to recognize him—Kael, transformed by years of service from a bitter mercenary into a dedicated priest.
 
 "Brother Gond," Kael called out, using the title Gond preferred to any of the grander ones that had been offered. "Wonderful news from the capital! The last of the holdout cities has joined the Alliance. The entire continent is now united under the Charter."
 
-Gond smiled, feeling a deep satisfaction that had nothing to do with conquest and everything to do with completion. "And how are your charges doing?"
+Gond smiled, his shoulders settling as if a weight he'd carried for years had finally been lifted. "And how are your charges doing?"
 
 "Thriving," Kael said, his face glowing with pride. "The children we rescued from the citadel—they're all healthy, happy, learning to read and write. Some of them want to become priests themselves when they're older."
 
 "And you? Any regrets about the path you chose?"
 
-Kael's expression grew serious. "Every day I remember what I was, what I did. But every day I also see what I can become, what I can help others become. The past shapes us, but it doesn't have to define us."
+Kael's expression grew serious, his hands clasping behind his back as he considered the question. "Every day I remember what I was, what I did. But every day I also see what I can become, what I can help others become. The past shapes us, but it doesn't have to define us."
 
 As evening fell, Gond found himself on the cottage's small porch, watching the sunset paint the sky in shades of gold and crimson. Silviana joined him, her ageless elven features peaceful in the fading light.
 
@@ -122,13 +122,13 @@ The crowd listened in respectful silence as she outlined the achievements of the
 
 When the formal ceremonies concluded, Gond found himself surrounded by old friends and new allies. Thorek, his beard now completely white, regaled a group of young dwarves with tales of the siege engines that had broken the slaver cities. Sim, elevated to High Priest of the unified temples, spoke quietly with a delegation of foreign visitors interested in establishing similar institutions in their own lands.
 
-But it was a smaller, quieter moment that touched Gond most deeply. A young woman approached him hesitantly, her face bearing the faded scars of old brands that had been healed but not erased.
+But it was a smaller, quieter moment that touched Gond most deeply. A young woman approached him hesitantly, her steps careful and her hands clasped nervously before her. Her face bore the faded scars of old brands that had been healed but not erased.
 
 "Lord Gond?" she said, her voice uncertain. "I don't know if you remember me. I was... I was one of the slaves you freed in Saltmere. I was just a child then."
 
 Gond studied her face, and recognition dawned. "Mira. You were in the first group we liberated from the pens."
 
-Her face lit up with joy that he remembered. "Yes! I wanted to thank you, and to tell you—I'm a teacher now. I work with children who've been through trauma, helping them learn to read and write and dream again."
+Her face lit up with joy that he remembered, her posture straightening with pride. "Yes! I wanted to thank you, and to tell you—I'm a teacher now. I work with children who've been through trauma, helping them learn to read and write and dream again."
 
 "That's wonderful," Gond said, meaning it deeply. "What made you choose that path?"
 
@@ -148,15 +148,15 @@ And it would endure.
 
 Twenty years later, in a small temple school in what had once been the heart of the slave trade, an elderly priest with kind eyes and gentle hands taught a group of children about the history of their world. The children—human, dwarven, and elven faces mixed together without thought of difference—listened with rapt attention as he told them stories of the time before freedom, when people could be bought and sold like property.
 
-"But that's impossible, Brother Kael," one young girl protested. "People aren't things. They can't be owned."
+"But that's impossible, Brother Kael," one young girl protested, her brow furrowed in confusion and her small hands gesturing emphatically. "People aren't things. They can't be owned."
 
 "No, child," Kael said softly, his voice carrying the weight of hard-won wisdom. "They can't. But there was a time when some people forgot that truth. It took great courage and great sacrifice to help them remember."
 
-"Tell us about the paladin again," a boy requested. "The one who chose mercy over revenge."
+"Tell us about the paladin again," a boy requested, leaning forward eagerly in his seat. "The one who chose mercy over revenge."
 
 Kael smiled, his eyes distant with memory. "His name was Gond, and he was the most reluctant hero you could imagine. He didn't want to be a paladin, didn't want to lead a revolution, didn't want to change the world. But sometimes, the world chooses us for the roles we need to play."
 
-"What happened to him?" another child asked.
+"What happened to him?" another child asked, her voice hushed with reverence.
 
 "He lived a long, quiet life, helping people and tending his garden. He died peacefully in his sleep, surrounded by friends who had become family. And his legacy..." Kael gestured toward the window, where the sounds of a free and prosperous city drifted in on the afternoon breeze. "His legacy is the world you live in now. A world where every person is free to choose their own path, where diversity is celebrated rather than feared, where justice and mercy work hand in hand."
 
@@ -164,7 +164,7 @@ Kael smiled, his eyes distant with memory. "His name was Gond, and he was the mo
 
 "That," Kael said, "depends on you. Freedom isn't something you win once and keep forever. It's something each generation must choose anew, must protect and nurture and pass on to their children. The paladin and his friends gave you the foundation. What you build on it is up to you."
 
-As the lesson ended and the children scattered to their homes and families, Kael remained in the empty classroom, looking out at the bustling street beyond. Merchants hawked their wares, children played in the squares, and people of all races moved freely among each other, their interactions marked by respect rather than fear.
+As the lesson ended and the children scattered to their homes and families, Kael remained in the empty classroom, looking out at the bustling street beyond. Merchants hawked their wares with cheerful voices, children played in the squares with laughter echoing off the buildings, and people of all races moved freely among each other, their interactions marked by respect rather than fear.
 
 It was a good world, he reflected. Not perfect—no world ever was—but good. Just. Free.
 

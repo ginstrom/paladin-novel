@@ -28,17 +28,17 @@ The command post buzzed with activity. Maps covered every available surface, mar
 
 "Crumbling. We'll have the walls down within the day." Thorek's expression darkened. "But there's something else you need to see."
 
-He led them to a smaller tent where several prisoners sat under guard. Their once-fine robes were torn and stained, but the symbols of Turin's order were still visible on their chests. One looked up as Gond entered, his eyes blazing with the fervor of the truly convinced.
+He led them to a smaller tent where several prisoners sat under guard. Their once-fine robes were torn and stained, but the symbols of Turin's order were still visible on their chests. One looked up as Gond entered, his chin jutting forward and his eyes burning with the fervor of the truly convinced.
 
 "The false paladin comes at last," the priest spat. "You think your heretical army can stand against the righteous fury of Turin?"
 
 "I think Turin might have something to say about what you've done in his name," Gond replied calmly. "Tell me about the children."
 
-The priest's face went pale. "What children?"
+The priest's face went pale, his defiant posture crumbling as his shoulders hunched forward. "What children?"
 
 Thorek stepped forward, his hand resting on his war hammer. "The ones we found in the lower chambers. Chained like animals, bearing fresh brands. Some no older than eight summers."
 
-Gond felt the familiar warmth building in his chest, but this time it carried an edge he'd never experienced before. Not the gentle healing power of Alanyi, but something harder, more demanding. Justice seeking its due.
+Heat bloomed beneath Gond's ribs like molten steel being forged, but this time it carried an edge he'd never experienced before. Not the gentle healing power of Alanyi, but something harder, more demanding. His fingertips tingled with electric energy that made his sword hilt warm against his palm. Justice seeking its due.
 
 "Where are they now?" he asked.
 
@@ -50,11 +50,11 @@ The priest's chin lifted defiantly. "They were offerings. Sacrifices to purify t
 
 He never finished the sentence. Gond's hand shot out, grasping the man's throat with just enough pressure to cut off his words. For a moment, divine power flowed between them—not healing, but judgment. The priest's eyes widened as he saw something in Gond's face that made him shrink back.
 
-"You branded children," Gond said, his voice carrying an otherworldly resonance. "In the name of a god who protects the innocent. Do you understand what you've done?"
+"You branded children," Gond said, his voice carrying an otherworldly resonance that made the tent walls vibrate. "In the name of a god who protects the innocent. Do you understand what you've done?"
 
 The priest tried to speak, but only a strangled whimper emerged. Around the tent, the other prisoners pressed themselves against the walls, suddenly aware that they faced something far more dangerous than an angry soldier.
 
-Gond released his grip and stepped back. The priest collapsed, gasping and clutching his throat. When he looked up again, his defiance had crumbled into terror.
+Gond released his grip and stepped back. The priest collapsed, gasping and clutching his throat. When he looked up again, his defiance had crumbled into terror—hands shaking, face pale as parchment, eyes darting around the tent like a trapped animal seeking escape.
 
 "The High Cleric," he whispered. "High Cleric Mordain ordered it. Said the old ways were weak, that only through suffering could we forge true strength. He... he said Turin demanded it."
 
@@ -72,7 +72,7 @@ Gond nodded. He'd felt it too, a wrongness that pressed against his senses like 
 
 The inner courtyard of the citadel was a scene from a nightmare. Bodies lay scattered across the stones—not just soldiers, but civilians who had sought sanctuary within the walls. Men, women, and children cut down without mercy, their blood forming dark pools that reflected the gray sky above.
 
-"Bastards," Elena muttered, stepping carefully around a young mother who had died shielding her infant. "They killed everyone."
+"Bastards," Elena muttered, her jaw clenched tight and her knuckles white around her sword hilt as she stepped carefully around a young mother who had died shielding her infant. "They killed everyone."
 
 "Not everyone," Silviana said, emerging from a side building with several elven healers. "We found survivors in the cellars. Mostly children, as Thorek said. They're alive, but..." She shook her head, silver hair catching the light. "The physical wounds will heal. The rest will take time."
 
@@ -126,7 +126,7 @@ The interior of the keep was a mockery of everything a temple should be. Where t
 
 At the chamber's heart stood a figure that had once been human. High Cleric Mordain wore robes that might have been white once, but were now stained with substances that defied identification. His face was gaunt, his eyes sunken pits that reflected no light. When he smiled, his teeth were black as coal.
 
-"Welcome, false paladin," he said, his voice echoing strangely in the corrupted space. "Welcome to the true temple of Turin. Here, the weak are culled and the strong are forged in the fires of suffering.
+"Welcome, false paladin," he said, his voice echoing strangely in the corrupted space. "Welcome to the true temple of Turin. Here, the weak are culled and the strong are forged in the fires of suffering."
 
 "This is not Turin's temple," Gond replied, stepping into the chamber. Behind him, his companions spread out, but he could feel their reluctance to enter the tainted space. "This is an abomination that wears his name."
 
@@ -136,7 +136,7 @@ As if in answer to his words, the air in the chamber began to change. The oppres
 
 "You want to see Turin's wrath?" a voice spoke, and it was not Gond's. The words came from his lips, but the power behind them was vast beyond mortal comprehension. "You have perverted my teachings, corrupted my temples, and harmed the innocent in my name. You have made a mockery of justice itself."
 
-Mordain's confidence cracked. He stumbled backward, his face going pale as he finally understood what he faced. "No... this cannot be... I am your faithful servant..."
+Mordain's confidence cracked like ice under a hammer. He stumbled backward, his face going pale as parchment while his hands shook uncontrollably, finally understanding what he faced. "No... this cannot be... I am your faithful servant..."
 
 "You are nothing," the voice continued, and now the very stones of the keep began to glow with divine fire. "You are a cancer that has fed on my worship, a parasite that has twisted my purpose. And like all cancers, you will be cut away."
 

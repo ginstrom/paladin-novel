@@ -10,7 +10,7 @@ The horses' hooves made soft sounds on the damp earth, as they whickered gently.
 
 The Thornfield farmstead lay two hours south through increasingly dangerous territory. Every step took them closer to the smoke columns they'd seen on the horizon, closer to the systematic destruction that crept northward like a plague.
 
-Gond raised his hand, bringing the column to a halt. Something had changed in the air around them—a subtle shift that made his skin prickle with warning. He dismounted, pressing his ear to the ground.
+Gond's shoulders tensed without warning, as if invisible hands had gripped them. The hair on his arms stood on end. He raised his hand, bringing the column to a halt. Something had changed in the air around them—a subtle shift that made his skin prickle with warning. He dismounted, pressing his ear to the ground.
 
 "What is it?" Pell whispered, sliding from his saddle to join him.
 
@@ -20,11 +20,11 @@ The volunteers exchanged worried glances. They were still an hour from the farms
 
 "Slavers?" Korven asked, his hand moving instinctively to his sword hilt.
 
-Gond closed his eyes, extending his senses in ways he still didn't fully understand. The approaching riders moved with military precision, their horses shod and well-trained. Professional. Dangerous.
+Gond closed his eyes, extending his senses in ways he still didn't fully understand. The approaching riders maintained perfect spacing—three horse-lengths between each mount, their formation never wavering despite the uneven terrain. Their horses stepped in rhythm, shod hooves striking the ground in near-unison. Professional. Dangerous.
 
 "Yes." He opened his eyes, his decision made. "Into the trees. Now. Lead the horses."
 
-The volunteers moved with practiced efficiency, leading their mounts into the scrub oak and tying them deep in the shadows. Gond positioned his people in a rough line, each hidden behind trunk or boulder, weapons ready but orders clear—no one moved unless he gave the signal.
+The volunteers moved with practiced efficiency, leading their mounts into the scrub oak and tying them deep in the shadows. Gond positioned his people in a rough line along the natural rise of the ridge, each hidden behind trunk or boulder. The terrain favored them here—the slavers would have to ride uphill through loose shale that would slow their horses and announce their approach. Weapons ready but orders clear—no one moved unless he gave the signal.
 
 The sound of hoofbeats grew louder, accompanied by the jingle of mail and the creak of leather. Gond peered through the branches, counting the approaching riders. Six men in the colors of the Coastal Slavers Guild, their equipment professional and well-maintained. These weren't the desperate bandits who sometimes raided isolated farms—these were soldiers.
 
@@ -118,6 +118,6 @@ Gond couldn't explain the certainty that gripped him, the way his skin seemed to
 
 A flicker of movement on the opposite ridge. "They're here!" His voice carried clearly through the morning air, but now it was a signal to his hidden watchers, not a call to battle. "About fifteen of them! Positions!"
 
-The refugees rushed to the ambush points they had drilled
+The refugees scattered in controlled chaos—some sprinting toward hidden weapon caches, others grabbing children and herding them toward the concealed cave entrances. Mothers clutched infants while older children helped carry supplies. Men stumbled over tent ropes in their haste to reach defensive positions, while women stuffed precious belongings into hastily packed bundles.
 
 "Now," Gond whispered, and melted into the forest like a ghost.

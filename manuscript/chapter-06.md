@@ -22,9 +22,9 @@ The priest guided them deeper into mist-shrouded hills, following paths that see
 
 The priest's lips curved in a faint smile. "Alanyi guides the heart more clearly than the feet. But perhaps she smiles upon us." He pointed ahead through the swirling mist. "Look there."
 
-Pale stone emerged from the grey—ancient walls partially hidden by climbing ivy and thick moss. The moment their horse stepped onto the temple grounds, its ears pricked forward and it released a soft whicker of contentment, no longer pulling against the reins. Gond stopped, something tugging at his chest like a fishhook. The sensation was neither pleasant nor painful, just... insistent.
+Pale stone emerged from the grey—ancient walls partially hidden by climbing ivy and thick moss. The moment their horse stepped onto the temple grounds, its ears pricked forward and it released a soft whicker of contentment, no longer pulling against the reins. Gond stopped, warmth spreading through his chest like honey in his veins. The sensation was neither pleasant nor painful, just... insistent.
 
-The grass beneath their feet was different than the rocky ground they had been traveling over—thicker, greener. The air carried a fresh smell that contrasted with the dustry trail. Dax's limp eased as he walked, and even Pell's perpetual tension seemed to drain a little from his shoulders.
+The grass beneath their feet was different than the rocky ground they had been traveling over—thicker, greener. The air carried a fresh smell that contrasted with the dusty trail. Dax's limp eased as he walked, and even Pell's perpetual tension seemed to drain a little from his shoulders.
 
 "Your goddess has strange tastes," Gond muttered, though his voice lacked its usual edge.
 
@@ -32,7 +32,7 @@ Sim's gaze lingered on the weathered stones. "This was a sanctuary. Once, such t
 
 "Perfect." Pell's eyes swept the surroundings with a calculating gaze. "We'll blend right in with the ruins."
 
-Gond approached the ancient walls, studying the faded carvings—symbols of peace, intertwined circles worn smooth by centuries of weather. He touched one carving, the damp stone cool beneath his fingertips. Gond noticed again a gentle tugging in his chest.
+Gond approached the ancient walls, studying the faded carvings—symbols of peace, intertwined circles worn smooth by centuries of weather. He touched one carving, the damp stone cool beneath his fingertips. The warmth in his chest pulsed gently, like a second heartbeat.
 
 "We shelter here." He forced authority into his voice, though the words came easier than expected. "Sim, will the old gods mind squatters?"
 
@@ -52,9 +52,9 @@ Gond set off through the ruins, intending to circle the temple grounds and check
 
 He paused, looking back. The main camp was no longer visible through the maze of broken stone. How long had he been walking? The sun hung lower than it should have, and his intended circuit of the perimeter had become something else entirely.
 
-A doorway loomed ahead, darker than the gathering dusk. His feet carried him forward without conscious decision, down worn stone steps that descended into the temple's heart. The air grew warmer as he descended, and a faint luminescence seemed to emanate from the walls themselves—or perhaps his eyes were adjusting to the darkness.
+A doorway loomed ahead, darker than the gathering dusk. His feet carried him forward without conscious decision, down worn stone steps that descended into the temple's heart. The air grew warmer as he descended, carrying the scent of old incense and something sweeter—like wildflowers after rain. A faint luminescence seemed to emanate from the walls themselves, or perhaps his eyes were adjusting to the darkness.
 
-The chamber at the bottom took his breath away. Unlike the ruins above, this room remained intact. Stone benches surrounded a simple altar, their surfaces unmarked by time or weather. Carved pillars supported a vaulted ceiling where faded murals still showed glimpses of their former glory. The air here thrummed with something he couldn't name—not quite sound, not quite sensation.
+The chamber at the bottom took his breath away. Unlike the ruins above, this room remained intact. Stone benches surrounded a simple altar, their surfaces unmarked by time or weather. Carved pillars supported a vaulted ceiling where faded murals still showed glimpses of their former glory. The air here thrummed with something he couldn't name—not quite sound, not quite sensation. It tasted of copper and starlight on his tongue.
 
 Gond approached the altar slowly. The stone was pale marble, worn smooth by countless reverent hands. Symbols were carved around its base—the same intertwined circles he'd seen above, but here they seemed to pulse with their own inner light. Or maybe that was just his imagination.
 
@@ -72,17 +72,17 @@ He sank onto the nearest bench, hands shaking. Exhaustion. Had to be exhaustion.
 
 Had he really heard those words? Or was his mind playing tricks, weaving meaning from the whisper of wind through broken stone?
 
-Gond composed himself, forcing his breathing to steady and his hands to stop trembling. When reached the camp, Sim stood waiting at the perimeter, those perceptive eyes taking in every detail of Gond's appearance.
+Gond composed himself, forcing his breathing to steady and his hands to stop trembling. When he reached the camp, Sim stood waiting at the perimeter. The priest's head tilted slightly as Gond approached, his eyes narrowing with the focus of a man reading subtle signs. Sim's gaze moved from Gond's face to his hands, then back again, cataloging details with the precision of a healer assessing a patient.
 
 "The ruins are... extensive," Gond said carefully, testing his voice.
 
-Sim nodded, but his gaze lingered on Gond's face—on something in his expression that hadn't been there before. "Old places often hold more than stone and memory. They remember what they once were."
+Sim nodded slowly, his weathered fingers stroking his beard as he continued his quiet assessment. "Old places often hold more than stone and memory. They remember what they once were." His eyes lingered on something in Gond's expression that hadn't been there before—a subtle shift in the set of his shoulders, perhaps, or the way he held his head.
 
 "And what was this place?"
 
 "A sanctuary of Alanyi. A place where the wounded came for healing, where the lost found direction." Sim's voice carried quiet reverence. "Where hope was kindled in the darkest hours."
 
-Gond met the priest's eyes, searching for judgment or expectation. He found only patient understanding, as if Sim knew exactly what had transpired in the depths below but would wait for Gond to speak of it in his own time.
+Gond met the priest's eyes, searching for judgment or expectation. He found only patient understanding, as if Sim knew exactly what had transpired in the depths below but would wait for Gond to speak of it in his own time. The priest's hands remained still at his sides, but his breathing had deepened slightly—the posture of a man who sensed change but would not press for answers.
 
 That night, sleep eluded Gond. He lay staring up at the fractured ceiling where stars shone through ancient cracks. Around him, the refugees breathed softly in slumber—people who had somehow become his responsibility, his burden, his purpose.
 

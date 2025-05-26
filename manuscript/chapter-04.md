@@ -28,9 +28,9 @@ Gond's jaw clenched so hard his teeth ached. His free hand curled into a fist, n
 
 *Six months ago, he would have walked away.* The thought hit him like a physical blow. He'd seen scenes like this before—slavers moving their cargo, children in chains, the whole ugly business of human commerce. Always told himself it wasn't his fight. The Guild was too powerful, too connected. One sword couldn't change the world.
 
-But now, looking at those children, something had shifted inside him. The brand on his forehead throbbed with remembered pain. He knew what those chains felt like, what it meant to be reduced to property. The old Gond would have calculated odds, counted risks, found reasons to walk away.
+But now, looking at those children, his brand throbbed with remembered pain. The metal had burned when they'd pressed it to his flesh, and the chains had rubbed his wrists raw during those first days. His fingers traced the scar tissue unconsciously. The old Gond would have calculated odds, counted risks, found reasons to walk away.
 
-This Gond couldn't stomach the thought.
+This Gond's stomach churned at the sight of those shackles.
 
 "We can't let this pass," Gond whispered, his voice rough as grinding stone.
 
@@ -44,13 +44,13 @@ Pell melted into the tall grass without a sound. Gond counted to thirty, then st
 
 The lead slaver squinted, recognition dawning too slowly. By the time his hand moved toward his sword, Gond was already inside his guard. The boathook caught him across the temple with a wet crack.
 
-Chaos erupted. Pell burst from cover, his knife flashing as he severed the horses' traces. The startled animals bolted a dozen paces before stopping to crop grass, indifferent to the violence behind them.
+Chaos erupted. Pell burst from cover, his knife flashing as he severed the horses' traces. The startled animals reared, eyes rolling white with terror, nostrils flaring at the sudden scent of blood. They bolted a dozen paces, hooves drumming against the packed earth, before stopping to crop grass with nervous, sideways glances at the violence behind them.
 
 The rear guard's crossbow bolt hissed past Gond's arm, grazing it but flying past. He lunged forward, hooking the man's leg and sending him sprawling. Two quick blows from the iron hook finished the job. Pell's blade found the third slaver before he could draw steel.
 
-In moments, three bodies lay still in the dust. Sim moved calmly to the terrified children, producing a set of keys he must have lifted from the guards. The shackles fell away with metallic clinks.
+In moments, three bodies lay still in the dust. Sim moved calmly to the terrified children. As he passed, Pell grinned and handed him a key ring—his fingers had been busy during the fight, working even as his blade found its mark. The shackles fell away with metallic clinks.
 
-"Easy," Sim murmured to the horses, approaching with carrots salvaged from the scattered supplies. Despite the scent of blood thick in the air, his gentle manner soon had them calm and willing.
+Next, Sim went to collect the horses. "Easy," Sim murmured to the horses, approaching with carrots salvaged from the scattered supplies. Despite the scent of blood thick in the air, his gentle manner soon had them calm and willing.
 
 Pell grinned as he counted coins. "Good haul." His eyes gleamed with satisfaction. "These weapons the guards were carrying are much better than that old boathook."
 

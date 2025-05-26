@@ -4,7 +4,7 @@
 
 ### Chapter 12: Healing Hands, Troubled Heart
 
-The morning sun filtered through the valley's canopy, casting dappled shadows across the clearing where Gond sat cross-legged on a flat stone. His hands rested palm-up on his knees, fingers slightly curled as Silviana had shown him. The position felt ridiculous—like a street performer waiting for coins.
+The morning sun filtered through the valley's canopy, casting dappled shadows across the clearing where Gond sat cross-legged on a flat stone. His hands rested palm-up on his knees, fingers slightly curled as Silviana had shown him. The position felt ridiculous—like a street performer waiting for coins. His left foot had gone numb twenty minutes ago, and a persistent ache was building between his shoulder blades from holding his spine so rigidly straight.
 
 "Breathe," Silviana said from her place on the moss-covered log beside him. "Feel the light within you, not as a foreign thing, but as part of your very essence."
 
@@ -46,7 +46,7 @@ The woman raised her head. Gond saw the desperation in her eyes—the same look 
 
 "Internal injuries," Sim said quietly. "Beyond my skills."
 
-Gond felt the familiar pull in his chest, the divine power stirring in response to suffering. But this time, instead of letting it flow unchecked, he tried to apply Silviana's teachings. He closed his eyes briefly, reaching for that sense of channeling rather than commanding.
+Heat bloomed beneath Gond's ribs, spreading outward like spilled wine through fabric. His fingertips tingled with an electric warmth that made his hands tremble slightly. But this time, instead of letting it flow unchecked, he tried to apply Silviana's teachings. He closed his eyes briefly, reaching for that sense of channeling rather than commanding.
 
 "Bring her to the healing circle," he said, his voice steadier than he felt.
 
@@ -58,7 +58,7 @@ They'd established the healing circle at Silviana's suggestion—a ring of smoot
 
 Gond felt the rage building—the old, familiar fury at the injustice of it all. But beneath that anger, something else stirred. The divine light, responding not to his commands but to his compassion. He let himself feel Mira's pain, her terror, her desperate hope.
 
-The power flowed through him like warm honey, slower and more controlled than before. He felt it seeking out the damaged places within her—the internal bleeding, the shattered ribs, the trauma that went deeper than flesh. But as the healing progressed, Gond became aware of something else: the effort of proper channeling.
+The power flowed through him like warm honey, slower and more controlled than before. He felt it seeking out the damaged places within her—the internal bleeding, the shattered ribs, the trauma that went deeper than flesh. Through his palms, he sensed torn vessels sealing themselves, felt the grinding sensation of bone fragments drawing together and fusing. Her labored breathing eased as punctured lung tissue mended, and the gray pallor of her skin gradually warmed to healthy pink. But as the healing progressed, Gond became aware of something else: the effort of proper channeling.
 
 The world blazed white around him. That same overwhelming pulse of divine essence he'd felt with Dax, but more focused now. More controlled. The connection formed between divine will and mortal need, a bridge of golden light that let him channel Alanyi's grace into her broken body. Each mended bone required deeper concentration. Each sealed wound demanded greater spiritual focus.
 
@@ -102,7 +102,7 @@ Silviana was quiet for a long moment, her gaze distant. "You learn to trust," sh
 
 "Then you give what you can, and trust that it will be enough."
 
-Another call echoed up from below—Pell's voice again, urgent but not panicked. Gond pushed himself to his feet, his body protesting the movement. The hollow ache in his chest had deepened, but beneath it, he felt something else: a strange sense of rightness, as if he were finally walking a path meant for him.
+Another call echoed up from below—Pell's voice again, urgent but not panicked. Gond pushed himself to his feet, his legs unsteady beneath him. His hands shook slightly as he brushed dirt from his knees, and he had to pause a moment to let a wave of dizziness pass. The hollow ache in his chest had deepened, but beneath it, he felt something else: a strange sense of rightness, as if he were finally walking a path meant for him.
 
 "Come," Silviana said, rising gracefully beside him. "Let us see what new challenge awaits."
 
@@ -118,7 +118,7 @@ The path ahead remained uncertain, but for the first time since his awakening as
 
 ***
 
-The afternoon brought three more refugees: a family fleeing burned farmlands, their youngest child burning with fever. Gond healed the boy, then spent an hour teaching the parents how to recognize the signs of infection. By evening, the hollow ache in his chest had become a constant companion, but the child's laughter as he played with the other settlement children made the cost seem worthwhile.
+The afternoon brought three more refugees: a family fleeing burned farmlands, their youngest child burning with fever. Gond healed the boy, then spent an hour teaching the parents how to recognize the signs of infection. By evening, each breath seemed to echo in the space beneath his ribs, as if something vital had been carved away. The sensation pulsed with his heartbeat—not pain, but an emptiness that made him press his palm against his sternum without thinking. Still, the child's laughter as he played with the other settlement children made the cost seem worthwhile.
 
 As darkness fell and the settlement settled into its nightly routines, Gond found himself sitting by the central fire, staring into the flames. Silviana approached with two cups of the herbal tea she favored—something that tasted of pine needles and starlight.
 

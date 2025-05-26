@@ -16,7 +16,7 @@ Sim took charge of the refugees, arranging shelter, and giving them tasks to kee
 
 ***
 
-Three weeks after finding the valley, Gond, Lira and Pell were out hunting. When Pell started down what appeared to be a clear trail, Gond's hand shot out, stopping him. Bird calls had shifted to warning silence, and something prickled along his spine. He felt his attention drawn down the trail.
+Three weeks after finding the valley, Gond, Lira and Pell were out hunting. When Pell started down what appeared to be a clear trail, Gond's hand shot out, stopping him. Bird calls had shifted to warning silence, and his shoulders tensed as if invisible hands had gripped them. The hair on his arms stood on end.
 
 "Wait."
 
@@ -30,23 +30,23 @@ Within minutes, dust clouds appeared on the horizon. An armed party, moving fast
 
 "Lucky guess." Gond was already moving, leading them through dense thickets that tore at their clothes but kept them hidden. "Years of staying alive in hostile territory."
 
-They found an alternate route through brambles and broken stone. Back at the encampment, as evening approached, tensions within their group began to fray. Lira and Korven—a surly man who'd joined them two days prior—squared off over their dwindling food supplies.
+They found an alternate route through brambles and broken stone. Back at the encampment, as evening approached, Lira and Korven—a surly man who'd joined them two days prior—squared off over their dwindling food supplies. The other refugees formed a loose circle around them, some nodding agreement with Lira, others crossing their arms and scowling in support of Korven.
 
 "Children eat first," Lira insisted, her voice rising with each word. "That's how decent people behave."
 
 "Decent people don't survive long." Korven's hand drifted toward his knife. "Strong eat, weak starve. That's nature."
 
-Other refugees began choosing sides, voices rising, hands moving toward weapons. The fragile unity of their group cracked like thin ice.
+Other refugees began choosing sides, voices rising, hands moving toward weapons. The fragile unity of their group cracked like thin ice. Aerin stepped protectively in front of her brother, while an older woman clutched her shawl tighter and backed away from the confrontation.
 
 Gond stepped between them. When he spoke, his voice seemed to settle over the entire group like a soothing balm.
 
 "Enough."
 
-The single word hung in the air. Korven's hand froze halfway to his blade. Aerin's mouth closed with an audible snap. Even the children stopped their restless fidgeting.
+The single word hung in the air. Korven's hand froze halfway to his blade. Aerin's mouth closed with an audible snap. Even the children stopped their restless fidgeting. The refugees who had been edging toward the argument now stood perfectly still, their eyes fixed on Gond with the attention of people recognizing authority they hadn't expected to find.
 
 "We share what we have, or we all starve together." Gond's eyes moved from face to face, holding each gaze until they looked away. "Korven, you take first watch. Everyone else, you know your jobs."
 
-The argument died as if it had never been. Korven nodded curtly and moved to his assigned position. Lira gathered the children and began tending them. The others dispersed to their tasks, the tension evaporating like morning mist.
+The argument died as if it had never been. Korven nodded curtly and moved to his assigned position. Lira gathered the children and began tending them. The others dispersed to their tasks, the tension evaporating like morning mist. Several refugees glanced back at Gond with expressions of relief and something approaching reverence.
 
 Pell appeared at Gond's elbow as they settled for the night. "That was... interesting. Since when do you command that kind of authority?"
 
@@ -58,7 +58,7 @@ Gond knelt beside the dying man without conscious thought. His memory of the tem
 
 "I don't think—" Sim began, then stopped as Gond placed his hands on Jorik's burning forehead.
 
-Gond felt nothing, but saw Jorik's fever break within moments. The red lines faded like chalk washed from stone. Within an hour, the man was sitting up and asking for food.
+Gond felt nothing at first, but watched as Jorik's labored breathing gradually eased. The man's chest, which had been rising and falling in rapid, shallow gasps, began to slow and deepen. Sweat beaded on his forehead, then began to dry. His skin, flushed red with fever, slowly returned to a more natural color. The angry red lines radiating from his wound faded like chalk washed from stone, retreating inch by inch until they disappeared entirely. Within an hour, Jorik's eyes fluttered open, clear and focused, and he pushed himself up on his elbows asking for food.
 
 "Remarkable recovery." Sim's voice was carefully neutral. "The herbs work swiftly when properly applied."
 

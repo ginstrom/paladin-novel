@@ -30,7 +30,7 @@ Inside Blackwater's walls, the city stirred to life. Hawkers called their wares.
 
 At the market square, his worst fears materialized. A wanted poster fluttered against a wooden post. The sketch was crude but unmistakable—his face, his brand, clear as daylight. **WANTED ALIVE – 500 ROYALS**. More than double the standard bounty for escaped slaves.
 
-A merchant glanced from the poster to Gond's face. Recognition dawned in the man's eyes. His mouth opened to shout.
+A merchant glanced from the poster to Gond's face. The man's eyes widened, his pupils dilating as he took a sharp breath. His mouth opened to shout.
 
 Gond stepped close, hand resting on his concealed dagger. "Wouldn't." His voice carried the promise of violence. "Bad for business."
 
@@ -58,7 +58,7 @@ He ducked into another alley, then another. The maze of Blackwater's back street
 
 A wooden door stood ajar. Gond slipped inside, finding himself in a cooper's workshop. Barrels lined the walls. Wood shavings covered the floor. The craftsman looked up in surprise.
 
-"Shop's closed," the cooper said. "Come back—"
+"Shop's closed," the man said. "Come back—"
 
 "Please." Gond showed empty hands. "I need to hide. Just until dark."
 
@@ -66,11 +66,11 @@ The cooper's eyes narrowed. Then he glanced at the window, where guards ran past
 
 Gond nodded.
 
-The cooper studied him for a long moment. Then he pointed to a large barrel in the corner. "That one's empty. But if they search here..."
+The man studied him for a long moment. Then he pointed to a large barrel in the corner. "That one's empty. But if they search here..." He wiped his hands on his leather apron. "Name's Aldric, by the way. Figure if I'm risking my neck, we ought to know each other."
 
-"I know the risk." Gond moved to the corner. "Thank you."
+"I know the risk." Gond moved to the corner. "Thank you, Aldric."
 
-The barrel reeked of old wine, but it concealed him completely. Through the wooden slats, he heard guards searching nearby buildings. Doors slammed. Now there was pounding on the cooper's door. Voices shouted questions. The cooper answered calmly, claiming he'd seen nothing.
+The barrel reeked of old wine, but it concealed him completely. Through the wooden slats, he heard guards searching nearby buildings. Doors slammed. Now there was pounding on Aldric's door. Voices shouted questions. The cooper answered calmly, claiming he'd seen nothing.
 
 Hours crawled by. Gond's legs cramped in the confined space. His back ached. But he forced himself to remain still, breathing shallowly. Outside, the search continued. Guards passed the workshop three times, but none entered.
 
@@ -110,11 +110,11 @@ The northern road stretched ahead, empty and dark. Without Ash, the journey back
 
 Dawn was breaking when he spotted movement ahead—a small figure struggling through roadside mud, chains dragging at her feet. He approached carefully, hands visible and empty.
 
-The young woman froze, terror stark in her wide eyes.
+The young woman froze, terror stark in her wide eyes. Her clothes hung in tatters, torn by brambles and stained with mud. Fresh cuts marked her arms where the shackles had rubbed raw. Her lips were cracked from thirst, and her dark hair hung in matted tangles around a face hollowed by hunger.
 
 "I won't hurt you." Gond kept his voice soft. "I've worn those chains."
 
-She trembled, exhaustion warring with hope in her gaunt features. "Lira," she whispered. "Escaped yesterday. They'll come for me."
+She trembled, exhaustion warring with hope in her gaunt features. When she spoke, her voice came out as a hoarse rasp. "Lira," she whispered. "Escaped yesterday. They'll come for me."
 
 "Not if I can help it." Gond pulled a metal file from his pack and knelt beside her. The shackles fell away with heavy thuds. Lira choked back a sob, rubbing her raw ankles.
 

@@ -4,9 +4,9 @@
 
 ### Chapter 11: Paladin's Rise
 
-A month had passed since the golden light, and Gond still couldn't walk through the settlement without feeling the weight of watching eyes.
+A month had passed since the golden light, and Gond still couldn't walk through the settlement without notice. Heads turned as he passed. Conversations paused mid-word. Children peered from behind their mothers' skirts, wide-eyed and whispering.
 
-The valley had changed in those weeks. What had begun as a desperate refuge for escaped slaves had grown into something resembling a proper community. New shelters dotted the hillsides, built with salvaged timber and stone. Gardens sprouted in cleared patches, tended by those with farming knowledge. A smithy had been erected near the stream, where a former metalworker named Jorik hammered out tools and weapons from scavenged iron.
+The valley had changed in those weeks. What had begun as a desperate refuge for escaped slaves had grown into something resembling a proper community. Where once there had been only crude lean-tos, now sturdy cabins with stone foundations lined the hillsides. Marta's vegetable garden had expanded into terraced plots where beans climbed wooden stakes and squash vines sprawled between rows of grain. The sound of Jorik's hammer rang from dawn to dusk at his new forge, where he'd transformed salvaged chain links into horseshoes and broken sword blades into farming tools.
 
 But the most significant change was in how people looked at Gond.
 
@@ -46,7 +46,7 @@ They made their way down the winding path to the settlement's heart, where a cro
 
 The crowd parted as Gond approached, and he got his first clear look at her. She was beautiful in the way of growing things—ageless and serene, with eyes the color of deep forest pools. But there was something else in those eyes, a weight of years and knowledge that made Gond feel suddenly young and foolish.
 
-She studied him with the same intensity, her gaze lingering on his forehead where the slave brand had once burned so clearly. The twin circles were still visible, but faded now—more shadow than scar, as if the divine power growing within him was slowly erasing the mark of his bondage. When she spoke, her voice carried the music of wind through leaves.
+Silviana's gaze lingered on his fading brand, her head tilting as her fingers traced patterns in the air—not quite touching, but following the outline of where the twin circles had once burned so clearly. The marks were still visible, but faded now—more shadow than scar, as if the divine power growing within him was slowly erasing the mark of his bondage. When she spoke, her voice carried the music of wind through leaves, each word flowing like water over stones.
 
 "You are the one they call the Healer of the Hills."
 
@@ -56,7 +56,7 @@ It wasn't a question. Gond nodded anyway, acutely aware of the watching crowd. "
 
 "What kind of calling?"
 
-Silviana stepped closer, and Gond caught the scent of pine and lavender that seemed to cling to her. "The touch of Alanyi. Her power flows through this place like a river, and you..." She reached out as if to touch his face, then stopped, her hand hovering inches from his skin. "You are the source. I sense great gifts growing in you—some already awakened, others still sleeping, waiting for their time."
+Silviana stepped closer with the fluid grace of wind through branches, and Gond caught the scent of pine and lavender that seemed to cling to her. "The touch of Alanyi. Her power flows through this place like a river, and you..." She reached out as if to touch his face, her movements deliberate and unhurried, then stopped, her hand hovering inches from his skin. "You are the source. I sense great gifts growing in you—some already awakened, others still sleeping, waiting for their time."
 
 Murmurs rippled through the crowd. Gond felt heat rise in his cheeks, uncomfortable with the scrutiny. "I don't know about gifts. I just do what I can to help."
 
@@ -70,7 +70,7 @@ The words hit the crowd like a physical blow. Some gasped, others fell to their 
 
 "Forgotten her light?" Gond asked. "What do you mean?"
 
-Silviana's expression grew grave. "The goddess of mercy has been pushed aside by those who profit from suffering. Where once her temples offered sanctuary, now the priests of Kemiss—god of commerce—hold sway, blessing slavers' chains and counting coin from slave auctions. And darker still..." She paused, glancing around at the listening crowd. "There are whispers of banned worship returning, evil cloaked in false righteousness."
+The corners of Silviana's mouth drew down, fine lines deepening around her ancient eyes. "The goddess of mercy has been pushed aside by those who profit from suffering. Where once her temples offered sanctuary, now the priests of Kemiss—god of commerce—hold sway, blessing slavers' chains and counting coin from slave auctions. And darker still..." She paused, glancing around at the listening crowd. "There are whispers of banned worship returning, evil cloaked in false righteousness."
 
 "I'm not a paladin," Gond said, his voice rougher than he intended. "I'm a mercenary who can heal."
 
@@ -112,9 +112,9 @@ As they walked toward Gond's shelter, Silviana's gaze fell upon the sword at Gon
 
 "Your blade," she said quietly. "May I see it?"
 
-Gond hesitated, then drew the silver sword. Even in the afternoon light, it seemed to gleam with its own inner radiance, the steel unmarked despite weeks of use.
+Gond hesitated, then drew the silver sword. Even in the afternoon light, it seemed to gleam with its own inner radiance, the steel unmarked despite weeks of use. The moment the blade cleared its sheath, several onlookers stepped back involuntarily, as if the weapon's presence pressed against them like a warm wind.
 
-Silviana's eyes widened with recognition. "By the ancient trees," she whispered. "I had heard rumors, but to see it with my own eyes..." She looked up at Gond with something approaching reverence. "Do you know what you carry?"
+Silviana's eyes widened with recognition, her breath catching as she stared at the transformed steel. "By the ancient trees," she whispered, her voice barely audible. "I had heard rumors, but to see it with my own eyes..." She looked up at Gond with something approaching reverence, her hands trembling slightly. "Do you know what you carry?"
 
 "A sword that used to be crude iron," Gond said. "It changed during the battle when I first healed Dax."
 

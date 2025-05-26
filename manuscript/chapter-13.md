@@ -32,7 +32,7 @@ As they approached, Gond could see the man's condition—exhaustion, dehydration
 
 Westport. Gond's jaw tightened. That was nearly a hundred miles southeast—farther than any previous refugee had traveled to reach them. The implications were troubling.
 
-Marcus raised his head, and Gond saw tears cutting tracks through the grime on his cheeks. "My granddaughter," he whispered. "The wasting sickness. The healers in Westport... they said there was nothing... but I heard stories. A man who could work miracles. Please, I have gold—"
+Marcus raised his head, and Gond saw tears cutting tracks through the grime on his cheeks. His hands shook as he spoke, and Gond noticed the raw blisters on his palms from weeks of walking with an improvised staff. "My granddaughter," he whispered, his voice cracking with exhaustion. "The wasting sickness. The healers in Westport... they said there was nothing... but I heard stories. A man who could work miracles. Please, I have gold—"
 
 "Keep your gold," Gond said gently, helping Sim support the old man. "Where is she?"
 
@@ -162,6 +162,8 @@ He could see the doubt in their faces, the fear that he was asking them to die f
 
 "Silviana," he called. The elf appeared at his side as if she'd been waiting for his summons. "Can you and Sim organize the non-combatants? Get them to the center of the settlement, behind whatever cover we can improvise."
 
+Around them, the settlement transformed with desperate efficiency. Men dragged heavy wooden tables from the dining areas to form makeshift barricades. Women overturned wagons and filled them with stones and dirt. Children carried bundles of arrows to the defenders while older refugees sharpened kitchen knives and farm tools into weapons. The sound of hammering filled the air as Jorik and his apprentices reinforced weak points in their improvised fortifications.
+
 "And you?" she asked.
 
 Gond looked toward the approaching slavers, then back at the people depending on him. "I'm going to remind them why legends are dangerous things to hunt."
@@ -178,7 +180,7 @@ The legend of the healer in the hills was about to become something else entirel
 
 ***
 
-The slavers advanced with professional precision, their formation tight and disciplined. At their head rode a man in expensive armor, his face hidden behind a helm decorated with silver inlay. Behind him came the foot soldiers—hardened men with the look of veterans, their weapons well-maintained and their movements coordinated.
+The slavers advanced with professional precision, their formation tight and disciplined. Their shields locked with practiced efficiency, spears angled at identical degrees, each rider maintaining perfect spacing despite the uneven terrain. At their head rode a man in expensive armor, his face hidden behind a helm decorated with silver inlay. Behind him came the foot soldiers—hardened men with the look of veterans, their weapons well-maintained and their movements coordinated.
 
 Gond stood at the settlement's edge, flanked by Pell and Aerin, watching the approaching force with tactical eyes. Fifty-three by his count, all mounted, all armed with crossbows in addition to their melee weapons. A formidable force by any measure.
 
@@ -202,7 +204,7 @@ It was a clever tactic—isolate the leader, make him responsible for whatever h
 
 Voss laughed, the sound harsh and mocking. "Threats from a jumped-up hedge wizard? I think not." He raised his hand again, and crossbows appeared along the slaver line. "Last chance, Healer. Come quietly, or watch your people die."
 
-Gond felt the divine power stirring within him, responding to the threat against those under his protection. But this time, instead of the warm, healing light he'd grown accustomed to, something else awakened—something harder, more focused. The same divine force that could mend broken bones could also strengthen them beyond normal limits. The same power that could heal wounds could also prevent them from occurring in the first place.
+The familiar warmth kindled beneath Gond's sternum, spreading like wine through his veins, but this time it carried a different quality—sharper, more focused, like molten steel rather than honey. His muscles tensed with sudden strength, and he could feel his heartbeat synchronizing with something vast and implacable. The same divine force that could mend broken bones could also strengthen them beyond normal limits. The same power that could heal wounds could also prevent them from occurring in the first place.
 
 "Pell," he said quietly. "When I give the signal, tell everyone to charge."
 
@@ -214,9 +216,9 @@ Gond stepped forward, placing himself between the slavers and his people. He cou
 
 "Captain Voss," he called out. "You came here hunting a legend. I hope you're prepared for what you find."
 
-Gond drew his sword. Divine light exploded outward from it like a physical force, washing over the settlement in a wave of golden radiance. Where it touched the defenders, it left them stronger, faster, more resilient. Where it reached the slavers, it did something else entirely—it showed them exactly what they were facing.
+Gond drew his sword. Divine light exploded outward from it like a physical force, washing over the settlement in a wave of golden radiance. Where it touched the defenders, it left them stronger, faster, more resilient. Where it reached the slavers, it did something else entirely—the light seared their eyes like staring into the sun, made their skin crawl with an electric tingling that spoke of judgment and retribution. Several horses reared, their riders struggling to control mounts that suddenly wanted nothing more than to flee from the terrible purity bearing down on them.
 
-For a moment, the battlefield was silent except for the sound of horses shifting nervously and men muttering prayers. Then Voss raised his crossbow, his face twisted with sudden fear and fury.
+For a moment, the battlefield was silent except for the sound of horses shifting nervously and men muttering prayers. The slavers drew back even as they leaned forward, hands reaching out then pulling away, their faces caught between wonder and terror. Then Voss raised his crossbow, his face twisted with sudden fear and fury.
 
 "Kill them all!" he screamed.
 

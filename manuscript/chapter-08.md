@@ -78,7 +78,9 @@ A chill ran down Gond's spine despite the morning warmth. "Systematic raids?"
 
 Pell cursed under his breath. "So we're caught between starvation and discovery. Perfect."
 
-Gond's mind raced through their options, none of them good. They could ration more strictly, but hungry people made poor fighters. They could send small, stealthy foraging parties, but that would take too long to gather enough supplies. Or they could risk a major expedition to the abandoned farmsteads they'd passed two days south—closer to the smoke, closer to danger, but with the potential for significant food stores.
+Gond paced a tight circle, his boots wearing a path in the dirt. His hands clenched and unclenched at his sides as he weighed their choices, none of them good. They could ration more strictly, but hungry people made poor fighters. They could send small, stealthy foraging parties, but that would take too long to gather enough supplies. Or they could risk a major expedition to the abandoned farmsteads they'd passed two days south—closer to the smoke, closer to danger, but with the potential for significant food stores.
+
+He stopped abruptly, jaw set with decision.
 
 "Gather the council," he decided. "Lira, Korven, and the other group leaders. We need to make a choice, and everyone needs to understand the stakes."
 
@@ -90,7 +92,7 @@ An hour later, the leadership circle sat around the central fire pit, their face
 
 "We're already in slaver territory," Pell pointed out quietly. "The question is whether we face that reality now or wait for it to find us."
 
-The debate continued for nearly an hour, voices rising and falling as fear and desperation warred with caution and hope. Gond listened to each argument, weighing options that all seemed to lead toward disaster.
+The debate continued for nearly an hour. Korven's scarred fists pounded the ground to emphasize his points, while Lira crossed her arms and turned her back when he spoke. Others shifted restlessly, some nodding at Korven's words, others shaking their heads and moving closer to Lira. Voices rose and fell as fear and desperation warred with caution and hope. Gond listened to each argument, watching faces tighten with worry and hands gesture frantically as they weighed options that all seemed to lead toward disaster.
 
 Finally, he raised his hand for silence. "We go. Tomorrow at dawn, I'll lead a party to the Thornfield farmstead. It's been abandoned for weeks—the refugees who told us about it said the family fled when the raids started. Their root cellars might still be intact."
 
@@ -140,7 +142,11 @@ Korven stepped forward, his scarred hands cradling a collection of iron tools li
 
 Dax emerged from behind one of the horses, struggling with a heavy bundle. "Carpenter's tools," he said, setting down his burden with a grunt. "Saws, planes, measuring squares. And enough iron nails to build proper structures instead of lashing everything together with rope."
 
-The transformation in the settlement's capabilities was immediate. Within days, the sound of Korven's improved forge rang across the valley as he worked the new steel into proper weapons and tools. Dax's crews began replacing their crude shelters with solid timber buildings, the walls fitted with proper joints instead of rough-hewn logs.
+Within days, the valley echoed with new sounds. Korven's hammer rang against steel in steady, confident strikes—no longer the tentative tapping of makeshift repairs, but the bold rhythm of a craftsman with proper tools. Sparks flew in bright arcs as he shaped red-hot metal, and the acrid smell of hot iron mixed with wood smoke.
+
+From his forge came a steady stream of improvements: iron-reinforced spear points to replace sharpened sticks, proper hinges for doors that had hung crooked on leather straps, and cooking pots with handles that didn't burn hands. He crafted horseshoes for their mounts, whose hooves had been splitting on the rocky ground, and sturdy buckles to replace the rope knots that held their makeshift armor together.
+
+Dax's crews moved with fresh purpose, their crude lean-tos giving way to solid timber frames. Where before they had lashed logs together with rope, now they fitted joints with precision, the satisfying thunk of hammer on nail replacing the creak of strained bindings. Doors hung straight, roofs shed rain instead of leaking, and storage chests protected their meager possessions from moisture and vermin.
 
 "It's amazing what a difference real tools make," Lira observed, watching a crew raise the frame of what would become their first permanent storehouse. "We're not just surviving anymore. We're building something that could last."
 

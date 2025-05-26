@@ -14,7 +14,7 @@ Iron clinked against his wrist as he tried to sit up. Manacles. Of course. His s
 
 The hold stretched before him in the dim light. A collection of hunched shapes chained in pairs. The air hung thick with the smell of unwashed bodies, fear-sweat, and something else. Something that made him breathe through his mouth.
 
-The man beside him had shoulders like a dock worker and fists to match. Purple bruises mottled his face.  His thick wrists were chaged where he'd fought his bonds. His breathing came in harsh rasps. When his eyes flicked open, they held the kind of spark that meant trouble. The muscles in his jaw kept working, like he was chewing on words too dangerous to speak.
+The man beside him had shoulders like a dock worker and fists to match. Purple bruises mottled his face.  His thick wrists were chaged where he'd fought his bonds. Air wheezed through his throat, each intake scraping like sandpaper. When his eyes flicked open, pupils sharp as broken glass, muscles coiled beneath bruised skin. The muscles in his jaw kept working, like he was chewing on words too dangerous to speak.
 
 Across from Gond, two figures slumped forward. One sat perfectly still—too still. His head lolled at an angle that spoke of either a broken neck or final surrender. Flies had begun their grisly work around his vacant stare. Tattered silk clung to his frame—once fine clothing now stained with blood and worse. A merchant, perhaps, or minor noble who'd trusted the wrong people.
 
@@ -37,17 +37,17 @@ The Guild was too powerful, too connected. Kings and nobles lined their pockets 
 
 *Look how well that worked out.*
 
-Behind him were a wiry man who had the same look of a mercenary that Gond did when he looked in a mirror. Beside the mercenary was a slim, unassuming man whos aura of calm seemed out place. Catching the eye of the mercenary, Gond murmured: "How long was I out?"
+Behind him, chained to the opposite bulkhead, sat a wiry man who had the same look of a mercenary that Gond did when he looked in a mirror. Beside the mercenary, close enough that their chains clinked together when either moved, was a slim, unassuming man whose aura of calm seemed out of place. The mercenary leaned forward, catching Gond's eye across the narrow space between them. "How long was I out?" Gond murmured.
 
-"A couple of days. Weren't sure you were going to come to there, mate. Name's Pell by the way. And my companion here is Sim." Sim sketched a nod with a wry smile.
+"A couple of days. Weren't sure you were going to come to there, mate." The wiry man gestured with his manacled hands. "Name's Pell by the way. And my companion here is Sim." Sim sketched a nod with a wry smile, his chains rattling softly.
 
-"And that lunk chained up to you is Jord." Jord gave a grunt and turned away.
+Pell jerked his head toward the dock worker beside Gond. "And that lunk chained up to you is Jord." Jord gave a grunt and turned away.
 
-An itch flared across his forehead. His fingers rose instinctively. They found raised, tender flesh—still raw, still seeping. Heat radiated from the wound. The skin felt thick and ridged under his touch. Two interlocking circles, each no larger than a copper coin, burned into his flesh with deliberate precision.
+An itch flared across his forehead. His fingers rose instinctively. They found raised, tender flesh—still raw, still seeping. Heat radiated from the wound. The skin felt thick and ridged under his touch. Two intertwined manacles, each no larger than a copper coin, burned into his flesh with deliberate precision.
 
 His breath caught. His hand trembled against the brand for a heartbeat before jerking away as if the flesh had turned to flame. The fingers that had traced the marks curled slowly into a fist, knuckles white in the dim light.
 
-A muscle jumped in his jaw. His chest rose and fell in careful, measured breaths—too careful, too controlled. The kind of breathing a man used when the alternative was screaming.
+A muscle jumped in his jaw. His chest rose and fell—too shallow, too measured, nostrils flaring with each careful intake.
 
 A bucket of murky water sat within reach, its surface barely catching the moonlight. Gond stared at it for a long moment, his throat working silently. When he finally leaned forward, his movements were deliberate, almost mechanical. The reflection that stared back showed a ghost-pale face, hollow-eyed and marked forever by the crude iron circles that branded him property.
 
