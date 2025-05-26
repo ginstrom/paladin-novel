@@ -18,6 +18,7 @@
 ## Completed Tasks
 
 ### Recent Major Revisions (2025-05-26)
+- **CHAPTER 22 REVISION ("The First Tithe of Tears")**: Rewritten to align with spiritual themes from Ch 21. War council plans attack on Saltmere, focusing on reclaiming Alanyi's Sunken Grotto temple. Reports from dwarven and elven fronts confirm their contributions to the three-pronged sacred campaign (securing shrines, disrupting Gorlatch's forces, purifying sites). Gond's leadership reflects divine purpose. Borin and Kael's presence in Saltmere revealed; Gond responds with spiritual maturity. Army prepares for march, imbued with sacred mission.
 - **CHAPTER 21 REVISION**: Major thematic and religious restructuring. Established Turin as dominant worship with Alanyi's temples in ruins. Gond's charismatic leadership reaches peak with Alanyi speaking directly through him during council meeting. Goals shifted from modern liberty/egalitarianism to restoration of Alanyi's influence, mercy tempering Turin's justice, rebuilding temples, healing wounds. Sim chosen as leader of Alanyi's revival. Silviana aids human "Reformed Order" with lost knowledge and rites. Three-army coordination now explicitly focused on spiritual restoration alongside military objectives.
 
 ### Previous Major Revisions (2025-05-25)

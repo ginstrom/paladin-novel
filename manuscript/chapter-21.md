@@ -178,11 +178,11 @@ The final council meeting before the campaign was held in the settlement's large
 
 "And the coastal assault?" Elena asked.
 
-Gond stood, feeling the weight of divine purpose settling on his shoulders like a mantle. "Fifteen hundred fighters, including our newest allies. We'll hit three cities simultaneously—Saltmere, Blackwater, and Port Sorrow. But we're not just cutting off the head of the serpent. We're purifying the land itself."
+Gond stood, feeling the weight of divine purpose settling on his shoulders like a mantle. "Fifteen hundred fighters, including our newest allies. We'll hit three cities in rapid succession—Saltmere, Blackwater, and Port Sorrow. But we're not just cutting off the head of the serpent. We're purifying the land itself."
 
 He moved to the great map that dominated one wall, pointing to the marked positions. "Each of these cities has ruins of Alanyi's temples, buried under slave markets and counting houses. When we take them, we'll tear down the monuments to greed and raise up sanctuaries of healing."
 
-"The risks are enormous," Maera warned. "If any of the attacks fail, the others will face reinforced opposition."
+"The risks are enormous," Maera warned. "If any of the attacks fail, the entire war will be lost."
 
 "The risks of doing nothing are greater," Gond replied. "Every day we wait, more souls are corrupted by Gorlatch's influence. Every day we delay, the spiritual poison spreads deeper."
 

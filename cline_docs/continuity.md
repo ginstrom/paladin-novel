@@ -35,7 +35,8 @@
 - **Chapter 20**: **"Revelation and Ripples"**. Messenger from capital reports High Temple proclamation declaring Gond saint or heretic, splitting temples. News of Circle of Whispers conclave request and Millhaven delegation arrival. Gond discerns Gorlatch priests' deception, defeats them. At Grove of First Light, Gond heals shadow-touched elf (Alanyi's symbol briefly seen on his brow by Silviana, Aelindra, healed elf). Circle of Whispers recognizes Gond as true paladin, offers intelligence on slave cities. Return to settlement; council plans response to continental chaos and new intelligence.
 - **Chapter 21**: **"A House Divided"**. Noble Knight defectors led by Sir Marcus Brightwater join after discovering Sir Roderick's hypocrisy. Turin dominance established with Alanyi's temples in ruins. Gond's charismatic leadership peaks with Alanyi speaking directly through him during council meeting. Goals shift from liberty/egalitarianism to restoration of Alanyi's influence, mercy tempering Turin's justice, rebuilding temples, healing wounds. Sim chosen as leader of Alanyi's revival. Silviana aids human "Reformed Order" (of Alanyi) with lost knowledge and rites. Three-army coordination planned with explicit spiritual restoration objectives alongside military goals.
 
-### Part V: The War for Freedom (Chapters 22-25)
+### Part V: The War of Restoration (Chapters 22-25)
+- **Chapter 22**: **"The First Tithe of Tears"**. War council plans assault on Saltmere, focusing on reclaiming Alanyi's Sunken Grotto temple. Reports from dwarven front (Thorek at Blackrock Pass, secured Pilgrim's Rest shrine) and elven front (Captain Lyralei disrupting Gorlatch caravans in Shadowfen, purifying elven way-shrines in Thornwood). Army prepares for march, imbued with sacred mission. Borin and Kael's presence in Saltmere as mercenaries is revealed; Gond resolves to offer them a choice between light and darkness.
 - **Chapter 24**: Climactic battle for Darach, **sword emits blue-white light, cuts through evil clerics' fear magic, creates wake of courage for liberation army**, **Gond demonstrates brand-erasing ability - heals freed slaves and completely removes their slavery brands**
 
 ## Continuity Fixes Implemented
@@ -351,13 +352,12 @@
 - **Underground resistance**: Growing network of sympathizers
 
 ## Unresolved Threads
-1. **Borin and Kael's current location and activities**
-2. **Circle of Whispers decision on supporting Gond**
-3. **Noble Knights of Turin emergence and coordination**
-4. **Specific enemy response to Crimson Company failure**
-5. **Maera's full network scope and capabilities**
-6. **Religious orders' final factional alignments**
-7. **Sword's full potential and future evolution**
+1. **Noble Knights of Turin emergence and coordination** (Sir Roderick's faction vs. defectors like Sir Marcus).
+2. **Specific enemy response to Crimson Company failure** and the broader liberation movement.
+3. **Maera's full network scope and capabilities** in the wider war.
+4. **Religious orders' final factional alignments** as the spiritual war intensifies.
+5. **Sword's full potential and future evolution** as Gond's power grows.
+6. **The fate of Borin and Kael** when encountered in Saltmere.
 
 ## Key Locations
 

@@ -28,7 +28,8 @@
     *   **Strategic Use of Intelligence**: Agrees to use Pell as a channel to pass selective information to Sir Roderick's faction (Ch 19).
     *   **Divine recognition**: Heals ancient shadow-touched wound, gains Circle of Whispers endorsement (Ch 20).
     *   **Revolutionary leader**: Coordinates three-army alliance for final campaign (Ch 21).
-*   **Character Arc:** Vengeance → Unconscious shift to protection → Realization → Active mercy → Divine redemption → Charismatic Revolutionary leader
+    *   **War of Restoration Leader**: Plans assault on Saltmere, focusing on reclaiming Alanyi's Sunken Grotto temple; receives reports from dwarven/elven fronts confirming coordinated sacred campaign; reacts to news of Borin and Kael in Saltmere with spiritual maturity, emphasizing Alanyi's mercy and justice (Ch 22).
+*   **Character Arc:** Vengeance → Unconscious shift to protection → Realization → Active mercy → Divine redemption → Charismatic Revolutionary leader → Paladin leading a Sacred War of Restoration
 *   **Relationships:**
     *   Former comrade of Borin and Kael (betrayers, later shown mercy).
     *   Ally and leader to Pell and Sim.
@@ -38,7 +39,7 @@
     *   Military ally of Thorek Ironheart and Iron Covenant.
     *   Leader of growing liberation movement.
     *   Recognized by Circle of Whispers as true paladin.
-*   **Current Status/Location:** Leading valley settlement of ~500 people, preparing for three-army continental campaign (End of Chapter 21).
+*   **Current Status/Location:** Leading the coalition army towards Saltmere for the first battle of the War of Restoration (End of Chapter 22).
 
 ## Pell
 *   **Bio/Description:** A thief, lean and sharp-eyed, perpetually alert and calculating. Resourceful, skilled with knives, and adept at picking locks and acquiring items (e.g., a file to remove manacles). A capable and ruthless fighter when necessary. Loyal to Gond and Sim. Initially described in Chapter 2 as being chained with Sim.
@@ -84,13 +85,14 @@
     *   Defends Gond against High Cleric Aldric's challenges (Ch 16).
     *   Struggles with excommunication threat from established order (Ch 20).
     *   Joins Reformed Order breaking from corrupt hierarchy (Ch 21).
+    *   **Spiritual Restoration Leader**: Chosen by Gond to lead Alanyi's revival; actively participates in war council regarding temple reclamation (Sunken Grotto in Saltmere); leads acolytes in learning purification rites from Silviana; blesses weapons and soldiers before the march on Saltmere (Ch 21-22).
 *   **Relationships:**
     *   Ally of Gond and Pell.
     *   Caregiver to Alia, Dax, and Lira.
     *   Devoted follower of Alanyi.
     *   Colleague of Silviana in spiritual matters.
     *   Member of Reformed Order opposing corrupt establishment.
-*   **Current Status/Location:** At valley settlement, serving as healer and spiritual advisor (End of Chapter 21).
+*   **Current Status/Location:** With Gond's army marching on Saltmere, preparing for his spiritual duties in reclaiming and purifying sacred sites (End of Chapter 22).
 
 ## Alia
 *   **Bio/Description:** A young girl, approximately 14 years old. Sister to Dax.
@@ -173,14 +175,15 @@
     *   Uses elven magic to confuse enemies during major battle (Ch 17).
     *   Accompanies Gond to Circle of Whispers conclave (Ch 20).
     *   Provides diplomatic liaison with elven communities (Ch 21).
-*   **Character Arc:** Cautious observer → Spiritual mentor → Religious authority → Diplomatic liaison
+    *   **Spiritual & Tactical Advisor**: Provides crucial knowledge of Saltmere's ancient tunnels and Alanyi's purification rites to the war council; clarifies her pacifist priestess role while affirming elven support for the sacred war effort (Ch 22).
+*   **Character Arc:** Cautious observer → Spiritual mentor → Religious authority → Diplomatic liaison → Key advisor in sacred war
 *   **Relationships:**
     *   Spiritual guide and teacher to Gond.
     *   Mentor figure to Sim, sharing ancient Alanyi traditions.
     *   Spiritual advisor to Sister Marta on old ways.
     *   Diplomatic liaison with other elven communities.
     *   Representative of Circle of Whispers.
-*   **Current Status/Location:** At valley settlement, coordinating elven support for campaign (End of Chapter 21).
+*   **Current Status/Location:** With Gond's army marching on Saltmere, providing spiritual and tactical counsel (End of Chapter 22).
 
 ## Thorek Ironheart
 *   **Bio/Description:** Dwarven war-priest of the Iron Covenant, a martial holy order dedicated to protecting the innocent through righteous warfare. The Iron Covenant formed 200 years ago when dwarves broke away from the corrupt Marshal Order to preserve Turin's true teachings. Grizzled veteran with intricate braided beard adorned with small iron rings marking battles fought for justice. Carries a blessed warhammer and wears ceremonial armor inscribed with protective runes. Speaks in clipped, direct manner but possesses deep tactical wisdom. Recognizes Gond as the return of the ancient alliance between Alanyi and Turin.
@@ -195,14 +198,15 @@
     *   Commands center force during major battle (Ch 17).
     *   Trains Noble Knight defectors in proper combat techniques (Ch 21).
     *   Prepares Iron Covenant forces for three-army campaign (Ch 21).
-*   **Character Arc:** Skeptical assessor → Devoted ally → Strategic military leader → Campaign coordinator
+    *   **Inland Front Commander**: Leads Iron Covenant forces at Blackrock Pass in the Dragon’s Spine mountains; breaks through outer defenses and secures the ancient Pilgrim’s Rest shrine, preparing it for reconsecration, demonstrating commitment to the war's spiritual goals (Reported in Ch 22).
+*   **Character Arc:** Skeptical assessor → Devoted ally → Strategic military leader → Campaign coordinator → Commander in sacred war
 *   **Relationships:**
     *   Military advisor and ally to Gond.
     *   Bridge between dwarven martial traditions and Gond's guerrilla tactics.
     *   Respectful working relationship with Silviana despite cultural differences.
     *   Kinsman of Grimjaw Ironforge.
     *   Military coordinator with Noble Knight defectors.
-*   **Current Status/Location:** At valley settlement, preparing Iron Covenant forces for campaign (End of Chapter 21).
+*   **Current Status/Location:** Leading Iron Covenant forces at Blackrock Pass, Dragon’s Spine mountains (Reported in Ch 22).
 
 ## Grimjaw Ironforge
 *   **Bio/Description:** Dwarven siege engineer and leader of an elite company of warriors. Renowned for designing and operating the most effective siege engines on the continent. Massive even by dwarven standards, with arms like tree trunks and hands permanently stained by forge work. Gold-capped teeth and colorful vocabulary. His company's defection brings crucial military assets to Gond's cause.
@@ -216,13 +220,14 @@
     *   Siege engines prove decisive in major battle defense (Ch 17).
     *   Trains former slaves in metalworking and weapon crafting (Ch 19).
     *   Prepares portable siege engines for coastal assault (Ch 21).
-*   **Character Arc:** Professional soldier → Defector for justice → Liberation army commander → Master trainer
+    *   **Siege Master for Saltmere**: Tasked with creating a diversion at Saltmere's main gates with his siege engines to support the tunnel infiltration (Ch 22).
+*   **Character Arc:** Professional soldier → Defector for justice → Liberation army commander → Master trainer → Key tactical role in sacred war
 *   **Relationships:**
     *   Military engineer and siege specialist for Gond's forces.
     *   Kinsman of Thorek Ironheart.
     *   Professional respect for Gond's tactical innovations.
     *   Mentor to former slaves learning crafts.
-*   **Current Status/Location:** At valley settlement, preparing siege engines for coastal campaign (End of Chapter 21).
+*   **Current Status/Location:** With Gond's army marching on Saltmere, preparing his siege engines (End of Chapter 22).
 
 ## Elena Brightblade
 *   **Bio/Description:** Former Royal Guard captain from Westmarch. Tall, regal, with the bearing of someone accustomed to command. Her armor is practical but well-made, and the sword at her side shows the wear of frequent use. Resigned her commission when she learned of royal funding for slave trade. Brings military expertise and intelligence network.
@@ -237,13 +242,33 @@
     *   Coordinates crossbow companies during major battle (Ch 17).
     *   Provides intelligence about Noble Knights and their factions, participates in war council (Ch 19).
     *   Warns about slave cities' 4000-man army (Ch 21).
-*   **Character Arc:** Royal Guard → Moral defector → Resistance leader → Strategic coordinator
+    *   **Saltmere Assault Planner**: Tasked with securing the tunnel entrance for the infiltration of Saltmere (Ch 22).
+*   **Character Arc:** Royal Guard → Moral defector → Resistance leader → Strategic coordinator → Key commander in sacred war
 *   **Relationships:**
     *   Military strategist for Gond's movement.
     *   Ally of Maera in resistance network.
     *   Professional soldier supporting liberation cause.
     *   Intelligence coordinator for three-army campaign.
-*   **Current Status/Location:** At valley settlement, coordinating intelligence for campaign (End of Chapter 21).
+*   **Current Status/Location:** With Gond's army marching on Saltmere, preparing for command duties (End of Chapter 22).
+
+## Maera
+*   **Bio/Description:** An elderly woman, a skilled healer, living in a secluded hut on the coast. Possesses flinty eyes, a firm demeanor, and practical wisdom. Formerly served a temple in Darach but left due to corruption. Revealed to be a key organizer of the continental resistance network.
+*   **First Appearance:** Chapter 3
+*   **Key Actions/Events:**
+    *   Provides shelter, food, and medical aid to Gond, Pell, and Sim after their escape (Ch 3).
+    *   Treats Gond's branded forehead (Ch 3).
+    *   Offers supplies and directions to a hidden pilgrim way-station (Ch 3).
+    *   Advises Gond on compassion and justice (Ch 3).
+    *   **Network revelation**: Returns with armed escort and reveals her role as resistance organizer (Ch 15).
+    *   Brings Elena Brightblade and intelligence about enemy responses (Ch 15).
+    *   Coordinates continental network of allies and sympathizers (Ch 15-21).
+    *   Provides strategic intelligence and coordination for three-army campaign (Ch 21).
+    *   **Delivers Critical Intelligence**: Informs Gond about Borin and Kael's presence in Saltmere as mercenaries (Ch 22).
+*   **Relationships:**
+    *   Aided Gond, Pell, and Sim.
+    *   Network coordinator and strategic planner.
+    *   Ally of Elena Brightblade and other resistance leaders.
+*   **Current Status/Location:** At the main settlement or with Gond's command group, coordinating intelligence (End of Chapter 22).
 
 ## High Cleric Aldric
 *   **Bio/Description:** Leader of Turin's ascendant followers, representing the shift in religious power as Turin's influence grows while Alanyi's wanes. A man whose expensive robes bear the crossed hammers of the god of justice, though his soft hands speak of a life spent far from the hardships his god supposedly champions. Represents corrupt religious hierarchy that serves political rather than divine interests. Demands submission to traditional authority.
@@ -357,7 +382,7 @@
 *   **Relationships:**
     *   Former comrade of Gond (betrayer, later shown mercy).
     *   Co-conspirator with Kael.
-*   **Current Status/Location:** Released with warning message, presumably spreading word to mercenaries (End of Chapter 18).
+*   **Current Status/Location:** In Saltmere, serving as a mercenary (Reported in Ch 22).
 
 ## Kael
 *   **Bio/Description:** Mercenary and former comrade of Gond. Described as having cold eyes and a smirking demeanor. After betraying Gond, becomes a slave catcher but eventually experiences redemption through Gond's divine mercy.
@@ -376,7 +401,31 @@
     *   Former comrade of Gond (betrayer, later shown mercy).
     *   Co-conspirator with Borin.
     *   Eventually becomes fellow servant of Alanyi alongside Sim.
-*   **Current Status/Location:** Released with warning message, presumably spreading word to mercenaries (End of Chapter 18).
+*   **Current Status/Location:** In Saltmere, serving as a mercenary (Reported in Ch 22).
+
+## Sir Marcus Brightwater
+*   **Bio/Description:** A respected commander among the Noble Knights. Initially loyal to Sir Roderick Ashford, but defects after discovering Roderick's hypocrisy and involvement in child slavery. A man of honor, deeply troubled by the corruption within his order.
+*   **First Appearance:** Chapter 21 (as defector)
+*   **Key Actions/Events:**
+    *   Leads a group of twenty Noble Knight defectors to join Gond's cause (Ch 21).
+    *   Reveals Sir Roderick's dealings in child slavery and the resulting civil war within the Noble Knights (Ch 21).
+    *   Struggles initially with the shift from Turin-centric justice to Alanyi's principles of mercy and healing (Ch 21).
+    *   **Embraces Sacred Mission**: Fully adopts the spiritual goals of the war, speaking of "merciful approach for a sacred task"; instructs former slaves in combat with new spiritual context (Ch 22).
+*   **Relationships:**
+    *   Former subordinate of Sir Roderick Ashford, now opposed to him.
+    *   Ally and commander under Gond.
+    *   Represents the reformed faction of Noble Knights.
+*   **Current Status/Location:** With Gond's army marching on Saltmere, fully committed to the War of Restoration (End of Chapter 22).
+
+## Captain Lyralei
+*   **Bio/Description:** Elven captain leading the Thornwood strike force.
+*   **First Appearance:** Mentioned in Chapter 22 (report).
+*   **Key Actions/Events:**
+    *   Leads elven forces in disrupting Gorlatch-blessed supply caravans in the Shadowfen (Reported in Ch 22).
+    *   Oversees the purification of three ancient elven way-shrines in the Thornwood (Reported in Ch 22).
+*   **Relationships:**
+    *   Commander in the elven forces allied with Gond.
+*   **Current Status/Location:** Operating in the Thornwood/Shadowfen area, leading elven strike force (Reported in Ch 22).
 
 ## The Circle of Whispers
 *   **Bio/Description:** Council of elven elders who decide whether to support Gond's cause. Composed of ancient elves who remember Alanyi's previous manifestations and maintain the old traditions. They communicate through subtle magical means and observe human affairs from hidden groves.
