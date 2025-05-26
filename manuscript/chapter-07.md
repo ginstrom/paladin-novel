@@ -24,7 +24,7 @@ Pell frowned, scanning the area. "Looks clear to me."
 
 He studied the path more carefully, noting how the grass lay too flat, how no birds sang in the nearby trees. "There." He pointed to a barely visible depression in the earth. "There was a camp here. They buried the fire pit there. And there's fresh horse dung beyond those rocks."
 
-Within minutes, dust clouds appeared on the horizon. Slave catchers, moving fast along the very route Pell had suggested.
+Within minutes, dust clouds appeared on the horizon. An armed party, moving fast along the very route Pell had suggested.
 
 "How did you—" Lira began.
 
@@ -38,7 +38,7 @@ They found an alternate route through brambles and broken stone. Back at the enc
 
 Other refugees began choosing sides, voices rising, hands moving toward weapons. The fragile unity of their group cracked like thin ice.
 
-Gond stepped between them. When he spoke, his voice carried a weight that seemed to settle over the entire group like a heavy blanket.
+Gond stepped between them. When he spoke, his voice seemed to settle over the entire group like a soothing balm.
 
 "Enough."
 
@@ -90,4 +90,4 @@ Sim's fingers traced patterns in the dirt. "The forest teaches those who listen.
 
 The priest's knowing look followed him, but Sim said nothing more. They sat in comfortable silence, watching the stars wheel overhead, while around them the refugees slept peacefully under Gond's protection.
 
-A warmth in his chest pulsed gently, like a second heartbeat, and Gond found himself wondering what other changes were stirring within him—changes he could feel but not yet name.
+A warmth in his chest pulsed gently, and Gond found himself wondering what other changes were stirring within him—changes he could feel but not yet name.
