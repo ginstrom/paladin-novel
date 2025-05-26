@@ -1,4 +1,4 @@
-# The Reluctant Paladin
+# Paladin's Rise
 
 ## Part IV: Forging a Free Nation
 
@@ -108,7 +108,7 @@ As Gond continued his rounds, he thought about the choice he'd made that morning
 
 But the message itself mattered less than the choice to send it. For the first time since his awakening as a paladin, he'd chosen mercy over justice, forgiveness over vengeance. It felt... right. Like a weight he'd been carrying had finally been lifted from his shoulders.
 
-The old Gond would have killed them without hesitation. The reluctant paladin might have agonized over the decision. But this new version of himself—the leader, the liberator, the man who'd learned that true strength came from restraint—had found a third option.
+The old Gond would have killed them without hesitation. Paladin's Rise might have agonized over the decision. But this new version of himself—the leader, the liberator, the man who'd learned that true strength came from restraint—had found a third option.
 
 Three days later, the first reports began trickling in. Mercenary companies withdrawing from slave-hunting contracts. Bounty hunters refusing jobs in the liberated territories. Word spreading through taverns and camps that the Paladin of Alanyi was not to be trifled with.
 

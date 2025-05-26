@@ -1,4 +1,4 @@
-# The Reluctant Paladin
+# Paladin's Rise
 
 ## Part II: Seeds of Rebellion
 

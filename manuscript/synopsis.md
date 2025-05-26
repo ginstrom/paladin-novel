@@ -1,4 +1,4 @@
-# The Reluctant Paladin
+# Paladin's Rise
 
 ## Synopsis
 
@@ -26,7 +26,11 @@ The movement's success triggered religious civil war as some members of holy ord
 
 The climactic campaign, the War of Restoration, brought together the largest multi-racial alliance in continental history, united under Gond's leadership with a shared spiritual purpose. This was a three-pronged assault on the slaver regimes and the corrupting influence of the dark god Gorlatch: Gond's forces targeted the coastal slave cities, aiming not only to free the enslaved but also to reclaim and purify Alanyi's desecrated temples; dwarven armies under Thorek Ironheart struck at inland strongholds, simultaneously securing ancient shrines for Alanyi's return; and elven forces disrupted Gorlatch-corrupted supply lines while purifying their own sacred sites. The role of various Noble Knight factions evolved, with some joining Gond's holy war and others pursuing their own agendas.
 
-The final battles showcased the full scope of this sacred conflict: dwarven siege engines breaking fortified defenses, elven ancient knowledge providing strategic intelligence, and divine intervention from Alanyi empowering her followers. Gond's divine powers reached their full potential in service of liberation and spiritual cleansing, as the coalition fought not just for freedom, but for the soul of the land itself.
+The march to the first coastal city, Saltmere, was fraught with peril. Mysterious disappearances plagued the army, sowing seeds of doubt that some Noble Knights dismissed as desertion. Minor skirmishes tested their resolve but also forged unlikely bonds, as when an ex-slave saved a Noble Knight. The true test came when Gorlatch's clerics, seeking retribution for their slain brethren, ambushed Gond and his companions with illusions, fear magic, and deadly poison. Gond, drawing upon Alanyi's power, repelled the attack, protected his people, and healed the afflicted, further solidifying his divine authority.
+
+Upon reaching Saltmere, the horrifying truth behind the disappearances was revealed: the missing soldiers had been captured and brutally tortured by Gorlatch's followers. Gond, faced with two barely living victims, healed one but, in a profound act of obedience to Alanyi's guidance, chose only to ease the suffering of the second, allowing her spirit to find release. This moment marked a significant step in his submission to divine will. The siege of Saltmere began, but a delegation from the city offered a false compromise. Gond presented firm terms of surrender, which the delegation promised to deliver. However, as they returned to their walls, they were cut down by their own guards, a chilling testament to Gorlatch's iron grip on the city. The siege lines tightened, the harbor blockaded, as Gond's forces prepared for a difficult assault.
+
+The subsequent battles showcased the full scope of this sacred conflict: dwarven siege engines breaking fortified defenses, elven ancient knowledge providing strategic intelligence, and divine intervention from Alanyi empowering her followers. Gond's divine powers reached their full potential in service of liberation and spiritual cleansing, as the coalition fought not just for freedom, but for the soul of the land itself.
 
 Victory came at great cost, but it was complete. The slave system that had dominated the continent for generations lay in ruins. In the aftermath, Gond discovered Borin dead and Kael mortally wounded. Despite their past betrayal, Gond performed one final act of divine mercy, healing Kael and setting him on a path toward redemption as a future priest of Alanyi. This moment completed Gond's journey from vengeance-seeker to divine mercy-giver.
 
@@ -34,6 +38,6 @@ The new world that emerged from the ashes of the old was built on the foundation
 
 ***
 
-*The Reluctant Paladin* is an epic fantasy told in a sardonic third-person narrative voice that follows one man's transformation from self-serving mercenary to legendary liberator. The story explores themes of redemption, the fight for freedom, divine calling, and the power of unity across racial and cultural boundaries. Through Gond's journey, the novel examines how the most unlikely heroes can emerge from the darkest circumstances, and how the choice between vengeance and mercy can reshape not just individual lives, but entire civilizations.
+*Paladin's Rise* is an epic fantasy told in a sardonic third-person narrative voice that follows one man's transformation from self-serving mercenary to legendary liberator. The story explores themes of redemption, the fight for freedom, divine calling, and the power of unity across racial and cultural boundaries. Through Gond's journey, the novel examines how the most unlikely heroes can emerge from the darkest circumstances, and how the choice between vengeance and mercy can reshape not just individual lives, but entire civilizations.
 
 At its heart, this is a story about the surprising, often inconvenient touch of divine grace, and how one cynical mercenary's reluctant acceptance of his calling sparked a continental revolution that transformed a world built on slavery into one founded on freedom, cooperation, and the radical notion that all people—regardless of race or origin—deserve dignity and liberty.

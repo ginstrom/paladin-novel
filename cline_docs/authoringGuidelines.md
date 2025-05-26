@@ -1,7 +1,7 @@
-# Authoring Guidelines for "The Reluctant Paladin"
+# Authoring Guidelines for "Paladin's Rise"
 
 ## Introduction
-These guidelines are established to ensure a consistent and high-quality narrative for "The Reluctant Paladin." Adherence to these steps will help maintain continuity, character voice, and plot integrity throughout the writing process. Meticulous use of the project's documentation (your Memory Bank) is paramount.
+These guidelines are established to ensure a consistent and high-quality narrative for "Paladin's Rise." Adherence to these steps will help maintain continuity, character voice, and plot integrity throughout the writing process. Meticulous use of the project's documentation (your Memory Bank) is paramount.
 
 ---
 
@@ -181,7 +181,7 @@ Immediately after completing a chapter draft or significant revisions:
     *   Outline any immediate next steps or reflections from the writing process.
 
 3.  **Update Project Roadmap (`cline_docs/projectRoadmap.md`):**
-    *   Log the completion of the chapter under the main goal of "Write 'The Reluctant Paladin' novel."
+    *   Log the completion of the chapter under the main goal of "Write 'Paladin's Rise' novel."
     *   Note any significant progress or milestones achieved.
 
 4.  **Update Codebase Summary (`cline_docs/codebaseSummary.md`):**

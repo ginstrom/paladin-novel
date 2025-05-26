@@ -1,209 +1,81 @@
-# The Reluctant Paladin
+# Paladin's Rise
 
-## Part V: The War for Freedom
+## Part V: The War of Restoration
 
-### Chapter 23: The Long March
+### Chapter 23: The Shadow of Gorlatch
 
-The army moved like a river of steel and determination, flowing south through valleys that had never seen such a sight. Three thousand fighters stretched along the old trade road in a column that took an hour to pass any given point. Dwarven war-chants mixed with elven travel songs and human marching ballads, creating a symphony of voices that echoed off the surrounding hills.
+The army, a river of steel and prayer, flowed south. Each dawn painted the sky with hues of Alanyi’s hope, yet each morning also brought a subtle chill. Two days into their march from the encampment overlooking Saltmere’s distant promise, a disquieting pattern emerged. First, a dwarven scout, then a human forager, then another scout—this one elven—failed to answer morning muster.
 
-Gond rode near the front of the column, close enough to the vanguard to respond to threats but far enough back to maintain perspective on the whole force. The responsibility of command sat heavier on his shoulders with each mile they covered. Every step brought them closer to a battle that would either free a continent or see them all dead.
+Sir Marcus Brightwater, his newfound zeal for Alanyi’s cause still warring with ingrained Noble Knight disdain, was overheard muttering to his men about "lack of discipline" and "cowards finding their true colors." Gond, riding near the column's head with Elena and Silviana, caught the remark. His jaw tightened, but he said nothing, merely exchanging a glance with Maera. The spymaster’s network was already sifting through the ranks for whispers, for any hint of unease that might explain the disappearances.
 
-"The scouts report clear roads ahead," Elena said, guiding her horse alongside his. "No sign of enemy patrols this far inland."
+"The dwarven front reports continued success at Blackrock Pass," a messenger announced, interrupting the somber mood of the morning briefing. "Thorek’s forces have pushed deeper, and the Pilgrim’s Rest shrine is now a beacon for refugees. He sends word that their masons are eager to assist Sim’s acolytes." Another rider, cloaked in forest green, followed. "Captain Lyralei confirms the Thornwood routes remain choked for Gorlatch’s lackeys. Several more corrupted way-shrines now sing with ancient elven clarity."
 
-"They're waiting for us at the cities," Gond replied, watching a group of dwarven engineers maneuver one of Grimjaw's siege engines around a particularly tight bend in the road. "No point in bleeding themselves in skirmishes when they can make us come to them."
+Gond nodded, the news a counterpoint to the gnawing worry. "The goddess blesses their efforts. See that our own resolve matches theirs."
 
-"Smart of them."
+The road wound through increasingly desolate country, the land itself seeming to hold its breath. It was here, in a narrow defile choked with thorny scrub, that first blood was shed. A volley of black-fletched arrows hissed from the ridge lines. Slaver loyalists, desperate and cornered, judging by their ragged appearance.
 
-"Unfortunately."
+The column reacted with a discipline born of shared purpose. Dwarven shield-bearers formed a bulwark, their heavy armor deflecting the worst of the volley. Elven archers returned fire with deadly precision, their arrows finding marks with almost supernatural accuracy. Amidst the chaos, Sir Kaelen, one of Brightwater’s knights, found himself unhorsed, his leg pinned. A hulking slaver, brandishing a cruel-looking falchion, bore down on him. Before Kaelen could bring his own sword to bear, a figure in patched leather, a former quarry slave named Joric, slammed his rough-hewn shield into the slaver’s side, then drove a short spear through the man’s throat. Joric offered a calloused hand to the astonished knight. Kaelen, after a moment’s hesitation, grasped it, hauled to his feet by the man he might once have considered less than human. The knight’s muttered thanks was gruff, but his eyes held a new light.
 
-The morning sun climbed higher, burning off the mist that had cloaked their departure from camp. Gond found himself studying the faces of the fighters around him—farmers who'd left their fields to take up swords, former slaves still bearing the scars of their bondage, professional soldiers who'd abandoned their posts rather than serve a corrupt system.
+The skirmish was brief, brutal, and ultimately, a small victory. But as Sim and his acolytes tended the few wounded, Gond noted the subtle shifts. Sir Kaelen sought out Joric, sharing a waterskin. A dwarven warrior clapped an elven archer on the shoulder, a gesture of rough camaraderie.
 
-They all looked to him for leadership, for answers, for the kind of certainty he'd never possessed even on his best days.
+The true darkness, however, awaited them further down the road. As dusk fell, they made camp in a grove of petrified trees, their skeletal forms clawing at the fading light. A palpable sense of dread settled over the army.
 
-"Copper for your thoughts?" Pell asked, appearing at his other side with the silent grace that had made him such an effective scout.
+It struck without warning. Not with the clash of steel, but with a creeping, insidious chill that seeped into the very marrow. Illusions flickered at the edge of vision: loved ones in peril, past failures replayed with agonizing clarity, grotesque figures whispering insidious doubts. Fear, cold and cloying, wrapped around hearts and minds. Several soldiers screamed, dropping their weapons to clutch their heads.
 
-"Just wondering if I have any idea what I'm doing," Gond said honestly.
+"Gorlatch!" Silviana hissed, her face pale but resolute as she began a counter-chant, her voice a thread of silver in the encroaching darkness.
 
-"Does anyone? I mean, when you really think about it, does anyone ever know what they're doing when they try to change the world?"
+Three figures emerged from the deepest shadows of the petrified grove, their forms cloaked and indistinct, yet radiating an aura of profound malice. "The Master of Chains remembers his servants, paladin," one rasped, the voice like stones grinding together. "You interfered with his tithes. Retribution is now due."
 
-"Probably not." Gond shifted in his saddle, trying to ease the ache in his lower back. "But most people don't have three thousand lives depending on their guesses."
+Gond felt the divine fire surge within him, Alanyi’s presence a burning shield against the psychic assault. "Your master’s due is oblivion!" he roared, drawing his sword. The blade blazed with a pure, white light, cutting through the oppressive gloom. He saw Elena stumble, her hand frozen on her sword hilt, her eyes wide with an unseen terror. Thorek stood rooted, his mighty warhammer hanging limp. Sim was on his knees, chanting desperately, but his voice wavered.
 
-"True." Pell was quiet for a moment, watching a group of elven archers practice their formations while marching. "But most people don't have three thousand volunteers willing to follow them into hell, either."
+Without thought, Gond call up his light. He pushed the divine light outwards, a wave of courage and clarity that momentarily broke the hold of the fear-spell on his companions. Elena gasped, her sword clearing its sheath. Thorek let out a bellow and hefted his hammer.
 
-Gond followed his gaze to the elves, marveling at how they managed to maintain perfect spacing and timing even while navigating the uneven road. Their movements flowed like water, each archer anticipating the others' actions without apparent communication.
+The Gorlatch clerics redoubled their assault. Tendrils of shadow lashed out, and a sickly green mist, carrying the stench of decay and despair, began to drift through the camp. Gond met the shadow-tendrils with sweeps of his radiant blade, each impact sending shudders through the unholy energy. He felt only a slight tingling, but noted his companions wincing in pain and fear.
 
-"How do they do that?" he asked.
+He ignored it, focusing the divine power. He held his sword aloft, and beam shot up from it, exploding in brilliance and lighting the sky. The scene was bathed in a golden glow, the shadw-tendrils melting under its brilliance. The three priests growled and faltered. Gond took his opportunity and drove the blade deep into the heart of the first, who crumpled to the ground. The remaining two faltered, their illusions flickering. Elena and Thorek, bolstered by Gond’s light, charged. Silviana’s counter-chant grew stronger, weaving a web of protective energy.
 
-"Practice," Silviana said, appearing beside them with the unsettling silence that seemed to be an elven trait. "And something your people would call magic, though we prefer to think of it as harmony."
+The battle was short but desperate. Gond battered the second cleric repeated with his sword until this one also slumped limply. The third, seeing its companions destroyed, attempted to flee but was caught by a perfectly aimed arrow from an elven archer who had shaken off the fear.
 
-"How long have you been listening?"
-
-"Long enough to hear you doubt yourself." Her silver eyes studied him with the intensity of someone reading a particularly interesting book. "It is natural, before a great undertaking. Even necessary."
-
-"Doubt is necessary?"
-
-"Certainty is the enemy of wisdom," she said simply. "A leader who never questions his decisions will make many poor ones."
-
-They rode in comfortable silence for a while, the steady rhythm of hoofbeats and marching feet creating a hypnotic cadence. Around them, the army flowed like a living thing, adjusting to obstacles and terrain with the fluid grace of water finding its level.
-
-"Tell me about the old days," Gond said suddenly. "Before the slavers, before the corruption. What was it like when the three races worked together?"
-
-Silviana's expression grew distant. "Beautiful. Terrible. Complicated." She gestured toward a group of dwarven engineers working alongside human carpenters to repair a damaged wagon wheel. "Much like this, actually. We were never a unified people—too many differences in culture and temperament. But we shared common goals."
-
-"What changed?"
-
-"Fear," she said simply. "Fear of the other, fear of change, fear of losing what we had built. The humans began to see strength in domination rather than cooperation. The dwarves retreated to their mountains and their traditions. My people withdrew to the forests and our ancient ways."
-
-"And now?"
-
-"Now we try again." She smiled, the expression transforming her austere features. "Perhaps we have learned something from our failures."
-
-A commotion ahead drew their attention. One of the siege engines had thrown a wheel, and the massive machine sat tilted at an awkward angle while Grimjaw's engineers swarmed around it like ants around a fallen log.
-
-"How long to fix it?" Gond called as they approached.
-
-"Two hours, maybe three," Grimjaw replied, his gold teeth flashing in a grimace. "The axle's cracked, and we'll need to reinforce it before we can move again."
-
-Gond looked at the sun, calculating time and distance. They'd planned to reach the staging area by evening, but this delay would push them well into the night.
-
-"Can we go around?"
-
-"Not with the other engines. Road's too narrow, and the ground's too soft for the weight."
-
-Elena rode up, her expression grim. "We could leave a repair crew and continue with the main force."
-
-"No." Gond shook his head. "We go together or not at all. Those engines are the key to breaching the walls."
-
-"Then we wait," Thorek said, dismounting from his pony with a grunt. "My lads could use the rest anyway. Been pushing hard since dawn."
-
-Gond called a halt, and the word passed down the column like ripples in a pond. Within minutes, the army had transformed from a moving force into a temporary camp, with cookfires springing up and soldiers settling into the familiar routine of military life.
-
-He found himself walking among the troops, listening to conversations and observing the interactions between different groups. What he saw both encouraged and worried him.
-
-Near one fire, a group of former slaves shared bread with dwarven warriors, their conversation animated despite the language barriers. At another, elven scouts demonstrated their silent communication techniques to fascinated human rangers. But he also noticed the clusters of fighters who stayed within their own racial groups, the suspicious glances and careful distances that spoke of deep-seated mistrust.
-
-"It's better than it was," Elena said, joining him as he paused to watch a mixed group of fighters sharing stories around a cookfire. "When we first started bringing everyone together, they wouldn't even camp near each other."
-
-"But it's not enough," Gond said. "Not for what's coming."
-
-"What do you mean?"
-
-"Look at them." He gestured toward the various groups scattered across the impromptu camp. "They're willing to fight together, but they're not really united. When the battle starts and things go wrong—and they will go wrong—will they trust each other enough to hold the line?"
-
-Elena followed his gaze, her expression thoughtful. "You're worried they'll break when the pressure mounts."
-
-"I'm worried they'll break along racial lines. Humans blaming dwarves for being too slow, dwarves blaming elves for being too cautious, elves blaming humans for being too reckless. All the old prejudices coming out when fear takes over."
-
-"So what do we do about it?"
-
-Gond was quiet for a moment, watching a young human soldier attempt to learn a dwarven drinking song while an elf looked on with barely concealed amusement.
-
-"We give them something to unite around," he said finally. "Something bigger than their differences."
-
-"Like what?"
-
-"Like the truth about what we're really fighting for."
-
-That evening, as the siege engine repairs neared completion, Gond called for the army to gather. They assembled in a natural amphitheater formed by the surrounding hills, three thousand faces illuminated by the flickering light of torches and campfires.
-
-"Tomorrow we reach the coast," he began, his voice carrying clearly in the still air. "Tomorrow we see the cities we've come to liberate. Some of you have never seen a slave market. Some of you have never watched children sold like livestock or seen families torn apart for profit."
-
-The crowd stirred, but remained silent.
-
-"I have," Gond continued. "I've seen what we're fighting against, and I want you to understand what that means. This isn't about conquest or glory or proving which race is superior. This is about something much simpler and much more important."
-
-He paused, looking out over the sea of faces—human and dwarven and elven, all watching him with the kind of attention that came from desperate hope.
-
-"It's about the idea that every person, regardless of the color of their skin or the shape of their ears or the length of their beard, has the right to choose their own path in life. The right to love who they choose, to work where they choose, to raise their children in freedom and safety."
-
-His voice grew stronger, carrying the conviction that had sustained him through months of doubt and struggle.
-
-"The slavers want you to believe that some people are born to serve and others to rule. They want you to believe that humans are too crude for elven wisdom, that dwarves are too stubborn for human flexibility, that elves are too aloof for dwarven practicality. They want you divided because they know that together, we're stronger than they could ever be."
-
-The crowd began to stir, energy building like a gathering storm.
-
-"But look around you. Look at what we've already accomplished. Dwarven engineering and elven knowledge and human determination, all working toward the same goal. We've proven that the old divisions are lies. We've proven that different doesn't mean inferior."
-
-He raised his voice to carry over the growing murmurs of agreement.
-
-"So tomorrow, when we stand before those walls, remember this moment. Remember that you're not just fighting for your own people—you're fighting for the idea that all people deserve freedom. You're fighting for a future where children grow up judging each other by their actions, not their ancestry."
-
-The response was immediate and overwhelming. Three thousand voices raised as one, human and dwarven and elven, all united in a single purpose. The sound echoed off the hills and sent night birds fleeing from their roosts.
-
-As the crowd dispersed, Gond felt a familiar hand on his shoulder. He turned to find Sim standing beside him, the priest's weathered face creased with something that might have been pride.
-
-"That was well said," Sim observed. "You've learned much about leadership since that first day in the valley."
-
-"Have I? Sometimes I feel like I'm just making it up as I go along."
-
-"All good leaders do," Sim said with a chuckle. "The bad ones are the ones who think they have all the answers."
-
-They walked together toward the command tent, passing groups of fighters still energized by the speech. Gond noticed more mixing between the races now, more animated conversations and shared laughter.
-
-"Do you think it will hold?" he asked. "When the fighting starts and people start dying?"
-
-"I think you've given them something worth dying for," Sim said quietly. "And more importantly, something worth living for. That's more than most armies have."
-
-"I hope it's enough."
-
-"It will be. You've changed, Gond. From the man who escaped that slave ship to the man who just spoke to three thousand fighters about freedom and unity. That change is real, and it's infectious."
-
-Gond paused at the tent entrance, looking back over the camp one more time. Cookfires flickered like earthbound stars, and the sounds of conversation and laughter drifted on the evening breeze. Tomorrow they would reach the coast and see their enemies' defenses. Tomorrow the real test would begin.
-
-"I keep thinking about that first night," he said. "When we escaped the ship and washed up on that beach. I was so focused on revenge, so certain that the world owed me something."
-
-"And now?"
-
-"Now I think maybe I owe the world something. Maybe we all do."
-
-Sim smiled. "That's the difference between a mercenary and a leader. A mercenary fights for what he can take. A leader fights for what he can give."
-
-As Gond settled into his bedroll that night, he found his thoughts turning to the battles ahead. Not just the physical confrontations with sword and siege engine, but the deeper struggle to prove that different peoples could work together as equals. That freedom was possible. That change was worth the cost.
-
-Outside his tent, he could hear the sounds of an army at rest—quiet conversations, the crackle of dying fires, the soft footsteps of sentries making their rounds. But underneath it all, he sensed something new. A unity that hadn't been there before. A shared purpose that transcended the old divisions.
-
-Tomorrow they would see the slave cities. Tomorrow they would begin the final phase of a war that had started with a single man's escape from bondage and grown into a continental movement for freedom.
-
-But tonight, for the first time since this all began, Gond felt truly confident in what they were trying to accomplish.
-
-They were no longer just an army of different peoples fighting for the same cause.
-
-They were becoming something new. Something that had never existed before.
-
-They were becoming one people, united in the belief that freedom was worth any sacrifice.
+As the last vestiges of Gorlatch’s magic dissipated, a collective groan went up from the afflicted soldiers. Many were writhing, their skin clammy, the black poison coursing through them. Gond, swaying on his feet from the expenditure of power, moved among them. He laid his hands on the nearest, a young woman from the valley, her face contorted in agony. Alanyi’s light flowed, and the black ichor receded from her veins. He moved to the next, and the next, the divine energy pouring from him, also lending him strength so he could continue. By the time the last victim was cleansed, Gond collapsed, the light in his blade dimming. Sim and Silviana were at his side instantly, and guided him to a pallet.
 
 ***
 
-The next morning dawned clear and bright, with a fresh wind blowing from the coast that carried the salt smell of the sea. The army broke camp with practiced efficiency, the siege engine repairs completed and the massive machines ready to resume their ponderous journey south.
+Three days later, battered but unbroken, the army crested the final ridge. Below them lay Saltmere, its formidable walls a scar upon the coastline, the harbor choked with slaver galleys. The air, even at this distance, seemed tainted with the city’s misery.
 
-As they crested the final ridge before the coastal plain, Gond called a halt. Below them, spread out like a map come to life, lay the three cities they had come to liberate.
+As the army began to establish its siege lines, Maera’s chief scout, a wiry woman named Lyra, approached Gond, her face a mask of grim fury. "High Paladin. We found them. The missing."
 
-Darach dominated the center of the view, its three rings of walls rising from the harbor like stone waves. To the east, Millhaven's towers gleamed white in the morning sun, while Westport's red-tiled roofs stretched along the western shore. Between them, the blue expanse of the sea stretched to the horizon, dotted with the sails of merchant ships and slaver galleys.
+She led Gond, Sim, and a grim-faced Sir Marcus to a ravine half a league from Saltmere’s western wall. The stench hit them first—a coppery, foul miasma that spoke of unimaginable suffering. In the ravine’s depths lay a pit. And in the pit, the bodies of the lost scouts and foragers. They had been tortured, their flesh bearing the unmistakable marks of Gorlatch’s ritual cruelty.
 
-"There they are," Elena said quietly. "The heart of the slave trade."
+Two figures still clung to life, their breaths shallow, their eyes vacant with horrors seen. One was the dwarven scout, Borin Stonebeard, a distant cousin to Thorek. The other, the young human forager, Elara.
 
-"Impressive defenses," Thorek observed, studying the walls through a spyglass. "But not impregnable. Not with what we're bringing to the party."
+Gond knelt, his heart a cold stone in his chest. He reached for Borin, Alanyi’s light flaring in his hands. The dwarf’s wounds began to close, color returning to his ash-grey skin. His breathing deepened.
 
-Silviana pointed toward a series of hills overlooking the cities. "The elven scouts are already in position. They report heavy activity in all three ports—ships arriving with fresh captives, mercenary companies taking positions on the walls."
+Then Gond turned to Elara. As he prepared to channel the healing light again, a profound stillness settled over him, a gentle but undeniable pressure from the divine presence within. *Ease her suffering, my son. But her path ends here. Her spirit yearns for release.*
 
-"They know we're coming," Gond said.
+Gond froze. The command was clear, unmistakable. He looked at Elara’s ravaged form, at the flicker of awareness returning to Borin’s eyes. The memory of a past defiance, a past insistence on his own judgment in matters of life and death, pricked at him. This time, the weight of Alanyi’s wisdom, her sorrow, was too profound to question. With tears stinging his eyes, he laid his hands on Elara. A soft, warm light enveloped her, not mending, but soothing. The pain lines on her face eased. A faint, almost peaceful sigh escaped her lips. And then, she was still.
 
-"Of course they do," Grimjaw said cheerfully. "Hard to hide an army this size. But knowing and stopping are two different things."
+Sim, who had witnessed the subtle shift in Gond’s demeanor, placed a comforting hand on his shoulder. Sir Marcus, his face pale, simply stared, the last vestiges of his noble arrogance stripped away by the raw horror and the quiet, terrible mercy he had just witnessed.
 
-Gond studied the terrain, mentally reviewing the battle plans they'd spent weeks perfecting. The sacred tunnels would allow strike teams to infiltrate the cities before the main assault. The siege engines would breach the outer walls while the bulk of the army pressed the attack. Meanwhile, far to the north, the Noble Knights would be beginning their assault on the Holy City of Turin.
+The discovery of the pit, and Elara’s passing, sent a wave of cold fury through the army. The siege of Saltmere began in earnest. Grimjaw’s engines, now bearing names like "Alanyi’s Judgment" and "Hope’s Hammer," were maneuvered into position, their crews working with grim determination. Elven archers took to the high ground, their arrows a constant harassment to the city’s defenders. Dwarven engineers began constructing siege towers, their hammers ringing like funeral bells for Saltmere’s reign of terror. The harbor was blockaded, Grimjaw’s largest catapults re-angled to deny entry or escape to any vessel.
 
-It was a good plan. A solid plan.
+On the third day of the siege, a white banner appeared above Saltmere’s main gate. A delegation of five individuals, robed and unarmed, emerged.
 
-It was also about to be tested against the reality of battle, where no plan survived contact with the enemy.
+Gond met them in the no-man’s-land between the siege lines and the city walls, flanked by Sim, Silviana, Elena, and Thorek. The lead delegate, a portly man with shifty eyes, introduced himself as Guildmaster Theron.
 
-"Signal the column to resume march," he ordered. "We have cities to liberate."
+"High Paladin," Theron began, his voice unctuous. "The council of Saltmere recognizes the… disruption your forces have caused. We are prepared to offer a compromise. A significant tribute, an agreement to limit certain… less savory aspects of our trade, in return for your army’s withdrawal."
 
-As the army flowed down from the ridge toward their destiny, Gond found himself thinking not of the battles ahead, but of the world they might build afterward. A place where the sight of different races working together would be commonplace rather than miraculous. Where children grew up free to choose their own paths instead of inheriting their parents' chains.
+Gond’s gaze was like chips of ice. "There is no compromise with darkness, Guildmaster. My terms are simple. Release every slave within your walls. Surrender every priest and acolyte of Gorlatch to our justice. And open your gates to the worship of Alanyi, that her light may cleanse the stain you have made of this city."
 
-It was an ambitious dream. Maybe an impossible one.
+Theron’s face paled. "Those terms are… impossible."
 
-But as he watched three thousand fighters march toward the greatest challenge of their lives, all united in common cause, Gond found himself believing it might just be possible after all.
+"They are immutable," Gond stated. "Take them to your council. You have until dawn tomorrow to comply. After that, Alanyi’s judgment will fall."
 
-The war for freedom had brought them this far.
+The delegation, visibly shaken, promised to deliver the terms. They turned and began the slow walk back towards Saltmere’s gates. As they neared the walls, a volley of crossbow bolts suddenly erupted from the battlements. The delegates cried out, falling one by one, pierced by shafts fired by their own guards. One, a younger man, despite a bolt in his shoulder, managed to stagger, stumble, and half-crawl back towards Gond’s lines before collapsing.
 
-Now it was time to finish what they had started.
+Pell was the first to reach him. The young delegate, choking on his own blood, gasped, "Gorlatch… controls everything… They… they laughed at your terms… said the Master of Chains would feast…" His eyes glazed over.
+
+The betrayal was absolute, the message chillingly clear. There would be no surrender.
+
+Gond looked towards the bloodstained walls of Saltmere, his expression hard as granite. The setting sun cast long, menacing shadows from the siege engines, now silent sentinels of the retribution to come. The harbor lay still, a dark mirror under the twilight sky, effectively sealed. The army waited, a coiled spring of righteous fury.
+
+The siege of Saltmere had truly begun.

@@ -1,4 +1,4 @@
-# The Reluctant Paladin
+# Paladin's Rise
 
 ## Part I: The Rude Awakening
 
@@ -51,7 +51,6 @@ A muscle jumped in his jaw. His chest rose and fell in careful, measured breaths
 
 A bucket of murky water sat within reach, its surface barely catching the moonlight. Gond stared at it for a long moment, his throat working silently. When he finally leaned forward, his movements were deliberate, almost mechanical. The reflection that stared back showed a ghost-pale face, hollow-eyed and marked forever by the crude iron circles that branded him property.
 
-
 "Yeah, you've got one just like the rest of us," murmured Pell sympathetically.
 
 For the first time, Gond looked around and saw the same manacle tatoo on every forehead in the hold. 
@@ -66,7 +65,93 @@ Those too weak to crawl for their share simply went without.
 
 One guard leaned over the hatch opening, grinning down at them. "Comfortable down there, are we? Don't worry—journey's nearly over. Then the real fun begins."
 
+A second voice drifted down from the deck. "How many you reckon will last past the first month in the mines, Garrett?"
+
+"This lot?" Garrett spat into the hold. The glob landed near the dead merchant's feet. "Maybe one in ten. Look at 'em—half dead already. Salt mines'll finish what we started."
+
+"That scribe there won't see a week," the other guard observed with casual interest. "Betting pool says three days."
+
+"You're generous. I give him till tomorrow's shift change." Garrett's boot scraped against the deck planks. "Course, the strong ones sometimes last longer. Had one bastard make it four months before the salt ate through his lungs. Kept working right up till he drowned in his own blood."
+
+Both guards laughed.
+
+"Remember that big fellow from the last shipment? Thought he was tough."
+
+"Oh, the one who tried to organize the others? Yeah, overseers made an example of him. Chained him to the salt face for three days without water. By the end, he was licking the walls and begging to die."
+
 More laughter echoed from above.
+
+The dying scribe's breathing hitched. His eyes had opened during the conversation, staring at nothing. A thin line of drool escaped the corner of his mouth.
+
+Pell shifted beside Gond, his chains clinking softly. "Cheerful bunch," he whispered.
+
+"Salt mines," Sim murmured, so quietly Gond almost missed it. "I've heard the stories. The lucky ones die in the first week."
+
+Jord's breathing had changed—shorter, sharper. His massive hands opened and closed repeatedly, testing his bonds.
+
+Above them, Garrett's voice carried clearly. "Captain says we're making good time. Should reach Blackwater Bay by tomorrow evening. Then it's a short march to the mines."
+
+"Good. This cargo's starting to stink. Lost two more since yesterday—that woman in the corner finally stopped breathing, and the old man by the bulkhead. Want me to toss 'em overboard?"
+
+"Nah, leave 'em. Reminds the others what happens when they stop being useful. Besides, the smell keeps 'em docile."
+
+A boot kicked something metallic across the deck. "You know what I love about this job? No matter how tough they think they are down there, the mines break 'em all. Rich, poor, soldier, merchant—salt don't care. It eats through everything."
+
+"Except the overseers," the second guard added. "They got those masks, the special gear. Can work the deep tunnels for years."
+
+"Course they do. Can't have the help dying too quick. Bad for business."
+
+The conversation drifted away as the guards moved to other parts of the ship.
+
+In the hold, silence stretched like a held breath. The woman in the corner had indeed stopped her lullaby. Her chest no longer rose and fell. The old man Garrett mentioned sat propped against the far bulkhead, his head tilted at an unnatural angle.
+
+The dock worker beside Gond stared at his manacled hands. His thick fingers traced the iron links over and over, wearing a groove in the metal. "Four months," he whispered. "That's the record."
+
+"Don't," Pell said quietly.
+
+But the dock worker continued, his voice hollow. "My brother worked the quarries up north. Said the salt mines were worse. Said the air itself burns your throat, makes you cough blood after the first week. Said the tunnels go so deep you never see sunlight again."
+
+Jord's chains rattled as he turned away.
+
+"The overseers carry whips soaked in brine," the dock worker went on. "Cut you open and pour salt in the wounds. Keep you working even when you're bleeding out."
+
+"Stop." Sim's voice carried quiet authority.
+
+The dock worker's mouth snapped shut, but his eyes remained fixed on his hands.
+
+Gond studied the hatch above. The guards had grown careless in their confidence. They saw cargo, not people. Merchandise that would be used up and replaced within months. The casual way they discussed death, the betting pools on survival times, the complete absence of any recognition that the people in this hold had once been human beings with names, families, lives—it painted a picture clearer than any threat.
+
+A new voice joined the guards above—younger, uncertain. "Sir, should we check on the cargo? Some of them haven't moved in hours."
+
+"What for?" Garrett's voice carried amusement. "They're not going anywhere. Dead or alive, they're worth the same to the mine bosses. Actually, the dead ones are easier to handle."
+
+"But sir, if too many die before we arrive—"
+
+"Boy, you're new to this, aren't you?" The second guard's voice turned instructional. "See, the mine bosses, they order by the shipload, not by the head. They know half'll be dead by the time we dock, another quarter'll die in the first week. That's why they pack us so tight. It's all figured into the price."
+
+"The smart ones," Garrett added, "they don't even try to keep 'em all alive. Waste of food and water. Better to let the weak ones die off early, save resources for the ones who might last a month or two."
+
+"How long do they usually work them?"
+
+"Depends. Strong back like that soldier down there? Maybe three months if he's lucky. Scrawny clerk types? Week, maybe two. Women last longer sometimes—they're more careful, don't try to fight the system. But the salt gets everyone in the end."
+
+"What about escape attempts?"
+
+Both older guards laughed. "From the mines? Boy, you really are green. Mines are built in the middle of nowhere, surrounded by wasteland for fifty miles in every direction. Even if someone got out of the tunnels, where they gonna go? Desert'll kill you faster than the salt."
+
+"Plus," the second guard added, "overseers got dogs. Big ones, trained to track runaways. They don't bring 'em back alive."
+
+The young guard's voice dropped. "Seems like a waste. Some of these people look educated, skilled."
+
+"That's the beauty of it," Garrett said. "Don't matter what they were before. Merchant, soldier, farmer, priest—salt makes 'em all equal. All just meat for the grinder."
+
+Something heavy thudded against the deck above. "Speaking of which, time to check the other holds. Got two more shipments below deck. Want to make sure we don't lose too many before we dock."
+
+Their footsteps moved away, but their voices carried back.
+
+"Remember, boy—they're not people anymore. They're inventory. The sooner you learn that, the easier this job gets."
+
+In the hold, the silence that followed felt heavier than before. The dock worker had stopped tracing his chains. His hands lay motionless in his lap. The soldier behind Gond had stopped his rhythmic breathing. Even the prayers in the corner had ceased.
 
 Gond's gaze drifted to the hatch. He studied the lazy way the guards moved, how they clustered together instead of watching properly. Sloppy. Overconfident.
 

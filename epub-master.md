@@ -1,5 +1,5 @@
 ---
-title: "The Reluctant Paladin"
+title: "Paladin's Rise"
 author: "Ryan Ginstrom"
 date: "2025"
 rights: "Creative Commons 2025"
@@ -10,7 +10,7 @@ toc-depth: 2
 epub-chapter-level: 2
 ---
 
-# The Reluctant Paladin
+# Paladin's Rise
 
 *An Epic Fantasy Novel*
 
@@ -52,7 +52,7 @@ The new world that emerged from the ashes of the old was built on the foundation
 
 ***
 
-*The Reluctant Paladin* is an epic fantasy told in a sardonic third-person narrative voice that follows one man's transformation from self-serving mercenary to legendary liberator. The story explores themes of redemption, the fight for freedom, divine calling, and the power of unity across racial and cultural boundaries. Through Gond's journey, the novel examines how the most unlikely heroes can emerge from the darkest circumstances, and how the choice between vengeance and mercy can reshape not just individual lives, but entire civilizations.
+*Paladin's Rise* is an epic fantasy told in a sardonic third-person narrative voice that follows one man's transformation from self-serving mercenary to legendary liberator. The story explores themes of redemption, the fight for freedom, divine calling, and the power of unity across racial and cultural boundaries. Through Gond's journey, the novel examines how the most unlikely heroes can emerge from the darkest circumstances, and how the choice between vengeance and mercy can reshape not just individual lives, but entire civilizations.
 
 At its heart, this is a story about the surprising, often inconvenient touch of divine grace, and how one cynical mercenary's reluctant acceptance of his calling sparked a continental revolution that transformed a world built on slavery into one founded on freedom, cooperation, and the radical notion that all people—regardless of race or origin—deserve dignity and liberty.
 
@@ -1082,7 +1082,7 @@ The transformation was complete, and there would be no going back.
 
 Around him, the refugees began to sing—a hymn of praise that rose to the heavens, carrying with it the hope of the oppressed and the promise of justice to come. Gond stood among them, no longer fighting his destiny but embracing it, ready to carry the burden and the blessing of divine purpose.
 
-The reluctant paladin was reluctant no more.
+Paladin's Rise was reluctant no more.
 
 \newpage
 
@@ -1092,7 +1092,7 @@ The reluctant paladin was reluctant no more.
 
 \newpage
 
-### Chapter 11: The Reluctant Paladin
+### Chapter 11: Paladin's Rise
 
 A month had passed since the golden light, and Gond still couldn't walk through the settlement without feeling the weight of watching eyes.
 
@@ -2162,7 +2162,7 @@ Gond looked around at the faces of his friends and allies, seeing determination 
 
 "Now," he said, "we prepare for war. Not just against slavers and their allies, but against everyone who profits from the current system. It won't be easy, and it won't be quick. But it's necessary."
 
-As the council dispersed and people returned to their various duties, Gond remained by the fire, staring into the flames and thinking about the future. Part III of his journey was ending—the reluctant paladin had become something else entirely.
+As the council dispersed and people returned to their various duties, Gond remained by the fire, staring into the flames and thinking about the future. Part III of his journey was ending—Paladin's Rise had become something else entirely.
 
 What came next would test everything he'd learned, everything he'd built, and everyone who'd chosen to stand with him. But for the first time since accepting his calling, Gond felt truly ready for whatever lay ahead.
 
@@ -2396,7 +2396,7 @@ Hope.
 
 They'd faced professional soldiers and won. They'd proven that free people fighting for their homes could stand against any army. And now, with allies gathering from across the continent, they might actually have a chance.
 
-The reluctant paladin was gone, burned away in the fires of battle. In his place stood something new—a leader ready to forge a free nation from the ashes of the old world.
+Paladin's Rise was gone, burned away in the fires of battle. In his place stood something new—a leader ready to forge a free nation from the ashes of the old world.
 
 The real war was about to begin.
 
@@ -2508,7 +2508,7 @@ As Gond continued his rounds, he thought about the choice he'd made that morning
 
 But the message itself mattered less than the choice to send it. For the first time since his awakening as a paladin, he'd chosen mercy over justice, forgiveness over vengeance. It felt... right. Like a weight he'd been carrying had finally been lifted from his shoulders.
 
-The old Gond would have killed them without hesitation. The reluctant paladin might have agonized over the decision. But this new version of himself—the leader, the liberator, the man who'd learned that true strength came from restraint—had found a third option.
+The old Gond would have killed them without hesitation. Paladin's Rise might have agonized over the decision. But this new version of himself—the leader, the liberator, the man who'd learned that true strength came from restraint—had found a third option.
 
 Three days later, the first reports began trickling in. Mercenary companies withdrawing from slave-hunting contracts. Bounty hunters refusing jobs in the liberated territories. Word spreading through taverns and camps that the Paladin of Alanyi was not to be trifled with.
 
@@ -3964,7 +3964,7 @@ Others stepped forward—not all, but enough. Men and women who'd been beaten do
 
 "Arm them from the guard posts," he ordered his team. "Marcus, you know the city. What's the fastest way to the main gate?"
 
-"Through the merchant quarter, but it'll be heavily guarded now that the attack's started." The former soldier studied Gond with sharp eyes. "You're him, aren't you? The one they call the Reluctant Paladin."
+"Through the merchant quarter, but it'll be heavily guarded now that the attack's started." The former soldier studied Gond with sharp eyes. "You're him, aren't you? The one they call Paladin's Rise."
 
 "I'm the one trying to end this," Gond said simply. "That's all that matters."
 
@@ -4660,7 +4660,7 @@ As they walked back toward the temple, Gond caught sight of Kael leading a group
 
 It was a good story, Gond reflected. Not the one he'd expected to be part of when this all began, but a good one nonetheless.
 
-The reluctant paladin had found his calling at last. Not in the glory of battle or the satisfaction of revenge, but in the quiet work of building a world where such things were no longer necessary.
+Paladin's Rise had found his calling at last. Not in the glory of battle or the satisfaction of revenge, but in the quiet work of building a world where such things were no longer necessary.
 
 It was, he thought, exactly where he was meant to be.
 

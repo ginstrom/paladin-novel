@@ -1,4 +1,4 @@
-# The Reluctant Paladin
+# Paladin's Rise
 
 ## Part III: An Unlikely Saint
 
@@ -192,7 +192,7 @@ Gond looked around at the faces of his friends and allies, seeing determination 
 
 "Now," he said, "we prepare for war. Not just against slavers and their allies, but against everyone who profits from the current system. It won't be easy, and it won't be quick. But it's necessary."
 
-As the council dispersed and people returned to their various duties, Gond remained by the fire, staring into the flames and thinking about the future. This part of his journey was ending—the reluctant paladin had become something else entirely.
+As the council dispersed and people returned to their various duties, Gond remained by the fire, staring into the flames and thinking about the future. This part of his journey was ending—Paladin's Rise had become something else entirely.
 
 What came next would test everything he'd learned, everything he'd built, and everyone who'd chosen to stand with him. But for the first time since accepting his calling, Gond felt truly ready for whatever lay ahead.
 

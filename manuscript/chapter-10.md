@@ -1,4 +1,4 @@
-# The Reluctant Paladin
+# Paladin's Rise
 
 ## Part II: Seeds of Rebellion
 
@@ -102,4 +102,4 @@ The transformation was complete, and there would be no going back.
 
 Around him, the refugees began to sing—a hymn of praise that rose to the heavens, carrying with it the hope of the oppressed and the promise of justice to come. Gond stood among them, no longer fighting his destiny but embracing it, ready to carry the burden and the blessing of divine purpose.
 
-The reluctant paladin was reluctant no more.
+Paladin's Rise was reluctant no more.

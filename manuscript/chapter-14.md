@@ -1,4 +1,4 @@
-# The Reluctant Paladin
+# Paladin's Rise
 
 ## Part III: An Unlikely Saint
 
@@ -22,21 +22,23 @@ It should have been a moment of triumph. Instead, Gond felt only the weight of w
 
 Could have been. But Willem was dying, and two other defenders lay nearby in conditions nearly as grave. The divine blessing that had turned the tide of battle was fading, leaving behind the harsh reality of mortal flesh and mortal limitations.
 
-Gond placed his hands on Willem's chest, feeling for the familiar stirring of divine power. It came, but slowly, reluctantly—a trickle where once there had been a flood. The battle had drained him more than he'd realized, and what remained felt thin, insubstantial.
+Gond placed his hands on Willem's chest, feeling for the familiar stirring of divine power. It came readily, flowing through him like warm honey. The divine light sought out the damaged places within the boy's body—the internal bleeding, the shattered ribs, the trauma that went deeper than flesh.
 
-He pushed harder, reaching deeper into whatever well of divine grace sustained his abilities. The power flowed through him, seeking out the damaged places within the boy's body. But something was wrong. The internal bleeding was too extensive, the damage too severe. Even as the divine light worked to heal one wound, others opened elsewhere.
+The healing began, golden light suffusing Willem's broken form. Gond felt the boy's wounds responding, blood vessels mending, bones knitting together. For a moment, hope flared in his chest. Willem's breathing steadied, color returning to his pale cheeks.
 
-Sweat beaded on Gond's forehead as he poured more of himself into the healing. The hollow ache in his chest deepened, becoming a sharp, tearing sensation. Around him, he could hear voices—Sim urging him to stop, Silviana speaking in the musical cadence of elven, others calling out encouragement or prayer.
+Then, like a gentle but unmistakable pressure against his consciousness, came Alanyi's voice: *Ease his suffering, my son. But his path ends here. Provide comfort, not healing. His spirit yearns for release.*
 
-But Willem's breathing continued to weaken.
+Gond's hands trembled. The divine instruction was clear, undeniable. But Willem was so young, had fought so bravely. Surely the goddess would want him to live, to see the world they were building.
 
-"More," Gond whispered, drawing on reserves he wasn't sure he possessed. The divine power responded, but at a cost that made his vision blur and his hands shake. He felt something fundamental within himself stretching, threatening to snap.
+"No," Gond whispered, pouring more power into the healing. "I can save him. I can—"
 
-And still, it wasn't enough.
+The divine presence withdrew, leaving him to channel his own mortal will against death itself. Sweat beaded on Gond's forehead as he fought to continue the healing without divine support. The effort was enormous, like trying to hold back an ocean with his bare hands. His vision blurred, his hands shook, and he felt something fundamental within himself beginning to tear.
+
+Around him, he could hear voices—Sim urging him to stop, Silviana speaking urgently in elven, others calling out in alarm as they saw him collapsing.
 
 Willem's eyes fluttered open, meeting Gond's for a brief moment. The boy's lips moved, forming words too quiet to hear. Then his chest stilled, and the light faded from his gaze.
 
-Gond's hands fell away, trembling. The divine power guttered out like a candle in a storm, leaving behind only emptiness and the bitter taste of failure.
+Gond's hands fell away as consciousness fled. He collapsed beside Willem's body, his defiance of divine will having nearly killed him.
 
 "I'm sorry," he whispered to the boy's still form. "I'm so sorry."
 
@@ -44,11 +46,11 @@ The crowd that had gathered around them began to disperse, some weeping, others 
 
 "You did everything you could," Sim said gently.
 
-"Did I?" Gond's voice was raw. "Or did I fail because I'm not worthy of this power? Because I'm still just a broken-down mercenary playing at being something I'm not?"
+"Did I?" Gond's voice was raw. "She told me to stop. Alanyi herself told me to let him go, to ease his suffering and let his spirit find peace. But I thought I knew better. I thought I could defy divine will and save him anyway."
 
 "Gond—"
 
-"Seven people died today because they believed in me. Because they thought the 'Healer in the Hills' could protect them from anything." He looked up at Sim, his eyes hollow. "What if they were wrong? What if I'm just a fraud with a few lucky breaks?"
+"Seven people died today because they believed in me. Because they thought the 'Healer in the Hills' could protect them from anything." He looked up at Sim, his eyes hollow. "And when the goddess herself gave me clear instruction, I ignored it. What kind of paladin does that make me?"
 
 Before Sim could answer, Silviana appeared at Gond's side. The elf's usually serene expression was troubled, her ancient eyes reflecting a pain that went deeper than the day's losses.
 
@@ -76,15 +78,15 @@ Gond approached the tree slowly, his fingers tracing the worn grooves of the car
 
 Gond sank down beside her, his back against the ancient bark. "And the rest?"
 
-"They learned the hardest lesson of all—that divine power is not about preventing all suffering, but about choosing which suffering to prevent. That being a paladin means accepting that you cannot save everyone, but still trying to save those you can."
+"They learned the hardest lesson of all—that divine power is not about preventing all suffering, but about trusting divine wisdom even when it conflicts with mortal compassion. That being a paladin means accepting that the gods see patterns we cannot, and sometimes mercy means letting go."
 
-The words hit Gond like physical blows. "So I'm supposed to just accept that Willem died? That seven good people are dead because I wasn't strong enough?"
+The words hit Gond like physical blows. "So I'm supposed to just accept that Willem died? That I defied Alanyi's direct instruction because I thought I knew better?"
 
-"You are supposed to accept that Willem died because evil men chose to attack innocent people. That seven good people died because they chose to stand against that evil, knowing the cost." Silviana turned to face him, her expression gentle but implacable. "Their deaths are not your failure, Gond. They are the price of living in a world where such choices must be made."
+"You are supposed to accept that Willem died because it was his time, and Alanyi knew his spirit was ready for release. That seven good people died because they chose to stand against evil, knowing the cost." Silviana turned to face him, her expression gentle but implacable. "Your defiance was not malice, Gond—it was love. But divine wisdom encompasses more than mortal understanding."
 
-"But if I'd been stronger—"
+"But I nearly died trying to save him—"
 
-"If you had been stronger, perhaps Willem would have lived. And perhaps the effort would have killed you, leaving two hundred people defenseless against the next attack." She placed a hand on his shoulder. "Divine power has limits, even for paladins. The question is not whether you can save everyone—it is whether you will continue trying to save those you can."
+"And that taught you something crucial about the relationship between divine will and mortal desire." She placed a hand on his shoulder. "The gods do not give us power to override their judgment, but to serve their greater purpose. The question is not whether you can save everyone—it is whether you will learn to trust divine guidance even when your heart rebels against it."
 
 Gond closed his eyes, feeling the weight of her words settle over him. In the distance, he could hear the sounds of the settlement—people rebuilding, tending to the wounded, preparing for whatever came next. They were continuing on despite their losses, finding strength in each other and in the hope he'd helped kindle.
 

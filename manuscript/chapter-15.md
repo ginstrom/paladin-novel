@@ -1,4 +1,4 @@
-# The Reluctant Paladin
+# Paladin's Rise
 
 ## Part III: An Unlikely Saint
 
@@ -156,10 +156,59 @@ Gond looked around at the faces gathered in the firelight—former soldiers and 
 
 "We can," he said with quiet certainty. "We will."
 
-As the meeting finally broke up and people dispersed to their various quarters, Gond found himself standing alone by the dying fire. The weight of what they were planning—what he was committing to—was enormous. But for the first time since accepting his calling, he felt truly ready for what lay ahead.
+***
 
-The legend of the healer in the hills was ending. In its place, something new was beginning—a movement that would reshape the world.
+The interruption came just as the war council was breaking up—urgent voices from the settlement's edge, the sound of people in distress. Gond looked up from the maps to see Sim hurrying toward them, his face grave.
 
-And at its heart, a former mercenary who'd learned that sometimes the greatest strength came not from standing alone, but from standing with others who shared your vision of what the world could become.
+"Gond," the priest called out. "There's a family at the gates. Refugees from Millhaven. They've been traveling for days, and..." He paused, his expression pained. "The grandmother is dying."
 
-The war for freedom was about to begin.
+Gond felt the familiar stirring of divine power, responding automatically to the call for healing. But beneath it was a resolve to follow the will of Alanyi that he had defied before.
+
+"Show me," he said.
+
+The family huddled near the settlement's entrance—a man and woman in their thirties, three children ranging from perhaps six to twelve, and an elderly woman who lay on a makeshift stretcher. Even from a distance, Gond could see the gray pallor of approaching death, the labored breathing that spoke of a body giving up its fight.
+
+"This is Jorik and Mira," Sim said quietly as they approached. "Their children—Tam, Bess, and little Fen. And this is Jorik's mother, Grandmother Nessa."
+
+The old woman's eyes fluttered open as Gond knelt beside her stretcher. Despite her condition, her gaze was clear and aware. "You're him," she whispered. "The healer. I told them... told them we had to reach you."
+
+"Grandmother, save your strength," Jorik said, his voice thick with grief. "The healer is here now. He'll make you well."
+
+But as Gond placed his hands on the old woman's chest, feeling for the familiar flow of divine power, he sensed something else—a gentle but unmistakable presence in his mind. Alanyi's voice, soft as a whisper but clear as crystal: *Her time has come, my son. Ease her pain, but do not hold her spirit to this world. She has served her purpose.*
+
+Gond's hands trembled slightly. The instruction was clear, just as it had been with Willem. But this time, he remembered the cost of defiance—the tearing sensation, the lesson learned too late.
+
+"I understand," he whispered, so quietly that only the goddess could hear.
+
+Instead of the full healing power he might have channeled, Gond let only a gentle warmth flow through his hands. Not the blazing light that could mend bones and restore life, but a softer radiance that eased pain and brought peace. The old woman's labored breathing grew easier, the lines of suffering smoothing from her face.
+
+"Better?" he asked gently.
+
+Grandmother Nessa smiled, her eyes bright despite her failing body. "Much better. The pain is... gone." She turned her head toward her family. "Come close, all of you."
+
+As the family gathered around her, the old woman spoke in a voice that was weak but clear. "I need you to understand something. I've been ready to go for weeks now. The sickness... it should have taken me before we ever left Millhaven."
+
+"Grandmother, don't say that," young Bess whispered, tears streaming down her face.
+
+"Hush, child. Listen." Nessa's gaze moved to each family member in turn. "I held on because you needed me to. Because you needed a reason to keep going, to make this journey. If I had died back home, you might have given up. Might have thought there was no point in seeking the healer."
+
+Jorik's face crumpled. "We would have come anyway. For the children—"
+
+"Would you?" Nessa asked gently. "Or would grief have made you think it was too dangerous, too uncertain? I know you, my son. You would have found reasons to stay, to accept what seemed inevitable." She reached out with a trembling hand to touch his cheek. "I stayed because you needed hope. And now... now you're here. You're safe. The children will grow up free."
+
+Gond felt tears stinging his eyes as he watched the family's grief and understanding war across their faces.
+
+"I'm ready now," the old woman said, her voice growing fainter. "Ready to meet Alanyi in the next world."
+
+She closed her eyes, her breathing growing shallow. Within minutes, it stopped entirely, her face peaceful in the firelight.
+
+The family wept, but it was the clean grief of acceptance rather than the bitter anguish of senseless loss. As they held each other, Gond stood slowly, feeling the weight of divine wisdom settling over him.
+
+"You did the right thing," Sim said quietly, appearing at his side. "I saw what you did—the healing that eased her pain without prolonging her suffering. That took wisdom."
+
+Gond nodded, thinking of Willem and the lesson learned through defiance. "Sometimes mercy means letting go," he said, echoing Silviana's words from that terrible day. "Sometimes the greatest healing is knowing when not to heal."
+
+As the family began the process of preparing Grandmother Nessa for burial, Gond returned to the dying fire where Elena and Maera waited. The weight of what they were planning—what he was committing to—was enormous. But for the first time since accepting his calling, he felt truly ready for what lay ahead.
+
+He had learned to trust divine wisdom even when his heart rebelled against it. He had learned that being a paladin meant serving a purpose larger than his own understanding. And he had learned that sometimes the greatest strength came not from standing alone, but from standing with others who shared your vision of what the world could become.
+

@@ -1,4 +1,4 @@
-# The Reluctant Paladin – Chapter Outline (Updated May 2025)
+# Paladin's Rise – Chapter Outline (Updated May 2025)
 
 ## Part I: The Rude Awakening (Chs 1-3)
 
@@ -134,7 +134,7 @@
 
 ## Part III: An Unlikely Saint (Chs 11-16)
 
-### Chapter 11: The Reluctant Paladin
+### Chapter 11: Paladin's Rise
 *   Aftermath of the clear miracle; community reacts with awe and fear.
 *   Gond grapples with the undeniable reality of his divine calling.
 *   **Arrival of Silviana Starweaver**: Elven lore-keeper arrives after news of the healing miracle spreads to elven communities.
@@ -306,49 +306,46 @@
 *   Keep Gond's voice authentic as his responsibilities expand.
 *   Highlight the strength found in diversity and cooperation.
 
-## Part V: The War for Freedom (Chs 22-25)
+## Part V: The War for Freedom (Chs 22-26)
 
-### Chapter 22: An Unholy Alliance
-*   Final coalition building among freed slaves, rebel religious orders, and allied groups.
-*   **Multi-racial army formation**: Humans, dwarves, and elves unite for final campaign.
-*   Diplomatic and military preparation for the decisive campaign.
-*   Gond faces the challenge of uniting diverse factions with different goals.
-*   Strategic planning for assault on the heart of the slave system.
-*   **Dwarven siege engines prepared**: Grimjaw's weapons essential for attacking slave cities.
-*   **Elven ancient knowledge**: Circle of Whispers provides strategic intelligence.
-*   Personal preparation for the ultimate test of faith and leadership.
+### Chapter 22: The First Tithe of Tears
+*   **War council planning**: Strategic planning for assault on Saltmere, focusing on reclaiming Alanyi's Sunken Grotto temple. Gond's leadership shows spiritual maturity and divine authority following Alanyi's manifestation.
+*   **Three-pronged sacred campaign**: Reports from dwarven front (Thorek securing Blackrock Pass and Pilgrim's Rest shrine) and elven front (Captain Lyralei disrupting Gorlatch caravans, purifying way-shrines). Multi-racial coordination for spiritual restoration.
+*   **Silviana's ancient knowledge**: Elven tunnels beneath Saltmere revealed for tactical advantage. Purification rites shared between elven and human traditions.
+*   **Borin and Kael revelation**: Intelligence reveals Gond's former betrayers are now mercenaries defending Saltmere. Gond responds with spiritual maturity, emphasizing Alanyi's mercy and justice over personal vengeance.
+*   **Sacred preparation**: Army prepares for march with blessed weapons and prayers. The campaign is imbued with divine purpose - not mere conquest but spiritual cleansing and restoration of Alanyi's influence.
 
-### Chapter 23: The Long March
-*   Combined forces begin the march toward the slave cities.
-*   Gond reflects on the journey from branded slave to liberation leader.
-*   Challenges of maintaining unity and morale during the campaign.
-*   **Cultural exchange**: Bonds forged between different races during march.
-*   Skirmishes and obstacles test the alliance's resolve.
-*   The march becomes a crucible forging stronger bonds among allies.
+### Chapter 23: The Shadow of Gorlatch
+*   **March to Saltmere**: Army advances toward the coastal city, but mysterious disappearances plague the column. Scouts and foragers vanish without trace, creating tension and suspicion.
+*   **Unity through conflict**: Skirmish with slaver loyalists becomes catalyst for inter-racial cooperation. Sir Kaelen (Noble Knight) is saved by Joric (former slave), breaking down class barriers and fostering mutual respect.
+*   **Gorlatch's revenge**: Major attack by three Gorlatch clerics using fear magic, illusions, and poison. They seek vengeance for Gond's interference with their "tithes." Gond's divine light breaks their power and destroys the clerics.
+*   **Discovery of atrocities**: Missing soldiers found tortured in a pit near Saltmere. Borin Stonebeard (dwarf) is healed by Gond, but Elara (human forager) is beyond saving. Alanyi guides Gond to ease her suffering rather than attempt futile healing - a lesson in divine obedience.
+*   **Siege established**: Army reaches Saltmere and establishes full siege. Harbor blockaded, siege engines positioned. False delegation from the city offers compromise but is murdered by their own guards, revealing Gorlatch's total control. The siege begins in earnest.
 
-### Chapter 24: Coastal Storm
-*   The climactic battle for the slave cities begins.
-*   **Dual assault**: Gond leads liberation army against slave cities while Noble Knights assault Holy City of Turin.
-*   Gond leads the assault combining military tactics with divine power.
-*   **Dwarven siege engines decisive**: Grimjaw's weapons break fortified defenses.
-*   **Multi-racial coordination**: Tactical brilliance of combined forces.
-*   **Holy City of Turin falls**: Noble Knights breach the corrupt Marshal Order's stronghold.
-*   **Turin's divine wrath**: God of justice manifests divine intervention, striking down corrupt human leaders who perverted his teachings.
-*   Epic combat sequences showcasing the full scope of the conflict.
-*   Personal confrontations with key antagonists from Gond's past.
-*   The tide of battle turns through sacrifice, strategy, and divine intervention from both Alanyi and Turin.
+### Chapter 24: The Cleansing Tide
+*   **Liberation of Saltmere**: Gond leads strike force through ancient tunnels beneath the city, coordinated with main assault. Dwarven siege engines prove crucial. Alanyi's Sunken Grotto is reclaimed and purified after fierce fighting with Gorlatch cultists.
+*   **Kael's redemption**: During post-battle healing rounds, Gond discovers his former friend Kael wounded and dying among enemy fighters. Despite past betrayal, Gond chooses divine mercy and heals him, offering a path to redemption.
+*   **Fall of Blackwater**: Internal rebellion erupts during siege as Maera's network activates. City tears itself apart from within while Gond's forces breach the walls. Discovery of horrific Gorlatch temple in the keep's dungeons reveals depths of corruption.
+*   **Conquest of Port Sorrow**: Elite Gorlatch clerics defend the city with supernatural fear magic from three black ships. Gond unleashes massive divine light that breaks their power but collapses from the effort. Upon recovery, engages in divine duel (Alanyi vs. Gorlatch) to defeat the high priests.
+*   **March to aid dwarves**: Chapter ends with news of Thorek's siege of Citadel Asham-Val. Gond's army, though weary from coastal victories, marches inland to support their dwarven allies in the final assault on corruption's last stronghold.
 
-### Chapter 25: A Continent Reborn
-*   Victory achieved; the slave system dismantled across the continent.
-*   **Final mercy**: Gond finds Borin dead and Kael wounded in the aftermath of battle.
-*   **Divine healing**: Despite their past betrayal, Gond heals Kael as an act of ultimate mercy and divine calling.
-*   **Redemption complete**: Kael's transformation begins—he will eventually become a priest of Alanyi.
-*   **Character arc closure**: Gond's journey from vengeance-seeker to divine mercy-giver reaches its culmination.
-*   Establishment of new governmental and social structures.
-*   **Multi-racial society**: Vision of humans, dwarves, and elves working together.
-*   Reflection on the cost of freedom and the price of transformation.
-*   Gond's evolution from reluctant hero to foundational leader complete.
-*   Vision of the future: a continent where freedom replaces bondage.
+### Chapter 25: The Wrath of Gods
+*   **Battle of Citadel Asham-Val**: Gond's army arrives to aid Thorek's dwarven siege of the corrupt Order of Turin stronghold.
+*   **Discovery of atrocities**: Branded children found in the citadel's dungeons reveal the depths of corruption.
+*   **Combined assault**: Human, dwarven, and elven forces coordinate to breach the fortress defenses.
+*   **Confrontation with corruption**: Face-off with High Cleric Mordain and the twisted priests in the inner keep.
+*   **Turin's divine wrath**: The god of justice manifests through Gond to strike down those who perverted his teachings.
+*   **Mass redemption**: Gond's holy power causes enemy soldiers to lay down weapons and seek forgiveness.
+*   **Final victory**: The last stronghold of organized corruption falls, marking the end of the old order.
+*   **Continuity of growth**: Shows Gond's complete spiritual evolution from vengeful mercenary to instrument of divine will.
+
+### Chapter 26: A Continent Reborn
+*   **Immediate aftermath**: Transformation of Citadel Asham-Val from corruption stronghold to symbol of hope. Former enemies work alongside liberators in healing and rebuilding.
+*   **Continental response**: News of Turin's divine intervention spreads, breaking last resistance across eastern provinces. The gods' own endorsement ends organized opposition.
+*   **Government formation**: Continental Congress convenes in rebuilt Millhaven. Charter of Free Peoples established with rotating leadership and universal rights. Gond steps down to prove the system works without its founders.
+*   **Long-term success**: Multiple time jumps showing lasting peace and prosperity (1 year, 10 years, 20 years). Former slaves become leaders, children grow up free, multi-racial society thrives.
+*   **Kael's complete transformation**: Final scene shows elderly Kael as priest of Alanyi teaching children about the history, demonstrating the lasting power of redemption and mercy.
+*   **Legacy secured**: Paladin's Rise's work complete, the world he helped forge continues without him, guided by principles of freedom, justice, and mercy.
 
 ### Key Themes for Part V
 *   The culmination of personal and political transformation.

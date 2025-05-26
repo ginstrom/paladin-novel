@@ -1,8 +1,8 @@
-# The Reluctant Paladin
+# Paladin's Rise
 
 ## Part III: An Unlikely Saint
 
-### Chapter 11: The Reluctant Paladin
+### Chapter 11: Paladin's Rise
 
 A month had passed since the golden light, and Gond still couldn't walk through the settlement without feeling the weight of watching eyes.
 

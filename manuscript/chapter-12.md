@@ -1,4 +1,4 @@
-# The Reluctant Paladin
+# Paladin's Rise
 
 ## Part III: An Unlikely Saint
 
@@ -28,11 +28,11 @@ Gond obeyed, though his shoulders remained rigid. The memory came easily enough�
 
 Gond opened his eyes to find her watching him with those ancient, knowing eyes. "It finds another way through. Or it builds pressure until it breaks free."
 
-"Precisely." She gestured toward the settlement below, where smoke rose from cooking fires and the sounds of daily life drifted upward. "Your power has been finding its own way through—in moments of crisis, when your conscious mind steps aside. But such uncontrolled manifestations exact a price."
+"Precisely." She gestured toward the settlement below, where smoke rose from cooking fires and the sounds of daily life drifted upward. "Your power has been finding its own way through—in moments of crisis, when your conscious mind steps aside. But such uncontrolled channeling strains your capacity to connect with the divine."
 
-The price. Gond's hand moved unconsciously to his chest, where a persistent ache had settled after each healing. Not pain exactly, but a hollowness, as if something essential had been carved away. After healing Dax, he'd slept for nearly two days. The smaller healings since—a child's fever, an infected wound, a broken bone—left him drained for hours.
+The strain. Gond's hand moved unconsciously to his chest, where a persistent ache had settled after each healing. Not pain exactly, but a tension, as if he were forcing divine energy through channels too narrow to contain it properly. After healing Dax, he'd slept for nearly two days. The smaller healings since—a child's fever, an infected wound, a broken bone—left him exhausted for hours.
 
-"The exhaustion will lessen," Silviana said, reading his thoughts with unsettling accuracy. "As you learn to work with the divine flow rather than against it."
+"The exhaustion will lessen," Silviana said, reading his thoughts with unsettling accuracy. "As you learn to open yourself properly to the divine flow rather than fighting against it."
 
 A commotion from below interrupted their session. Voices raised in argument, the sound of running feet. Gond was on his feet before he'd consciously decided to move. His hand reached for the sword that wasn't there—he'd left his weapons in his hut, as Silviana insisted during their morning sessions.
 
@@ -58,11 +58,11 @@ They'd established the healing circle at Silviana's suggestion—a ring of smoot
 
 Gond felt the rage building—the old, familiar fury at the injustice of it all. But beneath that anger, something else stirred. The divine light, responding not to his commands but to his compassion. He let himself feel Mira's pain, her terror, her desperate hope.
 
-The power flowed through him like warm honey, slower and more controlled than before. He felt it seeking out the damaged places within her—the internal bleeding, the shattered ribs, the trauma that went deeper than flesh. But as the healing progressed, Gond became aware of something else: the cost.
+The power flowed through him like warm honey, slower and more controlled than before. He felt it seeking out the damaged places within her—the internal bleeding, the shattered ribs, the trauma that went deeper than flesh. But as the healing progressed, Gond became aware of something else: the effort of proper channeling.
 
-The world blazed white around him. That same overwhelming pulse of divine essence he'd felt with Dax, but fainter now. More controlled. The connection formed between his life force and hers, a bridge of golden light that let him pour his strength into her broken body. Each mended bone drew from his own reserves. Each sealed wound carved a little deeper into the hollow space beneath his ribs.
+The world blazed white around him. That same overwhelming pulse of divine essence he'd felt with Dax, but more focused now. More controlled. The connection formed between divine will and mortal need, a bridge of golden light that let him channel Alanyi's grace into her broken body. Each mended bone required deeper concentration. Each sealed wound demanded greater spiritual focus.
 
-The divine power wasn't limitless—it was borrowed, somehow, from his own life force. The realization should have frightened him, but instead it brought clarity. This was the true burden of his calling: not just the responsibility of choice, but the literal price of each miracle.
+The divine power flowed endlessly from its source—but his capacity to channel it had limits. The realization should have frightened him, but instead it brought clarity. This was the true challenge of his calling: not just the responsibility of choice, but learning to be a worthy vessel for divine grace.
 
 When the healing was complete, Mira sat up slowly, her color restored, her breathing clear. She stared at her mended arm in wonder, flexing fingers that had been broken moments before.
 
@@ -72,11 +72,11 @@ Gond swayed slightly as he stood. Silviana's steadying hand touched his elbow. "
 
 As they helped Mira to one of the guest shelters, Gond caught Silviana's eye. The elf nodded approvingly, but her expression remained serious.
 
-"You felt it," she said once they were alone again. "The true cost."
+"You felt it," she said once they were alone again. "The true effort."
 
-"Part of me," Gond said, settling heavily onto a fallen log. "Each healing takes part of me."
+"The strain," Gond said, settling heavily onto a fallen log. "Each healing demands more focus, more spiritual discipline."
 
-"Not takes," Silviana corrected. "Transforms. The divine power does not diminish you—it changes you. Makes you more than you were, but different from what you were."
+"Precisely," Silviana corrected. "The divine power does not diminish—it flows endlessly from its source. But your capacity to channel it safely grows only through practice and spiritual development."
 
 Gond considered this as he watched the settlement below. More people had arrived in recent days—word of the "healer in the hills" spreading despite their efforts at secrecy. Each new face brought hope and desperation in equal measure. Each represented another choice, another burden.
 
@@ -126,15 +126,15 @@ As darkness fell and the settlement settled into its nightly routines, Gond foun
 
 Gond accepted the cup gratefully, letting its warmth seep into his hands. "Meaning?"
 
-"A paladin's power is finite, even if it renews itself. Spend it all on minor ailments, and you may have nothing left when true crisis strikes. Heal every petitioner who arrives, and word will spread until thousands come seeking miracles you cannot provide."
+"A paladin's capacity to channel divine power has limits, even as the power itself flows endlessly. Exhaust yourself on minor ailments, and you may lack the spiritual strength when true crisis strikes. Heal every petitioner who arrives, and word will spread until thousands come seeking miracles you cannot safely provide."
 
 The weight of her words settled over him like a heavy cloak. "So I'm supposed to choose who deserves healing and who doesn't?"
 
-"You are supposed to choose wisely. To see the larger pattern, the greater need." Silviana sipped her tea, her expression thoughtful. "A healer who saves one life may inspire a dozen others to acts of courage. A miracle witnessed by the right person may turn the tide of a war."
+"You are supposed to choose wisely. To see the larger pattern, the greater need." Silviana sipped her tea, her expression thoughtful. "Sometimes Alanyi herself may guide your choices—instructing you to heal fully, or merely to ease suffering. A healer who saves one life may inspire a dozen others to acts of courage. A miracle witnessed by the right person may turn the tide of a war."
 
-"And how am I supposed to know which healing will have which effect?"
+"And how am I supposed to know which healing will have which effect? How do I know when the goddess wants me to stop?"
 
-"You don't," she said simply. "You trust in the divine wisdom that flows through you, and you make the best choices you can with the knowledge you have."
+"You learn to listen," she said simply. "You trust in the divine wisdom that flows through you, and you make the best choices you can with the knowledge you have. In time, her voice will become clearer."
 
 Gond drank his tea in silence, watching the flames dance and shift. Around them, the settlement hummed with quiet activity—families sharing evening meals, guards taking their posts, the soft murmur of conversation and laughter. All of it made possible by his choice to heal rather than flee, to build rather than destroy.
 

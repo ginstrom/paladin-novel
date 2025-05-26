@@ -1,4 +1,4 @@
-# The Reluctant Paladin
+# Paladin's Rise
 
 ## Part IV: Forging a Free Nation
 
@@ -206,6 +206,6 @@ Hope.
 
 They'd faced professional soldiers and won. They'd proven that free people fighting for their homes could stand against any army. And now, with allies gathering from across the continent, they might actually have a chance.
 
-The reluctant paladin was gone, burned away in the fires of battle. In his place stood something new—a leader ready to forge a free nation from the ashes of the old world.
+Paladin's Rise was gone, burned away in the fires of battle. In his place stood something new—a leader ready to forge a free nation from the ashes of the old world.
 
 The real war was about to begin. And they would land the next blow.
