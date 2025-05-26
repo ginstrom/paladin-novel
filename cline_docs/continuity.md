@@ -33,7 +33,7 @@
 - **Chapter 18**: Coordinated liberation raids across three provinces, capture and mercy toward Borin and Kael (now slave catchers), vengeance-to-mercy transformation complete, settlement grows to 400 people
 - **Chapter 19**: **"The Price of War"** (formerly "Dawn of a New Order"). Council debates war strategy against slaver cities. Gond's charisma grows. Sir Roderick Ashford of Noble Knights visits; ideological clash on social order, but less confrontational. Roderick offers conditional support. Alanyi's symbol briefly appears on Gond's brow (seen by Sim, Silviana). Pell accepts gold from Roderick's squire (Alaric) for intel, then brings it to council. They decide to use Pell as a channel for selective information. Settlement reaches 500 people. News of Slavers' Alliance army (3000 strong) and spreading uprisings arrives.
 - **Chapter 20**: **"Revelation and Ripples"**. Messenger from capital reports High Temple proclamation declaring Gond saint or heretic, splitting temples. News of Circle of Whispers conclave request and Millhaven delegation arrival. Gond discerns Gorlatch priests' deception, defeats them. At Grove of First Light, Gond heals shadow-touched elf (Alanyi's symbol briefly seen on his brow by Silviana, Aelindra, healed elf). Circle of Whispers recognizes Gond as true paladin, offers intelligence on slave cities. Return to settlement; council plans response to continental chaos and new intelligence.
-- **Chapter 21**: Noble Knight defectors led by Sir Marcus Brightwater join after discovering Sir Roderick's hypocrisy, Reformed Order declares independence from High Temple, three-army coordination planned for final campaign
+- **Chapter 21**: **"A House Divided"**. Noble Knight defectors led by Sir Marcus Brightwater join after discovering Sir Roderick's hypocrisy. Turin dominance established with Alanyi's temples in ruins. Gond's charismatic leadership peaks with Alanyi speaking directly through him during council meeting. Goals shift from liberty/egalitarianism to restoration of Alanyi's influence, mercy tempering Turin's justice, rebuilding temples, healing wounds. Sim chosen as leader of Alanyi's revival. Silviana aids human "Reformed Order" (of Alanyi) with lost knowledge and rites. Three-army coordination planned with explicit spiritual restoration objectives alongside military goals.
 
 ### Part V: The War for Freedom (Chapters 22-25)
 - **Chapter 24**: Climactic battle for Darach, **sword emits blue-white light, cuts through evil clerics' fear magic, creates wake of courage for liberation army**, **Gond demonstrates brand-erasing ability - heals freed slaves and completely removes their slavery brands**
@@ -108,7 +108,7 @@
 - **Domains**: Healing and joy
 - **Symbol**: Intertwined circles
 - **Role**: Primary divine patron of Gond's paladin calling
-- **Manifestation**: Speaks through Gond at critical moments, causing his face to glow with otherworldly light. Her symbol (intertwined circles) can momentarily appear on Gond's brow, replacing the slave brand, visible to those with spiritual sensitivity (Ch 19 during discussion with Sir Roderick, seen by Sim & Silviana; Ch 20 during healing of shadow-touched elf, seen by Silviana, Aelindra, and the healed elf).
+- **Manifestation**: Speaks through Gond at critical moments, causing his face to glow with otherworldly light. Her symbol (intertwined circles) can momentarily appear on Gond's brow, replacing the slave brand, visible to those with spiritual sensitivity (Ch 19 during discussion with Sir Roderick, seen by Sim & Silviana; Ch 20 during healing of shadow-touched elf, seen by Silviana, Aelindra, and the healed elf; Ch 21 direct speech through Gond during council meeting about restoration goals, witnessed by entire diverse assembly).
 
 #### Turin
 - **Domains**: Blessing weapons and armor
@@ -217,6 +217,7 @@
 - **Key moment (Chapter 13)**: Realizes revenge is no longer his focus
 - **Crisis point (Chapter 14)**: Learns divine power has limits, accepts burden
 - **Political awakening (Chapter 16)**: Rejects religious authority, commits to total war
+- **Divine peak (Chapter 21)**: Alanyi speaks directly through him, establishing spiritual restoration as primary goal; chooses Sim to lead Alanyi's revival
 
 ### Pell's Character Growth Arc
 - **Background**: Former fishing boat worker from Millhaven, turned to "more profitable work"
@@ -227,12 +228,13 @@
 - **Character transformation**: From "coin over conscience, profit over principle" to "Some things aren't for sale" and active agent for the liberation.
 - **New values**: "These people aren't just my allies—they're my family. And I don't sell out family." Utilizes past cunning for the group's benefit.
 
-### Sim's Pacifism Boundary
+### Sim's Pacifism Boundary and Leadership Evolution
 - **Core belief**: "Every living being has the right to defend themselves and those who cannot defend themselves"
 - **Chapter 10**: **Defining moment** - Strikes slaver's wrist to protect children during attack
 - **Boundary established**: Will use minimal violence only to protect innocents
 - **Internal conflict**: "The minimum necessary. But that doesn't make it easier"
 - **Character consistency**: Refuses to participate in offensive operations, maintains healing/support role
+- **Chapter 21**: **New Leadership Role** - Chosen by Gond (following Alanyi's divine manifestation) to lead the revival of Alanyi's worship. Tasked with creating spaces where her worship can flourish organically, rebuilding ruined temples, training new priests, but always offering hope rather than demanding faith. Transforms from gentle healer to spiritual leader of the restoration movement.
 
 ### New Character Introductions (Part III)
 
@@ -240,7 +242,8 @@
 - Elven lore-keeper and spiritual teacher
 - Provides ancient knowledge of Alanyi and paladin traditions
 - Serves as spiritual mentor and diplomatic liaison
-- Current status: At valley settlement, teaching Gond divine control
+- **Chapter 21**: Offers to help the human "Reformed Order" (of Alanyi) restore lost knowledge and rites, sharing ancient elven wisdom about Alanyi's worship, sacred songs, and healing practices beyond the merely physical
+- Current status: At valley settlement, teaching Gond divine control and aiding in Alanyi's restoration
 
 #### Thorek Ironheart (Chapter 14)
 - Dwarven war-priest of the Iron Covenant

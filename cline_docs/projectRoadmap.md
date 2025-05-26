@@ -17,7 +17,10 @@
 
 ## Completed Tasks
 
-### Recent Major Revisions (2025-05-25)
+### Recent Major Revisions (2025-05-26)
+- **CHAPTER 21 REVISION**: Major thematic and religious restructuring. Established Turin as dominant worship with Alanyi's temples in ruins. Gond's charismatic leadership reaches peak with Alanyi speaking directly through him during council meeting. Goals shifted from modern liberty/egalitarianism to restoration of Alanyi's influence, mercy tempering Turin's justice, rebuilding temples, healing wounds. Sim chosen as leader of Alanyi's revival. Silviana aids human "Reformed Order" with lost knowledge and rites. Three-army coordination now explicitly focused on spiritual restoration alongside military objectives.
+
+### Previous Major Revisions (2025-05-25)
 - **CHAPTER 20 REVISION**: Enhanced Gond's charisma and discernment throughout interactions; added fleeting glimpse of Alanyi's symbol on Gond's forehead during shadow-touched elf healing; replaced final exposition with dynamic scenes showing continental reaction through dialogue and action.
 - **CHAPTER 19 REVISION**: Shifted council debate to war strategy; revised Sir Roderick encounter for conditional support; updated Pell's temptation arc with intelligence sharing; enhanced Gond's charismatic portrayal with subtle divine manifestation.
 
