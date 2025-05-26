@@ -24,11 +24,11 @@ Gond, a cynical mercenary, never figured he'd be more than a sword for hire. His
 
 But his captors and betrayers underestimated him. When an opportunity arose on the slave ship, Gond, alongside a wiry rogue named Pell and a gentle priest of Alanyi named Sim, carved a path to freedom with broken chains and brute force. They plunged into the sea, eventually washing ashore, battered but alive.
 
-Their journey led them to Maera, a reclusive hermit-healer who offered them aid and pointed them towards the city of Darach. However, their path was fraught with peril. They ambushed a slave cart, liberating two young siblings, Aerin and Dax, and acquiring much-needed supplies. Gond, initially driven by a desire for vengeance against Borin and Kael, decided to scout Darach alone, leaving his companions and the rescued children at a hidden way-station.
+Their journey led them to Maera, a reclusive hermit-healer who offered them aid and pointed them towards the city of Blackwater. However, their path was fraught with peril. They ambushed a slave cart, liberating two young siblings, Aerin and Dax, and acquiring much-needed supplies. Gond, initially driven by a desire for vengeance against Borin and Kael, decided to scout Blackwater alone, leaving his companions and the rescued children at a hidden way-station.
 
-In Darach, Gond discovered a hefty bounty on his head, his branded face plastered on wanted posters. He even glimpsed his betrayers, Borin and Kael, operating within the city. Realizing a direct confrontation would be suicidal and endanger his new companions, Gond made a tactical retreat—his first unconscious choice of protection over revenge. On his return, he encountered and rescued another escaped slave, a young woman named Lira.
+In Blackwater, Gond discovered a hefty bounty on his head, his branded face plastered on wanted posters. He even glimpsed his betrayers, Borin and Kael, operating within the city. Realizing a direct confrontation would be suicidal and endanger his new companions, Gond made a tactical retreat—his first unconscious choice of protection over revenge. On his return, he encountered and rescued another escaped slave, a young woman named Lira.
 
-With the dangers of Darach clear and their small band of fugitives growing, Gond made a crucial decision: they would abandon the coast and seek refuge in the remote, rugged hills. What began as a quest for personal revenge had already begun to shift, replaced by an unexpected and growing responsibility for the lives now depending on him.
+With the dangers of Blackwater clear and their small band of fugitives growing, Gond made a crucial decision: they would abandon the coast and seek refuge in the remote, rugged hills. What began as a quest for personal revenge had already begun to shift, replaced by an unexpected and growing responsibility for the lives now depending on him.
 
 In the wilderness, Gond's transformation accelerated beyond the merely personal. At a ruined temple of Alanyi, he experienced his first mystical encounter—subtle, ambiguous, but undeniably real. As their refugee community grew in a hidden valley, Gond's latent divine abilities began manifesting: unnaturally sharp instincts, an inexplicable calming presence, and healing that occurred too quickly to be natural. When slave catchers finally attacked their sanctuary, Gond performed his first undeniable miracle—healing a mortally wounded refugee before the entire community. There was no longer any room for rationalization: he had become a paladin of Alanyi.
 
@@ -318,7 +318,7 @@ Maera moved between them with efficient grace, binding Pell's bruised ribs with 
 
 "You're a healer?" Sim asked, watching her work.
 
-"Served a temple in Darach once." Her voice carried the weight of old disappointments. "Corruption outweighed compassion. Priests of Kemiss conducting slave auctions on the very temple steps, blessing chains with holy water." Her mouth twisted with disgust. "Commerce became more sacred than mercy." She glanced at the dagger Pell offered him. "Pacifist?"
+"Served a temple in Blackwater once." Her voice carried the weight of old disappointments. "Corruption outweighed compassion. Priests of Kemiss conducting slave auctions on the very temple steps, blessing chains with holy water." Her mouth twisted with disgust. "Commerce became more sacred than mercy." She glanced at the dagger Pell offered him. "Pacifist?"
 
 Sim's hands remained folded in his lap. "My path is mercy. I heal and guide."
 
@@ -328,7 +328,7 @@ Sim's eyes held steady calm. "Even the tiny field mouse will defend itself when 
 
 Maera's weathered face showed the first hint of interest. "Then keep these two alive." The corner of her mouth twitched—not quite a smile, but close.
 
-Gond set down his empty bowl. "We're heading for Darach. Need information. Need..." His jaw tightened. "Justice."
+Gond set down his empty bowl. "We're heading for Blackwater. Need information. Need..." His jaw tightened. "Justice."
 
 Pell's eyes brightened at the mention of the city. "Streets full of opportunity. Coin changing hands."
 
@@ -338,7 +338,7 @@ Maera listened, her weathered face thoughtful. "There's a pilgrim way-station so
 
 She pressed a satchel into Sim's hands—dried provisions and bundled herbs. "Compassion first," she said, meeting Gond's eyes. "Justice follows in its own time."
 
-Outside, the wind had picked up, driving clouds across the grey sky. Gond adjusted his grip on the boathook, testing its balance. Behind them, the ocean whispered its endless secrets. Ahead lay Darach, uncertain and dangerous.
+Outside, the wind had picked up, driving clouds across the grey sky. Gond adjusted his grip on the boathook, testing its balance. Behind them, the ocean whispered its endless secrets. Ahead lay Blackwater, uncertain and dangerous.
 
 "We make an odd company," Pell observed, shouldering his rope.
 
@@ -346,7 +346,7 @@ Outside, the wind had picked up, driving clouds across the grey sky. Gond adjust
 
 The words settled into Gond's chest like stones dropped into still water. He looked at his companions—the warrior, the rogue, the priest. Three men with nothing in common but shared survival and the chains they'd broken.
 
-He turned toward the inland path, feeling the weight of their trust like a physical burden. Behind them, the relentless ocean. Ahead, whatever waited in Darach.
+He turned toward the inland path, feeling the weight of their trust like a physical burden. Behind them, the relentless ocean. Ahead, whatever waited in Blackwater.
 
 Together, they stepped forward into the uncertain morning.
 
@@ -360,7 +360,7 @@ Together, they stepped forward into the uncertain morning.
 
 ### Chapter 4 – Crack in the Chain
 
-Gulls wheeled overhead, their harsh cries cutting through the salt-heavy air. Gond, Pell, and Sim moved along the cliff-top path, cloaks snapping in the stiff breeze. Darach still lay leagues ahead, but the prickle between Gond's shoulder blades warned that danger stalked closer.
+Gulls wheeled overhead, their harsh cries cutting through the salt-heavy air. Gond, Pell, and Sim moved along the cliff-top path, cloaks snapping in the stiff breeze. Blackwater still lay leagues ahead, but the prickle between Gond's shoulder blades warned that danger stalked closer.
 
 Mid-morning, Pell dropped to a crouch beside flattened thicket. Gond joined him, studying the crushed grass and broken branches. Nearby, Sim examined trampled lavender stalks, his fingers tracing the damage.
 
@@ -414,11 +414,11 @@ Gond only nodded, his gaze already scanning the horizon for more threats, the cr
 
 By evening, they'd made camp beneath a spreading pine. Gond tended his wounded arm—the crossbow bolt had left a shallow furrow—while Sim cared for the children's injuries with soft hymns and gentle hands. Pell secured their perimeter, moving like a shadow between the trees.
 
-The silence stretched until Gond finally spoke. "We can't continue openly toward Darach. Too dangerous now."
+The silence stretched until Gond finally spoke. "We can't continue openly toward Blackwater. Too dangerous now."
 
 "Then what?" Pell asked, settling beside the fire.
 
-Gond traced Maera's map in the dirt with a stick. "The way-station. Defensible, hidden. You'll be safe there while I go to Darach alone."
+Gond traced Maera's map in the dirt with a stick. "The way-station. Defensible, hidden. You'll be safe there while I go to Blackwater alone."
 
 Pell opened his mouth to protest, but something in Gond's expression killed the words. Sim placed a hand on the boy's shoulder—Dax, he'd said his name was. "You're making the right choice. Protecting these lives comes first."
 
@@ -432,13 +432,13 @@ Sim grasped Gond's forearm, warmth and trust clear in his steady gaze. "Safe tra
 
 Gond nodded once, then turned toward the forest trail. Behind him, a young voice called softly, "Thank you."
 
-The simple words hit him like a physical blow. He straightened his shoulders and lengthened his stride toward Darach, carrying the weight of their trust like armor against whatever waited ahead.
+The simple words hit him like a physical blow. He straightened his shoulders and lengthened his stride toward Blackwater, carrying the weight of their trust like armor against whatever waited ahead.
 
 \newpage
 
 ### Chapter 5 – A Change of Course
 
-Pre-dawn mist coiled around Darach's northern gate like ghostly fingers as Gond nudged Ash forward. His breath fogged in the chill air. He tugged his hood lower, hiding the brand that marked him as escaped property. The city's walls loomed ahead, black silhouettes against the pale sky. His pulse hammered against his throat.
+Pre-dawn mist coiled around Blackwater's northern gate like ghostly fingers as Gond nudged Ash forward. His breath fogged in the chill air. He tugged his hood lower, hiding the brand that marked him as escaped property. The city's walls loomed ahead, black silhouettes against the pale sky. His pulse hammered against his throat.
 
 Two guards lounged by the portcullis, halberds propped against their shoulders. Their eyes sharpened as Gond approached. Lantern light danced across battle-scarred faces.
 
@@ -456,7 +456,7 @@ Then, inexplicably, he said nothing.
 
 Gond's spine went rigid as he passed beneath the iron gate. Every step expected the shout of alarm that never came.
 
-Inside Darach's walls, the city stirred to life. Hawkers called their wares. Cart wheels rumbled over cobblestones. The air filled with the scents of bread and horse dung. But Gond felt eyes everywhere—whispers trailing him like smoke, curious glances that lingered too long.
+Inside Blackwater's walls, the city stirred to life. Hawkers called their wares. Cart wheels rumbled over cobblestones. The air filled with the scents of bread and horse dung. But Gond felt eyes everywhere—whispers trailing him like smoke, curious glances that lingered too long.
 
 At the market square, his worst fears materialized. A wanted poster fluttered against a wooden post. The sketch was crude but unmistakable—his face, his brand, clear as daylight. **WANTED ALIVE – 500 ROYALS**. The bounty had doubled.
 
@@ -472,7 +472,7 @@ He made it to the gate before the shouts began.
 
 "You there! Stop!"
 
-Gond didn't look back. The younger guard glanced up in surprise as he passed. But Gond's purposeful stride and curt nod carried him through without question. Only when Darach had shrunk to a smudge on the horizon did he allow himself to breathe freely.
+Gond didn't look back. The younger guard glanced up in surprise as he passed. But Gond's purposeful stride and curt nod carried him through without question. Only when Blackwater had shrunk to a smudge on the horizon did he allow himself to breathe freely.
 
 The northern road twisted along cliffsides bordered by wild heather and gorse. Gond's eyes caught movement ahead—a small figure struggling through roadside mud, chains dragging at her feet. He dismounted, hands raised and empty.
 
@@ -490,7 +490,7 @@ She nodded. He lifted her onto Ash's broad back. Her weight settled against the 
 
 Nightfall found the way-station warm with firelight and the rich aroma of stew. Sim rose in surprise. Compassion flooded his features as he welcomed Lira. Pell watched from the shadows, tension easing only when Gond explained.
 
-"Darach is death," Gond concluded. "We need to disappear."
+"Blackwater is death," Gond concluded. "We need to disappear."
 
 "Into thin air?" Pell's eyebrow arched.
 
@@ -1516,7 +1516,7 @@ The observation hit Gond like a revelation. When had he last thought about his f
 
 "When did I stop caring about revenge?"
 
-Pell was quiet for a moment, watching the evacuation preparations with thoughtful eyes. "Hard to say exactly. Maybe when you chose to scout Darach alone instead of hunting for information about your betrayers. Maybe when you started healing people instead of planning how to hurt the ones who wronged you." He shrugged. "Or maybe it was gradual—so slow you didn't notice until now."
+Pell was quiet for a moment, watching the evacuation preparations with thoughtful eyes. "Hard to say exactly. Maybe when you chose to scout Blackwater alone instead of hunting for information about your betrayers. Maybe when you started healing people instead of planning how to hurt the ones who wronged you." He shrugged. "Or maybe it was gradual—so slow you didn't notice until now."
 
 Gond felt something shift inside him, like a weight he'd been carrying for so long he'd forgotten it was there suddenly lifting away. The rage that had sustained him through slavery, through escape, through those first desperate weeks of freedom—it was gone. Not suppressed or controlled, but genuinely absent, replaced by something else entirely.
 
@@ -1946,7 +1946,7 @@ Gond felt the weight of decision settling on his shoulders, but this time it did
 
 The planning session that followed stretched late into the night, maps and intelligence reports spread across every available surface. What emerged was a picture of the slave trade that was both more extensive and more vulnerable than Gond had realized.
 
-"The key is the coastal cities," Elena explained, pointing to a series of marks on the largest map. "Darach, Westport, Ironhaven—they're the major hubs where slaves are processed and shipped. Take out their operations, and you cripple the entire network."
+"The key is the coastal cities," Elena explained, pointing to a series of marks on the largest map. "Blackwater, Westport, Ironhaven—they're the major hubs where slaves are processed and shipped. Take out their operations, and you cripple the entire network."
 
 "Easier said than done," Pell observed. "Those cities have walls, guards, political protection."
 
@@ -3350,7 +3350,7 @@ The revolution was about to begin.
 
 The war council tent stretched larger than most village halls, its canvas walls rippling in the pre-dawn wind. Maps covered every surface—hand-drawn sketches of coastal fortifications, detailed layouts of the Holy City of Turin, and Silviana's ancient elven charts marking ley lines and sacred sites. Gond stood at the center table, watching three very different cultures attempt to plan the liberation of a continent.
 
-"The siege engines can breach the harbor walls," Grimjaw Ironforge declared, his gold-capped teeth glinting as he stabbed a thick finger at the map of Darach. "But we'll need the elven scouts to mark the weak points first."
+"The siege engines can breach the harbor walls," Grimjaw Ironforge declared, his gold-capped teeth glinting as he stabbed a thick finger at the map of Blackwater. "But we'll need the elven scouts to mark the weak points first."
 
 Silviana's silver eyebrows rose. "Our people do not 'mark' anything for siege weapons, Master Ironforge. We observe. We report. We do not participate in destruction."
 
@@ -3380,7 +3380,7 @@ Silviana stepped forward, her movements carrying the fluid grace that marked all
 
 "Sewers?" Elena asked.
 
-"Sacred tunnels," Silviana corrected with a slight edge to her voice. "Built when Darach was a temple city, before the slavers corrupted it. The Circle of Whispers has maintained maps of the old ways."
+"Sacred tunnels," Silviana corrected with a slight edge to her voice. "Built when Blackwater was a temple city, before the slavers corrupted it. The Circle of Whispers has maintained maps of the old ways."
 
 Thorek snorted. "And you're just mentioning this now?"
 
@@ -3492,7 +3492,7 @@ As the leaders filed out to brief their respective forces, Silviana lingered beh
 
 Gond's stomach tightened. "What kind of something?"
 
-"Your former companions. Borin and Kael. They are in Darach."
+"Your former companions. Borin and Kael. They are in Blackwater."
 
 The words hit him like a physical blow. He'd known this moment would come eventually, but somehow he'd managed to push it to the back of his mind during the months of planning and preparation.
 
@@ -3500,7 +3500,7 @@ The words hit him like a physical blow. He'd known this moment would come eventu
 
 "The Circle's sight is rarely wrong in such matters. They arrived two days ago with a company of mercenaries. Apparently, the city's defenders have hired every sword they can find."
 
-Gond stared at the map of Darach, seeing not the tactical positions but the faces of the men who'd betrayed him. The men he'd once called friends.
+Gond stared at the map of Blackwater, seeing not the tactical positions but the faces of the men who'd betrayed him. The men he'd once called friends.
 
 "Does anyone else know?"
 
@@ -3542,7 +3542,7 @@ After she left, Gond stood alone in the tent, surrounded by the detritus of war 
 
 Outside, he could hear Thorek bellowing orders to his engineers, Grimjaw cursing creatively at a stubborn siege engine, and Elena drilling her captains on urban assault tactics. The sounds of an army preparing for the fight of its life.
 
-In one week, they would march on the coastal cities. In one week, everything they'd built would be tested in the crucible of battle. And somewhere in Darach, two men who'd once been his friends were sharpening their swords and preparing to stand against everything he'd become.
+In one week, they would march on the coastal cities. In one week, everything they'd built would be tested in the crucible of battle. And somewhere in Blackwater, two men who'd once been his friends were sharpening their swords and preparing to stand against everything he'd become.
 
 Gond blew out the oil lamp and stepped into the night. Above him, the stars wheeled in their ancient patterns, indifferent to the struggles of mortals below. But for the first time in his life, that indifference didn't bother him.
 
@@ -3860,7 +3860,7 @@ The next morning dawned clear and bright, with a fresh wind blowing from the coa
 
 As they crested the final ridge before the coastal plain, Gond called a halt. Below them, spread out like a map come to life, lay the three cities they had come to liberate.
 
-Darach dominated the center of the view, its three rings of walls rising from the harbor like stone waves. To the east, Millhaven's towers gleamed white in the morning sun, while Westport's red-tiled roofs stretched along the western shore. Between them, the blue expanse of the sea stretched to the horizon, dotted with the sails of merchant ships and slaver galleys.
+Blackwater dominated the center of the view, its three rings of walls rising from the harbor like stone waves. To the east, Millhaven's towers gleamed white in the morning sun, while Westport's red-tiled roofs stretched along the western shore. Between them, the blue expanse of the sea stretched to the horizon, dotted with the sails of merchant ships and slaver galleys.
 
 "There they are," Elena said quietly. "The heart of the slave trade."
 
@@ -3894,7 +3894,7 @@ Now it was time to finish what they had started.
 
 ### Chapter 24: Coastal Storm
 
-The attack began before dawn, when the world existed in that gray space between night and day. Gond crouched in the sacred tunnel beneath Darach, listening to the muffled sounds of his strike team preparing for the assault above. The ancient passage stretched ahead into darkness, its walls carved with elven symbols that seemed to pulse with their own faint light.
+The attack began before dawn, when the world existed in that gray space between night and day. Gond crouched in the sacred tunnel beneath Blackwater, listening to the muffled sounds of his strike team preparing for the assault above. The ancient passage stretched ahead into darkness, its walls carved with elven symbols that seemed to pulse with their own faint light.
 
 "The other teams are in position," Pell whispered, appearing at his shoulder like a ghost. "Elena's group has reached the harbor gate, and Thorek's dwarves are under the eastern wall."
 
@@ -3928,7 +3928,7 @@ Gond struck fast and silent, his dagger finding the first guard's throat before 
 
 "Bind him," Gond ordered, wiping his blade clean. "He might have useful information."
 
-They climbed the stairs to find themselves in the heart of Darach's slave market. Even at this early hour, the pens were full—men, women, and children huddled together in cages barely large enough for animals. The sight hit Gond like a physical blow, bringing back memories of his own captivity with painful clarity.
+They climbed the stairs to find themselves in the heart of Blackwater's slave market. Even at this early hour, the pens were full—men, women, and children huddled together in cages barely large enough for animals. The sight hit Gond like a physical blow, bringing back memories of his own captivity with painful clarity.
 
 "Sweet Alanyi," one of his fighters breathed. "There must be hundreds of them."
 
@@ -4072,7 +4072,7 @@ Gond looked out over the harbor, where liberation ships were racing toward the d
 
 "We do what we came here to do," he said, climbing down from the roof. "We free the slaves, hold the harbor, and trust our people to do the same."
 
-The battle for Darach's harbor was about to begin in earnest.
+The battle for Blackwater's harbor was about to begin in earnest.
 
 ***
 
@@ -4128,7 +4128,7 @@ The war for freedom had brought them this far.
 
 Now it was time to finish what they had started.
 
-The first enemy ship reached the dock just as the sun climbed above the horizon, painting the harbor in shades of gold and crimson. The battle for Darach—and the future of the continent—was about to enter its final phase.
+The first enemy ship reached the dock just as the sun climbed above the horizon, painting the harbor in shades of gold and crimson. The battle for Blackwater—and the future of the continent—was about to enter its final phase.
 
 ***
 
@@ -4184,7 +4184,7 @@ That's when the miracle happened.
 
 A new sound echoed across the harbor—not the clash of weapons or the shouts of battle, but something else entirely. A deep, resonant note that seemed to come from the very stones of the city itself.
 
-Gond looked up to see a sight that made his heart leap with hope. The inner walls of Darach were opening, their massive gates swinging wide to reveal the main liberation army. Grimjaw's siege engines had done more than breach the outer defenses—they'd punched all the way through to the city's heart.
+Gond looked up to see a sight that made his heart leap with hope. The inner walls of Blackwater were opening, their massive gates swinging wide to reveal the main liberation army. Grimjaw's siege engines had done more than breach the outer defenses—they'd punched all the way through to the city's heart.
 
 "Reinforcements!" someone shouted, and the cry was taken up by fighters throughout the harbor district.
 
@@ -4196,7 +4196,7 @@ When the last marine fell or surrendered, an eerie quiet settled over the harbor
 
 "Status report," Gond said, finding Elena among the celebrating fighters.
 
-"Darach is ours," she replied, her armor splattered with blood but her eyes bright with victory. "The outer walls are breached, the inner city is secured, and the slave markets are being emptied as we speak."
+"Blackwater is ours," she replied, her armor splattered with blood but her eyes bright with victory. "The outer walls are breached, the inner city is secured, and the slave markets are being emptied as we speak."
 
 "Casualties?"
 
@@ -4250,7 +4250,7 @@ Elena followed his gaze and seemed to understand. "Borin and Kael?"
 
 "Then I'll do what I have to do." Gond started walking toward the inner city, where reports suggested the last pockets of resistance were being mopped up. "But I'm hoping it won't come to that."
 
-As he made his way through the liberated streets of Darach, Gond passed a group of freed slaves huddled near a fountain. Many bore fresh wounds from the battle, but it was the older scars that drew his attention—the brands that marked them as property, burned into foreheads and hands with deliberate cruelty.
+As he made his way through the liberated streets of Blackwater, Gond passed a group of freed slaves huddled near a fountain. Many bore fresh wounds from the battle, but it was the older scars that drew his attention—the brands that marked them as property, burned into foreheads and hands with deliberate cruelty.
 
 An elderly woman looked up as he approached, her eyes widening with recognition. "You're him," she whispered. "The Paladin of Mercy."
 
@@ -4270,7 +4270,7 @@ They came forward then, one by one—men, women, and children bearing the scars 
 
 "Free," the elderly woman whispered, staring at her reflection in the fountain's water. For the first time in decades, her forehead bore no mark of ownership. "Truly free."
 
-As he made his way through the liberated streets of Darach, Gond reflected on how much had changed since that first desperate escape from the slave ship. He'd started this journey seeking revenge against the men who'd betrayed him. Now he found himself hoping for their redemption instead.
+As he made his way through the liberated streets of Blackwater, Gond reflected on how much had changed since that first desperate escape from the slave ship. He'd started this journey seeking revenge against the men who'd betrayed him. Now he found himself hoping for their redemption instead.
 
 It was a strange feeling, but not an unwelcome one.
 
@@ -4282,7 +4282,7 @@ The future of the continent might depend on it.
 
 ### Chapter 25: A Continent Reborn
 
-The last of the fighting ended three days after the harbor battle, when the final holdouts in Darach's merchant quarter surrendered to liberation forces. Gond stood on the city's highest tower, looking out over a transformed landscape. Smoke still rose from scattered fires, but the sounds drifting up from the streets below were different now—voices raised in celebration rather than fear, the laughter of children who no longer had to hide from slave catchers.
+The last of the fighting ended three days after the harbor battle, when the final holdouts in Blackwater's merchant quarter surrendered to liberation forces. Gond stood on the city's highest tower, looking out over a transformed landscape. Smoke still rose from scattered fires, but the sounds drifting up from the streets below were different now—voices raised in celebration rather than fear, the laughter of children who no longer had to hide from slave catchers.
 
 "It's hard to believe it's really over," Elena said, joining him at the tower's edge. Her armor bore fresh dents from the final skirmishes, but her eyes held a light that hadn't been there during the dark days of the war.
 
@@ -4520,7 +4520,7 @@ It was exhausting work, often frustrating, and frequently thankless. But it was 
 
 The resistance in the eastern provinces proved more stubborn than hoped, but also less organized than feared. Some cities eventually agreed to negotiate, swayed by reports of prosperity in the liberated territories. Others remained defiant, but their isolation made them increasingly irrelevant as trade and communication flowed around them.
 
-Three months after the liberation of Darach, Gond found himself standing once again on the city's highest tower. But this time, he wasn't alone. Representatives from dozens of communities had gathered for the first Continental Congress—an assembly designed to formalize the new government and establish lasting institutions.
+Three months after the liberation of Blackwater, Gond found himself standing once again on the city's highest tower. But this time, he wasn't alone. Representatives from dozens of communities had gathered for the first Continental Congress—an assembly designed to formalize the new government and establish lasting institutions.
 
 "Nervous?" Elena asked, joining him at the tower's edge. She wore the formal robes of her new position as Minister of Defense, but her sword still hung at her side.
 
@@ -4534,7 +4534,7 @@ Three months after the liberation of Darach, Gond found himself standing once ag
 
 She gestured toward the streets below, where the evening market was in full swing. Humans and dwarves and elves moved freely among the stalls, buying and selling and simply enjoying each other's company. Children of different races played together in the squares, their laughter echoing off the ancient stones.
 
-"Six months ago, this would have been impossible," Elena continued. "Now it's just Tuesday evening in Darach."
+"Six months ago, this would have been impossible," Elena continued. "Now it's just Tuesday evening in Blackwater."
 
 Gond smiled, feeling some of his tension ease. She was right—they had accomplished something remarkable, even if it was far from perfect.
 

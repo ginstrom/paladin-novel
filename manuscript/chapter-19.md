@@ -16,7 +16,7 @@ Elena Brightblade, her practical armor a stark contrast to Silviana’s flowing 
 
 "The elven fleets of old faced similar challenges," Silviana Starweaver murmured, her voice like the rustle of ancient leaves. Her eyes, pools of forest shadow, held the wisdom of centuries. "Deception, coastal raids to draw out their patrols, using the very currents against them. The sea can be a fickle ally, or a devastating foe."
 
-Maera raised her sharp gaze. "My network reports unrest in the guilds of Darach. The war taxes are heavy, and the flow of 'goods' has been… disrupted." A faint smile touched her lips. "A well-placed spark there could ignite a fire that consumes them from within."
+Maera raised her sharp gaze. "My network reports unrest in the guilds of Blackwater. The war taxes are heavy, and the flow of 'goods' has been… disrupted." A faint smile touched her lips. "A well-placed spark there could ignite a fire that consumes them from within."
 
 Pell, lounging in a corner with the deceptive ease of a coiled viper, finally spoke, his voice dry. "Sparks are good. But don't forget who we're fighting. Some are fanatics, true believers in the Slavers' Guild. Some are just hired swords, loyal to the highest bidder. And a whole lot are conscripts who'd rather be anywhere else. Knowing who's who tells you where to push, and where to offer a golden bridge for retreat."
 

@@ -40,7 +40,7 @@ Maera moved between them with efficient grace, binding Pell's bruised ribs with 
 
 "You're a healer?" Sim asked, watching her work.
 
-"Served a temple in Darach once." Her voice carried the weight of old disappointments. "Corruption outweighed compassion. Priests of Kemiss conducting slave auctions on the very temple steps, blessing chains with holy water." Her mouth twisted with disgust. "Commerce became more sacred than mercy." 
+"Served a temple in Blackwater once." Her voice carried the weight of old disappointments. "Corruption outweighed compassion. Priests of Kemiss conducting slave auctions on the very temple steps, blessing chains with holy water." Her mouth twisted with disgust. "Commerce became more sacred than mercy." 
 
 Gond's jaw tightened at her words. He'd seen those auctions himself—stood in the crowds, watched the bidding, told himself it wasn't his concern. The priests' blessing had made it all seem legitimate, ordained. Just another part of the world's harsh order, like storms or drought. Something to endure, not fight.
 
@@ -58,7 +58,7 @@ Sim's eyes held steady calm. "Even the tiny field mouse will defend itself when 
 
 Maera's weathered face showed the first hint of interest. "Then keep these two alive." The corner of her mouth twitched—not quite a smile, but close.
 
-Gond set down his empty bowl. "We're heading for Darach. Need information. Need..." His jaw tightened. "Justice."
+Gond set down his empty bowl. "We're heading for Blackwater. Need information. Need..." His jaw tightened. "Justice."
 
 Pell's eyes brightened at the mention of the city. "Streets full of opportunity. Coin changing hands."
 
@@ -68,7 +68,7 @@ Maera listened, her weathered face thoughtful. "There's a pilgrim way-station so
 
 She pressed a satchel into Sim's hands—dried provisions and bundled herbs. "Compassion first," she said, meeting Gond's eyes. "Justice follows in its own time."
 
-Outside, the wind had picked up, driving clouds across the grey sky. Gond adjusted his grip on the boathook, testing its balance. Behind them, the ocean whispered its endless secrets. Ahead lay Darach, uncertain and dangerous.
+Outside, the wind had picked up, driving clouds across the grey sky. Gond adjusted his grip on the boathook, testing its balance. Behind them, the ocean whispered its endless secrets. Ahead lay Blackwater, uncertain and dangerous.
 
 "We make an odd company," Pell observed, shouldering his rope.
 
@@ -76,6 +76,6 @@ Outside, the wind had picked up, driving clouds across the grey sky. Gond adjust
 
 The words settled into Gond's chest like stones dropped into still water. He looked at his companions—the warrior, the rogue, the priest. Three men with nothing in common but shared survival and the chains they'd broken.
 
-He turned toward the inland path, feeling the weight of their trust like a physical burden. Behind them, the relentless ocean. Ahead, whatever waited in Darach.
+He turned toward the inland path, feeling the weight of their trust like a physical burden. Behind them, the relentless ocean. Ahead, whatever waited in Blackwater.
 
 Together, they stepped forward into the uncertain morning.

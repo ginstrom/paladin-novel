@@ -4,7 +4,7 @@
 
 ### Chapter 5 – A Change of Course
 
-Pre-dawn mist coiled around Darach's northern gate like ghostly fingers as Gond nudged Ash forward. His breath fogged in the chill air. He tugged his hood lower, hiding the brand that marked him as escaped property. The city's walls loomed ahead, black silhouettes against the pale sky. His pulse hammered against his throat.
+Pre-dawn mist coiled around Blackwater's northern gate like ghostly fingers as Gond nudged Ash forward. His breath fogged in the chill air. He tugged his hood lower, hiding the brand that marked him as escaped property. The city's walls loomed ahead, black silhouettes against the pale sky. His pulse hammered against his throat.
 
 Two guards lounged by the portcullis, halberds propped against their shoulders. Their eyes sharpened as Gond approached. Lantern light danced across battle-scarred faces.
 
@@ -22,7 +22,7 @@ Then, inexplicably, he said nothing.
 
 Gond's spine went rigid as he passed beneath the iron gate. Every step expected the shout of alarm that never came.
 
-Inside Darach's walls, the city stirred to life. Hawkers called their wares. Cart wheels rumbled over cobblestones. The air filled with the scents of bread and horse dung. But Gond felt eyes everywhere—whispers trailing him like smoke, curious glances that lingered too long.
+Inside Blackwater's walls, the city stirred to life. Hawkers called their wares. Cart wheels rumbled over cobblestones. The air filled with the scents of bread and horse dung. But Gond felt eyes everywhere—whispers trailing him like smoke, curious glances that lingered too long.
 
 At the market square, his worst fears materialized. A wanted poster fluttered against a wooden post. The sketch was crude but unmistakable—his face, his brand, clear as daylight. **WANTED ALIVE – 500 ROYALS**. It was double the normal bounty for an escaped slave.
 
@@ -32,7 +32,7 @@ He made it to the gate before the shouts began.
 
 "You there! Stop!"
 
-Gond didn't look back. The younger guard glanced up in surprise as he passed. But Gond's purposeful stride and curt nod carried him through without question. Only when Darach had shrunk to a smudge on the horizon did he allow himself to breathe freely.
+Gond didn't look back. The younger guard glanced up in surprise as he passed. But Gond's purposeful stride and curt nod carried him through without question. Only when Blackwater had shrunk to a smudge on the horizon did he allow himself to breathe freely.
 
 The northern road twisted along cliffsides bordered by wild heather and gorse. Gond's eyes caught movement ahead—a small figure struggling through roadside mud, chains dragging at her feet. He dismounted, hands raised and empty.
 
@@ -50,7 +50,7 @@ She nodded. He lifted her onto Ash's broad back. Her weight settled against the 
 
 Nightfall found the way-station warm with firelight and the rich aroma of stew. Sim rose in surprise. Compassion flooded his features as he welcomed Lira. Pell watched from the shadows, tension easing only when Gond explained.
 
-"Darach is death," Gond concluded. "We need to disappear."
+"Blackwater is death," Gond concluded. "We need to disappear."
 
 "Into thin air?" Pell's eyebrow arched.
 

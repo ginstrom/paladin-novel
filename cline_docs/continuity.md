@@ -9,11 +9,11 @@
 ### Part I: The Rude Awakening (Chapters 1-3)
 - **Chapter 1**: Gond awakens in slave ship, recalls betrayal, **establishes his previous attitude toward slavery as mercenary**
 - **Chapter 2**: Escape from slave ship, Jord dies, Gond/Pell/Sim reach shore, **Pell's coast knowledge enables strategic timing**
-- **Chapter 3**: Meet Maera, receive aid and guidance toward Darach, **Gond reflects on his past avoidance of slaver contracts**
+- **Chapter 3**: Meet Maera, receive aid and guidance toward Blackwater, **Gond reflects on his past avoidance of slaver contracts**
 
 ### Part II: Seeds of Rebellion (Chapters 4-10)
 - **Chapter 4**: Ambush slave cart, rescue Aerin and Dax, acquire horses, **Gond acquires crude black iron sword**, **realizes his fundamental shift from passive acceptance to active resistance**
-- **Chapter 5**: Gond scouts Darach alone, abandons revenge pursuit for group safety, rescues Lira, **refuses better weapons in favor of crude sword**
+- **Chapter 5**: Gond scouts Blackwater alone, abandons revenge pursuit for group safety, rescues Lira, **refuses better weapons in favor of crude sword**
 - **Chapter 6**: First mystical encounter at ruined temple of Alanyi
 - **Chapter 7**: **Three weeks after finding the valley** - Gradual awakening of divine abilities, settle in hidden valley
 - **Chapter 8**: Valley community establishment, refugees arrive, **discovery of previous refugee bones creates tension about valley safety**, **food shortage crisis forces dangerous foraging mission to Thornfield farmstead**, **first reports of systematic village raids with smoke columns on horizon**
@@ -376,7 +376,7 @@
 - **Healing circle**: Silviana's suggested location for divine work
 
 ### External Threats
-- **Darach**: Nearby city with increased bounties on escapees
+- **Blackwater**: Nearby city with increased bounties on escapees
 - **Millhaven**: Burned village, source of recent refugees, Pell's hometown
 - **Coastal cities**: Major slave trade hubs targeted for liberation
 - **Widow's Cape**: Rocky promontory where ships angle close to shore

@@ -9,10 +9,10 @@
     *   Loses his dagger during the escape (Ch 2).
     *   Meets Maera, a healer, who provides aid and guidance (Ch 3).
     *   Ambush slavers with Pell and Sim, rescuing the children Alia and Dax (Ch 4).
-    *   Decides to scout Darach alone, leaving the others at a hidden way-station (Ch 4).
-    *   Briefly enters Darach, sees a wanted poster for himself (500 Royals bounty), and quickly retreats (Ch 5).
-    *   **First shift from vengeance to protection**: Chooses safety of his people over pursuing Borin and Kael in Darach (Ch 5).
-    *   Rescues Lira, another escaped slave, on the road north of Darach (Ch 5).
+    *   Decides to scout Blackwater alone, leaving the others at a hidden way-station (Ch 4).
+    *   Briefly enters Blackwater, sees a wanted poster for himself (500 Royals bounty), and quickly retreats (Ch 5).
+    *   **First shift from vengeance to protection**: Chooses safety of his people over pursuing Borin and Kael in Blackwater (Ch 5).
+    *   Rescues Lira, another escaped slave, on the road north of Blackwater (Ch 5).
     *   Decides to lead the group into the rugged hills for safety (Ch 5).
     *   Accepts paladin identity with Silviana's guidance (Ch 11).
     *   Learns to control divine powers, experiences physical and emotional toll (Ch 12).
@@ -54,7 +54,7 @@
     *   Uses a rusty file to free himself, Gond, and Sim from their manacles on shore (Ch 2).
     *   Meets Maera (Ch 3).
     *   Participates in the ambush of slavers, notably freeing the horses (Ch 4).
-    *   Agrees to stay at the way-station to protect Alia, Dax, and Sim while Gond scouts Darach (Ch 4).
+    *   Agrees to stay at the way-station to protect Alia, Dax, and Sim while Gond scouts Blackwater (Ch 4).
     *   Reunites with Gond and meets Lira (Ch 5).
     *   Tracks settlement growth and new arrivals (Ch 13).
     *   **Pivotal question**: Asks Gond about his vengeance plans, triggering Gond's realization of transformation (Ch 13).
@@ -108,7 +108,7 @@
     *   Captured by slavers along with her brother Dax (Ch 4).
     *   Rescued by Gond, Pell, and Sim (Ch 4).
     *   Taken to the hidden way-station for safety (Ch 4).
-    *   Expresses gratitude to Gond before he departs for Darach (Ch 4).
+    *   Expresses gratitude to Gond before he departs for Blackwater (Ch 4).
     *   Becomes part of valley settlement community (Ch 8-21).
     *   Helps distribute arrows during major battle (Ch 17).
 *   **Relationships:**
@@ -138,7 +138,7 @@
 *   **Bio/Description:** A young woman who escaped from slavers. Traumatized but resilient.
 *   **First Appearance:** Chapter 5
 *   **Key Actions/Events:**
-    *   Found by Gond struggling on the road north of Darach after escaping her captors (Ch 5).
+    *   Found by Gond struggling on the road north of Blackwater after escaping her captors (Ch 5).
     *   Freed from her shackles by Gond (Ch 5).
     *   Joins Gond's group and is taken to the way-station (Ch 5).
     *   Becomes part of valley settlement community (Ch 8-21).
@@ -148,7 +148,7 @@
 *   **Current Status/Location:** With Gond's army, likely in a support role or at a rear camp during the coastal campaign and subsequent march (End of Chapter 24).
 
 ## Maera
-*   **Bio/Description:** An elderly woman, a skilled healer, living in a secluded hut on the coast. Possesses flinty eyes, a firm demeanor, and practical wisdom. Formerly served a temple in Darach but left due to corruption. Revealed to be a key organizer of the continental resistance network.
+*   **Bio/Description:** An elderly woman, a skilled healer, living in a secluded hut on the coast. Possesses flinty eyes, a firm demeanor, and practical wisdom. Formerly served a temple in Blackwater but left due to corruption. Revealed to be a key organizer of the continental resistance network.
 *   **First Appearance:** Chapter 3
 *   **Key Actions/Events:**
     *   Provides shelter, food, and medical aid to Gond, Pell, and Sim after their escape (Ch 3).

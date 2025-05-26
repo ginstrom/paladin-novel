@@ -130,7 +130,7 @@ Gond felt the weight of decision settling on his shoulders, but this time it did
 
 The planning session that followed stretched late into the night, maps and intelligence reports spread across every available surface. What emerged was a picture of the slave trade that was both more extensive and more vulnerable than Gond had realized.
 
-"The key is the coastal cities," Elena explained, pointing to a series of marks on the largest map. "Darach, Westport, Ironhaven—they're the major hubs where slaves are processed and shipped. Take out their operations, and you cripple the entire network."
+"The key is the coastal cities," Elena explained, pointing to a series of marks on the largest map. "Blackwater, Westport, Ironhaven—they're the major hubs where slaves are processed and shipped. Take out their operations, and you cripple the entire network."
 
 "Easier said than done," Pell observed. "Those cities have walls, guards, political protection."
 

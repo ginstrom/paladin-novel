@@ -4,7 +4,7 @@
 
 ### Chapter 4 – Crack in the Chain
 
-Gulls wheeled overhead, their harsh cries cutting through the salt-heavy air. Gond, Pell, and Sim moved along the cliff-top path, their tattered clothes snapping in the stiff breeze. Darach still lay leagues ahead, but the prickle between Gond's shoulder blades warned that danger stalked closer.
+Gulls wheeled overhead, their harsh cries cutting through the salt-heavy air. Gond, Pell, and Sim moved along the cliff-top path, their tattered clothes snapping in the stiff breeze. Blackwater still lay leagues ahead, but the prickle between Gond's shoulder blades warned that danger stalked closer.
 
 Mid-morning, Pell dropped to a crouch beside flattened thicket. Gond joined him, studying the crushed grass and broken branches. Nearby, Sim examined trampled lavender stalks, his fingers tracing the damage.
 
@@ -68,11 +68,11 @@ Gond only nodded, his gaze already scanning the horizon for more threats, the cr
 
 By evening, they'd made camp beneath a spreading pine. Gond tended his wounded arm—the crossbow bolt had left a shallow furrow—while Sim cared for the children's injuries with soft hymns and gentle hands. Pell secured their perimeter, moving like a shadow between the trees.
 
-The silence stretched until Gond finally spoke. "We can't continue openly toward Darach. Too dangerous now."
+The silence stretched until Gond finally spoke. "We can't continue openly toward Blackwater. Too dangerous now."
 
 "Then what?" Pell asked, settling beside the fire.
 
-Gond traced Maera's map in the dirt with a stick. "The way-station. Defensible, hidden. You'll be safe there while I go to Darach alone."
+Gond traced Maera's map in the dirt with a stick. "The way-station. Defensible, hidden. You'll be safe there while I go to Blackwater alone."
 
 Pell opened his mouth to protest, but something in Gond's expression killed the words. Sim placed a hand on the boy's shoulder—Dax, he'd said his name was. "You're making the right choice. Protecting these lives comes first."
 
@@ -88,4 +88,4 @@ Sim grasped Gond's forearm, warmth and trust clear in his steady gaze. "Safe tra
 
 Gond nodded once, then turned toward the forest trail. Behind him, a young voice called softly, "Thank you."
 
-The simple words hit him like a physical blow. He straightened his shoulders and lengthened his stride toward Darach, carrying the weight of their trust like armor against whatever waited ahead.
+The simple words hit him like a physical blow. He straightened his shoulders and lengthened his stride toward Blackwater, carrying the weight of their trust like armor against whatever waited ahead.

@@ -14,7 +14,7 @@
 
 ### Chapter 3: Shore of Second Chances
 *   Survivors land on desolate coast, find shelter with hermit‑healer Maera.
-*   Maera treats wounds, equips them, and directs them south toward Darach.
+*   Maera treats wounds, equips them, and directs them south toward Blackwater.
 *   Gond commits to journey; Sim and Pell join.
 
 ### Themes for Part I
@@ -49,10 +49,10 @@
 *   Pell cuts both horses free; Sim calms and reclaims them with carrots.
 *   Free siblings Aerin & Dax; loot swords, crossbows, supplies.
 *   Horses carry gear and blister‑footed Dax.
-*   Gond caches group at pilgrim way‑station and rides for Darach alone.
+*   Gond caches group at pilgrim way‑station and rides for Blackwater alone.
 
 ### Chapter 5: A Change of Course
-*   Gond infiltrates Darach alone; discovers bounty on branded escapees has doubled.
+*   Gond infiltrates Blackwater alone; discovers bounty on branded escapees has doubled.
 *   Realizes he's too recognizable and dangerous to pursue in the city.
 *   **First unconscious shift**: Chooses safety of his people over pursuing personal goals.
 *   Abandons plans for revenge/information gathering; returns to protect his group.
@@ -60,7 +60,7 @@
 *   **Thematic significance**: Marks the beginning of Gond's transformation from self-focused mercenary to protector-leader.
 
 ### Chapter 6: Whispers in Stone
-*   After returning from Darach, Gond realizes they need more secure shelter.
+*   After returning from Blackwater, Gond realizes they need more secure shelter.
 *   Sim leads them to a ruined temple of Alanyi, hidden in the hills.
 *   Inside the ancient sanctuary, Gond experiences a subtle mystical encounter.
 *   The experience is ambiguous—could be divine touch or exhaustion-induced vision.
