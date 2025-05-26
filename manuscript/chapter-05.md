@@ -60,6 +60,14 @@ Sim nodded, that calm certainty settling over him. "Wisdom. Safety first."
 
 Aerin and Dax exchanged glances, then nodded agreement. Gond felt something shift in his chest—a weight settling there, heavy but not unwelcome.
 
+"We'll need shelter," Aerin said practically. "Real shelter, not just lean-tos. Winter's coming."
+
+"And tools," Dax added, flexing his healing hands. "I worked with my father's carpentry crew before..." He gestured vaguely at his branded wrist. "I know how to build, if we can find the materials."
+
+Gond studied the young man with new interest. "What would you need?"
+
+"Axes for felling trees. Saws for cutting lumber. Basic hand tools—hammers, chisels, rope." Dax's voice grew more confident as he spoke of familiar work. "The hills have plenty of timber. Good stone too, from what I've seen."
+
 "Dawn, then." His voice carried new authority. "A fresh start."
 
 Pell's grin held anticipation and wariness in equal measure. "Let's hope hidden stays hidden."

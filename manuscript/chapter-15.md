@@ -38,6 +38,8 @@ Elena's smile was sharp as a blade. "Former Royal Guard. I resigned my commissio
 
 Before Gond could respond, a commotion from the rear of the column drew their attention. The massive dwarf—Grimjaw, presumably—was directing the positioning of his siege engine with a stream of colorful curses that would have made a sailor blush. The machine itself was a work of art, its bronze fittings inscribed with runes that seemed to pulse with their own inner light.
 
+Gond noticed how the refugees gathered to watch, their eyes wide with wonder. In the months since they'd established the valley settlement, they'd grown accustomed to the sound of Korven's makeshift forge and the sight of Dax's carpentry crews. But this was something else entirely—a weapon of war that spoke of professional military capability.
+
 "Grimjaw!" Thorek called out, striding toward his kinsman. "What brings you to this place?"
 
 The larger dwarf looked up from his work, his face splitting into a grin that revealed teeth capped with gold. "Thorek Ironheart! Should have known you'd be mixed up in this madness." He gestured toward the siege engine. "As for what brings me here—let's just say I got tired of building weapons for people who use them on the innocent."
@@ -45,6 +47,8 @@ The larger dwarf looked up from his work, his face splitting into a grin that re
 "You defected?" Thorek's voice was carefully neutral, but Gond caught the undercurrent of hope.
 
 "Defected, resigned, told the Crown to stuff their gold where the sun don't shine—call it what you will." Grimjaw's expression grew serious. "But when word reached me that a paladin of Alanyi had risen, that the old alliance might be renewed... well, some things are more important than steady pay."
+
+He gestured toward the siege engine and the wagons behind it. "Brought more than just myself, too. Three wagonloads of proper steel, bronze fittings, and enough tools to outfit a real forge. That little setup your man Korven's been working with—" He shook his head dismissively. "Good for horseshoes and nails, maybe. But if you're planning to take on fortified cities, you'll need weapons that can punch through stone walls."
 
 Gond felt the weight of expectation settling on his shoulders again, but this time it was different. These weren't desperate refugees seeking miracles—these were professionals, soldiers and leaders who'd made calculated decisions to join his cause.
 
@@ -134,6 +138,12 @@ The planning session that followed stretched late into the night, maps and intel
 
 "Easier said than done," Pell observed. "Those cities have walls, guards, political protection."
 
+"We're not starting from nothing," Gond interjected, gesturing toward the settlement around them. "Every slaver operation we've hit has added to our capabilities. The Crimson Company alone yielded fifty crossbows, two dozen swords, and enough chain mail to outfit our best fighters."
+
+Thorek nodded approvingly. "Aye, and the caravan raids have brought in more than just weapons. Gold from their strongboxes has let us purchase what we couldn't make or capture. That steel Grimjaw brought? Half of it was bought with slaver coin."
+
+"Plus the defectors bring their own equipment," Elena added. "When Captain Voss's men switched sides after seeing Gond's healing, they brought military-grade weapons and armor. Professional gear, not the crude stuff most mercenaries carry."
+
 "Walls can be broken," Grimjaw said confidently. "Guards can be defeated. As for political protection..." He shrugged. "Hard to protect something that's been reduced to rubble."
 
 "We're not talking about destroying cities," Gond said firmly. "We're talking about liberating them. There's a difference."
@@ -211,4 +221,3 @@ Gond nodded, thinking of Willem and the lesson learned through defiance. "Someti
 As the family began the process of preparing Grandmother Nessa for burial, Gond returned to the dying fire where Elena and Maera waited. The weight of what they were planning—what he was committing to—was enormous. But for the first time since accepting his calling, he felt truly ready for what lay ahead.
 
 He had learned to trust divine wisdom even when his heart rebelled against it. He had learned that being a paladin meant serving a purpose larger than his own understanding. And he had learned that sometimes the greatest strength came not from standing alone, but from standing with others who shared your vision of what the world could become.
-

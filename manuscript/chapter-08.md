@@ -10,9 +10,17 @@ Gond began to notice patterns in their arrivals. The refugees found them too eas
 
 Slowly, the mood of the group transformed into something approaching hope. Sim welcomed the newcomers, organizing work parties with quiet efficiency. Pell took charge of the horses, fashioning crude sledges from rope and timber to haul supplies.
 
-"These beasts are worth ten men," Pell noted, patting Ash's sturdy flank as the horse dragged a load of firewood.
+"These beasts are worth ten men," Pell noted, patting Ash's sturdy flank as the horse dragged a load of freshly cut timber toward the growing cluster of shelters.
+
+The sound of axes biting into wood echoed across the valley as Dax led a crew of refugees in felling trees for construction. His carpentry skills had proven invaluable—within days of their arrival, he'd identified the best timber and organized cutting crews. "Pine for the frames," he called to a group hauling logs. "Oak for the load-bearing posts. And save those birch branches—we'll need them for roofing."
 
 Sim moved tirelessly among the injured and weary, his gentle touch and soft prayers bringing order to chaos. Aerin and Dax, energized by safety, took charge of foraging, their youthful enthusiasm infectious. Lira revealed an unexpected talent for organization, creating order from their scattered belongings.
+
+Among the newest arrivals, Gond had begun identifying useful skills. Korven, a grizzled man with burn scars covering his arms, had worked iron before his enslavement. "Give me a forge and some bellows," he'd said, examining their meager collection of tools, "and I can make what we need. Nails, hinges, proper blades." 
+
+An older woman named Marta had sewn sails for fishing boats. Her weathered hands could work leather and canvas with equal skill. "Proper tents," she'd muttered, studying their makeshift shelters. "Waterproof. These lean-tos won't survive the first real storm."
+
+The sound of hammering had joined the axes as refugees fashioned tools from salvaged metal. A broken cart wheel became iron bands for reinforcing timber. Bent horseshoes were straightened into nails. Every scrap of metal was precious, every skilled hand invaluable.
 
 Throughout the valley, Gond's name echoed quietly. When disputes arose over work assignments, people sought his judgment. When questions needed answers, they turned to him. It seemed that Gond's mere presence was enough to calm tempers and turn anger into smiles. Gond found himself at the center of every decision, the focal point around which their small community revolved. 
 
@@ -117,3 +125,25 @@ As evening fell over the valley, Gond stood before the assembled refugees once m
 The faces looking back at him showed fear, yes, but also determination. These were no longer the broken fugitives who had stumbled into his care. They were his people, bound together by shared danger and common purpose.
 
 And tomorrow, that bond would be tested by fire.
+
+***
+
+Three days later, the expedition returned with more than just food.
+
+Gond watched as the heavily laden horses picked their way down the valley's narrow entrance, their riders weary but triumphant. The Thornfield farmstead had yielded better than expected—not just grain and preserved meat from the root cellars, but tools, weapons, and materials the fleeing family had been forced to abandon.
+
+"Two wagonloads of grain," Pell reported, dismounting with obvious relief. "Enough to last us another month, maybe more if we're careful. Plus salt pork, dried beans, and a barrel of honey."
+
+"And the rest?" Gond asked, noting the bundles strapped to every available surface.
+
+Korven stepped forward, his scarred hands cradling a collection of iron tools like precious treasures. "Proper hammers, tongs, files. A set of chisels that'll let me work real detail into the metal." His eyes gleamed with anticipation. "And three ingots of good steel—not the scrap we've been melting down, but proper forged metal."
+
+Dax emerged from behind one of the horses, struggling with a heavy bundle. "Carpenter's tools," he said, setting down his burden with a grunt. "Saws, planes, measuring squares. And enough iron nails to build proper structures instead of lashing everything together with rope."
+
+The transformation in the settlement's capabilities was immediate. Within days, the sound of Korven's improved forge rang across the valley as he worked the new steel into proper weapons and tools. Dax's crews began replacing their crude shelters with solid timber buildings, the walls fitted with proper joints instead of rough-hewn logs.
+
+"It's amazing what a difference real tools make," Lira observed, watching a crew raise the frame of what would become their first permanent storehouse. "We're not just surviving anymore. We're building something that could last."
+
+Gond nodded, but his eyes were already turning toward the horizon. The Thornfield expedition had proven something important—that the abandoned settlements held resources they desperately needed. And if one farmstead could yield so much, what might they find in the ruins of larger communities?
+
+The question would have to wait. For now, they had food, tools, and hope. It was enough to keep them alive, and strong enough to face whatever came next.
