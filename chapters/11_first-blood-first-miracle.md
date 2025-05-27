@@ -46,7 +46,7 @@ Sim moved from the children's shelter to kneel beside Dax, ignoring the pain in 
 
 "He's beyond my help," Sim whispered, his voice breaking. Tears streamed down his weathered cheeks. "The damage is too great. I cannot—" His hands fell to his sides, the faint glow extinguished.
 
-Around them, the survivors gathered in a silent circle. Shoulders slumped in defeat. Hands covered mouths to stifle sobs. Eyes turned away from the dying boy, unable to bear witness to their helplessness. Aerin knelt beside her brother, her tears falling onto his blood-stained face, but she spoke no words of plea.
+Around them, the survivors gathered in a silent circle. Shoulders slumped in defeat. Hands covered mouths to stifle sobs. Eyes turned away from the dying boy, unable to bear witness to their helplessness. Aerin knelt beside her brother, her tears falling onto his blood-stained face.
 
 Gond felt a pull he could neither name nor resist. His feet carried him forward without conscious thought, drawn by an invisible thread that seemed to connect his heart to the dying boy. The circle of mourners parted before him, their faces etched with resignation.
 
@@ -82,13 +82,13 @@ Not a breath stirred the air. Even the wind had stilled, as if nature itself hel
 
 "A miracle," breathed another, falling to his knees.
 
-An older formed her fingers into the intertwined circles of Alanyi repeatedly, her lips moving in silent prayer. A young father clutched his children closer, his eyes wide with wonder and fear. Several refugees stepped backward, as if afraid to stand too close to such divine power, while others pressed forward, reaching out with trembling hands as if to touch the lingering traces of holy light.
+An older woman formed her fingers into the intertwined circles of Alanyi repeatedly, her lips moving in silent prayer. A young father clutched his children closer, his eyes wide with wonder and fear. Several refugees stepped backward, as if afraid to stand too close to such divine power, while others pressed forward, reaching out with trembling hands as if to touch the lingering traces of holy light.
 
 Gond staggered backward, his legs giving out beneath him. He sat heavily on the ground, staring at his hands as they trembled with residual power. There was no denying it now, no rationalizing it away. The force that had flowed through him was divine, unmistakable in its nature and scope.
 
-Sim approached slowly, his face radiant with vindication. "Now do you believe?" he asked gently.
+Sim approached slowly, his face radiant. "Now do you believe?" he asked gently.
 
-Gond looked at his hands, still tingling with the memory of that blazing light. He thought of the temple, the vision, the voice that had spoken of carrying hope. All the signs had been there, building gradually, but he had refused to see them for what they were.
+Gond looked at his hands, still tingling with the memory of that blazing light. He thought of the temple, the vision, the voice that had spoken of carrying hope. All the signs had been there, but he had refused to see them for what they were.
 
 "I believe," he said quietly, the words feeling strange on his tongue. "Alanyi help me, I believe."
 
@@ -102,8 +102,4 @@ The gesture broke something inside Gond's chest. He pulled the boy to his feet, 
 
 He was a paladin of Alanyi, chosen and blessed, whether he liked it or not.
 
-The transformation was complete, and there would be no going back.
-
 Around him, the refugees began to sing—a hymn of praise that rose to the heavens, carrying with it the hope of the oppressed and the promise of justice to come. Gond stood among them, no longer fighting his destiny but embracing it, ready to carry the burden and the blessing of divine purpose.
-
-Paladin's Rise was reluctant no more.

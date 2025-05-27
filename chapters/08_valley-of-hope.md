@@ -2,7 +2,7 @@
 
 ## Part II: Seeds of Rebellion
 
-### Chapter 8: The Gradual Awakening
+### Chapter 8: The Valley of Hope
 
 It took the party another week to find the valley. Trudging over steep hills, the land opened suddenly into a wide valley sheltered by towering cliffs. A narrow waterfall tumbled down one sheer wall, pooling into a lake so clear Gond could see the bottom twenty feet down. Green grass carpeted the valley floor, dotted with wildflowers and fruit trees gone wild. The band quickly set up camp and started setting up a more permanent encampment.
 

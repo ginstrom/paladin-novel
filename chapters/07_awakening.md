@@ -2,7 +2,7 @@
 
 ## Part II: Seeds of Rebellion
 
-### Chapter 7: Whispers in Stone
+### Chapter 7: Awakening
 
 Gond continued exploring the ruins as the last light faded from the western sky. He'd intended to circle the temple grounds, check for signs of pursuit, ensure their sanctuary remained secure. But his feet seemed to have other ideas.
 

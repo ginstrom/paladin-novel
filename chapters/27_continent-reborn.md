@@ -140,10 +140,6 @@ Paladin's Rise's work was done. The world he had helped create would continue wi
 
 It was, Gond thought as he watched the sunset paint the sky in brilliant colors, exactly as it should be.
 
-The age of slavery was over. The age of freedom had begun.
-
-And it would endure.
-
 ***
 
 Twenty years later, in a small temple school in what had once been the heart of the slave trade, an elderly priest with kind eyes and gentle hands taught a group of children about the history of their world. The children—human, dwarven, and elven faces mixed together without thought of difference—listened with rapt attention as he told them stories of the time before freedom, when people could be bought and sold like property.
@@ -173,9 +169,3 @@ It was the world a reluctant paladin had died to create, and it was worth every 
 The future stretched ahead, bright with possibility and rich with hope.
 
 And in that future, the children would remember the lessons of the past, would guard the freedoms they had inherited, and would pass them on to their own children in turn.
-
-The cycle of oppression was broken.
-
-The age of freedom would endure.
-
-Forever.
