@@ -1,0 +1,89 @@
+/* Basic EPUB stylesheet for Paladin's Rise */
+
+/* Body and general text styling */
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    line-height: 1.4;
+    margin: 0;
+    padding: 1em;
+    text-align: justify;
+}
+
+/* Headings */
+h1, h2, h3 {
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+h1 {
+    font-size: 1.8em;
+    page-break-before: always;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+/* Paragraphs */
+p {
+    margin: 0;
+    text-indent: 1.2em;
+}
+
+/* First paragraph after headings should not be indented */
+h1 + p, h2 + p, h3 + p {
+    text-indent: 0;
+}
+
+/* Scene breaks */
+hr {
+    border: none;
+    text-align: center;
+    margin: 2em 0;
+}
+
+hr:after {
+    content: "***";
+    font-weight: bold;
+}
+
+/* Emphasis */
+em {
+    font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+}
+
+/* Chapter titles */
+.chapter-title {
+    font-size: 1.8em;
+    font-weight: bold;
+    text-align: center;
+    margin: 2em 0 1em 0;
+    page-break-before: always;
+}
+
+/* Dialogue styling */
+.dialogue {
+    margin-left: 1em;
+}
+
+/* No text indent for certain elements */
+.no-indent {
+    text-indent: 0;
+}

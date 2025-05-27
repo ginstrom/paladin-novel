@@ -11,21 +11,29 @@
   - `authoringGuidelines.md`: Standardized workflow for writing chapters with comprehensive "show, don't tell" principles.
   - `showDontTellReference.md`: Quick-reference guide for "show, don't tell" principles during writing.
   - `translationGuide.md`: Comprehensive guide for English-Japanese translation with methodology, style guidelines, and quality assurance framework.
-- `manuscript/`: Directory for the novel manuscript and related notes.
-  - `chapter-01.md` through `chapter-27.md`: Complete manuscript chapters (Chapters 1-27 completed).
-  - `synopsis.md`: Overall summary of the story.
+  - `synopsis.md`: Overall summary of the story (moved from manuscript/).
+- `chapters/`: Directory for the novel manuscript chapters (reorganized from manuscript/).
+  - `01_mark-of-betrayal.md` through `27_epilogue.md`: Complete manuscript chapters (Chapters 1-27 completed) with descriptive filenames.
+- `build/`: Directory for generated files and build artifacts.
+  - `epub-master.md`: Combined manuscript file for EPUB generation.
+- `images/`: Directory for cover art and maps (renamed from assets/).
+  - `cover-art.png`: Book cover image.
+  - `slavers-coast-map.png` and `southern-continent-map.png`: World maps.
 - `manuscript-ja/`: Directory for Japanese translations.
   - `chapter-01.md`: Initial Japanese translation of Chapter 1.
   - `chapter-01_jp_rev.md`: Improved Japanese translation applying comprehensive methodology.
+- `metadata.yml`: Book metadata including title, author, publication info, and integrated book description.
+- `epub.css`: Stylesheet for EPUB formatting.
 - `chapter-outline.md`: Master outline of all chapters, serving as the source of truth for chapter numbering, titles, and detailed part/chapter content (themes, character development, world-building, tone/style notes). This file consolidates all chapter information.
 
 ## Data Flow
-- Narrative flow is primarily defined in `chapter-outline.md`, which then guides the content of the manuscript chapter files.
+- Narrative flow is primarily defined in `chapter-outline.md`, which then guides the content of the chapter files in `chapters/`.
 
 ## External Dependencies
 - None at this stage.
 
 ## Recent Significant Changes
+- [2025-05-27] PROJECT REORGANIZATION: Complete restructuring to match ebook publishing standards. Created `chapters/` directory with descriptive filenames (01_mark-of-betrayal.md through 27_epilogue.md). Renamed `assets/` to `images/`. Created `build/` directory for generated files. Moved `synopsis.md` to `cline_docs/`. Created `metadata.yml` with integrated book description from blurb. Added `epub.css` stylesheet. Removed empty `manuscript/` directory. New structure follows recommended format: chapters/, images/, build/, metadata.yml, epub.css.
 - [2025-05-27] CHAPTER 1 TRANSLATION IMPROVEMENT: Applied comprehensive improvement methodology to Japanese translation (`manuscript-ja/chapter-01_jp_rev.md`). Fixed critical terminology error (manacle mistranslation from 刺青 to 烙印), compressed redundant phrasing by ~20%, improved natural Japanese flow with proper word order, maintained consistent 常体 narrative voice, and enhanced readability while preserving original atmosphere. Demonstrates practical application of translation guide principles with systematic term replacement, cultural localization, and style unification.
 - [2025-05-26] CHAPTER 3 MAJOR EXPANSION ("Shore of Second Chances"): Significantly expanded chapter to establish Maera as a future major figure in the slave revolt and provide crucial world-building about slavery and resistance networks. Enhanced hut description with detailed sensory elements: bundles of herbs, clay pots with elven script, grinding stone, maps with marked routes. Demonstrated Maera's awareness of escaped slaves through practiced efficiency in treating specific injuries and knowledge of exact bounty amounts. Added extensive world-building dialogue about slavery as accepted fact of life, temple auctions blessing the trade, slaves sent to salt mines/quarries where most die within 6-8 months. Expanded hiding place information with detailed trade-offs for way-station (temporary safety but exposed) versus hills (permanent concealment but harsh isolation). Added subtle foreshadowing of Maera's network role through maps showing safe houses, coded signals, references to "friends" who maintain way-stations, and hints of elven connections. Roughly doubled chapter length while maintaining "show, don't tell" principles and preserving mystery about her true capabilities.
 - [2025-05-26] CHAPTER 6 ENHANCEMENT ("Whispers in Stone"): Significantly expanded chapter to add more buildup and make divine signs start more subtly. Enhanced temple grounds arrival with immediate positive effects: horse calming and whickering, greener grass, cooler/fresher air, group relief shown through physical manifestations. Added extended scouting sequence where Gond finds himself wandering unconsciously, guided to an intact chamber deep in the temple. Strengthened divine encounter at Alanyi's altar with enhanced vision of temple's former glory and clear divine message: "You carry burdens willingly, Gond. Now carry hope." Added Sim's perceptive observation of Gond's changed expression without pressing for details. Built subtle divine manifestations that crescendo into clear divine encounter while maintaining Gond's uncertainty and rational skepticism. Established foundation for paladin awakening through environmental storytelling and foreshadowing.
@@ -63,6 +71,7 @@
 - [2025-05-21] Blended the first two paragraphs of `manuscript/chapter-01.md` for better flow.
 
 ## User Feedback Integration
+- [2025-05-27] User requested project reorganization to match ebook publishing format: Create chapters/ directory with descriptive filenames, rename assets/ to images/, create build/ directory, move synopsis to cline_docs/, create metadata.yml with integrated blurb, add epub.css stylesheet. Successfully implemented complete restructuring following recommended format.
 - [2025-05-27] User provided comprehensive translation improvement instructions for Chapter 1 Japanese translation: systematic term replacement (English quotes → Japanese brackets, manacle terminology correction), natural Japanese language optimization with 20-30% compression, cultural localization of metaphors, style unification with consistent 常体 narrative voice, and quality control through audio reading tests and particle correction.
 - [2025-05-26] User requested Chapter 3 expansion to flesh out Maera's role and provide world-building: Give more details of Maera's hut, show her awareness of their plight and hint at other escapees, have her provide world-building information about slavery being accepted as fact of life, slaves being sent far away or worked to death, existence of those who oppose slavery, detailed information about hiding places (way station and hills with benefits/problems), warnings about Blackwater dangers while only advising never compelling, and subtle foreshadowing of her future role as major figure in slave revolt running a network that helps slaves escape and maintaining contact with elves.
 - [2025-05-26] User requested Chapter 6 enhancement to add more buildup and make divine signs start more subtly: Have them set up camp in temple grounds with immediate positive effects (greener grass, horse calming and whickering, cooler/fresher air, group relief). Gond sets out to scout but finds himself wandering unconsciously, guided to an intact chamber deep in the temple. Enhanced divine encounter at altar with vision and voice: "You carry burdens willingly, Gond. Now carry hope." Sim notices change in Gond's expression but doesn't press directly. Divine signs should be subtle enough that Gond questions them until the voice speaks.

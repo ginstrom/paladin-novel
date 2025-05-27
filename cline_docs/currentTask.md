@@ -1,29 +1,37 @@
 ## Current Objective
-Create a compelling book-jacket blurb for "Paladin's Rise" based on the comprehensive synopsis in manuscript/synopsis.md, following the detailed blurb-writing guidelines provided by the user.
+Reorganize the "Paladin's Rise" novel files to match the recommended ebook publishing format structure.
 
 ## Context
-The user has requested a professional book-jacket blurb that will serve as marketing copy for the completed epic fantasy novel "Paladin's Rise." The blurb must follow specific guidelines:
-- 120-150 words maximum
-- Single paragraph format
-- Hook + premise + protagonist + conflict + stakes + unique twist + emotional promise
-- Tease only Act I material (no spoilers beyond opening)
-- Match the book's sardonic tone
-- End with compelling question/promise
+The user has requested a complete reorganization of the project files to follow standard ebook publishing conventions. This involves:
+- Creating new directory structure (chapters/, images/, build/)
+- Renaming all 27 chapter files with descriptive names and zero-padded numbering
+- Creating metadata.yml with integrated blurb content
+- Moving support files to appropriate locations
+- Creating basic epub.css stylesheet
 
-## Key Story Elements to Incorporate
-From the synopsis, the essential elements for the blurb are:
-- **Hook**: Betrayed mercenary's transformation from cynic to paladin
-- **Premise**: Gond betrayed by comrades, enslaved, escapes, discovers divine calling
-- **Protagonist**: Cynical mercenary with unexpected capacity for mercy
-- **Conflict**: Personal revenge vs. divine mission to liberate the enslaved
-- **Stakes**: Continental slave system vs. freedom for all races
-- **Unique Twist**: Divine powers manifesting through mercy rather than violence
-- **Tone**: Sardonic epic fantasy with redemption themes
+## Target Structure
+```
+paladin/
+├── build/                 # generated files
+├── chapters/
+│   ├── 01_mark-of-betrayal.md
+│   ├── 02_breaking-chains.md
+│   └── … (through 27_epilogue.md)
+├── images/
+│   ├── cover.jpg
+│   ├── map_world.png
+│   └── other images
+├── metadata.yml
+└── epub.css
+```
 
 ## Next Steps
-1. Create manuscript/blurb.md with compelling book-jacket copy
-2. Follow the 10-point guideline structure provided
-3. Maintain sardonic tone consistent with the novel
-4. Focus on Act I material only (betrayal, enslavement, escape, initial divine awakening)
-5. Target 120-150 words in single paragraph format
-6. Update projectRoadmap.md with completed task
+1. Create new directory structure (chapters/, build/)
+2. Rename assets/ to images/
+3. Move and rename all 27 chapter files with descriptive names
+4. Create metadata.yml with blurb content integrated
+5. Move synopsis.md to cline_docs/
+6. Move epub-master.md to build/
+7. Create basic epub.css
+8. Delete manuscript/blurb.md (content moved to metadata.yml)
+9. Update documentation to reflect new structure
