@@ -11,21 +11,21 @@
 - **Chapter 2**: Escape from slave ship, Jord dies, Gond/Pell/Sim reach shore, **Pell's coast knowledge enables strategic timing**
 - **Chapter 3**: Meet Maera, receive aid and guidance toward Blackwater, **Gond reflects on his past avoidance of slaver contracts**
 
-### Part II: Seeds of Rebellion (Chapters 4-10)
+### Part II: Seeds of Rebellion (Chapters 4-11)
 - **Chapter 4**: Ambush slave cart, rescue Aerin and Dax, acquire horses, **Gond acquires crude black iron sword**, **realizes his fundamental shift from passive acceptance to active resistance**
 - **Chapter 5**: Gond scouts Blackwater alone, abandons revenge pursuit for group safety, rescues Lira, **refuses better weapons in favor of crude sword**
 - **Chapter 6**: First mystical encounter at ruined temple of Alanyi
 - **Chapter 7**: **Three weeks after finding the valley** - Gradual awakening of divine abilities, settle in hidden valley
-- **Chapter 8**: Valley community establishment, refugees arrive, **discovery of previous refugee bones creates tension about valley safety**, **food shortage crisis forces dangerous foraging mission to Thornfield farmstead**, **first reports of systematic village raids with smoke columns on horizon**
-- **Chapter 9**: Defensive preparations, signs of divine enhancement, **discovery of slaver map marking their valley location**, **revelation of 40-man professional force planned for attack**, **emergency evacuation to Thornwood wilderness**, **slavers arrive to find abandoned camp**
-- **Chapter 10**: Major battle, first undeniable healing miracle (Dax), **sword transforms to silver-white steel, cleaves enemy weapon**, **Sim strikes slaver's wrist to protect children - establishes his pacifism boundary**
-
-### Part III: An Unlikely Saint (Chapters 11-16)
+- **Chapter 8**: **"Valley of Hope"** - Valley community establishment, refugees arrive, Gond's "gifts" continue manifesting (calming animals, sensing weather, enhanced tactical awareness), Sim and Gond pray over wounded refugee Jorik with unnaturally fast healing
+- **Chapter 9**: **"Sanctuary Found"** - Settlement development with skilled refugees (Korven blacksmith, Marta sailmaker, Dax carpenter), food crisis forces Thornfield expedition, discovery of systematic slaver raids, successful supply run, Gond's sword quality mysteriously improving
+- **Chapter 10**: **"Hunters and Hunted"** - Gond leads supply expedition to Thornfield, overhears slavers discussing plans to attack "northern valley," realizes sanctuary discovered, return with grim news of approaching professional slavers, community prepares for war
 - **Chapter 11**: **A month after the healing miracle** - Silviana Starweaver arrives, Gond accepts paladin identity, **Silviana shares elven lore about divine paladin blades**, **Gond's brand visibly fading as divine power grows**, **Silviana explains brand-erasing ability will develop**
+
+### Part III: An Unlikely Saint (Chapters 12-16)
 - **Chapter 12**: Divine power training with Silviana, learning costs and control
 - **Chapter 13**: Settlement grows to 200 people, slaver attack by Crimson Company, Pell's pivotal question about vengeance, Gond realizes transformation
 - **Chapter 14**: Willem dies despite healing attempt, crisis of faith, Thorek Ironheart arrives, Iron Covenant alliance formed, **Thorek examines sword and declares it beyond mortal forging ability**
-- **Chapter 15**: Maera returns with resistance network, Grimjaw Ironforge defects with siege engines, Elena Brightblade joins
+- **Chapter 15**: **"The Network Revealed"** - Maera returns with military column including Elena Brightblade and massive siege engines, **Grimjaw Ironforge's arrival** with bronze-reinforced war machines, Maera reveals network coordinator role, Elena brings intelligence about enemy escalation, **Divine healing test** with grandmother Nessa following Alanyi's guidance
 - **Chapter 16**: Religious delegation arrives, High Cleric Aldric demands submission, Gond refuses, religious schism begins
 
 ### Part IV: Forging a Free Nation (Chapters 17-21)
@@ -33,16 +33,29 @@
 - **Chapter 18**: Coordinated liberation raids across three provinces, capture and mercy toward Borin and Kael (now slave catchers), vengeance-to-mercy transformation complete, settlement grows to 400 people
 - **Chapter 19**: **"The Price of War"** (formerly "Dawn of a New Order"). Council debates war strategy against slaver cities. Gond's charisma grows. Sir Roderick Ashford of Noble Knights visits; ideological clash on social order, but less confrontational. Roderick offers conditional support. Alanyi's symbol briefly appears on Gond's brow (seen by Sim, Silviana). Pell accepts gold from Roderick's squire (Alaric) for intel, then brings it to council. They decide to use Pell as a channel for selective information. Settlement reaches 500 people. News of Slavers' Alliance army (3000 strong) and spreading uprisings arrives.
 - **Chapter 20**: **"Revelation and Ripples"**. Messenger from capital reports High Temple proclamation declaring Gond saint or heretic, splitting temples. News of Circle of Whispers conclave request and Millhaven delegation arrival. Gond discerns Gorlatch priests' deception, defeats them. At Grove of First Light, Gond heals shadow-touched elf (Alanyi's symbol briefly seen on his brow by Silviana, Aelindra, healed elf). Circle of Whispers recognizes Gond as true paladin, offers intelligence on slave cities. Return to settlement; council plans response to continental chaos and new intelligence.
-- **Chapter 21**: **"A House Divided"**. Noble Knight defectors led by Sir Marcus Brightwater join after discovering Sir Roderick's hypocrisy. Turin dominance established with Alanyi's temples in ruins. Gond's charismatic leadership peaks with Alanyi speaking directly through him during council meeting. Goals shift from liberty/egalitarianism to restoration of Alanyi's influence, mercy tempering Turin's justice, rebuilding temples, healing wounds. Sim chosen as leader of Alanyi's revival. Silviana aids human "Reformed Order" (of Alanyi) with lost knowledge and rites. Three-army coordination planned with explicit spiritual restoration objectives alongside military goals.
+- **Chapter 21**: **"Revelation and Ripples"** (actual content). Messenger from capital reports High Temple proclamation declaring Gond saint or heretic, splitting temples. News of Circle of Whispers conclave request and Millhaven delegation arrival. Gond discerns Gorlatch priests' deception, defeats them. At Grove of First Light, Gond heals shadow-touched elf (Alanyi's symbol briefly seen on his brow by Silviana, Aelindra, healed elf). Circle of Whispers recognizes Gond as true paladin, offers intelligence on slave cities. Return to settlement; council plans response to continental chaos and new intelligence.
 
-### Part V: The War of Restoration (Chapters 22-26)
-- **Chapter 22**: **"The First Tithe of Tears"**. War council plans assault on Saltmere, focusing on reclaiming Alanyi's Sunken Grotto temple. Reports from dwarven front (Thorek at Blackrock Pass, secured Pilgrim's Rest shrine) and elven front (Captain Lyralei disrupting Gorlatch caravans in Shadowfen, purifying elven way-shrines in Thornwood). Army prepares for march, imbued with sacred mission. Borin and Kael's presence in Saltmere as mercenaries is revealed; Gond resolves to offer them a choice between light and darkness.
+### Part V: The War of Restoration (Chapters 22-27)
+- **Chapter 22**: **"A House Divided"** (actual content). Noble Knight defectors led by Sir Marcus Brightwater arrive after discovering Sir Roderick's child slavery contracts. Civil war within Noble Knights between reformers and corruption profiteers. Integration challenges with knights' ingrained assumptions about justice versus mercy. **Alanyi's divine manifestation** - speaks directly through Gond during council meeting, witnessed by entire diverse assembly. **Spiritual restoration goals** established - shift from modern liberty/egalitarianism to restoration of Alanyi's influence, mercy tempering Turin's justice. **Sim chosen as spiritual leader** to lead Alanyi's revival, rebuild temples, train new priests. **Silviana aids Reformed Order** with ancient elven knowledge to restore lost rites and practices. **Three-army coordination planned** with explicit spiritual restoration objectives alongside military goals.
 - **Chapter 23**: **"The Shadow of Gorlatch"**. March to Saltmere. Mysterious disappearances of army members. Minor skirmish highlights inter-faction cooperation (Noble Knight Sir Kaelen saved by ex-slave Joric). Gorlatch clerics ambush, seeking retribution for slain servants (Ch 20); Gond protects companions, defeats clerics, heals magical poison. Army arrives at Saltmere. Missing persons found tortured in a pit by Gorlatch's followers; two alive (dwarf Borin Stonebeard, human Elara). Gond heals Borin; Alanyi instructs him to only ease Elara's suffering, not fully heal; Gond obeys. Siege of Saltmere begins. City delegation offers compromise; Gond gives terms of surrender. Delegation betrayed and killed by own city guards upon return; one survivor confirms Gorlatch's control. Siege lines firmly established, harbor blockaded.
-- **Chapter 24**: **"The Cleansing Tide"**. Saltmere falls after fierce urban combat; Gond's forces use ancient tunnels. Dwarven warriors (led by Borin Stonebeard) play a key role in breaking a stronghold. The Sunken Grotto (Alanyi's temple) is reclaimed and initial purification rites begin. Army marches to Blackwater. Siege of Blackwater is aided by an internal rebellion sparked by news of Saltmere's fall; Gond's forces breach walls during chaos. Inner keep reveals a hidden, horrific temple to Gorlatch. Army advances to Port Sorrow, finding it defended by elite Gorlatch clerics and three black ships. Clerics unleash powerful fear magic. Gond counters with an immense wave of divine light from his sword, shattering the fear and destroying the black ships, but collapses from the effort. After recovering, he confronts the high priests in their barricaded temple, defeating them in a divine duel (Alanyi vs. Gorlatch). The dark temple implodes. Weeks later, a messenger from Thorek Ironheart reports the dwarves have besieged the Citadel of Asham-Val (corrupt Order of Turin stronghold) and requests aid. Gond agrees to march his army inland.
+- **Chapter 24**: **"The Cleansing Tide"**. Saltmere falls after fierce urban combat; Gond's forces use ancient tunnels. Dwarven warriors (led by Borin Stonebeard) play a key role in breaking a stronghold. The Sunken Grotto (Alanyi's temple) is reclaimed and initial purification rites begin. Army marches to Blackwater. Siege of Blackwater is aided by an internal rebellion sparked by news of Saltmere's fall; Gond's forces breach walls during chaos. Inner keep reveals a hidden, horrific temple to Gorlatch. Army advances to Port Sorrow, finding it defended by elite Gorlatch clerics and three black ships. Clerics unleash powerful fear magic. Gond counters with an immense wave of divine light from his sword, shattering the fear and destroying the black ships, but collapses from the effort. After recovering, he confronts the high priests in their barricaded temple, defeating them in a divine duel (Alanyi vs. Gorlatch). The dark temple implodes. **Kael's redemption** - Gond discovers his former friend wounded and dying among enemy fighters, chooses divine mercy and heals him. Weeks later, a messenger from Thorek Ironheart reports the dwarves have besieged the Citadel of Asham-Val (corrupt Order of Turin stronghold) and requests aid. Gond agrees to march his army inland.
 - **Chapter 25**: **"The Wrath of Gods"**. Gond's army arrives at the Citadel of Asham-Val to aid Thorek's dwarven siege. Discovery of branded children in the citadel's dungeons reveals the depths of the corrupt Order of Turin's depravity. Combined assault by human, dwarven, and elven forces breaches the outer defenses. Confrontation with High Cleric Mordain in the corrupted inner keep. Turin's divine wrath manifests through Gond, striking down the corrupt priests who perverted his teachings. The golden light of divine judgment purifies the citadel and causes enemy soldiers to lay down weapons and seek forgiveness. Mordain is broken but offered redemption. The victory marks the end of organized resistance to the new order and the final defeat of the old corruption.
 - **Chapter 26**: **"A Continent Reborn"**. Epilogue showing the aftermath of victory. Gond's mercy toward Kael (healing and redemption). Establishment of new governmental structures. The Continental Congress and Gond's address to representatives of all races. Long-term perspective showing the success of the new order, with former holdout cities eventually joining the alliance. Final scenes of peace and prosperity across the continent.
 
 ## Continuity Fixes Implemented
+
+### Timeline Fixes (2025-05-27)
+- **Chapter 8**: Changed "prepare for winter" to "prepare for the coming seasons" - eliminates conflict with Chapter 9's summer setting
+- **Chapter 16**: Changed "For the past six months" to "For the past several months" - aligns with story progression timeline  
+- **Chapter 22**: Verified "Over a year ago, this settlement didn't exist" - correctly reflects settlement age
+- **Chapter 9**: No changes needed (serves as summer timing anchor point)
+
+### Chapter Title Corrections (2025-05-27)
+- **Chapter 8**: "Sanctuary Found" → "Valley of Hope" (matches actual content about divine manifestations)
+- **Chapter 9**: "Hunters and Hunted" → "Sanctuary Found" (matches actual content about settlement development)
+- **Chapter 10**: "First Blood, First Miracle" → "Hunters and Hunted" (matches actual content about supply expedition and discovery)
+- **Chapter 15**: Updated to "The Network Revealed" (matches actual content with Maera's return and Grimjaw's arrival)
+- **Chapter 22**: "The First Tithe of Tears" → "A House Divided" (matches actual content about Noble Knight defectors and Alanyi's manifestation)
 
 ### Pell's Coast Knowledge
 - **Chapter 2**: Added Pell's background as former fishing boat worker from Millhaven
@@ -78,15 +91,17 @@
 ### Sword Evolution Timeline
 1. **Chapter 4**: Origin - Crude, nearly black iron sword from slaver ambush, more iron than steel
 2. **Chapter 5**: Attachment - Gond feels inexplicably drawn to weapon, refuses superior blades
-3. **Chapter 10**: Transformation - Becomes silver-white finest sword-steel during first major battle
-4. **Chapter 10**: Recognition - Refugee comments "Finally picked a weapon worthy of a leader"
-5. **Chapter 10**: Power - Sword cleaves through enemy captain's weapon like parchment
-6. **Chapter 11**: Lore - Silviana shares elven knowledge of divine paladin blades from ancient songs
-7. **Chapter 14**: Examination - Thorek declares it "beyond my ability to forge" and "touched by the divine"
-8. **Chapter 24**: Ultimate manifestation - Blue-white light emission, cuts through fear magic, creates courage zone
+3. **Chapter 9**: Gradual improvement - Pell notes "Finally knocked some of the rust off, it's got a proper shine now"
+4. **Chapter 10**: Transformation - Becomes silver-white finest sword-steel during first major battle
+5. **Chapter 10**: Recognition - Refugee comments "Finally picked a weapon worthy of a leader"
+6. **Chapter 10**: Power - Sword cleaves through enemy captain's weapon like parchment
+7. **Chapter 11**: Lore - Silviana shares elven knowledge of divine paladin blades from ancient songs
+8. **Chapter 14**: Examination - Thorek declares it "beyond my ability to forge" and "touched by the divine"
+9. **Chapter 24**: Ultimate manifestation - Blue-white light emission, cuts through fear magic, creates courage zone
 
 ### Sword Abilities Progression
 - **Early stages**: Crude appearance but inexplicable attachment
+- **Chapter 9**: Quality improvement, gains "proper shine"
 - **Chapter 10**: Silver-white transformation, supernatural sharpness, weapon-cleaving
 - **Chapter 24**: Light emission, magical fear dispelling, courage aura creation
 - **Future potential**: Mentioned abilities include cutting through enchanted armor, banishing supernatural shadows
@@ -112,7 +127,7 @@
 - **Domains**: Healing and joy
 - **Symbol**: Intertwined circles
 - **Role**: Primary divine patron of Gond's paladin calling
-- **Manifestation**: Speaks through Gond at critical moments, causing his face to glow with otherworldly light. Her symbol (intertwined circles) can momentarily appear on Gond's brow, replacing the slave brand, visible to those with spiritual sensitivity (Ch 19 during discussion with Sir Roderick, seen by Sim & Silviana; Ch 20 during healing of shadow-touched elf, seen by Silviana, Aelindra, and the healed elf; Ch 21 direct speech through Gond during council meeting about restoration goals, witnessed by entire diverse assembly).
+- **Manifestation**: Speaks through Gond at critical moments, causing his face to glow with otherworldly light. Her symbol (intertwined circles) can momentarily appear on Gond's brow, replacing the slave brand, visible to those with spiritual sensitivity (Ch 19 during discussion with Sir Roderick, seen by Sim & Silviana; Ch 20 during healing of shadow-touched elf, seen by Silviana, Aelindra, and the healed elf; Ch 22 direct speech through Gond during council meeting about restoration goals, witnessed by entire diverse assembly).
 
 #### Turin
 - **Domains**: Blessing weapons and armor
@@ -193,23 +208,6 @@
 - **Mechanism**: Healing touch that erases both physical mark and spiritual bondage
 - **Significance**: "One of the greatest gifts a paladin of mercy can offer: the chance to be truly free, unmarked by past suffering"
 
-### Enhanced Sword Evolution Details
-
-#### Physical Transformation Stages
-1. **Initial state**: Poor quality, more iron than steel, nearly black from impurities
-2. **Pell's assessment**: Jokingly called "pick sticker" due to crude appearance
-3. **Gradual improvement**: Quality increases over time, gains "proper shine"
-4. **Pell's observation**: "Finally knocked some of the rust off, it's got a proper shine now"
-5. **Battle transformation**: Becomes fully silver in first major battle
-6. **Ultimate manifestation**: Blue-white light emission with advanced divine powers
-
-#### Divine Abilities Development
-- **Early stage**: Inexplicable attachment despite crude appearance
-- **Chapter 10**: Silver-white transformation, supernatural sharpness, weapon-cleaving ability
-- **Advanced powers**: Light emission, cutting through fear spells, daunting evil foes
-- **Chapter 24**: Blue-white light, fear magic dispelling, courage aura creation
-- **Future potential**: Cutting through enchanted armor, banishing supernatural shadows
-
 ## Character Developments
 
 ### Gond's Transformation Arc
@@ -221,7 +219,7 @@
 - **Key moment (Chapter 13)**: Realizes revenge is no longer his focus
 - **Crisis point (Chapter 14)**: Learns divine power has limits, accepts burden
 - **Political awakening (Chapter 16)**: Rejects religious authority, commits to total war
-- **Divine peak (Chapter 21)**: Alanyi speaks directly through him, establishing spiritual restoration as primary goal; chooses Sim to lead Alanyi's revival
+- **Divine peak (Chapter 22)**: Alanyi speaks directly through him, establishing spiritual restoration as primary goal; chooses Sim to lead Alanyi's revival
 
 ### Pell's Character Growth Arc
 - **Background**: Former fishing boat worker from Millhaven, turned to "more profitable work"
@@ -238,15 +236,21 @@
 - **Boundary established**: Will use minimal violence only to protect innocents
 - **Internal conflict**: "The minimum necessary. But that doesn't make it easier"
 - **Character consistency**: Refuses to participate in offensive operations, maintains healing/support role
-- **Chapter 21**: **New Leadership Role** - Chosen by Gond (following Alanyi's divine manifestation) to lead the revival of Alanyi's worship. Tasked with creating spaces where her worship can flourish organically, rebuilding ruined temples, training new priests, but always offering hope rather than demanding faith. Transforms from gentle healer to spiritual leader of the restoration movement.
+- **Chapter 22**: **New Leadership Role** - Chosen by Gond (following Alanyi's divine manifestation) to lead the revival of Alanyi's worship. Tasked with creating spaces where her worship can flourish organically, rebuilding ruined temples, training new priests, but always offering hope rather than demanding faith. Transforms from gentle healer to spiritual leader of the restoration movement.
 
-### New Character Introductions (Part III)
+### New Character Introductions
+
+#### Sir Marcus Brightwater (Chapter 22)
+- Leader of Noble Knight defectors who broke from Sir Roderick's faction
+- Discovered child slavery contracts signed by Sir Roderick himself
+- Leads twenty knights expelled as "traitors" for opposing corruption
+- Represents the faction that chose conscience over profit and status
 
 #### Silviana Starweaver (Chapter 11)
 - Elven lore-keeper and spiritual teacher
 - Provides ancient knowledge of Alanyi and paladin traditions
 - Serves as spiritual mentor and diplomatic liaison
-- **Chapter 21**: Offers to help the human "Reformed Order" (of Alanyi) restore lost knowledge and rites, sharing ancient elven wisdom about Alanyi's worship, sacred songs, and healing practices beyond the merely physical
+- **Chapter 22**: Offers to help the human "Reformed Order" (of Alanyi) restore lost knowledge and rites, sharing ancient elven wisdom about Alanyi's worship, sacred songs, and healing practices beyond the merely physical
 - Current status: At valley settlement, teaching Gond divine control and aiding in Alanyi's restoration
 
 #### Thorek Ironheart (Chapter 14)
@@ -267,50 +271,6 @@
 - Brings military expertise and intelligence network
 - Professional soldier with practical armor and well-used sword
 
-#### High Cleric Aldric (Chapter 16)
-- Leader of established Order of Alanyi
-- Represents corrupt religious hierarchy
-- Demands Gond's submission to traditional authority
-- Threatens excommunication and heresy charges
-
-#### Sister Marta (Chapter 16)
-- Young priest from Westport Temple
-- Witnesses Gond's healing of Lily's withered arm
-- Represents sympathetic faction within established orders
-- Promises Westport Temple will remember Gond's legitimacy
-
-#### Battlemaster Korgan Ironshield (Chapter 16)
-- Iron Covenant representative at religious meeting
-- Defends dwarven faction's legitimacy and authority
-- Supports Gond against established religious hierarchy
-
-#### Captain Voss (Chapter 13)
-- Leader of Crimson Company slaver force
-- Professional mercenary hired to capture Gond
-- Killed during battle for the valley
-- Represented escalation of enemy response
-
-#### Willem (Chapter 14)
-- Young refugee who died despite Gond's healing attempts
-- 16-year-old who took up sword for first time
-- Death triggers Gond's crisis of faith
-- Represents cost of divine calling and limits of power
-
-#### Mira Thornfield (Chapter 12)
-- Refugee from destroyed village
-- Healed by Gond of internal injuries
-- Demonstrates growing reputation drawing desperate people
-
-#### Marcus (Chapter 13)
-- Elderly man from Westport seeking healing for granddaughter
-- Traveled 100 miles on foot following rumors
-- Represents impossible expectations and scope of need
-
-#### Lily (Chapter 16)
-- 8-year-old child with withered arm from birth
-- Healed by Gond in demonstration of divine power
-- Miracle convinces Sister Marta of Gond's legitimacy
-
 ## Plot Threads and Foreshadowing
 
 ### Active Plot Threads
@@ -322,9 +282,10 @@
 6. **Military preparation**: Siege engines, weapons, tactical training for larger war
 7. **Divine sword evolution**: Weapon growing in power alongside Gond's spiritual development
 8. **Gorlatch conspiracy**: Ancient evil god's centuries-long plan to corrupt divine worship through slavery
+9. **Spiritual restoration mission**: Alanyi's revival and temple rebuilding as primary goal
 
 ### Foreshadowing Elements
-1. **Borin and Kael's fate**: Still operating as slave catchers, destined for mercy encounter
+1. **Borin and Kael's fate**: Still operating as slave catchers, destined for mercy encounter in Saltmere
 2. **Continental war**: Multiple armies coordinating for final campaign
 3. **Divine intervention**: Turin's wrath against corrupt leadership
 4. **Multi-racial society**: Vision of humans, dwarves, and elves united
@@ -340,6 +301,7 @@
 - **Iron Covenant**: Dwarven faction preserving true divine teachings
 - **Circle of Whispers**: Elven council maintaining ancient knowledge
 - **Sympathetic factions**: Individual temples questioning authority
+- **Reformed Order of Alanyi**: Human faction aided by Silviana to restore lost knowledge
 
 ### Military Assets
 - **Dwarven siege engines**: Grimjaw's bronze-reinforced war machines
@@ -354,34 +316,27 @@
 - **Religious corruption**: Orders serving political rather than divine will
 - **Underground resistance**: Growing network of sympathizers
 
-## Unresolved Threads
-1. **Noble Knights of Turin emergence and coordination** (Sir Roderick's faction vs. defectors like Sir Marcus).
-2. **Specific enemy response to Crimson Company failure** and the broader liberation movement.
-3. **Maera's full network scope and capabilities** in the wider war.
-4. **Religious orders' final factional alignments** as the spiritual war intensifies.
-5. **Sword's full potential and future evolution** as Gond's power grows.
-6. **The fate of Borin and Kael** when encountered in Saltmere.
-
 ## Key Locations
 
 ### The Valley Settlement
-- **Population**: ~200 refugees and fighters
-- **Defenses**: Rebuilt after Crimson Company attack
-- **Facilities**: Healing circle, council area, workshops, guest quarters
+- **Population**: ~500 people (grown from original ~200)
+- **Defenses**: Rebuilt after Crimson Company attack, now with dwarven siege engines
+- **Facilities**: Healing circle, council area, workshops, guest quarters, forge, temple space
 - **Strategic value**: Hidden sanctuary becoming movement headquarters
 
 ### Ancient Sites
 - **Ruined temple**: Where Gond first experienced divine touch
 - **Sacred oak**: Ancient tree with Alanyi's symbol, site of spiritual renewal
 - **Healing circle**: Silviana's suggested location for divine work
+- **Grove of First Light**: Elven sacred site where Circle of Whispers tested Gond
 
 ### External Threats
 - **Blackwater**: Nearby city with increased bounties on escapees
 - **Millhaven**: Burned village, source of recent refugees, Pell's hometown
-- **Coastal cities**: Major slave trade hubs targeted for liberation
+- **Coastal cities**: Major slave trade hubs targeted for liberation (Saltmere, Port Sorrow)
 - **Widow's Cape**: Rocky promontory where ships angle close to shore
 
-## Themes Developed in Part III
+## Themes Developed
 1. **Divine responsibility and its burdens**
 2. **Political vs. spiritual authority**
 3. **Unity across racial and cultural boundaries**
@@ -389,3 +344,5 @@
 5. **Transformation from personal to political struggle**
 6. **Faith tested through failure and doubt**
 7. **Spiritual growth manifested through divine artifacts**
+8. **Mercy versus justice in divine calling**
+9. **Restoration versus revolution as paths to change**

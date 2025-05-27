@@ -78,31 +78,31 @@
 *   Gond rationalizes each incident, but Sim quietly observes the pattern.
 *   They discover and begin settling in a secluded valley.
 
-### Chapter 8: Sanctuary Found
+### Chapter 8: Valley of Hope
 *   Valley community establishment: hunting, fishing, gathering for survival.
 *   Word spreads through Maera's growing network; refugees arrive in ones and twos.
-*   Gond and Sim suspect information leak but don't know the source.
-*   Gond's "gifts" continue manifesting: calming frightened animals, sensing weather changes.
-*   Community grows but remains manageable; sense of false security develops.
-*   Gond takes on more leadership responsibilities, guided by increasingly reliable instincts.
+*   Gond's "gifts" continue manifesting: calming frightened animals, sensing weather changes, enhanced tactical awareness.
+*   During heated argument between refugees, Gond's words carry unusual weight and authority.
+*   Sim and Gond pray over wounded refugee Jorik; healing occurs unnaturally fast.
+*   Gond rationalizes each incident, but Sim quietly observes the pattern of divine manifestation.
+*   Community grows but remains manageable; Gond takes on more leadership responsibilities.
 
-### Chapter 9: Hunters and Hunted
-*   Gond realizes if refugees can find them, slave catchers will follow.
-*   Begins defensive preparations: training fighters, setting ambush positions.
-*   Newcomers are overconfident about their safety in the remote valley.
-*   Gond drills the community in defensive tactics, his tactical sense unnaturally sharp.
-*   During preparation for expected attack, Gond takes what should be a serious wound.
-*   Observers expect him to be lame, but after the skirmish it's merely a graze.
-*   Tension builds as signs of approaching slave catchers multiply.
+### Chapter 9: Sanctuary Found
+*   Settlement development with skilled refugees: Korven (blacksmith), Marta (sailmaker), Dax (carpenter).
+*   Food crisis forces dangerous expedition to abandoned Thornfield farmstead.
+*   Discovery of systematic slaver raids with smoke columns on horizon.
+*   Successful supply run yields tools, weapons, and months of food supplies.
+*   Gond's sword quality mysteriously improving - "more suited for hoeing turnips" to "pure sword-steel."
+*   Community transforms from desperate refugees to organized settlement with hope for the future.
 
-### Chapter 10: First Blood, First Miracle
-*   Force of approximately 10 slave catchers attacks the valley settlement.
-*   Gond's prepared ambush routs the attackers decisively.
-*   Victory comes at cost: two refugees killed, one fatally wounded.
-*   Faced with dying refugee, Gond's first clear, undeniable healing miracle occurs.
-*   Divine power manifests unmistakably—no room for rationalization.
-*   Community witnesses Gond's transformation into an acknowledged paladin.
-*   Sim provides spiritual context; Gond can no longer deny his calling.
+### Chapter 10: Hunters and Hunted
+*   Gond leads supply expedition to Thornfield farmstead in dangerous territory.
+*   Overhears slavers discussing systematic destruction and plans to attack "northern valley."
+*   Realizes their sanctuary has been discovered and marked for assault.
+*   Successful supply gathering but race against time to warn settlement.
+*   Return with grim news: professional slavers with detailed maps approaching within days.
+*   Community prepares for war - defensive positions, evacuation routes, trap setting.
+*   Chapter ends with tension building as signs of approaching slave catchers multiply.
 
 ### Key Themes for Part II
 *   Gradual spiritual awakening
@@ -172,13 +172,13 @@
 *   Recommits to his path with deeper understanding of the cost and new military support.
 
 ### Chapter 15: The Network Revealed
-*   Maera arrives at the valley with a small group of followers.
-*   Reveals her role in spreading word about the sanctuary.
-*   Explains her larger vision: building a network to challenge the slave system.
-*   **Grimjaw Ironforge's defection**: Elite dwarven siege engineer leads his company's defection from established military orders.
-*   Introduces the concept of winning over members of the holy orders.
-*   Dwarven siege engines and weapons manufacturing capabilities demonstrated.
-*   Gond realizes his role extends beyond the valley to a continental movement.
+*   Maera returns with military column including Elena Brightblade (former Royal Guard) and massive siege engines.
+*   **Grimjaw Ironforge's arrival**: Master dwarven siege engineer defects with bronze-reinforced war machines and professional equipment.
+*   Maera reveals her role as network coordinator, spreading word of Gond's sanctuary to continental resistance.
+*   Elena brings intelligence about enemy escalation - organized response from multiple slaver companies with magical support.
+*   **Divine healing test**: Gond heals dying grandmother Nessa but follows Alanyi's guidance to ease suffering rather than prolong life.
+*   Gond realizes his role extends beyond the valley to a continental liberation movement.
+*   Decision point: remain hidden sanctuary or join larger war against slave system.
 
 ### Chapter 16: Allies and Enemies
 *   First contact with sympathetic members of established holy orders.
@@ -308,12 +308,15 @@
 
 ## Part V: The War for Freedom (Chs 22-27)
 
-### Chapter 22: The First Tithe of Tears
-*   **War council planning**: Strategic planning for assault on Saltmere, focusing on reclaiming Alanyi's Sunken Grotto temple. Gond's leadership shows spiritual maturity and divine authority following Alanyi's manifestation.
-*   **Three-pronged sacred campaign**: Reports from dwarven front (Thorek securing Blackrock Pass and Pilgrim's Rest shrine) and elven front (Captain Lyralei disrupting Gorlatch caravans, purifying way-shrines). Multi-racial coordination for spiritual restoration.
-*   **Silviana's ancient knowledge**: Elven tunnels beneath Saltmere revealed for tactical advantage. Purification rites shared between elven and human traditions.
-*   **Borin and Kael revelation**: Intelligence reveals Gond's former betrayers are now mercenaries defending Saltmere. Gond responds with spiritual maturity, emphasizing Alanyi's mercy and justice over personal vengeance.
-*   **Sacred preparation**: Army prepares for march with blessed weapons and prayers. The campaign is imbued with divine purpose - not mere conquest but spiritual cleansing and restoration of Alanyi's influence.
+### Chapter 22: A House Divided
+*   **Noble Knight defectors arrive**: Sir Marcus Brightwater leads twenty knights who've broken from Sir Roderick's faction after discovering child slavery contracts.
+*   **Civil war within Noble Knights**: Split between reformers and those profiting from corruption; Sir Marcus's group expelled as "traitors."
+*   **Integration challenges**: Difficulty incorporating knights with ingrained assumptions about justice versus mercy.
+*   **Alanyi's divine manifestation**: During council meeting, Alanyi speaks directly through Gond, witnessed by entire diverse assembly.
+*   **Spiritual restoration goals**: Shift from modern liberty/egalitarianism to restoration of Alanyi's influence, mercy tempering Turin's justice.
+*   **Sim chosen as spiritual leader**: Tasked with leading Alanyi's revival, rebuilding temples, training new priests.
+*   **Silviana aids Reformed Order**: Offers ancient elven knowledge to help human "Reformed Order" restore lost rites and practices.
+*   **Three-army coordination planned**: Explicit focus on spiritual restoration alongside military objectives for upcoming campaign.
 
 ### Chapter 23: The Shadow of Gorlatch
 *   **March to Saltmere**: Army advances toward the coastal city, but mysterious disappearances plague the column. Scouts and foragers vanish without trace, creating tension and suspicion.

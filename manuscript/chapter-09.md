@@ -24,9 +24,17 @@ The sound of hammering had joined the axes as refugees fashioned tools from salv
 
 Throughout the valley, Gond's name echoed quietly. When disputes arose over work assignments, people sought his judgment. When questions needed answers, they turned to him. It seemed that Gond's mere presence was enough to calm tempers and turn anger into smiles. Gond found himself at the center of every decision, the focal point around which their small community revolved. 
 
-As his abilities continued manifesting—calming frightened animals with a touch, sensing weather changes hours in advance—Gond took on more responsibilities. His tactical insights proved unnaturally sharp, his instincts for danger increasingly reliable. The community grew but remained manageable, a sense of security developing among the refugees.
+Increasingly, people began to notice strange manifestations of some kid of power in Gond. One night, he had his sword out for maintenance-oiling and polishing. He had noticed the quality of the metal increasing gradually since his experience at the temple.
 
-Slowly the group of refugees has grown into a community. Each night they gathered around a communal fire and shared a meal.
+Pell seemed to take notice too. "I could have sword that old pig sticker of yours was plain iron," he joked. "More suited for hoeing turnips than fighting. But that blade is pure sword-steel or I'm a three-legged mule."
+
+"Just proper maintenance bringing out the sword's own qualities," replied Gond. "You should try it on your own sword."
+
+"If I could turn iron into steel by oiling and polishing, I'd be fat and rich."
+
+Gond's abilities continued to manifest in other ways as well: calming frightened animals with a touch, sensing weather changes hours in advance. With the authority these powers seemed to give him in the others' eyes, Gond took on more responsibilities. His tactical insights proved unnaturally sharp, his instincts for danger increasingly reliable. The community grew but remained manageable, a sense of security developing among the refugees.
+
+Slowly the group of refugees had grown into a community. Each night they gathered around a communal fire and shared a meal.
 
 On one particularly nice evening, Gond addressed the group. "We've found our sanctuary." His voice carried quiet authority. "But safety isn't guaranteed. We must stay vigilant, ready to defend this home."
 
@@ -34,11 +42,11 @@ Pell stepped forward, arms crossed. "We should fortify the entrance to the valle
 
 Sim nodded. "We build a community of hope, but prepare wisely for those who would destroy our peace."
 
-Murmurs of agreement rose from the gathered refugees, voices strengthening with resolve. Gond watched their faces, something swelling in his chest that he refused to name.
+Murmurs of agreement rose from the gathered refugees, voices strengthening with resolve. Gond watched their faces, something swelling in his chest, not pride, but satisfaction, maybe.
 
 "We each have a role." His gaze moved from face to face, holding each one. "Together, we survive. Together, we thrive."
 
-In the quiet hours before dawn, Gond stood watch atop the valley's highest ridge. Below, the fledgling community slept peacefully, their safety bound to his strength and choices. The weight was immense, but for the first time, he felt ready to carry it.
+In the quiet hours before dawn, Gond stood watch atop the valley's highest ridge. Below, the fledgling community slept peacefully.
 
 "It's a good start," Pell murmured, joining him in the darkness. "But slavers won't ignore us forever."
 
@@ -46,7 +54,7 @@ Gond nodded, his jaw set. "Let them come. They'll find more than frightened fugi
 
 Pell's lips curved in a fierce grin. "Then we'll show them what desperate people can do when they have something worth protecting."
 
-Below them, the first rays of dawn touched their hidden valley with gold. Gond felt something settle deep in his chest—not the burden he'd expected, but a quiet, unshakeable resolve.
+Below them, the first rays of dawn touched their hidden valley with gold. Gond felt something settle deep in his chest.
 
 "Let them come," he repeated softly, his eyes blazing with defiant purpose. "We'll be ready."
 
@@ -61,6 +69,10 @@ Gond crouched beside the dwindling pile of grain sacks, his jaw tight as he coun
 "Bad enough." Gond straightened, brushing dust from his hands. "We need to send foraging parties farther out. The valley's resources won't sustain fifty people."
 
 Sim approached, his face grave. "I've been thinking the same. The fruit trees are nearly stripped, and the fish in the lake are growing scarce."
+
+"And too late in the season to plant," added Pell.
+
+"Come fall we'll be able to gather enough acorns, nuts and berries to tide us until spring. But until then..." Sim trailed off.
 
 The three men stood in uncomfortable silence, each understanding the implications. Larger foraging parties meant greater risk of discovery. But without food, their sanctuary would become a tomb.
 
@@ -78,7 +90,7 @@ A chill ran down Gond's spine despite the morning warmth. "Systematic raids?"
 
 Pell cursed under his breath. "So we're caught between starvation and discovery. Perfect."
 
-Gond paced a tight circle, his boots wearing a path in the dirt. His hands clenched and unclenched at his sides as he weighed their choices, none of them good. They could ration more strictly, but hungry people made poor fighters. They could send small, stealthy foraging parties, but that would take too long to gather enough supplies. Or they could risk a major expedition to the abandoned farmsteads they'd passed two days south—closer to the smoke, closer to danger, but with the potential for significant food stores.
+Gond paced a tight circle, his boots wearing a path in the dirt. His hands clenched and unclenched at his sides as he weighed their choices, none of them good. They could ration more strictly, but hungry people made poor fighters. They could send small, stealthy foraging parties, but that would take too long to gather enough supplies. Or they could risk a major expedition to the abandoned farmsteads two days south—closer to the smoke, closer to danger, but with the potential for significant food stores.
 
 He stopped abruptly, jaw set with decision.
 
@@ -126,17 +138,15 @@ As evening fell over the valley, Gond stood before the assembled refugees once m
 
 The faces looking back at him showed fear, yes, but also determination. These were no longer the broken fugitives who had stumbled into his care. They were his people, bound together by shared danger and common purpose.
 
-And tomorrow, that bond would be tested by fire.
-
 ***
 
 Three days later, the expedition returned with more than just food.
 
-Gond watched as the heavily laden horses picked their way down the valley's narrow entrance, their riders weary but triumphant. The Thornfield farmstead had yielded better than expected—not just grain and preserved meat from the root cellars, but tools, weapons, and materials the fleeing family had been forced to abandon.
+The weary but trimphant party picked their way down the valley's narrow entrance, leading the community's horses-they now had four, including the old cart horse Gond and his companions had stolen in their first caravan raid. Each horse was pulling a fully laden sledge, the expedition's members grunting and straining to help the sledges over roots and boulders. The Thornfield farmstead had yielded better than expected—not just grain and preserved meat from the root cellars, but tools, weapons, and materials the fleeing family had been forced to abandon.
 
-"Two wagonloads of grain," Pell reported, dismounting with obvious relief. "Enough to last us another month, maybe more if we're careful. Plus salt pork, dried beans, and a barrel of honey."
+"Ten sacks of potatoes, five sacks of oats, and another five of wheat," Gorn told the waiting refugees, dismounting with obvious relief. "Enough to last us another month and a half, maybe more if we're careful. Plus salt pork, dried beans, and a barrel of honey."
 
-"And the rest?" Gond asked, noting the bundles strapped to every available surface.
+"And the rest?" Sim asked, noting the bundles strapped to every available surface.
 
 Korven stepped forward, his scarred hands cradling a collection of iron tools like precious treasures. "Proper hammers, tongs, files. A set of chisels that'll let me work real detail into the metal." His eyes gleamed with anticipation. "And three ingots of good steel—not the scrap we've been melting down, but proper forged metal."
 

@@ -116,7 +116,7 @@ Gond hesitated, then drew the silver sword. Even in the afternoon light, it seem
 
 Silviana's eyes widened with recognition, her breath catching as she stared at the transformed steel. "By the ancient trees," she whispered, her voice barely audible. "I had heard rumors, but to see it with my own eyes..." She looked up at Gond with something approaching reverence, her hands trembling slightly. "Do you know what you carry?"
 
-"A sword that used to be crude iron," Gond said. "It changed during the battle when I first healed Dax."
+"A sword that used to be crude iron," Gond said. "It changed during my travels."
 
 "Not just any sword. A blade touched by divine will." Silviana's voice carried the weight of ancient knowledge. "The old songs speak of such weapons—steel transformed by righteous purpose, forged not in earthly fires but in the crucible of a paladin's awakening. There have been perhaps a dozen such blades in all the long years since Alanyi first walked among mortals."
 

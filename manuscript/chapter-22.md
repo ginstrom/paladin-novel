@@ -198,7 +198,7 @@ Gond's gaze swept across the assembled faces, seeing not just warriors and refug
 
 "A pretty dream," someone called out. "But can it work on a large scale?"
 
-"Look around you," Gond replied. "Six months ago, this settlement didn't exist. A year ago, most of us were strangers, enemies, or slaves. Now we're family, bound together by something stronger than blood or law—by the choice to serve something greater than ourselves."
+"Look around you," Gond replied. "Over a year ago, this settlement didn't exist. A year ago, most of us were strangers, enemies, or slaves. Now we're family, bound together by something stronger than blood or law—by the choice to serve something greater than ourselves."
 
 The hall erupted in cheers, but they were different from the war cries of previous gatherings. These were sounds of joy, of hope, of people who had found not just a cause worth fighting for, but a vision worth living for.
 

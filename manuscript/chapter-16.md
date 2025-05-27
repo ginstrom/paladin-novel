@@ -58,7 +58,7 @@ The elderly woman's smile was enigmatic. "That depends on how well this meeting 
 
 She led them to the settlement's council area, where a crowd had gathered to witness the arrival of so many newcomers. As they settled around the central fire, Maera gestured for silence.
 
-"For the past six months," she began, "I've been traveling. Not as a simple healer, but as a messenger, carrying word of what happened in this valley to those who might be interested in hearing it."
+"For the past several months," she began, "I've been traveling. Not as a simple healer, but as a messenger, carrying word of what happened in this valley to those who might be interested in hearing it."
 
 "What kind of people?" Pell asked, his thief's instincts clearly on alert.
 

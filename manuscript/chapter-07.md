@@ -4,13 +4,13 @@
 
 ### Chapter 7: Whispers in Stone
 
-Gond continued exploring the ruins as the last light faded from the western sky. He intended to circle the temple grounds, check for signs of pursuit, ensure their sanctuary remained secure. But his feet seemed to have other ideas.
+Gond continued exploring the ruins as the last light faded from the western sky. He'd intended to circle the temple grounds, check for signs of pursuit, ensure their sanctuary remained secure. But his feet seemed to have other ideas.
 
-Instead of following the outer walls, he found himself walking deeper into the complex, through half-collapsed archways and overgrown courtyards. The path felt familiar, though he'd never been here before. Each step drew him forward with quiet insistence, as if the ancient stones themselves were guiding his way.
+Instead of following the outer walls, he found himself venturing deeper into the complex, through half-collapsed archways and overgrown courtyards. The path felt familiar, though he'd never been here before. Each step drew him forward with quiet insistence, as if the ancient stones themselves were guiding his way.
 
 He paused at a junction of three passages, looking back toward the main camp. The fire's glow was no longer visible through the maze of broken stone. How long had he been walking? The moon hung higher than it should have, and his intended circuit of the perimeter had become something else entirely.
 
-The weight in his chest pulsed gently, like a second heartbeat. It had been there since they'd entered the temple grounds, a warmth that seemed to respond to his proximity to certain stones, certain carvings. Now it pulled him forward with unmistakable purpose.
+The warmth in his chest continued to pulse gently. It had been there since they'd entered the temple grounds, a sensation that seemed to respond to his proximity to certain stones, certain carvings. Now it pulled him forward with unmistakable purpose.
 
 Gond approached the weathered stones, studying the faded carvings that decorated every surface. Symbols of peace covered the walls—intertwined circles worn smooth by centuries of weather, hands raised in blessing, figures kneeling in supplication. He touched one carving, the damp stone cool beneath his fingertips. The warmth in his chest pulsed in response, stronger now.
 
@@ -34,7 +34,7 @@ The compulsion to touch the altar grew stronger with each step. His hand reached
 
 "What are you?" he whispered to the empty chamber.
 
-The silence stretched, broken only by the distant drip of water somewhere in the darkness. Then, as if his words had been a key turning in an ancient lock, the warmth in his chest flared like a struck match.
+The silence stretched, broken only by the distant drip of water somewhere in the darkness. Then, as if his words had been a key turning in an ancient lock, the warmth in his chest flared like oil hit by a spark.
 
 His palm touched the marble.
 
@@ -48,23 +48,19 @@ Through the vision, through the overwhelming cascade of sensation, a voice spoke
 
 "You carry burdens willingly, Gond. Now carry hope."
 
-The words struck him like a physical blow. He staggered backward, his palm burning where it had touched the stone. The vision shattered like glass, leaving him gasping in the sudden darkness. The chamber was cold granite again, nothing more than ancient stone and fading echoes.
+He staggered backward as if struck, his palm burning where it had touched the stone. The vision shattered, leaving him gasping in the sudden darkness. The chamber was cold granite again, nothing more than ancient stone and fading echoes.
 
-But the warmth remained, spreading through his chest like wine, and his hand still tingled with the memory of divine touch. The voice echoed in his memory with crystalline clarity, each word etched into his consciousness with the permanence of carved stone.
+But the warmth remained, spreading through his chest like wine. The voice echoed in his head, the memory of the voice fading but the words remaining, as if etched in his mind.
 
 Gond sank onto the nearest bench, hands shaking. His heart hammered against his ribs, and sweat beaded his forehead despite the chamber's chill. Exhaustion. Had to be exhaustion. The stress of leadership, the constant vigilance, the weight of lives depending on his choices. Visions were common enough among soldiers pushed too far.
 
 But even as he tried to rationalize what had happened, the memory of that voice refused to fade. The warmth in his chest pulsed steadily, like a beacon in the darkness. And the words—"carry hope"—seemed to resonate with something deep inside him, something that had been sleeping until this moment.
 
-He studied his hands in the dim light. They looked the same as always—scarred, callused, ordinary. Yet the memory of touching the altar lingered, and with it, a sense that something fundamental had changed. The weight in his chest was different now, not just warmth but purpose, as if a door had opened inside him that could never be closed again.
-
 Had he really heard those words? Had the vision been real, or was his mind playing tricks, weaving meaning from the whisper of wind through broken stone? The rational part of him insisted it was imagination, stress-induced hallucination brought on by exhaustion and responsibility.
-
-But the warmth remained, steady and sure, and with it came a certainty he couldn't explain. Something had happened in this chamber, something that would change everything. He could feel it in the way his breathing came easier, in the sense of rightness that had settled over him like a mantle.
 
 Gond composed himself, forcing his breathing to steady and his hands to stop trembling. When he finally stood, his legs felt solid beneath him, stronger than they had in days. The chamber seemed smaller now, less overwhelming, as if whatever power had filled it had passed into him.
 
-He climbed the worn steps slowly, each one carrying him back toward the world of fire and friendship, of responsibility and choice. But he carried something new with him—a warmth that pulsed in rhythm with his heartbeat, and words that would echo in his memory forever.
+He climbed the worn steps slowly, each one carrying him back toward the world of fire and friendship, of responsibility and choice.
 
 The main camp came into view as he emerged from the ruins. The fire had burned low, and most of his people slept peacefully around its dying glow. But Sim stood waiting at the perimeter, as if he'd known exactly when Gond would return.
 
@@ -74,15 +70,7 @@ The priest's head tilted slightly as Gond approached, his eyes narrowing with th
 
 The priest nodded slowly, his weathered fingers stroking his beard as he continued his quiet assessment. "Old places often hold more than stone and memory. They remember what they once were." His eyes lingered on something in Gond's expression that hadn't been there before—a subtle shift in the set of his shoulders, perhaps, or the way he held his head.
 
-"And what was this place?"
-
-"A sanctuary of Alanyi. A place where the wounded came for healing, where the lost found direction." Sim's voice carried quiet reverence. "Where hope was kindled in the darkest hours."
-
 Gond met the priest's eyes, searching for judgment or expectation. He found only patient understanding, as if Sim knew exactly what had transpired in the depths below but would wait for Gond to speak of it in his own time. The priest's hands remained still at his sides, but his breathing had deepened slightly—the posture of a man who sensed change but would not press for answers.
-
-"Hope," Gond repeated softly, tasting the word like something foreign. The concept seemed as fragile as morning mist, as impossible as the vision he might or might not have experienced.
-
-"A powerful thing," Sim said quietly. "Dangerous, too. Hope can drive men to greatness or madness, depending on how they carry it."
 
 They stood in comfortable silence, watching the stars wheel overhead. Around them, the refugees slept peacefully under the protection of ancient walls. The warmth in Gond's chest pulsed gently, and he found himself wondering what other changes were stirring within him—changes he could feel but not yet name.
 
@@ -90,12 +78,8 @@ That night, sleep eluded Gond. He lay staring up at the fractured ceiling where 
 
 The memory of the vision played through his mind again and again. The blazing light, the sense of overwhelming presence, the voice that had spoken directly to his soul. Had it been real? Had he truly experienced divine touch, or was he simply a desperate man grasping for meaning in a world that offered little?
 
-But the warmth remained, steady and sure, even as doubt gnawed at the edges of his mind. Whatever had happened in that chamber—divine touch or fevered imagination—something had changed. He could feel it in the way his breathing came easier, in the certainty that had settled over him like a mantle.
-
 "You carry burdens willingly, Gond. Now carry hope."
 
 The words echoed in the darkness, and for the first time since his escape from slavery, Gond allowed himself to believe that perhaps—just perhaps—there was a purpose to his suffering. A reason he had survived when others had not. A destiny that stretched beyond mere survival.
 
 Somewhere in the ruins, wind sighed through broken stone, carrying what might have been laughter—or perhaps just the echo of his own wry amusement. But the warmth in his chest pulsed steadily, like a beacon in the darkness, and Gond found himself smiling as sleep finally claimed him.
-
-Tomorrow would bring new challenges, new responsibilities, new choices. But tonight, for the first time in longer than he could remember, he felt ready to face them.

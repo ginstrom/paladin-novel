@@ -10,9 +10,9 @@ Gond surged up the last few feet of wall, muscles screaming as he hauled himself
 
 More voices joined the cry. Torches converged on his position. Gond scrambled down the outer face, finding fewer handholds but driven by desperation. The ground rushed up to meet him.
 
-He dropped the final fifteen feet, hitting hard and rolling to absorb the impact. Pain shot through his ankle like a blade, but he forced himself upright. Behind him, crossbow bolts sparked off stone where he'd been moments before.
+He dropped the final fifteen feet, hitting hard and rolling to absorb the impact. Pain shot through his ankle like a blade, but he forced himself upright. Behind him, crossbow bolts sparked off the parapet where he'd been moments before.
 
-Gond ran, favoring his injured ankle but moving fast. Twenty yards ahead, a stream cut through the landscape, its banks lined with thick brush. He splashed into the calf-deep water, the cold shock driving away the pain for precious seconds.
+Gond ran, favoring his injured ankle but moving fast. Ahead, a stream cut through the landscape, its banks lined with thick brush. Gond ran along the stream for twenty yards, then splashed into the calf-deep water, the cold shock driving away the pain for precious seconds.
 
 Instead of following the stream away from the city, he doubled back, wading downstream toward where the water entered Blackwater through an iron grating. The current tugged at his boots as he pressed himself against the stone arch above the grating, hidden in the shadows.
 
@@ -26,7 +26,7 @@ He waited, pressed against the cold stone, until their voices faded into the dis
 
 The bells of Blackwater faded behind Gond as he limped north through the darkness. Each step sent fire through his twisted ankle, but he forced himself to maintain a steady pace. The alarm would bring mounted patrols within the hour. He needed distance.
 
-The road stretched empty before him, a pale ribbon in the starlight. Without Ash, the journey back to the waypoint would take most of the night. Gond pulled his cloak tighter against the chill and settled into the rhythm of a forced march—the kind that had kept him alive through a dozen campaigns.
+The road stretched empty before him, a pale ribbon in the starlight. Without his horse, the journey back to the waypoint would take most of the night. Gond pulled his cloak tighter against the chill and settled into the rhythm of a forced march—the kind that had kept him alive through a dozen campaigns.
 
 Every shadow might conceal an ambush. Every sound could herald pursuit. When an owl hooted in the darkness, his hand found his sword hilt. When wind rustled through roadside grass, he froze until the sound passed. The doubled bounty would draw every sellsword and bounty hunter within fifty miles. Five hundred royals could buy a man a farm, or a woman her freedom.
 
@@ -76,7 +76,7 @@ Gond's grip tightened on his sword. Six men, mounted and armored. He might take 
 
 The tracker remounted, pointing north along the road. "Trail's clear. They're making for the hills."
 
-"Good." The captain's smile was cold as winter steel. "Hills mean no horses. We'll run them down like rabbits."
+"Good." The captain's cold smile was audible in his words. "Hills mean no horses. We'll run them down like rabbits."
 
 They spurred their mounts forward, hoofbeats fading into the distance. Gond waited until silence returned before emerging from cover. His hands were steady, but sweat beaded his forehead despite the morning chill.
 
@@ -94,7 +94,7 @@ Pell watched from the shadows, tension easing only when Gond explained their cir
 
 "We thought..." Aerin began, then stopped, shaking her head. "You were gone so long."
 
-"Blackwater is death," Gond concluded, settling heavily beside their small fire. His ankle throbbed, and exhaustion weighed on his shoulders like a lead cloak. "They've doubled our bounty. Guards are searching every building, questioning every merchant. And they have Ash."
+"Blackwater is death," Gond concluded, settling heavily beside their small fire. His ankle throbbed, and exhaustion weighed on his shoulders like a lead cloak. "They've doubled our bounty. Guards are searching every building, questioning every merchant. And they have the horse."
 
 Pell's eyebrow arched. "What? How?"
 
@@ -112,7 +112,7 @@ Sim nodded, that calm certainty settling over him like a mantle. "Wisdom. Safety
 
 "Forgotten ruins sound perfect for forgotten people," Pell muttered.
 
-Dax flexed his healing hands, testing the strength that had returned to them. "I worked with my father's carpentry crew before..." He gestured at his branded wrist. "I know how to build, if we can find the materials. But we'll need tools. Axes for felling trees. Saws for cutting lumber."
+Dax flexed his hands, testing the strength that had returned to them. "I worked with my father's carpentry crew before..." He gestured at his brand. "I know how to build, if we can find the materials. But we'll need tools. Axes for felling trees. Saws for cutting lumber."
 
 "One problem at a time," Gond said. "First we survive. Then we build."
 
@@ -152,7 +152,7 @@ Sim consulted the sun's position, then pointed toward a distant ridge. "Beyond t
 
 "Temple?" Pell's voice carried skepticism. "I thought we were looking for a cave or a shepherd's hut."
 
-"This is better." Sim's eyes held quiet certainty. "Sacred ground. Even slavers hesitate to defile such places."
+"This is better." Sim's eyes held quiet certainty. "Nobody visits this temple. They think it's haunted," he smiled wryly.
 
 They pressed on, the ridge seeming to retreat with each step. The drizzle turned to steady rain, soaking through their clothes and making the rocky path treacherous. Gond found himself constantly checking their back trail, expecting to see pursuit cresting each hill behind them.
 
@@ -160,9 +160,9 @@ As evening approached, they finally reached the ridge. The view beyond took Gond
 
 "There," Sim said simply. "Sanctuary."
 
-The moment their horse stepped onto the temple grounds, its ears pricked forward and it released a soft whicker of contentment, no longer pulling against the reins. Gond stopped, warmth spreading through his chest like honey in his veins. The sensation was neither pleasant nor painful, just... insistent.
+The moment their horse stepped onto the temple grounds, its ears pricked forward and it released a soft whicker of contentment, no longer pulling against the reins. Gond stopped, warmth spreading through his chest. The sensation was neither pleasant nor painful, just... insistent.
 
-The grass beneath their feet was different than the rocky ground they had been traveling over—thicker, greener. The air carried a fresh smell that contrasted with the dusty trail. Dax's limp eased as he walked, and even Pell's perpetual tension seemed to drain a little from his shoulders.
+The turf beneath their feet was different than the rocky ground they had been traveling over—thicker, greener. The air carried a fresh smell that contrasted with the dusty trail. Dax's limp eased as he walked, and even Pell's perpetual tension seemed to drain a little from his shoulders.
 
 "Your goddess has strange tastes," Gond muttered, though his voice lacked its usual edge.
 
@@ -174,7 +174,7 @@ They moved quickly, establishing camp within the temple's crumbling embrace. The
 
 Dax's feet received Sim's gentle attention while Aerin and Lira prepared their meal. For the first time in days, no one glanced nervously at the horizon. The ancient walls seemed to offer more than physical shelter—they promised peace.
 
-As the last light faded from the sky, Gond stood and stretched. His ankle still ached, but the pain was manageable now. Around him, his people—when had he started thinking of them that way?—settled into the rhythm of evening camp.
+As the last light faded from the sky, Gond stood and stretched. His ankle still twinged, but it was barely noticeable. Around him, his people—when had he started thinking of them that way?—settled into the rhythm of evening camp.
 
 "I'm going to scout the perimeter," he announced. "Make sure we're alone up here."
 
@@ -182,5 +182,5 @@ As the last light faded from the sky, Gond stood and stretched. His ankle still 
 
 "I'll move faster alone. Keep the fire low until I get back."
 
-Gond set off through the ruins, intending to circle the temple grounds and check for signs of pursuit. But as he walked among the ancient stones, something else called to him. The weight in his chest pulsed gently, like a second heartbeat.
+Gond set off through the ruins, intending to circle the temple grounds and check for signs of pursuit. But as he walked among the ancient stones, something else called to him. The warmth in his chest pulsed gently, like a second heartbeat.
 

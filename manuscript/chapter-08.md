@@ -4,15 +4,13 @@
 
 ### Chapter 8: The Gradual Awakening
 
-The terrain grew harsher as they climbed deeper into the hills. Jagged rocks thrust from the earth like broken teeth, and thorny brambles caught at clothes and skin. Gond led with tireless purpose, his sword clearing a path through the worst tangles. Each choice of route proved sound—every decision led them closer to something he could feel but not yet see.
-
 It took the party another week to find the valley. Trudging over steep hills, the land opened suddenly into a wide valley sheltered by towering cliffs. A narrow waterfall tumbled down one sheer wall, pooling into a lake so clear Gond could see the bottom twenty feet down. Green grass carpeted the valley floor, dotted with wildflowers and fruit trees gone wild. The band quickly set up camp and started setting up a more permanent encampment.
 
 A week later, the first of the refugees arrived.
 
 They came in ones, twos, and threes, with similar stories for the most part: escaped slaves, peasants fleeing cruel masters, apprentices put out by their masters. Another commonality to all the refugees was a name mentioned: Maera. She had started sending refugees on to them. Where she sent them before nobody knew.
 
-Sim took charge of the refugees, arranging shelter, and giving them tasks to keep the group fed and prepare for winter.
+Sim took charge of the refugees, arranging shelter, and giving them tasks to keep the group fed and prepare for the coming seasons.
 
 ***
 
@@ -30,13 +28,15 @@ Within minutes, dust clouds appeared on the horizon. An armed party, moving fast
 
 "Lucky guess." Gond was already moving, leading them through dense thickets that tore at their clothes but kept them hidden. "Years of staying alive in hostile territory."
 
+Lira looked unconvinced. She shot a glance at Pell, who merely shrugged and followed after Gond.
+
 They found an alternate route through brambles and broken stone. Back at the encampment, as evening approached, Lira and Korven—a surly man who'd joined them two days prior—squared off over their dwindling food supplies. The other refugees formed a loose circle around them, some nodding agreement with Lira, others crossing their arms and scowling in support of Korven.
 
 "Children eat first," Lira insisted, her voice rising with each word. "That's how decent people behave."
 
 "Decent people don't survive long." Korven's hand drifted toward his knife. "Strong eat, weak starve. That's nature."
 
-Other refugees began choosing sides, voices rising, hands moving toward weapons. The fragile unity of their group cracked like thin ice. Aerin stepped protectively in front of her brother, while an older woman clutched her shawl tighter and backed away from the confrontation.
+Other refugees began choosing sides, voices rising, hands moving toward weapons. The fragile unity of their group cracked like thin ice. Dax stepped protectively in front of his sister, while an older woman clutched her shawl tighter and backed away from the confrontation.
 
 Gond stepped between them. When he spoke, his voice seemed to settle over the entire group like a soothing balm.
 
@@ -58,7 +58,7 @@ Gond knelt beside the dying man without conscious thought. His memory of the tem
 
 "I don't think—" Sim began, then stopped as Gond placed his hands on Jorik's burning forehead.
 
-Gond felt nothing at first, but watched as Jorik's labored breathing gradually eased. The man's chest, which had been rising and falling in rapid, shallow gasps, began to slow and deepen. Sweat beaded on his forehead, then began to dry. His skin, flushed red with fever, slowly returned to a more natural color. The angry red lines radiating from his wound faded like chalk washed from stone, retreating inch by inch until they disappeared entirely. Within an hour, Jorik's eyes fluttered open, clear and focused, and he pushed himself up on his elbows asking for food.
+Gond felt nothing, but watched as Jorik's labored breathing gradually eased. The man's chest, which had been rising and falling in rapid, shallow gasps, began to slow and deepen. Sweat beaded on his forehead, then began to dry. Within an hour, Jorik's eyes fluttered open, clear and focused, and he pushed himself up on his elbows asking for food.
 
 "Remarkable recovery." Sim's voice was carefully neutral. "The herbs work swiftly when properly applied."
 
@@ -89,5 +89,3 @@ Aerin's gaze shifted to Sim. "How do you always know which herbs to use? Jorik s
 Sim's fingers traced patterns in the dirt. "The forest teaches those who listen. Every plant has its purpose."
 
 The priest's knowing look followed him, but Sim said nothing more. They sat in comfortable silence, watching the stars wheel overhead, while around them the refugees slept peacefully under Gond's protection.
-
-A warmth in his chest pulsed gently, and Gond found himself wondering what other changes were stirring within him—changes he could feel but not yet name.
