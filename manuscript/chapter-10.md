@@ -2,108 +2,122 @@
 
 ## Part II: Seeds of Rebellion
 
-### Chapter 10: First Blood, First Miracle
+### Chapter 10: Hunters and Hunted
 
-The slave catchers' confidence shattered like glass against stone. Gond's ambush unfolded with devastating precision—arrows whistled from concealed positions, pit traps swallowed horses and riders, coordinated attacks turned the hunters into the hunted.
+The next morning dawned hot and sultry. The cicadas were already producing their summer cacaphony by the time Gond's party had cleared the valley.
 
-Gond flowed through the battle with fluid grace, his blade dancing between opponents while his feet found perfect footing on treacherous ground. Every decision flowed from instincts that seemed to see around corners. When the enemy tried to flank left, he was already there with a counter-ambush. When they attempted to retreat to higher ground, his archers were waiting. The flow of combat spread before him like a map, each move predictable, each counter-move inevitable.
+The horses' hooves made soft sounds on the damp earth, as they whickered gently. Behind him, the volunteers moved with the quiet discipline he'd drilled into them—Pell, Korven, Lira, and nine others whose families depended on this mission's success.
 
-"Behind you!" Pell shouted, engaging two slavers near the valley's entrance.
+The Thornfield farmstead lay two hours south through increasingly dangerous territory. Every step took them closer to the smoke columns they'd seen on the horizon, closer to the systematic destruction that crept northward like a plague.
 
-Gond drew his sword as he spun to face the threat. The blade that emerged from its sheath was no longer the crude, dark iron he had carried for weeks. Instead, it gleamed like polished silver, its edge sharp as winter starlight. The transformation was so complete, so impossible, that for a moment he could only stare.
+Gond's shoulders tensed without warning, as if invisible hands had gripped them. The hair on his arms stood on end. He raised his hand, bringing the column to a halt. Something had changed in the air around them—a subtle shift that made his skin prickle with warning. He dismounted, pressing his ear to the ground.
 
-"By the gods," breathed a nearby refugee, lowering his bow. "Finally picked a weapon worthy of a leader."
+"What is it?" Pell whispered, sliding from his saddle to join him.
 
-Gond spun, his blade meeting the descending sword of a massive slaver captain. The man's strength was enormous, each blow driving Gond back step by step. Steel rang against steel as they fought, the captain's experience evident in every calculated strike.
+"Riders." Gond's voice was barely audible. "Coming from the east. Maybe a dozen, moving fast."
 
-The slaver's blade slipped past Gond's guard, the point driving deep into his thigh. Fire shot up his leg, and he stumbled, blood flowing freely down to pool in his boot. The watching refugees gasped—such a wound would cripple a man, leave him limping for life if he survived at all.
+The volunteers exchanged worried glances. They were still an hour from the farmstead, exposed on open ground with nowhere to hide except a thin line of scrub oak fifty yards to their left.
 
-But Gond fought on, his movements barely hindered. The transformed blade sang through the air with supernatural sharpness. When the captain raised his sword to block Gond's next strike, the silver blade sheared through the steel like parchment, continuing its arc to find the gap between breastplate and helm. The man toppled backward, his severed weapon clattering in two pieces on the stone.
+"Slavers?" Korven asked, his hand moving instinctively to his sword hilt.
 
-The battle turned decisively. The remaining slavers, seeing their leader fall and their ambush turned against them, broke and fled. Gond's people pursued them to the valley's edge before turning back whooping.
+Gond closed his eyes, extending his senses in ways he still didn't fully understand. The approaching riders maintained perfect spacing—three horse-lengths between each mount, their formation never wavering despite the uneven terrain. Their horses stepped in rhythm, shod hooves striking the ground in near-unison. Professional. Dangerous.
 
-As the last echoes of combat faded, Pell approached Gond, his face pale. "That wound—" He pointed at Gond's leg, where blood had soaked through the fabric. "I saw that blade go deep. Should have crippled you, maybe worse."
+"Yes." He opened his eyes, his decision made. "Into the trees. Now. Lead the horses."
 
-Gond looked down, pulling aside the torn cloth. Where he expected to find a gaping wound, only a shallow graze marked his thigh. The bleeding had already stopped. He stared at the minor cut, his brow furrowing.
+The volunteers moved with practiced efficiency, leading their mounts into the scrub oak and tying them deep in the shadows. Gond positioned his people in a rough line along the natural rise of the ridge, each hidden behind trunk or boulder. The terrain favored them here—the slavers would have to ride uphill through loose shale that would slow their horses and announce their approach. Weapons ready but orders clear—no one moved unless he gave the signal.
 
-"I could have sworn..." Pell shook his head, backing away. "I saw it happen. We all did."
+The sound of hoofbeats grew louder, accompanied by the jingle of mail and the creak of leather. Gond peered through the branches, counting the approaching riders. Six men in the colors of the Coastal Slavers Guild, their equipment professional and well-maintained. These weren't the desperate bandits who sometimes raided isolated farms—these were soldiers.
 
-The return to camp revealed a different horror. Overturned pots, scattered belongings, and drag marks in the dirt told the story. Two slavers had crept in during the battle, targeting those who couldn't fight—the elderly, the women, the children. They had fled when they realized that their main force was broken.
+"Thornfield's been picked clean," one of the riders called to his companions as they passed. "Nothing left but bones and ash."
 
-But they had left their mark.
+"What about the other sites on the map?" another voice replied. "The hidden camps?"
 
-Korven lay sprawled near the children's shelter, his body riddled with crossbow bolts. He had died defending those he'd sworn to protect. Nearby, old Marta sat propped against a tree, her sightless eyes staring at nothing, blood still seeping from a gash in her chest.
+"We'll hit them in sequence. The one marked in the northern valley should be next—maybe tomorrow, depending on how long it takes to regroup."
 
-Sim knelt beside the children's shelter, cradling his right hand against his chest. His knuckles were split and bloody, and a slaver's sword lay abandoned nearby, its wielder nowhere to be seen. When Gond approached, the priest looked up with pain-filled eyes.
+Gond's blood turned to ice. They were talking about his valley, his people. The systematic destruction was even closer than he'd feared.
 
-"I had to," Sim said quietly, his voice heavy with anguish. "He was going for the children. I couldn't—" He swallowed hard. "I struck his wrist. Just enough to make him drop the blade." His shoulders sagged. "Every living being has the right to defend themselves and those who cannot defend themselves. But that doesn't make it easier."
+The slavers continued past, their voices fading as they rode north toward destinations that made Gond's stomach clench with dread. He waited until the sound of hooves disappeared entirely before signaling his people to emerge from hiding.
 
-And in the center of the camp, young Dax lay gasping in a spreading pool of his own blood.
+"Did you hear that?" Lira whispered, her face pale.
 
-The boy's chest rose and fell in ragged, desperate rhythm. Pink froth bubbled from his lips with each labored breath. A slaver's mace had crushed his ribs, driving bone fragments deep into his lungs. Each breath was a struggle, each heartbeat weaker than the last.
+"Every word." Gond's jaw was set in grim lines. "Which means we need to move fast. Get what we can from Thornfield and get back to warn the others."
 
-Sim moved from the children's shelter to kneel beside Dax, ignoring the pain in his injured hand as he channeled what healing power he possessed. Sweat beaded on the priest's forehead, his face growing ashen with effort. His hands trembled, the light flickering like a dying candle.
+They retrieved their horses and continued south, but the mood had changed. What had been a dangerous supply run was now a race against time. Every minute they spent away from the valley was another minute their families remained unaware of the approaching threat.
 
-"He's beyond my help," Sim whispered, his voice breaking. Tears streamed down his weathered cheeks. "The damage is too great. I cannot—" His hands fell to his sides, the faint glow extinguished.
+The Thornfield farmstead appeared through the morning mist like a ghost of better times. The main house stood intact but empty, its windows dark and door hanging open. Outbuildings clustered around it—barn, smokehouse, root cellar, grain storage. Exactly what they needed, if the slavers had left anything behind.
 
-Around them, the survivors gathered in a silent circle. Shoulders slumped in defeat. Hands covered mouths to stifle sobs. Eyes turned away from the dying boy, unable to bear witness to their helplessness. Aerin knelt beside her brother, her tears falling onto his blood-stained face, but she spoke no words of plea.
+"Spread out," Gond ordered quietly. "Check every building, but stay alert. If I give the signal, drop everything and run for the horses."
 
-Gond felt a pull he could neither name nor resist. His feet carried him forward without conscious thought, drawn by an invisible thread that seemed to connect his heart to the dying boy. The circle of mourners parted before him, their faces etched with resignation.
+The volunteers dispersed with purpose. Pell and Korven headed for the grain storage, while Lira led a team to the smokehouse. Gond made his way to the root cellar, hoping the slavers had overlooked the underground stores.
 
-He knelt beside Dax, his hands hovering over the terrible wounds. The boy's breathing grew shallower, more labored. Time was running out.
+The heavy wooden door creaked as he lifted it, revealing stone steps descending into darkness. The air that rose from below was cool and dry—perfect for preservation. He descended carefully, his eyes adjusting to the gloom.
 
-Aerin looked up, her face streaked with tears. She reached out as if to stop him.
+Barrels lined the walls, filled with salted pork, dried beans, preserved vegetables. Sacks of grain sat stacked in neat rows. The family had prepared well for winter, and the slavers had apparently been more interested in people than provisions.
 
-"Let him work," Sim said quietly, catching her wrist. His eyes never left Gond's face.
+"Gond!" Pell's voice carried from the grain storage. "You need to see this."
 
-Gond placed his palms on Dax's chest and closed his eyes. At first, nothing. No warmth, no power, no divine presence. Just the sticky wetness of blood and the broken rhythm of a failing heart beneath his hands.
+He climbed from the cellar to find Pell standing beside the storage building, his expression a mixture of amazement and concern.
 
-*Alanyi,* he prayed silently, the words forming without conscious thought. *If you're there, if this is real, help me save him.*
+"They left everything," Pell said, gesturing to the interior. "Wheat, barley, oats—enough to feed our people for months. But why? Slavers usually take anything valuable."
 
-Gradually, like dawn breaking over distant mountains, he became aware of a presence. A flicker of life, faint as a dying ember in the depths of winter. Dax's essence, barely clinging to the broken shell of his body, ready to slip away into darkness.
+Gond studied the untouched stores, his tactical mind working through the implications. "Because they're not planning to come back this way. They're clearing the region permanently—no point in preserving supplies for future raids."
 
-Gond cupped that fragile spark in his mind, breathing on it as one might coax life from the last coal in a cold hearth. He imagined the boy whole—ribs unbroken, lungs clear, blood flowing as it should. He poured his will into that vision, feeding the ember with everything he had.
+The realization hit him like a physical blow. This wasn't just about capturing refugees for the slave markets. Someone was systematically emptying the entire region of free settlements, preparing the land for something else entirely.
 
-The spark flared. Grew. Blazed into brilliant flame.
+"Load everything we can carry," he ordered. "Fill every sack, every barrel we brought."
 
-Suddenly, Dax's life force erupted like a wildfire, burning so bright it drove Gond's awareness back, overwhelming his senses with its intensity. Golden light poured from his hands, illuminating the entire camp with radiance that outshone the afternoon sun.
+For the next two hours, the volunteers worked with desperate efficiency. They loaded grain sacks onto pack horses, filled water barrels with preserved meat, stuffed their saddlebags with dried vegetables and medicinal herbs from the farmhouse garden. Every pound they could carry was another day their community could survive.
 
-The boy's wounds began to close. Bones knitted together with audible clicks. Torn flesh mended itself. The blood that had pooled beneath him seemed to flow backward, returning to his body as if time itself were reversing.
+As they prepared to depart, Gond took one last look at the abandoned farmstead. A family had lived here, worked this land, built their dreams in these buildings. Now it stood empty, another casualty in a war most people didn't even know was being fought.
 
-Heat flooded through Gond's arms, as if molten gold flowed through his veins instead of blood. His palms burned where they touched the boy's chest, not with pain but with an intensity that made his bones ache. The power coursed through him like lightning, leaving his muscles trembling and his breath coming in sharp gasps.
+"Ready?" Pell asked, checking the straps on his heavily loaded pack horse.
 
-Gond's vision went white. The blazing essence pushed him out, severing his connection to the healing. He swayed, his hands falling away from Dax's chest as consciousness returned in fragments. His fingertips still tingled with residual warmth, and the taste of copper and starlight lingered on his tongue.
+Gond nodded, swinging into his saddle. "Let's go home."
 
-When his sight cleared, Dax was sitting up, his hand moving to where the fatal wounds had been. Nothing remained but unmarked skin. His eyes were clear and bright, no trace of pain or injury marring his young face.
+The return journey felt longer despite their urgency. The horses moved slowly under their heavy loads, and every sound made the volunteers reach for weapons. But Gond's enhanced senses detected no immediate threats—the slavers had continued north, probably to regroup before their next assault.
 
-Not a breath stirred the air. Even the wind had stilled, as if nature itself held its breath. The crackling of dying embers from overturned cook fires seemed thunderous in the absolute quiet. Fifty refugees stared at Gond with expressions that ranged from awe to fear to something approaching worship. The golden light faded, leaving only the ordinary afternoon sun, but its memory blazed in every watching eye.
+They reached the valley as the sun touched the western peaks, their arrival greeted with cheers that quickly turned to concerned murmurs as word spread of what they'd overheard. Gond called an immediate gathering, the entire community clustering around the central fire as he shared the grim news.
 
-"Alanyi's mercy," someone whispered from the back of the crowd.
+"They know about us," he said without preamble. "Professional slavers with detailed maps, moving systematically through the region. They'll reach us within days."
 
-"A miracle," breathed another, falling to his knees.
+The faces looking back at him showed fear, but also determination. These people had found hope in their hidden valley, and they wouldn't surrender it without a fight.
 
-An older formed her fingers into the intertwined circles of Alanyi repeatedly, her lips moving in silent prayer. A young father clutched his children closer, his eyes wide with wonder and fear. Several refugees stepped backward, as if afraid to stand too close to such divine power, while others pressed forward, reaching out with trembling hands as if to touch the lingering traces of holy light.
+"What do we do?" Sim asked quietly.
 
-Gond staggered backward, his legs giving out beneath him. He sat heavily on the ground, staring at his hands as they trembled with residual power. There was no denying it now, no rationalizing it away. The force that had flowed through him was divine, unmistakable in its nature and scope.
+Gond looked around the circle of upturned faces—men and women who had trusted him with their lives, children who deserved a chance to grow up free. The weight of their faith settled on his shoulders like a mantle.
 
-Sim approached slowly, his face radiant with vindication. "Now do you believe?" he asked gently.
+"We've had our respite," he announced without preamble. "Now we prepare for war."
 
-Gond looked at his hands, still tingling with the memory of that blazing light. He thought of the temple, the vision, the voice that had spoken of carrying hope. All the signs had been there, building gradually, but he had refused to see them for what they were.
+The words hit like stones dropped into still water, ripples of unease spreading through the crowd. But these were no longer the broken, desperate fugitives who had first stumbled into their sanctuary. Weeks of good food, safety, and purpose had transformed them into something resembling a community.
 
-"I believe," he said quietly, the words feeling strange on his tongue. "Alanyi help me, I believe."
+Korven, the surly man who had once challenged Aerin over food, stepped forward. His tone held none of its former hostility. "What do you need us to do?"
 
-The priest smiled, placing a hand on Gond's shoulder. "She already has, my friend. She already has."
+Gond's mind was already mapping their defensive strategy, seeing the flow of battle before it began. "Pell, take a team and set snares along the main approaches. Nothing lethal—we want to slow them down, not announce our presence with screams."
 
-As word of the miracle spread through the camp, Gond found himself surrounded by refugees seeking his blessing, his touch, his guidance. They knelt before him, reached out to brush his robes, whispered prayers in his name. The reluctant mercenary was gone, replaced by something he had never wanted to become but could no longer deny.
+He turned to Sim. "Organize the non-combatants. Evacuation routes, supply caches, places to hide the children."
 
-Dax stood and walked to him, his young face solemn with understanding beyond his years. "Thank you," he said simply, then knelt and kissed Gond's hand.
+The priest nodded, already moving toward the families with young ones.
 
-The gesture broke something inside Gond's chest. He pulled the boy to his feet, then looked out over the faces of his people—for they were his people now, bound to him by faith and miracle and the golden light that had flowed from his hands.
+"The rest of you," Gond continued, his voice carrying to every corner of the gathering, "we're going to turn this valley into a fortress. Every advantage we can create, every trap we can set, every defensive position we can fortify—we use them all."
 
-He was a paladin of Alanyi, chosen and blessed, whether he liked it or not.
+The refugees dispersed with purpose, but Gond caught the overconfident glances some of the newcomers exchanged. They believed their remote valley made them untouchable. His instincts, sharper than ever, screamed otherwise.
 
-The transformation was complete, and there would be no going back.
+***
 
-Around him, the refugees began to sing—a hymn of praise that rose to the heavens, carrying with it the hope of the oppressed and the promise of justice to come. Gond stood among them, no longer fighting his destiny but embracing it, ready to carry the burden and the blessing of divine purpose.
+The next day, Gond crouched at the ridge's edge, scanning the horizon for the expected raiders. He turned to Pell and Sim. "They're coming soon."
 
-Paladin's Rise was reluctant no more.
+Pell frowned. "How can you be so certain?"
+
+Gond couldn't explain the certainty that gripped him, the way his skin seemed to prickle with awareness of distant threats. The sensation was like standing in an open field before a lightning strike—every nerve screaming of imminent danger.
+
+"Call it intuition."
+
+"Your intuition's been remarkably accurate lately," Sim noted, joining their conversation. "Almost as if you're receiving guidance from a higher source."
+
+"Don't start," Gond warned, but there was no real heat in his voice. He was beginning to accept that something had changed in him, even if he couldn't—or wouldn't—name what that something was.
+
+A flicker of movement on the opposite ridge. "They're here!" His voice carried clearly through the morning air, but now it was a signal to his hidden watchers, not a call to battle. "About fifteen of them! Positions!"
+
+The refugees scattered in controlled chaos—some sprinting toward hidden weapon caches, others grabbing children and herding them toward the concealed cave entrances. Mothers clutched infants while older children helped carry supplies. Men stumbled over tent ropes in their haste to reach defensive positions, while women stuffed precious belongings into hastily packed bundles.
+
+"Now," Gond whispered, and melted into the forest like a ghost.

@@ -1,65 +1,235 @@
 # Paladin's Rise
 
-## Part V: The War of Restoration
+## Part IV: Forging a Free Nation
 
-### Chapter 22: The First Tithe of Tears
+### Chapter 22: A House Divided
 
-The war council tent, once a place of strained alliances and grudging compromise, now buzzed with purposeful activity—voices no longer carried the sharp edge of suspicion, hands no longer hovered near weapon hilts during debates, and the very air seemed charged with shared conviction. Woodsmoke and old parchment still scented the air, but beneath it lay the almost palpable thrum of shared conviction, a resonance that had settled over them since Alanyi's voice had echoed through Gond. Maps of the Slavers' Coast still dominated the tables, but now, beside the grim fortifications of Saltmere, Blackwater, and Port Sorrow, new symbols had appeared—faded markings indicating ruined shrines, forgotten holy wells, places where Alanyi's light had once touched the land.
+The first defectors arrived at dawn—a column of twenty knights in travel-stained armor, their banners torn and their faces grim. At their head rode Sir Marcus Brightwater, a man Gond recognized from Elena's intelligence reports as one of the Noble Knights' most respected commanders.
 
-Gond stood before them, not as a desperate leader herding cats, but as an instrument honed and ready. The weariness was still etched around his eyes, but his gaze held a crystalline focus that seemed to pierce through surface concerns to the heart of each matter. His movements were economical yet fluid, each gesture deliberate, as if he could see the threads of fate weaving together before him. The faded brand on his forehead, once a source of shame, now seemed a mere shadow beneath the memory of divine light that many in this room had witnessed.
+"Sir Roderick won't be pleased," Elena observed from the settlement's walls.
 
-"Saltmere first," Gond stated, his voice calm but carrying the weight of the goddess's recent pronouncement. "Their harbor is deep, their slave pens overflowing. And," he tapped a newly inked circle on the map, "Sim believes this was once the site of the Sunken Grotto, a major temple to Alanyi before the slavers desecrated it."
+"Sir Roderick can go hang himself," Sir Marcus called out. "We've come to join the true fight."
 
-Sim, his gentle face alight with a newfound, quiet authority, nodded. "The old texts are fragmented, but they speak of healing waters there, blessed by Alanyi's tears. According to the Chronicle of Sorrows, the Grotto was where pilgrims came to be cleansed of their deepest wounds—not just of body, but of spirit. The waters were said to flow from a spring that touched the goddess's own realm, carrying her compassion directly into our world. If we can reclaim and purify it…" He trailed off, the unspoken hope filling the silence.
+Gond met them in the settlement's center, flanked by Thorek and Silviana. The contrast between this group and Sir Roderick's delegation was stark—these knights looked like they'd been through hell, their expensive armor dented and bloodied.
 
-"Reclaiming it is not enough," Silviana Starweaver added, her voice like the rustle of ancient leaves. "The corruption of Gorlatch runs deep in these places. The very stones will cry out. Purification rites will be needed, rites the elves remember, and which we will share with Sim's new acolytes." Her silver eyes met Gond's. "The tunnels I spoke of beneath Blackwater? Similar passages exist beneath Saltmere, older still. My ancestors walked those paths when the world was younger—they were carved not by mortal hands, but by the roots of the World Tree itself, following ley lines of power that predate human civilization. They can grant us entry, not just to the city's heart, but perhaps to the Grotto's foundations with minimal destruction."
+"What happened?" Gond asked.
 
-Sir Marcus Brightwater, his armor still bearing the scars of his defection but his eyes now bright with a convert's zeal, leaned forward. "Using tunnels means fewer lives lost on the walls, both ours and theirs. A merciful approach for a sacred task." The transformation in the Noble Knight was remarkable; the man who had arrived seeking Turin's hammer now spoke Alanyi's language.
+Sir Marcus dismounted heavily, his movements those of a man pushed beyond exhaustion. Fresh scars crisscrossed his knuckles, and a partially healed cut ran from his left temple to his jaw—the kind of wound that came from fighting someone you'd once called brother. "Civil war. The Noble Knights have split down the middle. Half still believe we can reform the system from within. The other half..." He gestured to his battered companions. "We've seen enough."
 
-"Precisely," Gond affirmed. "Our aim is not mere conquest, but a cleansing. We offer every soul in Saltmere a choice: renounce the darkness or be consumed by it. But the stones, the land itself, these we reclaim for the light."
+"Seen enough of what?"
 
-Elena Brightblade, ever the pragmatist, pointed to the wider map. "While we focus on Saltmere, what of the other fronts? The three prongs of our sacred campaign must strike in concert."
+"The truth." Sir Marcus's voice cracked like breaking stone, each word forced through clenched teeth. His hands trembled—not with fear, but with barely contained rage that made his armor rattle softly. "Three days ago, we raided a plantation outside Westmarch. Found children in the fields, some no older than eight. When we demanded their release, the overseer showed us a contract signed by Sir Roderick himself."
 
-A dusty dwarven messenger, newly arrived, stepped forward. "Lord Thorek Ironheart sends word from the Dragon's Spine mountains, High Paladin." The title, still new, resonated with respect. "His Iron Covenant warriors have engaged the slaver garrisons at Blackrock Pass. The fighting is fierce, but they have broken through the outer defenses. He says, and I quote, 'We are not just smashing stone, we are carving out sanctuaries. Where their fortresses stood, Alanyi's peace will find footing, and Turin's true justice will guard it.' They have already secured the old Pilgrim's Rest shrine, long fallen to ruin, and dwarven masons are preparing to assist Sim's people in its reconsecration when the time is right."
+The words hit like physical blows. Heat bloomed beneath Gond's ribs, spreading outward through his chest like molten metal seeking release. His fingertips tingled with electric warmth, and for a moment, the air around him seemed to shimmer with barely visible light.
 
-A ripple of approval went through the council. Then, a slender elven scout, nearly invisible against the tent's canvas, spoke. "Captain Lyralei of the Thornwood strike force reports success. The Gorlatch-blessed supply caravans moving south from the Shadowfen are in disarray. We have… discouraged their passage." A faint, dangerous smile touched her lips. "Furthermore, our lore-keepers have located and begun the purification of three ancient elven way-shrines deep within the Thornwood, places where the natural harmony had been disrupted by Gorlatch's encroaching shadow. The land itself breathes easier."
+"Roderick's been playing both sides," Sir Marcus continued. "Talking about honor and reform while his family profits from child slavery. When we confronted him..." He touched a bandage on his forehead. "Let's just say the discussion became heated."
 
-Silviana nodded. "My kin understand that true war against such darkness is fought on many levels. While some elves engage in these necessary disruptions, my path as Alanyi's priestess is to preserve and heal. The knowledge of the tunnels is part of that, a way to achieve our aims with less blood spilled."
+"So you left?"
 
-Gond absorbed the reports, a sense of interconnected purpose weaving through him. "Good. The pincers tighten, and the light spreads. Our assault on Saltmere will be the central blow. Elena, your forces will secure the tunnel entrance Silviana indicates. Grimjaw," he turned to the massive dwarf, "your engines will create a diversion at the main gates, draw their eyes while our true strike slips in."
+"We were expelled. Branded as traitors to the order and enemies of the crown." Sir Marcus's laugh was harsh. "Funny thing is, they were right. We are traitors—to a system that deserves to burn."
 
-Grimjaw's gold-capped teeth flashed. "A bit of noise to consecrate the occasion? My beauties will sing a hymn of breaking stone they won't soon forget!"
+Thorek stepped forward, studying the knights with professional interest. "How many more like you?"
+
+"Maybe thirty, scattered across three kingdoms. The rest are either true believers in the old ways or too afraid to act." Sir Marcus met Gond's eyes. "We know we can't undo what we've been part of. But we can try to make amends."
+
+"And what do you want from us?"
+
+"A chance to fight for something worth dying for."
 
 ***
 
-The days that followed were a blur of sacred preparation. In the settlement's expanded training grounds, an extraordinary sight unfolded: dwarven smiths worked alongside human blacksmiths, their hammers ringing in harmony as they forged weapons blessed by both Turin's strength and Alanyi's mercy. Elven fletchers taught former slaves the art of crafting arrows, their patient hands guiding rough fingers in the delicate work of balancing shaft and point. Weapons were not merely sharpened but blessed by Sim and his growing band of acolytes, human and even a few dwarven volunteers, all learning the nascent rites of a reborn faith under Silviana's patient tutelage. Armor was mended with prayers for protection. The army, once a desperate band of survivors, now moved with the quiet dignity of a congregation preparing for high holy service.
+The integration of the Noble Knight defectors proved more challenging than Gond had anticipated. Unlike the refugees and former slaves who'd joined them, these men came with ingrained assumptions about justice and divine purpose that needed careful reshaping.
 
-Sir Marcus and his former Noble Knights, initially struggling with the shift from pure retribution to merciful restoration, found themselves instructing former slaves in the use of sword and shield, their lessons now laced with talk of protecting the innocent and upholding Alanyi's grace. The irony was not lost on them, and it was humbling.
+"I don't understand," Sir Garrett Blackwood declared during his first council session. "We're here to end slavery, to bring justice to the oppressed. Turin's hammer should fall on these slavers like divine wrath. Why all this talk of mercy and healing?"
 
-On the eve of their departure, Maera brought Gond a final piece of intelligence, her face grim. "A whisper from Saltmere, carried on the black market currents. Two names you know have been seen within the city's walls, commanding a mercenary company hired to bolster the defenses." She paused. "Borin and Kael."
+Sim, seated quietly in the circle, spoke with gentle firmness. "Because justice without mercy becomes vengeance. And vengeance breeds only more suffering."
 
-The names struck Gond with the force of a physical blow, a cold shard of his past piercing the warmth of his present purpose. The faces of his former friends, twisted by betrayal, rose in his mind. The old Gond, the mercenary, would have felt a surge of vengeful satisfaction. The paladin felt a profound sorrow, and a weary resignation.
+"The priest speaks wisdom," Thorek rumbled, though his own warrior's instincts clearly favored the hammer approach. "But there's a place for both. Turin's strength to break the chains, Alanyi's touch to heal what was broken."
 
-He closed his eyes for a moment, the divine presence a steady warmth within him. Alanyi's voice from the council chamber echoed in his memory: *In every act of mercy… I am there.*
+Sir Garrett's brow furrowed. "Alanyi? But her temples are ruins. Her priests scattered or dead. Turin's order dominates because his strength is what the world needs."
 
-"This changes nothing of our objective," Gond said, his voice quiet but firm. "Saltmere will be liberated. Alanyi's temple will be reclaimed."
+"Does it?" Gond asked quietly. "Look around you, Sir Garrett. What do you see?"
 
-Maera watched him, her sharp eyes missing little. "And if you face them?"
+The knight's gaze swept the diverse gathering—former slaves working alongside dwarven smiths, elven advisors sharing ancient wisdom with human strategists, children who'd known only bondage now learning to read and fight.
 
-"Then I will offer them the same choice we offer every soul in that city: turn to the light, or be swept away with the darkness." He met her gaze. "Alanyi's mercy extends even to those who have lost their way. But her justice is also inevitable for those who cling to corruption."
+"I see... cooperation," Sir Garrett admitted reluctantly.
 
-Later that night, as the army lay encamped on a ridge overlooking the distant, starlit gleam of the sea, with Saltmere a smudge of deeper darkness on the horizon, Gond walked among his soldiers. He saw humans, dwarves, and a few elves sharing rations, their conversations a low murmur of anticipation and prayer. He saw Sim anointing a young soldier's shield with holy water, the boy's face earnest and hopeful.
+"You see healing," Gond corrected. "You see what happens when mercy tempers justice, when strength serves compassion rather than domination."
 
-He found Elena staring out towards the enemy city. "They say Saltmere's walls are built with the bones of slaves," she said, her voice tight. "That the mortar was mixed with their tears."
+Similar conversations played out across the settlement as the new arrivals struggled to understand their place in something larger than simple retribution. Some adapted quickly, recognizing that their desire for justice could serve a greater purpose. Others wrestled with concepts that challenged everything they'd been taught about divine will and righteous warfare.
 
-"Then we shall wash those walls with hope," Gond replied, standing beside her. "And rebuild its heart with compassion."
+***
 
-"You truly believe we can do this?" she asked, turning to him. "Not just win, but… heal?"
+The evening council meeting was larger than usual, packed with representatives from every faction in their growing alliance. The diversity was remarkable—dwarven war-priests sat beside elven mages, reformed nobles debated strategy with former slaves, and the handful of Alanyi's surviving priests huddled together like candle flames in a storm.
 
-Gond looked at the sprawling camp, at the diverse souls united under a banner of almost impossible idealism. He thought of Alanyi's voice, of Sim's quiet faith, of Silviana's ancient wisdom, of Thorek's steadfast strength, of the courage of men like Sir Marcus who had dared to change.
+"The reports from the north are troubling," Maera announced, spreading dispatches across the table. "Three more temples have declared for our cause, but they're not the grand Turin sanctuaries we might expect. They're forgotten shrines to Alanyi, hidden in ruins and backwater villages. Her priests are emerging from hiding, but they're few and frightened."
 
-"I believe Alanyi did not speak through me only to see us fail," he said. "The path is hard, the cost will be great. But yes, Elena. I believe. We are the tide, and the darkness cannot hold us back."
+"Frightened of what?" Sir Marcus asked.
 
-He was to address the assembled captains one last time before the march resumed at first light, but for now, he sought a moment of quiet. He found a secluded outcrop of rock, the wind cool on his face. He didn't pray in words, not anymore. He simply opened himself to the divine presence, feeling its steady, loving power flow through him, a silent communion that strengthened his resolve.
+"Of being noticed," Sim replied quietly. "For two centuries, Alanyi's worship has been... discouraged. Not banned outright, but marginalized, forgotten, allowed to wither. Her temples fell into ruin while Turin's grew grand and wealthy."
 
-Tomorrow, they would bring Alanyi's light to Saltmere. Tomorrow, the first tithe of tears would be paid for a world reborn.
+Silviana's gaze dropped to her hands, her fingers tracing the grain of the wooden table as if reading ancient stories in its surface. When she looked up again, moisture gathered at the corners of her eyes—the first crack in her elven composure that any of them had witnessed. "The elves remember when her light shone as bright as any god's. When healing and joy were valued as highly as strength and justice."
+
+"What changed?" one of the newer knights asked.
+
+"Gorlatch," Thorek spat. "The corruption we've been fighting isn't new. It's been growing for centuries, turning strength into cruelty, justice into oppression. Easier to control people through fear than inspire them through hope."
+
+Gond felt the familiar stirring of divine power, but this time it was different—deeper, more profound. As he looked around at the faces watching him, he sensed something building, a moment of significance approaching like a gathering storm.
+
+"We're not just fighting slavers," he said, his voice carrying clearly through the chamber. "We're fighting for the soul of civilization itself. For the balance that's been lost."
+
+As he spoke, his conviction grew, and with it, something else. The divine power that usually flowed through his hands during healing began to suffuse his entire being. His voice took on new resonance, carrying harmonics that seemed to touch something deep in every listener's heart.
+
+"For too long, strength has stood alone, untempered by compassion. Justice has become vengeance, order has become oppression. The light of mercy has dimmed to barely a flicker."
+
+The change was subtle at first—a deepening of his voice, a luminous quality to his words that made everyone lean forward. But then something extraordinary happened. Gond's eyes widened slightly, as if he were hearing his own words for the first time, and when he spoke again, it was clear that another voice spoke through him.
+
+"My children," the voice said, and it was Gond's throat that formed the words, but the presence behind them was unmistakably divine, ancient, and infinitely compassionate. "How long have you wandered in darkness, believing that strength alone could light your way?"
+
+Silviana gasped, her elven senses immediately recognizing the divine presence. Her hands flew to her heart as if trying to contain something that threatened to burst free. Sim fell to his knees, tears streaming down his weathered face, his weathered hands pressed flat against the floor in reverent prostration. The dwarven representatives shifted forward as one, their beards bristling with sudden energy, while several reached instinctively for the holy symbols at their throats. Even the hardened knights felt something stir in their hearts—Sir Marcus's scarred hands trembled as he gripped the table's edge, his knuckles white with the effort of remaining upright. Former slaves throughout the chamber began to weep openly, their faces transformed by wonder and disbelief that such grace could touch their broken lives.
+
+"I have not abandoned you," Alanyi continued through Gond's transformed voice. "Though my temples lie in ruins, though my priests hide in shadows, though the world has forgotten the sound of joyful laughter and the touch of gentle healing—I remain. In every act of mercy, in every moment of compassion, in every choice to heal rather than harm, I am there."
+
+The divine presence grew stronger, and those with spiritual sensitivity could see a faint glow surrounding Gond, as if he were lit from within by starlight.
+
+"The balance must be restored. Turin's strength is needed—his hammer to break the chains of oppression, his sword to defend the innocent. But strength without mercy becomes tyranny. Justice without compassion becomes cruelty. The world has learned this truth through centuries of suffering."
+
+Sir Marcus found himself weeping openly, his warrior's pride crumbling before the overwhelming sense of divine love and sorrow.
+
+"Rise, my faithful ones," Alanyi's voice commanded gently. "Reclaim what was lost. Rebuild what was broken. Let my light shine again in temples raised not to my glory, but to the healing of this wounded world. Let mercy temper justice, let compassion guide strength, let joy return to hearts that have known only fear."
+
+The presence began to fade, but the voice continued, growing softer but no less profound. "The path ahead is hard, my children. You will face those who profit from darkness, who have grown fat on suffering, who mistake cruelty for strength. But you do not walk alone. In every freed slave, in every healed wound, in every moment of hope kindled in despair—there I am with you."
+
+As the divine presence withdrew, Gond swayed slightly, his own consciousness returning fully. The chamber was silent except for the sound of quiet weeping and awed breathing.
+
+"Did that really happen?" Sir Garrett whispered.
+
+"Alanyi spoke," Sim said, his voice thick with emotion. "After all these years of silence, she spoke."
+
+Gond looked around at the transformed faces surrounding him, feeling the weight of what had just occurred. The divine power still hummed in his veins, but it was his own voice when he spoke again.
+
+"Now you understand," he said quietly. "This isn't about conquest or even justice alone. It's about restoration. About bringing back the balance that was lost."
+
+***
+
+In the profound silence that followed, Gond felt a clarity of purpose he'd never experienced before. The goddess had spoken through him, and her words had revealed the true scope of their mission.
+
+"Sim," he said, turning to the gentle priest who still knelt in reverent awe. "Rise, my friend. Alanyi has work for you."
+
+Sim stood slowly, his eyes bright with tears and wonder. "What would you have me do?"
+
+"Lead her revival," Gond said simply. "Not through force or compulsion, but through example. As we liberate lands, as we free people from bondage, create spaces where her worship can flourish again. Rebuild the ruined temples, train new priests, but always remember—we offer hope, we don't demand faith."
+
+"I... I'm not worthy of such responsibility," Sim protested.
+
+"None of us are," Gond replied with a slight smile. "But worthiness isn't the point. Willingness is. Will you serve?"
+
+Sim straightened, and for the first time since Gond had known him, the gentle priest looked like a leader. "I will."
+
+Silviana rose gracefully from her seat, her ancient eyes bright with purpose. "If I may," she said, her musical voice carrying clearly through the chamber. "The elves remember much that has been forgotten. The old rites, the sacred songs, the ways of healing that go beyond the merely physical. I offer this knowledge to aid in Alanyi's restoration."
+
+"You would help human priests?" Sir Marcus asked, surprised.
+
+"I would help heal the world," Silviana replied simply. "Divine truth transcends the boundaries of race. If Alanyi's light is to shine again, it will need all the wisdom we can gather."
+
+Gond felt pieces falling into place, a grand design revealing itself. "Then we have our path. Three armies will march, but not just for military victory. We fight to reclaim lands where Alanyi's temples can rise again. We fight to heal the spiritual wounds that Gorlatch's corruption has inflicted. We fight to restore the balance between justice and mercy."
+
+"What of the slave cities?" Elena asked. "The practical concerns of war?"
+
+"Still vital," Gond assured her. "But now we understand why. Every slave market we close, every auction house we burn, every chain we break—it's not just liberation, it's purification. We're cleansing the land of centuries of spiritual poison."
+
+Thorek hefted his warhammer, but his expression was thoughtful rather than merely warlike. "The Iron Covenant has preserved Turin's true teachings for two centuries. We know that strength serves best when it protects rather than conquers. Our hammers will break the chains, but your healing will mend what was broken."
+
+"And the Noble Knights who remain loyal to the old ways?" Sir Marcus asked.
+
+"They'll have to choose," Gond replied. "Stand with the corruption they've served, or embrace the restoration that's coming. Some will see the truth, as you did. Others..." He shrugged. "Turin's justice will find them eventually."
+
+***
+
+The next few days passed in a whirlwind of preparation, but now every action carried deeper meaning. In the settlement's makeshift temple, Sim worked alongside Silviana to consecrate weapons with ancient rites—swords gleamed with faint silver light after being anointed with blessed oils, crossbow bolts were carved with tiny symbols of Alanyi's mercy, and even the siege engines received ritual purification with sacred water drawn from the settlement's deepest well. Maps were studied not just for tactical advantage, but for the locations of ruined temples that could be reclaimed. Messages flew between allied forces, carrying word of the divine mandate that now guided their cause.
+
+The transformation in the settlement was remarkable. The Noble Knight defectors, who had arrived seeking simple justice, now spoke of restoration and healing with the fervor of converts. Former slaves who had fought for freedom now understood they were part of something greater—the return of hope itself to a world that had forgotten its meaning.
+
+"It's like watching a new religion being born," Pell observed as he watched Sim leading a mixed group of humans, dwarves, and elves in evening prayers. "Though I suppose that's exactly what it is."
+
+"Not new," Gond corrected. "Reborn. Alanyi's worship is ancient, older than the kingdoms that tried to suppress it. We're not creating something from nothing—we're nurturing something that never truly died."
+
+"And you?" Pell asked. "How does it feel to be a prophet?"
+
+Gond was quiet for a long moment, watching the diverse gathering that had become his responsibility. "Terrifying," he admitted. 
+
+"Now you're responsible for the spiritual welfare of an entire continent?"
+
+"Something like that." Gond's smile was rueful. "Though I suppose I'm not doing it alone."
+
+Indeed, the burden was shared. Sim had thrown himself into his new role, his shoulders squared with newfound purpose as he worked late into each night by candlelight, carefully transcribing ancient texts with Silviana. His gentle hands moved with steady precision across parchment, recording the scattered knowledge of Alanyi's rites and teachings. The elven lore-keeper proved invaluable, her ancient memory holding songs and ceremonies that had been lost to human knowledge for centuries.
+
+The military preparations continued as well, but with new purpose. Elena coordinated with the elven forces, planning strikes that would not only disrupt the slave trade but also secure locations where Alanyi's temples could be rebuilt. Thorek worked with his Iron Covenant allies to ensure their assault on the inland strongholds would leave room for healing and restoration rather than just destruction.
+
+Even Maera's intelligence network had taken on new significance. Her contacts weren't just gathering military information—they were identifying hidden communities of Alanyi's faithful, scattered priests who had maintained their devotion in secret, and potential allies who might be swayed by the promise of spiritual renewal.
+
+***
+
+The final council meeting before the campaign was held in the settlement's largest hall, now packed beyond capacity with representatives from every faction in their alliance. But the atmosphere was different from previous gatherings—where once there had been grim determination, now there was something approaching joy.
+
+"The northern force is ready," reported Captain Lyralei, speaking for the elven contingent. "Five hundred warriors, supported by mages and scouts. We'll strike at the supply routes through the Thornwood, but we'll also secure the ruins of the Starlight Shrine. Our lore-keepers believe it can be restored."
+
+"The Iron Covenant stands prepared," Thorek declared. "Two thousand hammers, ready to break whatever walls stand in our way. And when those walls fall, we'll help raise new ones—temples instead of slave pens, healing halls instead of auction houses."
+
+"And the coastal assault?" Elena asked.
+
+Gond stood, feeling the weight of divine purpose settling on his shoulders like a mantle. "Fifteen hundred fighters, including our newest allies. We'll hit three cities in rapid succession—Saltmere, Blackwater, and Port Sorrow. But we're not just cutting off the head of the serpent. We're purifying the land itself."
+
+He moved to the great map that dominated one wall, pointing to the marked positions. "Each of these cities has ruins of Alanyi's temples, buried under slave markets and counting houses. When we take them, we'll tear down the monuments to greed and raise up sanctuaries of healing."
+
+"The risks are enormous," Maera warned. "If any of the attacks fail, the entire war will be lost."
+
+"The risks of doing nothing are greater," Gond replied. "Every day we wait, more souls are corrupted by Gorlatch's influence. Every day we delay, the spiritual poison spreads deeper."
+
+He looked around the hall at the faces watching him—faces that represented every race, every class, every background imaginable. But now they were united by something more than shared struggle. They were bound together by shared purpose, by the divine mandate to heal a wounded world.
+
+"This is our moment," he continued, his voice carrying the authority that had grown within him since Alanyi's manifestation. "Three armies, three objectives, one sacred mission—the restoration of balance to a world that has forgotten the meaning of mercy."
+
+"And after?" Sir Marcus asked. "What happens when the fighting's done?"
+
+Gond's gaze swept across the assembled faces, seeing not just warriors and refugees, but the foundation of something unprecedented—a society built on the principle that strength should serve compassion, that justice should be tempered by mercy.
+
+"After, we build," he said simply. "Not just a nation, but a new way of living. Where Alanyi's temples stand beside Turin's halls, where healing is valued as highly as strength, where the strong protect the weak not because they must, but because they choose to."
+
+"A pretty dream," someone called out. "But can it work on a large scale?"
+
+"Look around you," Gond replied. "Six months ago, this settlement didn't exist. A year ago, most of us were strangers, enemies, or slaves. Now we're family, bound together by something stronger than blood or law—by the choice to serve something greater than ourselves."
+
+The hall erupted in cheers, but they were different from the war cries of previous gatherings. These were sounds of joy, of hope, of people who had found not just a cause worth fighting for, but a vision worth living for.
+
+As the sound washed over him, Gond felt the divine presence stir within him again—not the overwhelming manifestation of Alanyi's voice, but a gentle warmth that spoke of approval and blessing.
+
+They were ready.
+
+***
+
+That night, as the settlement prepared for the sacred war to come, Gond walked among his people one last time. Tomorrow, many of them would march to battle. Some wouldn't return. But tonight, there was only quiet determination and the bonds forged through shared purpose.
+
+He paused at the workshop where Grimjaw was making final adjustments to his siege engines. The massive dwarf looked up from his work, gold teeth flashing in the lamplight.
+
+"Ready for tomorrow, lad?"
+
+"As ready as anyone can be for something like this."
+
+"Aye, well, that's the thing about divine missions. Nobody's ever really ready for them. They just happen when they need to happen."
+
+Gond nodded, watching the dwarf's skilled hands work. "Any regrets? About leaving your old life behind?"
+
+Grimjaw's laugh was like distant thunder. "My old life was building weapons for kings who used them to keep slaves in chains. This?" He gestured to the engine that would soon be breaking down the walls of slave cities. "This is what I was meant to build. Tools for liberation, not oppression."
+
+As Gond continued his rounds, he found similar sentiments everywhere. Former slaves who'd found purpose in restoration. Former nobles who'd discovered honor in service to something greater than themselves. Priests who'd rediscovered their faith by serving the divine will rather than human politics.
+
+The house of the old order was indeed divided, split between those who clung to corruption and those who embraced renewal. But from that division, something new was being born—not just a nation, but a new understanding of what civilization could be.
+
+Tomorrow would bring the ultimate test. Three armies would march against an enemy that outnumbered them and outgunned them. The odds were long, the risks enormous.
+
+But as Gond looked out over the settlement—at the workshops and training grounds, the council halls and healing centers, the small shrine where Sim led evening prayers for a mixed congregation of humans, dwarves, and elves—he felt no doubt.
+
+They'd already won the most important victory. They'd proven that Alanyi's vision was possible, that mercy and justice could work together, that healing was stronger than hatred.
+
+Now all they had to do was share that victory with the world.

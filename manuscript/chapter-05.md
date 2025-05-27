@@ -98,62 +98,10 @@ Gond pressed against the wall, praying the shadows would hide him. The guard pau
 
 "Probably just a cat," the guard muttered, and moved on.
 
-Gond's arms trembled with strain. Sweat stung his eyes despite the cool night air. But he forced himself to continue climbing. The wall's top seemed impossibly distant.
+The footsteps faded. Gond remained motionless, muscles screaming, until silence returned. A bead of sweat dripped down his nose, falling on the stones twenty feet below. He forced himself to continue climbing. His arms trembled with strain. His fingers cramped. But the wall's top drew closer with each desperate handhold.
 
-His hand closed on the parapet. With a final surge of effort, he hauled himself over. The city spread below like a map of flickering lights. Beyond the walls, darkness promised freedom.
+Three-quarters of the way up, Blackwater's bells began to toll. The deep bronze notes rolled across the city like thunder. Alarm bells. They'd discovered his escape.
 
-The outer face of the wall offered fewer handholds. Gond lowered himself carefully, testing each grip. His shoulders burned. His fingers cramped. But gradually, the ground drew closer.
+Below, torchlight flickered back toward the wall. The guard's voice carried clearly in the night air: "Search every shadow! He's here somewhere!"
 
-He dropped the final ten feet, rolling to absorb the impact. Pain shot through his ankle, but nothing felt broken. He limped away from the wall, not stopping until Blackwater's lights faded behind him.
-
-The northern road stretched ahead, empty and dark. Without Ash, the journey back to the waypoint would take most of the night. Gond set a steady pace, favoring his twisted ankle. Every shadow might hide pursuers. Every sound could signal danger.
-
-Dawn was breaking when he spotted movement ahead—a small figure struggling through roadside mud, chains dragging at her feet. He approached carefully, hands visible and empty.
-
-The young woman froze, terror stark in her wide eyes. Her clothes hung in tatters, torn by brambles and stained with mud. Fresh cuts marked her arms where the shackles had rubbed raw. Her lips were cracked from thirst, and her dark hair hung in matted tangles around a face hollowed by hunger.
-
-"I won't hurt you." Gond kept his voice soft. "I've worn those chains."
-
-She trembled, exhaustion warring with hope in her gaunt features. When she spoke, her voice came out as a hoarse rasp. "Lira," she whispered. "Escaped yesterday. They'll come for me."
-
-"Not if I can help it." Gond pulled a metal file from his pack and knelt beside her. The shackles fell away with heavy thuds. Lira choked back a sob, rubbing her raw ankles.
-
-"Can you walk?"
-
-She nodded, though her legs shook with fatigue. Together, they limped toward the waypoint. Gond's ankle throbbed with each step, but he pushed the pain aside. The woman needed his strength.
-
-The waystation appeared through morning mist like a blessed vision. Sim rose in surprise as they approached. Compassion flooded his features as he welcomed Lira. Pell watched from the shadows, tension easing only when Gond explained.
-
-"Blackwater is death," Gond concluded, settling heavily beside the fire. "They've doubled our bounty. Guards are searching every building, questioning every merchant. And they have Ash."
-
-Pell's eyebrow arched. "What? How?"
-
-"Surrounded him before I could get back." Gond's jaw tightened. "Which means they know we're in the area. They'll expand the search."
-
-"How long before they find us?" Aerin asked, unconsciously moving closer to her brother.
-
-"Days, maybe less. Word travels fast when there's gold involved." Gond studied their faces in the firelight. "We need to disappear. Deep into the hills where horses can't follow."
-
-"Into thin air?" Pell's voice carried forced lightness.
-
-"Into the wilderness." Gond recalled Maera's map. "Too rugged for slavers. Too remote for bounty hunters. We hide, rest, plan our next move."
-
-Sim nodded, that calm certainty settling over him. "Wisdom. Safety first."
-
-Dax flexed his healing hands. "I worked with my father's carpentry crew before..." He gestured at his branded wrist. "I know how to build, if we can find the materials. But we'll need tools. Axes for felling trees. Saws for cutting lumber."
-
-"One problem at a time," Gond said. "First we survive. Then we build."
-
-He looked around the circle of faces—frightened, hopeful, trusting. Something shifted in his chest. The weight of responsibility settled there, heavy but not unwelcome. These people depended on him. Their safety mattered more than his personal vengeance.
-
-"Dawn, then." His voice carried new authority. "We take the remaining horse and disappear."
-
-Pell's grin held anticipation and wariness in equal measure. "Let's hope hidden stays hidden."
-
-Morning broke clear and bright, painting their small band in golden light. Gond helped Lira onto their remaining horse, her arms wrapped around the supply pack. Dax walked beside them, his injured feet healing but still tender.
-
-They climbed steadily away from the coast, leaving the dangerous lowlands behind. The rugged hills opened before them—wild, untamed, promising sanctuary. Gond's shoulders straightened as they walked. The weight in his chest transformed into something that might have been hope.
-
-He caught Sim's eye and nodded. The priest smiled back. Understanding passed between them without words.
-
-Revenge could wait. Today, they needed a home.
+The torch began moving back along the wall's base, growing brighter with each step.

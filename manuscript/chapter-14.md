@@ -2,198 +2,224 @@
 
 ## Part III: An Unlikely Saint
 
-### Chapter 14: Burden of Grace
+### Chapter 14: The Legend Begins
 
-The victory had come at a price.
+The first sign of trouble came with the dawn—a line of smoke rising from the valley's eastern approach, too thick and dark to be a cooking fire. Gond stood at the settlement's edge, watching the distant plume with growing unease. Beside him, Pell squinted against the morning light, his hand resting on his knife hilt.
 
-Gond knelt beside the still form of young Willem, one of the settlement's newest arrivals—a boy of perhaps sixteen who'd taken up a sword for the first time in his life three hours ago. Now he lay motionless on the bloodstained grass, his chest rising and falling in shallow, labored breaths.
+"Could be a forest fire," the thief said, though his tone suggested he didn't believe it.
 
-"Internal bleeding," Sim said quietly, his hands already stained red from his examination. "The crossbow bolt went deep. I've done what I can, but..."
+"Could be." Gond's fingers drummed against his sword pommel. "But fires don't usually travel in straight lines toward specific valleys."
 
-But it wasn't enough. Gond could see that much without divine sight. The boy's skin had taken on the waxy pallor that spoke of life ebbing away, and his breathing grew more ragged with each passing moment.
+The settlement had grown considerably in the weeks since Silviana's arrival. What had once been a handful of refugees huddled around a single fire now sprawled across the valley floor—dozens of shelters, cooking areas, workshops, and storage pits. The population had swelled to nearly two hundred souls, all drawn by whispered tales of the "Healer in the Hills."
 
-Around them, the settlement bore the scars of battle. The slavers had been routed—those who survived the initial charge had fled into the forest, leaving behind their dead and wounded. Captain Voss himself lay among the fallen, his expensive armor no protection against the fury of people fighting for their homes.
+And that, Gond reflected grimly, was precisely the problem.
 
-It should have been a moment of triumph. Instead, Gond's shoulders sagged as if invisible stones had been piled upon them, each fallen defender adding to the burden that pressed down on his spine.
+"How many today?" he asked.
 
-"How many?" he asked.
+Pell consulted the tally marks carved into a piece of bark—his method for tracking new arrivals. "Seven yesterday. Thirteen the day before. Word's spreading faster than we can contain it."
 
-"Seven dead," Pell reported, his voice carefully neutral. "Twelve wounded, three seriously." He paused. "Could have been much worse."
+The numbers told the story Gond had been dreading. Each healing, each miracle, sent ripples outward through the network of desperate people seeking hope. Refugees told other refugees. Escaped slaves whispered to those still in bondage. Sympathetic villagers passed along rumors to anyone who would listen.
 
-Could have been. But Willem was dying, and two other defenders lay nearby in conditions nearly as grave. The divine blessing that had turned the tide of battle was fading, leaving behind the harsh reality of mortal flesh and mortal limitations.
+The "Healer in the Hills" was becoming a legend, and legends, Gond had learned, were dangerous things.
 
-Gond placed his hands on Willem's chest, feeling for the familiar stirring of divine power. It came readily, flowing through him like warm honey. The divine light sought out the damaged places within the boy's body—the internal bleeding, the shattered ribs, the trauma that went deeper than flesh.
+"Gond!" Sim's voice carried across the settlement, urgent but controlled. The priest emerged from between two shelters, supporting an elderly man whose clothes marked him as a city dweller—fine fabric, now torn and stained from hard travel.
 
-The healing began, golden light suffusing Willem's broken form. Gond felt the boy's wounds responding, blood vessels mending, bones knitting together. For a moment, hope flared in his chest. Willem's breathing steadied, color returning to his pale cheeks.
+"Another one?" Pell muttered.
 
-Then, like a gentle but unmistakable pressure against his consciousness, came Alanyi's voice: *Ease his suffering, my son. But his path ends here. Provide comfort, not healing. His spirit yearns for release.*
+As they approached, Gond could see the man's condition—exhaustion, dehydration, and something else. The hollow look of someone who'd lost everything and was clinging to a final thread of hope.
 
-Gond's hands trembled. The divine instruction was clear, undeniable. But Willem was so young, had fought so bravely. Surely the goddess would want him to live, to see the world they were building.
+"This is Marcus," Sim said as they reached the group. "He's traveled from Westport. Three weeks on foot."
 
-"No," Gond whispered, pouring more power into the healing. "I can save him. I can—"
+Westport. Gond's jaw tightened. That was nearly a hundred miles southeast—farther than any previous refugee had traveled to reach them. The implications were troubling.
 
-The warmth that had filled his chest suddenly drained away, leaving behind a hollow ache that echoed with each heartbeat. His fingertips, which had tingled with divine energy moments before, now felt cold and numb. The golden light flickered and died, abandoning him to channel his own mortal will against death itself. Sweat beaded on Gond's forehead as he fought to continue the healing without divine support. The effort was enormous, like trying to hold back an ocean with his bare hands. His vision blurred, his hands shook, and he felt something fundamental within himself beginning to tear.
+Marcus raised his head, and Gond saw tears cutting tracks through the grime on his cheeks. His hands shook as he spoke, and Gond noticed the raw blisters on his palms from weeks of walking with an improvised staff. "My granddaughter," he whispered, his voice cracking with exhaustion. "The wasting sickness. The healers in Westport... they said there was nothing... but I heard stories. A man who could work miracles. Please, I have gold—"
 
-Around him, he could hear voices—Sim urging him to stop, Silviana speaking urgently in elven, others calling out in alarm as they saw him collapsing.
+"Keep your gold," Gond said gently, helping Sim support the old man. "Where is she?"
 
-Willem's eyes fluttered open, meeting Gond's for a brief moment. The boy's lips moved, forming words too quiet to hear. Then his chest stilled, and the light faded from his gaze.
+"I... I couldn't bring her. Too weak for the journey. She's with my daughter in Westport, but..." Marcus's voice broke. "She won't last much longer. Please, if you could come—"
 
-Gond's hands fell away as consciousness fled. He collapsed beside Willem's body, his defiance of divine will having nearly killed him.
+"I can't leave the valley," Gond said, the words tasting like ash in his mouth. "Too many people here depend on—"
 
-"I'm sorry," he whispered to the boy's still form. "I'm so sorry."
+"Then she'll die." Marcus's grip on Gond's arm was surprisingly strong. "A child of eight years, and she'll die because I couldn't convince a miracle worker to travel a few days' ride."
 
-The crowd that had gathered around them began to disperse, some weeping, others offering quiet prayers. But Gond remained kneeling beside Willem's body, staring at his own hands as if they belonged to a stranger.
+The accusation hit harder than any physical blow. Gond felt the familiar stirring of divine power, responding to the old man's anguish, but also something else—a growing weight of impossible expectations. How many Marcus's were there? How many desperate souls making impossible journeys based on impossible hopes?
 
-"You did everything you could," Sim said gently.
+"Sim," he said quietly. "Take Marcus to the guest area. Food, water, rest. We'll talk more when he's recovered from his journey."
 
-"Did I?" Gond's voice was raw. "She told me to stop. Alanyi herself told me to let him go, to ease his suffering and let his spirit find peace. But I thought I knew better. I thought I could defy divine will and save him anyway."
+As the priest led the old man away, Gond remained standing at the settlement's edge, staring at that distant smoke. The weight of too many choices, too many needs, pressed down on his shoulders like a physical burden.
 
-"Gond—"
+"You can't save them all," Pell said quietly.
 
-"Seven people died today because they believed in me. Because they thought the 'Healer in the Hills' could protect them from anything." He looked up at Sim, his eyes hollow. "And when the goddess herself gave me clear instruction, I ignored it. What kind of paladin does that make me?"
+"I know that." The words came out sharper than Gond intended. "But knowing it and living with it are different things."
 
-Before Sim could answer, Silviana appeared at Gond's side. The elf's usually serene expression was troubled, her ancient eyes reflecting a pain that went deeper than the day's losses.
+They stood in silence for a moment, watching the settlement come alive around them. Children played between the shelters—some born here, others rescued from various horrors. Adults went about the business of daily survival with the quiet efficiency of people who'd learned to make the most of what they had. Guards took their positions at the valley's approaches, weapons ready but faces relaxed.
 
-"Come," she said simply. "There is something you need to see."
+It was, Gond realized, starting to feel like home. And that made what was coming all the more painful.
 
-She led him away from the battlefield, through the settlement and up the slope toward the old temple ruins where they'd first practiced channeling divine power. But instead of stopping at their usual meditation spot, she continued climbing, following a path Gond had never noticed before.
+"We can't stay here much longer," he said.
 
-The trail wound through dense forest, marked only by occasional stones that seemed to have been placed with deliberate care. As they climbed higher, the sounds of the settlement faded below them, replaced by the whisper of wind through ancient trees.
+Pell nodded. "Too many people know about us now. And that smoke..."
 
-"Where are we going?" Gond asked.
+"Isn't a forest fire." Gond's hand moved to his sword hilt again. "Question is, how long do we have?"
 
-"To a place of answers," Silviana replied. "Or perhaps, to a place where the right questions become clear."
+The answer came sooner than expected. A shout from the eastern watch post echoed across the valley, followed by the sound of a horn—three short blasts, the signal for approaching strangers. Not the long, urgent call that would indicate immediate danger, but enough to put everyone on alert.
 
-They emerged into a circular clearing dominated by a single massive oak tree, its trunk so wide that a dozen people holding hands couldn't have encircled it. The bark was deeply furrowed, each groove and ridge telling the story of countless seasons. The scent of rich earth and growing things filled the air, while overhead, the canopy rustled with a sound like distant voices sharing ancient secrets. The tree's branches spread overhead like a living cathedral, and at its base, carved into the bark itself, was a symbol Gond recognized—the intertwined circles of Alanyi, goddess of mercy and redemption.
+Gond and Pell jogged toward the watch post, arriving just as the sentry pointed toward a group of figures emerging from the tree line. A dozen people, moving slowly, supporting each other. Refugees, by the look of them, but something was wrong. They moved with the desperate urgency of people fleeing immediate danger.
 
-"This tree was here when my people first came to these lands," Silviana said, settling cross-legged at its base. "It was ancient then, and that was over a thousand years ago. The symbol was carved by the first paladin of Alanyi to walk these paths."
+"Slavers," the lead figure gasped as they reached the settlement's edge. A woman, middle-aged, her clothes singed and torn. "Burned out Millhaven village. Took everyone they could catch. We ran... been running for two days..."
 
-Gond approached the tree slowly, his fingers tracing the worn grooves of the carving. The bark felt warm beneath his touch, as if life pulsed just beneath the surface. "How many paladins have there been?"
+Millhaven. Gond knew the name—a farming community about twenty miles east. Close enough that smoke from its burning would be visible from the valley. Close enough that anyone who escaped would know exactly where to run.
 
-"Fewer than you might think. More than the world remembers." Silviana's voice carried the weight of centuries. "Each one faced the same crisis you face now—the moment when divine power proves insufficient to prevent all suffering, when the burden of choice becomes too heavy to bear."
+"How many slavers?" Pell asked, already thinking tactically.
 
-"And what happened to them?"
+"Fifty, maybe more. Professional outfit, not the usual raiders. They had a list." The woman's eyes found Gond, and he saw recognition dawn in them. "They were asking about the healer."
 
-"Some broke under the weight. They abandoned their calling, convinced they were unworthy of divine grace." Silviana's eyes were distant, remembering. "Others became consumed by their power, believing themselves above mortal concerns. Both paths lead to the same destination—the loss of what makes a paladin truly effective."
+The words hit the settlement like a physical blow. Conversations stopped. Children moved closer to their parents. Hands drifted toward weapons.
 
-Gond sank down beside her, his back against the ancient bark. "And the rest?"
+"They know," someone whispered.
 
-"They learned the hardest lesson of all—that divine power is not about preventing all suffering, but about trusting divine wisdom even when it conflicts with mortal compassion. That being a paladin means accepting that the gods see patterns we cannot, and sometimes mercy means letting go."
+"We're trapped," another voice added.
 
-The words hit Gond like physical blows. "So I'm supposed to just accept that Willem died? That I defied Alanyi's direct instruction because I thought I knew better?"
+"Quiet," Gond said, his voice carrying across the suddenly tense crowd. "Everyone stay calm. We've prepared for this."
 
-"You are supposed to accept that Willem died because it was his time, and Alanyi knew his spirit was ready for release. That seven good people died because they chose to stand against evil, knowing the cost." Silviana turned to face him, her expression gentle but implacable. "Your defiance was not malice, Gond—it was love. But divine wisdom encompasses more than mortal understanding."
+But even as he spoke the words, Gond felt the weight of leadership settling heavier on his shoulders. They had prepared, after a fashion—escape routes, hidden caches of supplies, contingency plans. But those plans had been made when the settlement was smaller, more mobile. With two hundred people, including children and elderly, evacuation would be a nightmare.
 
-"But I nearly died trying to save him—"
+"Pell," he said quietly. "How long to get everyone out?"
 
-"And that taught you something crucial about the relationship between divine will and mortal desire." She placed a hand on his shoulder. "The gods do not give us power to override their judgment, but to serve their greater purpose. The question is not whether you can save everyone—it is whether you will learn to trust divine guidance even when your heart rebels against it."
+"If we start now? Six hours, minimum. And that's if we leave everything behind."
 
-Gond closed his eyes, feeling the weight of her words settle over him. In the distance, he could hear the sounds of the settlement—people rebuilding, tending to the wounded, preparing for whatever came next. They were continuing on despite their losses, finding strength in each other and in the hope he'd helped kindle.
+Six hours. Gond looked at the smoke on the horizon, estimating distances and travel times. If the slavers had burned Millhaven two days ago and were following the refugees' trail...
 
-"I don't know if I can," he admitted. "Carry this burden. Make these choices. Watch good people die because I'm not enough."
+"They'll be here by midday," he said.
 
-"Then perhaps," said a new voice, rough and accented with the cadence of mountain folk, "it is time you learned that you do not have to carry it alone."
+"Maybe sooner," Pell agreed grimly.
 
-Gond's eyes snapped open to see a figure emerging from the tree line—a dwarf, but unlike any he'd encountered before. This one wore armor that gleamed with more than mere polish, inscribed with runes that seemed to shift and flow in the dappled sunlight. His beard was iron-gray, braided with small metal rings that chimed softly as he moved. In his hands, he carried a warhammer that radiated an aura of barely contained power.
+The crowd was looking to him now, waiting for orders, for reassurance, for another miracle. But this wasn't something divine power could solve. This was tactics, logistics, and hard choices.
 
-"Thorek Ironheart," Silviana said, rising gracefully to her feet. "You came."
+"Sim," Gond called. "Start organizing the evacuation. Priority to children and anyone who can't travel fast. Aerin, get the fighters ready—we'll need a rear guard." He paused, scanning the faces around him. "Everyone else, pack only what you can carry. We move in one hour."
 
-"Aye, I came." The dwarf's eyes fixed on Gond with an intensity that was almost physical. "Word reached the Iron Covenant of a human claiming to be a paladin of Alanyi. My brothers thought it worth investigating."
+The settlement exploded into controlled chaos as people scattered to follow his orders. But Gond remained standing in the center of it all, feeling strangely detached from the urgency around him. This was what he'd feared from the beginning—the moment when his presence would bring danger to those he'd sworn to protect.
 
-Gond struggled to his feet, suddenly aware of how he must look—exhausted, bloodstained, hollow-eyed with grief and doubt. "And what did you find?"
+"Second thoughts?" Pell asked, appearing at his elbow.
 
-Thorek studied him for a long moment, his eyes moving from Gond's face to the sword at his side. The dwarf's expression shifted, professional interest replacing casual assessment.
+"About what?"
 
-"May I?" Thorek gestured toward the weapon.
+"All of this. The healing, the settlement, playing savior to every lost soul who wanders into our valley." The thief's voice was carefully neutral, but Gond caught the underlying question.
 
-Gond hesitated, then drew his blade and offered it hilt-first. The silver steel caught the dappled sunlight, its surface unmarked despite the morning's battle.
+"You think I should have stayed focused on Borin and Kael."
 
-Thorek took the sword with the reverence of a master craftsman, his calloused fingers running along the fuller, testing the balance, examining the edge with an expert's eye. His breathing grew shallow as he studied the weapon, turning it this way and that in the light. The dwarf's weathered hands traced the blade's surface with the delicate touch of someone who understood metal at its most fundamental level. He held it up to catch the light, squinted at the grain of the steel, even brought it close to his ear and tapped it gently with one thick finger, listening to the tone it produced.
+"I think," Pell said slowly, "that a few months ago, you would have been halfway to wherever they're hiding by now. Instead, you're here, about to risk your life for a bunch of strangers."
 
-"By Turin's hammer," he whispered, his voice filled with awe. "This is no mortal blade."
+The observation hit Gond like a revelation. When had he last thought about his former comrades? When had the burning need for revenge faded into something so distant it felt like someone else's memory?
 
-"What do you mean?" Gond asked.
+"When did it happen?" he asked, more to himself than to Pell.
 
-The dwarf looked up, his eyes wide with something approaching religious fervor. "I have worked metal for over two centuries, lad. I have forged weapons for kings and heroes, blades that have carved their names into legend. But this..." He held the sword up, watching light play along its perfect edge. "The steel is too pure, the balance too perfect. The edge holds a sharpness that should be impossible to maintain. And the way it resonates when struck—it sings with harmonics I've never heard from earthly metal. This is beyond my ability to forge. Beyond any mortal smith's ability."
+"When did what happen?"
 
-Silviana moved closer, her ancient eyes studying the weapon with new interest. "The old songs speak of such blades. Weapons transformed by divine will, forged not in earthly fires but in the crucible of righteous purpose."
+"When did I stop caring about revenge?"
 
-"You're saying the sword changed itself?" Gond's voice was barely above a whisper.
+Pell was quiet for a moment, watching the evacuation preparations with thoughtful eyes. "Hard to say exactly. Maybe when you chose to leave Blackwater with your betrayers alive. Maybe when you started healing people instead of planning how to hurt the ones who wronged you." He shrugged. "Or maybe it was gradual—so slow you didn't notice until now."
 
-"I'm saying," Thorek replied, carefully returning the weapon to Gond's hands, "that you carry a blade touched by the divine. The steel itself has been blessed, transformed into something that exists as much in the realm of spirit as in the world of flesh."
+Gond felt something shift inside him, like a weight he'd been carrying for so long he'd forgotten it was there suddenly lifting away. The rage that had sustained him through slavery, through escape, through those first desperate weeks of freedom—it was gone. Not suppressed or controlled, but genuinely absent, replaced by something else entirely.
 
-Gond stared at the sword, remembering the moment in battle when he'd drawn it to find crude iron transformed to silver steel. "I thought I was imagining it."
+"I don't want revenge anymore," he said, the words feeling strange on his tongue.
 
-"The gods rarely work in ways that leave room for doubt," Silviana said softly. "When they choose to act directly in the mortal world, their touch is unmistakable."
+"I know," Pell said simply. "Question is, what do you want instead?"
 
-Thorek gestured toward the settlement below. "I found a man who stands between the innocent and those who would harm them. I found someone willing to spend his own life force to heal the wounded. I found a leader who grieves for those he could not save." The dwarf's expression softened slightly. "I found a paladin, though one who has forgotten that even divine champions need allies."
+Before Gond could answer, another commotion arose from the settlement's edge. More refugees, these ones in even worse condition than the last group. And behind them, barely visible through the trees, the glint of metal in the morning sun.
 
-"Allies?"
+"They're here," someone shouted.
 
-"The Iron Covenant has watched the corruption of the Marshal Order for two centuries," Thorek said, his voice carrying the weight of old anger. "We have seen Turin's teachings twisted to serve those who would enslave the innocent. It began when the kingdom banned worship of Gorlatch—the old evil god—and his followers went underground, infiltrating other orders. The corruption spread like poison through the ranks." His expression darkened. "We have waited for a sign that the old alliance between our peoples might be renewed."
+The evacuation, barely begun, ground to a halt as people froze in terror. Children began crying. Adults clutched whatever possessions they'd managed to gather, looking around desperately for somewhere to run.
 
-He stepped forward, extending his hand to Gond. "Your victory today was not won by divine power alone. It was won by people standing together, fighting for something greater than themselves. That is the true strength of a paladin—not the miracles you can work, but the hope you can inspire in others."
+But there was nowhere to run. The valley had only two exits—the main approach where the slavers were advancing, and a narrow mountain pass that would take hours to traverse with so many people. They were trapped.
 
-Gond looked at the offered hand, then at Silviana, who nodded encouragingly. Slowly, he reached out and clasped the dwarf's forearm in the traditional warrior's greeting. As their hands met, Thorek spoke a phrase in the old dwarven tongue, his voice carrying the weight of ritual and ceremony. The metal rings in his beard chimed softly, and for a moment, the air itself seemed to thrum with significance.
+Gond felt the divine power stirring within him, responding to the fear and desperation around him. But this wasn't a situation that could be healed or blessed away. This required a different kind of intervention.
 
-"The Iron Covenant offers its aid," Thorek said formally. "Our weapons, our knowledge, our strength in the battles to come. But more than that, we offer partnership—the chance to rebuild what was broken, to restore the alliance that once stood against the darkness."
+"How many fighters do we have?" he asked Pell.
 
-"And in return?"
+"Maybe thirty who know which end of a sword to hold. Another twenty with hunting experience." Pell's expression was grim. "Against fifty professional slavers? We'll buy you maybe an hour."
 
-Thorek's smile was fierce and proud. "In return, you continue being what you are—a beacon of hope in a world that has forgotten what hope looks like. You stand against the slavers and their corrupt allies. You show the world that divine power still flows to those worthy of it."
+An hour. Enough time to get some of the children away, perhaps, but not nearly enough to save everyone. Gond looked around at the faces turned toward him—people who'd come here seeking safety, seeking healing, seeking hope. People who trusted him to protect them.
 
-Gond felt something shift inside him—not the divine power he'd grown accustomed to, but something more fundamental. The crushing weight of solitary responsibility began to ease, replaced by the strength that came from shared purpose.
+The weight of that trust was almost crushing. But beneath it, Gond felt something else—a clarity he'd never experienced before. This was why he'd been given divine power. Not just to heal individual wounds, but to stand between the innocent and those who would harm them.
 
-"There will be more battles," he said.
+"No," he said quietly.
 
-"Aye, there will."
+"No what?" Pell asked.
 
-"More losses. More hard choices."
+"No retreat. No evacuation." Gond's voice grew stronger, carrying across the settlement. "We make our stand here."
 
-"Aye. But you will not make them alone."
+The crowd stirred uneasily. Someone called out, "But there are too many of them!"
 
-Gond looked down at the settlement, where people were already working to repair the damage from the day's battle. Children played among the rebuilding efforts, their laughter a defiant answer to the morning's violence. Families gathered around cooking fires, sharing what they had with those who had lost everything.
+"There are too many of us to run," Gond replied. "Too many children, too many elderly, too many who can't move fast enough to escape. So we don't run. We fight."
 
-It wasn't perfect. It wasn't safe. But it was real, and it was worth fighting for.
+"That's suicide," Lira protested, pushing through the crowd. "We should at least try to get the children out—"
 
-"When do we start?" he asked.
+"And leave them orphans in the wilderness?" Gond shook his head. "No. We stay together. We protect each other. And we trust that sometimes, when the cause is just, fifty isn't always more than two hundred."
 
-Thorek's grin was answer enough.
+He could see the doubt in their faces, the fear that he was asking them to die for his pride. But he could also see something else—a spark of hope, of defiance, of the same spirit that had brought them all here in the first place.
+
+"Silviana," he called. The elf appeared at his side as if she'd been waiting for his summons. "Can you and Sim organize the non-combatants? Get them to the center of the settlement, behind whatever cover we can improvise."
+
+Around them, the settlement transformed with desperate efficiency. Men dragged heavy wooden tables from the dining areas to form makeshift barricades. Women overturned wagons and filled them with stones and dirt. Children carried bundles of arrows to the defenders while older refugees sharpened kitchen knives and farm tools into weapons. The sound of hammering filled the air as Jorik and his apprentices reinforced weak points in their improvised fortifications.
+
+"And you?" she asked.
+
+Gond looked toward the approaching slavers, then back at the people depending on him. "I'm going to remind them why legends are dangerous things to hunt."
+
+As the settlement transformed itself into a fortress, Gond found himself thinking about Pell's question. What did he want, if not revenge?
+
+The answer came to him as he watched families helping each other prepare for battle, as he saw former slaves taking up weapons to defend their new home, as he felt the divine light stirring within him in response to their courage.
+
+He wanted this. This community, this purpose, this chance to build something better than what had come before. He wanted to protect the innocent, heal the wounded, and stand as a beacon of hope in a world that had forgotten what hope looked like.
+
+It wasn't the life he'd planned, but it was the life he'd chosen. And as the first slavers emerged from the tree line, weapons gleaming in the morning sun, Gond found himself grateful for the choice.
+
+The legend of the healer in the hills was about to become something else entirely. And for the first time since awakening in chains, Gond was exactly where he wanted to be.
 
 ***
 
-The war council convened that evening around the central fire, the flickering flames casting dancing shadows across the faces of those gathered. Gond sat with Thorek on his right and Silviana on his left, while Pell, Sim, and Aerin completed the circle. Around them, the settlement had settled into its nightly routines, but there was an undercurrent of anticipation in the air.
+The slavers advanced with professional precision, their formation tight and disciplined. Their shields locked with practiced efficiency, spears angled at identical degrees, each rider maintaining perfect spacing despite the uneven terrain. At their head rode a man in expensive armor, his face hidden behind a helm decorated with silver inlay. Behind him came the foot soldiers—hardened men with the look of veterans, their weapons well-maintained and their movements coordinated.
 
-"The attack today was not random," Thorek said without preamble. "The Crimson Company is—was—one of the most professional slaver outfits on the continent. They don't move without significant payment and solid intelligence."
+Gond stood at the settlement's edge, flanked by Pell and Aerin, watching the approaching force with tactical eyes. Fifty-three by his count, all mounted, all armed with crossbows in addition to their melee weapons. A formidable force by any measure.
 
-"Someone hired them specifically to take me," Gond said. It wasn't a question.
+"They're not here to negotiate," Pell observed.
 
-"Aye. And when they failed to return, their employers will send others. Larger forces, better equipped, more ruthless." The dwarf's expression was grim. "You have perhaps a month before the next attack. Maybe less."
+"No," Gond agreed. "They're here to collect a bounty."
 
-"Then we need to be ready," Pell said. "Better defenses, more fighters, escape routes—"
+The lead rider raised his hand, and the formation halted just outside crossbow range. He removed his helm, revealing a scarred face and cold, calculating eyes.
 
-"No." Gond's voice cut through the planning session. "No more running. No more hiding."
+"I am Captain Voss of the Crimson Company," he called out, his voice carrying easily across the distance. "I seek the one called the Healer. Surrender him to us, and the rest of you may go free."
 
-The circle fell silent, all eyes turning to him. In the firelight, Gond could see the question in their faces—the same question he'd been asking himself since Willem's death.
+A murmur ran through the defenders. Some looked hopefully at Gond, as if he might actually consider the offer. But Gond had seen enough of the slave trade to know how such promises ended.
 
-"We've been reacting," he continued. "Waiting for them to come to us, trying to protect what we've built. But that's not enough anymore. It will never be enough as long as the slave trade exists."
+"And if I refuse?" he called back.
 
-"What are you suggesting?" Silviana asked, though her tone suggested she already knew.
+Voss smiled, the expression cold and predatory. "Then we take you anyway, and sell the rest of these rabble to cover our expenses. Your choice, Healer. Die a hero, or let your followers pay the price for your pride."
 
-"I'm suggesting we stop playing defense and start taking the fight to them." Gond looked around the circle, meeting each pair of eyes in turn. "The slavers, their backers, the corrupt officials who enable them—all of it. We tear it down and build something better in its place."
+It was a clever tactic—isolate the leader, make him responsible for whatever happened next. Gond had used similar approaches himself, back in his mercenary days. The difference was, he'd never been on the receiving end before.
 
-Thorek leaned forward, his eyes gleaming with interest. "That's not a battle, lad. That's a war."
+"Counter-offer," Gond said, his voice carrying the authority he'd learned to project. "Turn around and leave. Find easier prey. Because if you attack this settlement, I promise you won't like what happens next."
 
-"Then it's a war." Gond's voice carried a certainty he hadn't felt since Willem's death. "A war for the right of people to live without fear of chains."
+Voss laughed, the sound harsh and mocking. "Threats from a jumped-up hedge wizard? I think not." He raised his hand again, and crossbows appeared along the slaver line. "Last chance, Healer. Come quietly, or watch your people die."
 
-"The Iron Covenant has been preparing for such a war for two centuries," Thorek said slowly. "We have weapons, siege engines, warriors trained in the old ways. But we have lacked something crucial—a cause that could unite the scattered forces of good."
+The familiar warmth kindled beneath Gond's sternum, spreading like wine through his veins, but this time it carried a different quality—sharper, more focused, like molten steel rather than honey. His muscles tensed with sudden strength, and he could feel his heartbeat synchronizing with something vast and implacable. The same divine force that could mend broken bones could also strengthen them beyond normal limits. The same power that could heal wounds could also prevent them from occurring in the first place.
 
-"And now?" Sim asked.
+"Pell," he said quietly. "When I give the signal, tell everyone to charge."
 
-The dwarf's smile was fierce and proud. "Now we have a paladin."
+"Charge?" The thief's voice cracked slightly. "Gond, they have crossbows. We'll be cut down before we get halfway—"
 
-As the council continued late into the night, planning and preparing for the battles to come, Gond felt the last of his doubt fade away. Willem's death still grieved him, and he knew there would be more losses ahead. But he also knew that the boy's sacrifice—and the sacrifice of all who had fallen—would not be in vain.
+"Trust me."
 
-The legend of the healer in the hills was ending. In its place, something new was being born—a movement that would shake the foundations of the world.
+Gond stepped forward, placing himself between the slavers and his people. He could feel their eyes on him—two hundred souls looking to him for salvation, for another miracle. And perhaps, he thought, that's exactly what they would get.
 
-And for the first time since accepting his calling, Gond was ready to embrace everything that meant.
+"Captain Voss," he called out. "You came here hunting a legend. I hope you're prepared for what you find."
+
+Gond drew his sword. Divine light exploded outward from it like a physical force, washing over the settlement in a wave of golden radiance. Where it touched the defenders, it left them stronger, faster, more resilient. Where it reached the slavers, it did something else entirely—the light seared their eyes like staring into the sun, made their skin crawl with an electric tingling that spoke of judgment and retribution. Several horses reared, their riders struggling to control mounts that suddenly wanted nothing more than to flee from the terrible purity bearing down on them.
+
+For a moment, the battlefield was silent except for the sound of horses shifting nervously and men muttering prayers. The slavers drew back even as they leaned forward, hands reaching out then pulling away, their faces caught between wonder and terror. Then Voss raised his crossbow, his face twisted with sudden fear and fury.
+
+"Kill them all!" he screamed.
+
+The battle for the valley had begun.

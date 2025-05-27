@@ -28,9 +28,7 @@ Pell's eyes glittered with something more than hunger. His weathered hands bore 
 
 "How close?" Gond asked.
 
-"Close enough to swim, if a man's desperate enough." Pell's grin was sharp as a blade. "And if he times it right. Third watch is when they make the turn—that's when Greasy takes his shift. Ship'll be maybe two hundred yards from shore, moving slow to navigate the rocks."
-
-The man chained with Pell—Sim—kept his voice soft as morning mist. "Patience will serve us better than haste." Even here, in this floating tomb, something in his tone made the nearby prisoners lean closer, tension easing from their shoulders.
+"Close enough to swim, if a man's desperate enough." Pell's grin was sharp as a blade. "And if he times it right. Third watch is when they make the turn—that's when Greasy takes his shift."
 
 "Keep your god handy," Jord muttered. "We'll need more than pretty words."
 
@@ -48,19 +46,15 @@ Jord's muscles coiled like springs. His fingers drummed against his thigh in rap
 
 Pell's eyes glittered in the dim light filtering down from above. "Twelve steps from hatch to rail on the port side. I counted. But there's a coil of rope near the mainmast—could trip a man in the dark."
 
-"Good." Gond's mind worked through the sequence like a chess master planning moves. "Sim, how fast can you free yourself once you have keys?"
+"Good." Gond's mind worked through the sequence like a chess master planning moves. "Sim, when we pass you the keys, free as many prisoners as you can."
 
-"Thirty heartbeats, perhaps forty." The priest's voice carried quiet certainty. "These locks are crude. But the others..." He gestured toward the rows of chained prisoners.
+"I will." The priest's voice carried quiet certainty.
 
-"We can't save them all," Gond said, the words tasting like ash. "Free as many as you can, but you'll have no more than a minute to get over the rail."
+"Free as many as you can in 30 seconds, then follow us. We can't save them all," Gond said, the words tasting like ash. "Free as many as you can, but get to that rail within a minute or you're fish bait."
 
-Jord's breathing quickened. His shoulders hunched forward, every line of his body screaming impatience. "So we just leave the rest? Let them rot while we—"
+Gond held Sim's gaze until the man nodded reluctantly.
 
-"We survive," Gond said firmly. "Dead heroes save no one."
-
-Pell leaned closer, his voice like silk over steel. "The crossbow guard—he's left-handed, favors his weak side when he draws. If we can get him to turn..."
-
-"I'll handle the crossbow," Gond said. "Pell, you get the keys and free Sim. Jord—"
+"I'll handle the crossbowman," Gond continued. "Pell, you get the keys and free Sim. Jord—"
 
 "I know what I'm doing," Jord growled, his fists clenching and unclenching in steady rhythm.
 
@@ -72,9 +66,9 @@ Sim placed a gentle hand on Jord's arm. The big man's breathing slowed slightly,
 
 Gond studied each face in turn. "Pell—you're sure about the rope?"
 
-"Port side, three feet from the mast. Thick as a man's wrist." Pell's fingers moved in small, precise gestures, mapping the deck from memory. "But if we go starboard instead..."
+"Port side, three feet from the mast." Pell's fingers moved in small, precise gestures, mapping the deck from memory.
 
-"Longer run to the rail. More time for them to organize." Gond shook his head. "We stick with port side. Jord, you follow my lead. No charging, no roaring. We move fast but quiet until we're committed."
+"Got it." Gond turned to the big man chained to his wrist. "Jord, you follow my lead. No charging, no roaring. We move fast but quiet until we're committed."
 
 "And if it goes wrong?" Jord asked.
 
@@ -82,13 +76,7 @@ Sim's smile was serene as dawn light. "Then we trust that Alanyi guides our path
 
 "Trust the goddess, but swim like your life depends on it," Pell added with dark humor.
 
-Gond felt the weight of their lives settling on his shoulders. Three men, bound by nothing but shared desperation and the chains that held them. In a few hours, they would either be free or dead.
-
-"Remember," he whispered, "Greasy leans over at the start of third watch. We take him quiet, get the keys, and move. No hesitation, no second thoughts."
-
-Jord's jaw worked silently, but he nodded. Pell's eyes never stopped moving, cataloging every shadow and sound. Sim's lips moved in what might have been prayer or simply preparation.
-
-The die was cast. Now they could only wait for the moment to strike.
+Gond felt the weight of their lives settling on his shoulders. Four men, bound by nothing but shared desperation and the chains that held them. In a few hours, they would either be free or dead.
 
 ***
 
@@ -100,9 +88,9 @@ Gond's hand shot up, fingers closing on the guard's rough tunic. One sharp yank,
 
 Pell moved like water, flowing over Greasy's prone form to snatch keys and shortsword. Steel flashed as he freed himself, then tossed the keys to Sim, who caught them without looking up from his quiet prayers. Gond snatched the guard's short sword from his belt as he climbed past.
 
-"Jord, Wait—" Gond started, but the big man roared and charged upward, chains trailing behind him like anchor rope. Shouts erupted from above.
+"Jord, Wait—" Gond started, but the big man did not wait for his chain to be unlocked. Instead he roared and charged upward, chains trailing behind him like anchor rope. Shouts erupted from above.
 
-"Bloody fool!" Gond snarled, racing after him.
+"Bloody fool!" Gond snarled, racing after him to avoid getting pulled down by the chain connecting them.
 
 The deck exploded into chaos. Guards stumbled from their dice games, fumbling for weapons. Gond's blade found the gap between one man's ribs before the guard could clear his scabbard. The man folded over, hands clutching his throat as he toppled into the rail.
 
@@ -110,15 +98,19 @@ The deck exploded into chaos. Guards stumbled from their dice games, fumbling fo
 
 Pell appeared at his shoulder, his knife work quick and merciless. Prisoners poured from below like water through a broken dam, some still trailing chains, all desperate. Gond saw Pell and Sim reach the rail and leap over.
 
+Gond looked around and saw that the shouts had drawn attention. Four guards, armed and wary, were approaching from Jord's left. Jord, intent on bashing the skull of the guard he held, failed to see death approaching on his left. Gond butted the big man with his shoulder, moving him just enough that the nearest guard's blow was fouled in the lines, but not before Gond received a sharp blow to his left shoulder.
+
+"Get overboard!" shouted Gond.
+
 Then Gond and Jord were up and over. Cold water hit him like a physical blow, driving the air from his lungs. Almost before they hit the water, a crossbow string sang. Jord jerked, the bolt sprouting from his chest like a deadly flower. His eyes went wide, then dim. Slowly he began to sink, still chained to Gond's wrist.
 
-Gond felt himself borne down by the bulk of the big man. The salt water burned his eyes and nose as he fought against Jord's dead weight. Quickly, he brought his blade down on Jord's wrist. Sawing desperately through sinew and bone, the water around them turning dark with blood. At last the hand was severed. Lungs bursting, pressure crushing his chest like iron bands, he struggled to reach the surface. His short sword tumbled away into the black depths as he clawed upward through the freezing water.
+Gond felt himself borne down by the bulk of the big man. He felt an agonizing yank on his injured shoulder, and lost half a lungful of air from the stifled groan. The salt water burned his eyes and nose as he fought against Jord's dead weight. Quickly, he brought his blade down on Jord's wrist. Sawing desperately through sinew and bone, the water around them turning dark with blood. At last the hand was severed. Lungs bursting, pressure crushing his chest like iron bands, he struggled to reach the surface. His short sword tumbled away into the black depths as he clawed upward through the freezing water.
 
 Gond's head broke the surface and he took a gasping breath of cold air that tasted of salt and freedom. Around him, other bodies splashed into the waves—some went under immediately, dragged down by iron weights, their final gasps lost beneath the surface. Others surfaced, gasping and flailing, arms thrashing desperately against the pull of the sea. Crossbow bolts hissed through the air and struck the water all around the fleeing slaves with sharp splashes. He saw the woman who had been singing a lullaby struck in front of him, her eyes wide with shock before she sank immediately, the dark ocean swallowing her without a sound.
 
-Twenty yards ahead, Pell and Sim swam with steady strokes, still chained together but moving as if they'd practiced the maneuver. Their coordination spoke of quick thinking and natural teamwork.
+Twenty yards ahead, Pell and Sim swam with steady strokes, still wearing manacles but swimming strongly.
 
-The shore seemed impossibly distant, but Gond forced his aching arms to move. Stroke after stroke, breath after ragged breath, until his knees scraped sand and he could crawl onto the beach.
+The shore seemed impossibly distant, but Gond forced his aching arms to move. Left shoulder feeling like it was on fire, Gond found a stroke he could manage with his injury. Stroke after stroke, breath after ragged breath, until his knees scraped sand and he could crawl onto the beach.
 
 He collapsed face-first into wet sand, lungs burning, every muscle screaming. Nearby, Pell rolled onto his back and actually laughed—a breathless, disbelieving sound.
 
@@ -126,11 +118,11 @@ He collapsed face-first into wet sand, lungs burning, every muscle screaming. Ne
 
 Sim lay beside him on the beach, his lips moving in what looked like prayers of gratitude. His shoulders shook, though whether from cold or relief, Gond couldn't tell.
 
-Gond's stomach cramped violently, and he doubled over, retching seawater and bile onto the sand. The taste of salt and copper filled his mouth, remnants of the ship's foul water mixed with his own blood from where he'd bitten his tongue during the swim. Each heave sent spasms through his already aching ribs.
+Gond's stomach cramped violently, and he doubled over, retching seawater and bile onto the sand. The taste of salt and copper filled his mouth, remnants of the ship's foul water mixed with his own blood from where he'd bitten his tongue during the swim. Each heave sent spasms through his already aching ribs and shoulder.
 
 "Easy," Sim said quietly, moving closer despite his own chains. The priest's voice carried that same steady calm that seemed to ease Gond's discomfort. "The body needs time to expel what doesn't belong."
 
-When the retching finally stopped, Gond found Sim kneeling beside him with a strip of cloth he must have torn from his robe. The priest's gentle hands cleaned the raw, bleeding wounds where the manacles had chafed. His touch was warm against Gond's ice-cold skin.
+When the retching finally stopped, Gond found Sim kneeling beside him with a strip of cloth he must have torn from his robe. The priest's gentle hands cleaned his raw, bleeding wounds. His touch was warm against Gond's ice-cold skin.
 
 ***
 
@@ -146,6 +138,6 @@ The joke fell flat in the grey morning air, but it served its purpose—a remind
 
 ***
 
-When the last manacle finally fell away, Gond stood and brushed sand from his clothes. His legs still shook, and the world tilted slightly with each movement, but he forced himself upright. Inland, smoke rose from a small chimney, promising warmth and perhaps answers.
+When the last manacle finally fell away, Gond stood and brushed sand from his clothes. His legs still shook, his shoulder was throbbing, and the world tilted slightly with each movement, but he forced himself upright. Inland, Gond spotted smoke from a chimney, promising warmth and shelter.
 
 He looked at his unlikely companions—the sharp-eyed mercenary thief and the gentle priest—and his chest tightened, then released, as if iron bands had suddenly snapped. Not quite trust, but maybe its distant cousin. They had bled together, suffered together, lost a friend together. That had to count for something.

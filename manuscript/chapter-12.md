@@ -2,154 +2,154 @@
 
 ## Part III: An Unlikely Saint
 
-### Chapter 12: Healing Hands, Troubled Heart
+### Chapter 12: Paladin's Rise
 
-The morning sun filtered through the valley's canopy, casting dappled shadows across the clearing where Gond sat cross-legged on a flat stone. His hands rested palm-up on his knees, fingers slightly curled as Silviana had shown him. The position felt ridiculous—like a street performer waiting for coins. His left foot had gone numb twenty minutes ago, and a persistent ache was building between his shoulder blades from holding his spine so rigidly straight.
+A month had passed since the golden light, and Gond still couldn't walk through the settlement without notice. Heads turned as he passed. Conversations paused mid-word. Children peered from behind their mothers' skirts, wide-eyed and whispering.
 
-"Breathe," Silviana said from her place on the moss-covered log beside him. "Feel the light within you, not as a foreign thing, but as part of your very essence."
+The valley had changed in those weeks. What had begun as a desperate refuge for escaped slaves had grown into something resembling a proper community. Where once there had been only crude lean-tos, now sturdy cabins with stone foundations lined the hillsides. Marta's vegetable garden had expanded into terraced plots where beans climbed wooden stakes and squash vines sprawled between rows of grain. The sound of Jorik's hammer rang from dawn to dusk at his new forge, where he'd transformed salvaged chain links into horseshoes and broken sword blades into farming tools.
 
-Gond's jaw tightened. "I feel like an idiot."
+But the most significant change was in how people looked at Gond.
 
-"That is progress." Her voice carried the hint of a smile. "Yesterday you felt like a fraud."
+They no longer simply waited for his orders—they sought his blessing. Mothers brought sick children to him. Hunters asked him to consecrate their weapons. Even mundane disputes were brought before him, as if his touch with the divine granted him wisdom in all matters.
 
-Three weeks had passed since the elven lore-keeper's arrival. Three weeks of what she called "divine education" and what he called "sitting around pretending to be mystical." The settlement had grown accustomed to seeing them together each dawn—the gruff former mercenary and the ageless elf, an unlikely pair of teacher and student.
+Gond hated it.
 
-"Close your eyes," Silviana instructed. "Reach for the warmth you felt when you healed Dax."
+"You can't keep avoiding them," Pell said, settling beside him on the rocky outcrop where Gond had taken to eating his morning meal. Below them, the settlement bustled with activity, but Gond could see several people glancing up toward his retreat.
 
-Gond obeyed, though his shoulders remained rigid. The memory came easily enough—the desperate pull in his chest, the sensation of something flowing out of him and into the dying man. But trying to summon that feeling deliberately was like grasping smoke.
+"I'm not avoiding them. I'm eating breakfast."
 
-"I can't—" he began.
+"Up here. Alone. For the third day running." Pell bit into a piece of dried meat. "They think you're angry with them."
 
-"You are trying to command it," Silviana interrupted. "Divine power is not a sword to be wielded. It is a river to be channeled."
+"I'm not angry." Gond stabbed at his porridge with unnecessary force. "I'm just... tired of being treated like some kind of saint."
 
-"Rivers can be dammed."
+"You did bring a boy back from the dead."
 
-"And what happens to a river when it is dammed?"
+"I healed him. There's a difference."
 
-Gond opened his eyes to find her watching him with those ancient, knowing eyes. "It finds another way through. Or it builds pressure until it breaks free."
+Pell raised an eyebrow. "Is there? Because from where I was standing, Dax was gone. No breath, no heartbeat, blood everywhere. Then you touched him and he sat up like he'd been taking a nap."
 
-"Precisely." She gestured toward the settlement below, where smoke rose from cooking fires and the sounds of daily life drifted upward. "Your power has been finding its own way through—in moments of crisis, when your conscious mind steps aside. But such uncontrolled channeling strains your capacity to connect with the divine."
+Gond set down his bowl, appetite gone. The memory of that moment still haunted him—the absolute certainty that the boy was beyond help, followed by the impossible surge of power that had proven him wrong. He'd performed smaller healings since then, mending cuts and curing fevers, but nothing approaching that first miracle.
 
-The strain. Gond's hand moved unconsciously to his chest, where a persistent ache had settled after each healing. Not pain exactly, but a tension, as if he were forcing divine energy through channels too narrow to contain it properly. After healing Dax, he'd slept for nearly two days. The smaller healings since—a child's fever, an infected wound, a broken bone—left him exhausted for hours.
+"The power isn't always there," he said quietly. "Sometimes I reach for it and find nothing. What happens when someone really needs help and I can't—"
 
-"The exhaustion will lessen," Silviana said, reading his thoughts with unsettling accuracy. "As you learn to open yourself properly to the divine flow rather than fighting against it."
+"Then you do what you can with your hands and your sword, same as always." Pell's voice was matter-of-fact. "But that doesn't mean you should hide from the gift when it is there."
 
-A commotion from below interrupted their session. Voices raised in argument, the sound of running feet. Gond was on his feet before he'd consciously decided to move. His hand reached for the sword that wasn't there—he'd left his weapons in his hut, as Silviana insisted during their morning sessions.
+Before Gond could respond, Sim appeared at the top of the path, slightly out of breath from the climb. "Gond, you need to come down. There's someone here to see you."
 
-"Gond!" Pell's voice carried up the slope, sharp with urgency. "We need you!"
+"Another sick child?"
 
-The thief appeared through the trees, his usually composed face tight with worry. Behind him came Sim, supporting a woman Gond didn't recognize—middle-aged, her clothes torn and bloodied, her left arm hanging at an unnatural angle.
+"No." Sim's expression was strange—part wonder, part uncertainty. "An elf. She says she's been traveling for weeks, drawn here by... by Alanyi's call."
 
-"Found her at the valley's edge," Pell said without preamble. "Says she's been walking for days, following rumors of a healer."
+Gond and Pell exchanged glances. Elves were legends in these parts, creatures of story and song who kept to their hidden forests. What would bring one here?
 
-The woman raised her head. Gond saw the desperation in her eyes—the same look he'd seen in every refugee who'd found their way here. But this was different. Worse. Her skin had a grayish pallor. When she tried to speak, blood flecked her lips.
+They made their way down the winding path to the settlement's heart, where a crowd had gathered in a respectful circle around the newcomer. Gond could see her through the gaps between bodies—tall and graceful, with silver hair that caught the morning light and clothes that seemed to shimmer with their own inner radiance.
 
-"Internal injuries," Sim said quietly. "Beyond my skills."
+The crowd parted as Gond approached, and he got his first clear look at her. She was beautiful in the way of growing things—ageless and serene, with eyes the color of deep forest pools. But there was something else in those eyes, a weight of years and knowledge that made Gond feel suddenly young and foolish.
 
-Heat bloomed beneath Gond's ribs, spreading outward like spilled wine through fabric. His fingertips tingled with an electric warmth that made his hands tremble slightly. But this time, instead of letting it flow unchecked, he tried to apply Silviana's teachings. He closed his eyes briefly, reaching for that sense of channeling rather than commanding.
+Silviana's gaze lingered on his fading brand, her head tilting as her fingers traced patterns in the air—not quite touching, but following the outline of where the twin circles had once burned so clearly. The marks were still visible, but faded now—more shadow than scar, as if the divine power growing within him was slowly erasing the mark of his bondage. When she spoke, her voice carried the music of wind through leaves, each word flowing like water over stones.
 
-"Bring her to the healing circle," he said, his voice steadier than he felt.
+"You are the one they call the Healer of the Hills."
 
-They'd established the healing circle at Silviana's suggestion—a ring of smooth stones in a grove where the light fell just so, where the very air seemed to hum with potential. As they laid the woman on the soft grass within the circle, Gond knelt beside her and placed his hands gently on her shoulders.
+It wasn't a question. Gond nodded anyway, acutely aware of the watching crowd. "I'm Gond. And you are?"
 
-"What's your name?" he asked.
+"Silviana Starweaver, Lore-keeper of the Moonwood Circle." She inclined her head slightly. "I have traveled far to find you, drawn by a calling I have not felt in many decades."
 
-"Mira," she whispered. "My... my village. They came in the night. Slavers. I hid in the root cellar, but when I tried to help the others..." She coughed, more blood staining her lips.
+"What kind of calling?"
 
-Gond felt the rage building—the old, familiar fury at the injustice of it all. But beneath that anger, something else stirred. The divine light, responding not to his commands but to his compassion. He let himself feel Mira's pain, her terror, her desperate hope.
+Silviana stepped closer with the fluid grace of wind through branches, and Gond caught the scent of pine and lavender that seemed to cling to her. "The touch of Alanyi. Her power flows through this place like a river, and you..." She reached out as if to touch his face, her movements deliberate and unhurried, then stopped, her hand hovering inches from his skin. "You are the source. I sense great gifts growing in you—some already awakened, others still sleeping, waiting for their time."
 
-The power flowed through him like warm honey, slower and more controlled than before. He felt it seeking out the damaged places within her—the internal bleeding, the shattered ribs, the trauma that went deeper than flesh. Through his palms, he sensed torn vessels sealing themselves, felt the grinding sensation of bone fragments drawing together and fusing. Her labored breathing eased as punctured lung tissue mended, and the gray pallor of her skin gradually warmed to healthy pink. But as the healing progressed, Gond became aware of something else: the effort of proper channeling.
+Murmurs rippled through the crowd. Gond felt heat rise in his cheeks, uncomfortable with the scrutiny. "I don't know about gifts. I just do what I can to help."
 
-The world blazed white around him. That same overwhelming pulse of divine essence he'd felt with Dax, but more focused now. More controlled. The connection formed between divine will and mortal need, a bridge of golden light that let him channel Alanyi's grace into her broken body. Each mended bone required deeper concentration. Each sealed wound demanded greater spiritual focus.
+"Modesty." Silviana's lips curved in a slight smile. "That is good. The goddess has little use for the proud." She lowered her hand. "But false modesty serves no one. You have been chosen, Gond of the Branded Brow. The question is whether you will accept what you have become."
 
-The divine power flowed endlessly from its source—but his capacity to channel it had limits. The realization should have frightened him, but instead it brought clarity. This was the true challenge of his calling: not just the responsibility of choice, but learning to be a worthy vessel for divine grace.
+"And what's that?"
 
-When the healing was complete, Mira sat up slowly, her color restored, her breathing clear. She stared at her mended arm in wonder, flexing fingers that had been broken moments before.
+"A paladin of Alanyi. Her champion in a world that has forgotten her light."
 
-"How?" she breathed.
+The words hit the crowd like a physical blow. Some gasped, others fell to their knees. Gond heard someone whisper a prayer, another person sob with what sounded like relief.
 
-Gond swayed slightly as he stood. Silviana's steadying hand touched his elbow. "Rest here tonight," he told Mira. "Sim will see that you're fed and given clean clothes. Tomorrow, if you choose to stay, we'll find you a place among us."
+"Forgotten her light?" Gond asked. "What do you mean?"
 
-As they helped Mira to one of the guest shelters, Gond caught Silviana's eye. The elf nodded approvingly, but her expression remained serious.
+The corners of Silviana's mouth drew down, fine lines deepening around her ancient eyes. "The goddess of mercy has been pushed aside by those who profit from suffering. Where once her temples offered sanctuary, now the priests of Kemiss—god of commerce—hold sway, blessing slavers' chains and counting coin from slave auctions. And darker still..." She paused, glancing around at the listening crowd. "There are whispers of banned worship returning, evil cloaked in false righteousness."
 
-"You felt it," she said once they were alone again. "The true effort."
+"I'm not a paladin," Gond said, his voice rougher than he intended. "I'm a mercenary who can heal."
 
-"The strain," Gond said, settling heavily onto a fallen log. "Each healing demands more focus, more spiritual discipline."
+Silviana's expression grew gentle but firm. "Luck does not raise the dead, Gond. Luck does not call an elf from her forest home after a century of silence. Luck does not gather the lost and broken and forge them into something stronger." She gestured toward the settlement around them. "Look at what you have built here. Look at what you have become."
 
-"Precisely," Silviana corrected. "The divine power does not diminish—it flows endlessly from its source. But your capacity to channel it safely grows only through practice and spiritual development."
+Gond followed her gaze, seeing the community through her eyes. The former slaves who now stood tall and proud. The children who played without fear. The gardens and workshops and homes that had grown from nothing but hope and determination.
 
-Gond considered this as he watched the settlement below. More people had arrived in recent days—word of the "healer in the hills" spreading despite their efforts at secrecy. Each new face brought hope and desperation in equal measure. Each represented another choice, another burden.
+"They did this," he said. "Not me."
 
-"How many?" he asked.
+"They followed where you led. They trusted where you guided. They believed because you gave them reason to believe." Silviana's voice carried absolute certainty. "That is what paladins do, Gond. They kindle hope in the hopeless. They stand as light against the darkness."
 
-Silviana didn't need clarification. "In the old stories, the greatest paladins healed hundreds. Some say thousands. But they were different afterward—more divine than mortal, touched by something beyond human understanding."
+Sim stepped forward, his face bright. "Accept it, Gond. We all can see it."
 
-"And if I refuse? If I say no more healings?"
+Gond looked at his friend, then at the elf, then at the faces surrounding them. All waiting for his response. All hoping he would accept what they already believed.
 
-"Then you would still be a paladin," Silviana said gently. "Divine power manifests in many ways. Healing is only one gift among many."
+The weight of their expectation pressed down on him like a physical thing. Part of him wanted to deny it, to insist he was just a man with a useful talent. But another part—a part that had been growing stronger since that first night in the ruined temple—recognized the truth in Silviana's words.
 
-But even as she spoke, Gond knew he wouldn't refuse. Couldn't refuse. Not when faces like Mira's looked to him with such desperate hope. The choice had been made the moment he'd first felt the divine light stir within him—perhaps even before that, in the slave ship's hold when he'd chosen to help others escape rather than flee alone.
+"All right," he said finally. "Say I accept it. Say I am what you think I am. What then?"
 
-"The exhaustion will pass," Silviana continued. "Your body will adapt, learn to channel the power more efficiently. But the weight of choice—that will only grow heavier."
+"Then you learn," Silviana said. "You grow into your power, and your power grows with you. You discover what it truly means to serve the goddess of peace and mercy."
 
-As if summoned by her words, another commotion arose from the settlement's edge. More voices, more urgent calls for the healer. Gond closed his eyes and felt the divine power stirring again, ready to answer the call.
+She gestured toward his fading brand. "Already the goddess works to free you from the marks of bondage. As your connection to Alanyi deepens, her light will erase all traces of your enslavement. And in time..." Her voice grew soft with wonder. "In time, you will carry that same gift to others. The touch that heals wounds can also heal the scars of slavery itself."
 
-"How do you bear it?" he asked. "Knowing that every choice to heal one person might mean being too weak to heal the next?"
+"You mean I could remove their brands?" Gond asked, thinking of the marked faces throughout the settlement.
 
-Silviana was quiet for a long moment, her gaze distant. "You learn to trust," she said finally. "Trust that the divine light knows its own purpose, even when you cannot see it. Trust that each healing, each choice, serves a greater pattern."
+"More than remove—erase completely, as if they had never been. It is one of the greatest gifts a paladin of mercy can offer: the chance to be truly free, unmarked by past suffering."
 
-"And if the pattern demands more than I can give?"
+"And after that?"
 
-"Then you give what you can, and trust that it will be enough."
+The elf's expression grew somber. "After that, you face the trials that await all who carry Alanyi's light. The darkness has grown strong in her absence, Gond. It will not suffer a new paladin to rise unopposed."
 
-Another call echoed up from below—Pell's voice again, urgent but not panicked. Gond pushed himself to his feet, his legs unsteady beneath him. His hands shook slightly as he brushed dirt from his knees, and he had to pause a moment to let a wave of dizziness pass. The hollow ache in his chest had deepened, but beneath it, he felt something else: a strange sense of rightness, as if he were finally walking a path meant for him.
+Gond nodded slowly, feeling something settle into place inside his chest—not resignation, but acceptance. The reluctant mercenary was gone, burned away in golden fire and weeks of gradual understanding. In his place stood something new, something he was still learning to be.
 
-"Come," Silviana said, rising gracefully beside him. "Let us see what new challenge awaits."
+"Then teach me," he said. "Both of you. Help me understand what I've become."
 
-As they made their way down the slope, Gond reflected on the morning's lesson. He was beginning to understand that divine power wasn't something he possessed—it was something that possessed him, flowed through him, changed him with each use. The thought should have terrified him, but instead it brought an odd sort of peace.
+Silviana smiled, and for the first time it reached her ancient eyes. "The first lesson begins now. Come—there is much to discuss, and the day grows short."
 
-He was no longer the man who'd awakened in chains, driven by thoughts of revenge. That man had died somewhere between the slave ship and this valley, replaced by someone he was still learning to recognize. Someone who chose to heal rather than harm, to protect rather than pursue vengeance.
+As they walked toward Gond's shelter, Silviana's gaze fell upon the sword at Gond's side. Her steps slowed, and she tilted her head as if listening to something only she could hear.
 
-The irony wasn't lost on him. In losing his old self, he'd found something far more valuable—a purpose that went beyond personal satisfaction or gain. It was a burden, yes, but it was also a gift.
+"Your blade," she said quietly. "May I see it?"
 
-And as another desperate soul waited below, seeking the touch of divine grace, Gond found himself grateful for both the burden and the gift. Even if he didn't fully understand either yet.
+Gond hesitated, then drew the silver sword. Even in the afternoon light, it seemed to gleam with its own inner radiance, the steel unmarked despite weeks of use. The moment the blade cleared its sheath, several onlookers stepped back involuntarily, as if the weapon's presence pressed against them like a warm wind.
 
-The path ahead remained uncertain, but for the first time since his awakening as a paladin, Gond felt ready to walk it—one healing, one choice, one transformation at a time.
+Silviana's eyes widened with recognition, her breath catching as she stared at the transformed steel. "By the ancient trees," she whispered, her voice barely audible. "I had heard rumors, but to see it with my own eyes..." She looked up at Gond with something approaching reverence, her hands trembling slightly. "Do you know what you carry?"
 
-***
+"A sword that used to be crude iron," Gond said. "It changed during the battle when I first healed Dax."
 
-The afternoon brought three more refugees: a family fleeing burned farmlands, their youngest child burning with fever. Gond healed the boy, then spent an hour teaching the parents how to recognize the signs of infection. By evening, each breath seemed to echo in the space beneath his ribs, as if something vital had been carved away. The sensation pulsed with his heartbeat—not pain, but an emptiness that made him press his palm against his sternum without thinking. Still, the child's laughter as he played with the other settlement children made the cost seem worthwhile.
+"Not just any sword. A blade touched by divine will." Silviana's voice carried the weight of ancient knowledge. "The old songs speak of such weapons—steel transformed by righteous purpose, forged not in earthly fires but in the crucible of a paladin's awakening. There have been perhaps a dozen such blades in all the long years since Alanyi first walked among mortals."
 
-As darkness fell and the settlement settled into its nightly routines, Gond found himself sitting by the central fire, staring into the flames. Silviana approached with two cups of the herbal tea she favored—something that tasted of pine needles and starlight.
+Sim moved closer, his eyes bright with wonder. "The legends are true, then? About paladin weapons?"
 
-"The hardest lesson," she said, settling beside him, "is learning when not to heal."
+"More than true. They are living things, in their way—extensions of the divine will that flows through their bearers." Silviana gestured toward the blade. "That steel will never dull, never break, never fail you in righteous battle. It will grow in power as you grow, becoming more than mere metal as your connection to Alanyi deepens."
 
-Gond accepted the cup gratefully, letting its warmth seep into his hands. "Meaning?"
+Gond stared at the sword, remembering the moment it had sheared through the slaver captain's weapon like parchment. "It cut through steel during the battle."
 
-"A paladin's capacity to channel divine power has limits, even as the power itself flows endlessly. Exhaust yourself on minor ailments, and you may lack the spiritual strength when true crisis strikes. Heal every petitioner who arrives, and word will spread until thousands come seeking miracles you cannot safely provide."
+"And it will do far more than that, in time." Silviana's expression grew distant, remembering. "The last such blade I saw was carried by Ser Aldric the Pure, three centuries past. His sword could cleave through enchanted armor as if it were silk, and its light could banish shadows that had never known the sun."
 
-The weight of her words settled over him like a heavy cloak. "So I'm supposed to choose who deserves healing and who doesn't?"
+"What happened to him?" Gond asked.
 
-"You are supposed to choose wisely. To see the larger pattern, the greater need." Silviana sipped her tea, her expression thoughtful. "Sometimes Alanyi herself may guide your choices—instructing you to heal fully, or merely to ease suffering. A healer who saves one life may inspire a dozen others to acts of courage. A miracle witnessed by the right person may turn the tide of a war."
+"He fell defending a village from a demon incursion, his blade blazing like a star until the very end." Silviana's voice was soft with old grief. "But the sword endured. It always does, waiting for the next worthy hand to claim it."
 
-"And how am I supposed to know which healing will have which effect? How do I know when the goddess wants me to stop?"
+Gond sheathed the weapon carefully, feeling its weight differently now. Not just steel and leather, but legacy and responsibility.
 
-"You learn to listen," she said simply. "You trust in the divine wisdom that flows through you, and you make the best choices you can with the knowledge you have. In time, her voice will become clearer."
+As they walked toward Gond's shelter, the crowd began to disperse, but Gond could feel their eyes following him. The weight of their hope, their faith, their need. It no longer felt quite so crushing. Instead, it felt like purpose.
 
-Gond drank his tea in silence, watching the flames dance and shift. Around them, the settlement hummed with quiet activity—families sharing evening meals, guards taking their posts, the soft murmur of conversation and laughter. All of it made possible by his choice to heal rather than flee, to build rather than destroy.
+The transformation was complete. The real work was just beginning.
 
-"The boy today," he said finally. "His fever—it wasn't life-threatening, was it?"
+Behind them, Sim fell into step with a spring in his stride that hadn't been there in weeks. "A paladin," he murmured, just loud enough for Gond to hear. "Alanyi be praised, I knew it from the start."
 
-"Probably not. Sim's herbs would have broken it in a day or two."
+"Don't get smug about it," Gond said, but there was no real irritation in his voice.
 
-"But his parents' faces when I healed him instantly..."
+"Wouldn't dream of it," Sim replied, grinning.
 
-"Hope," Silviana finished. "You gave them hope. And hope, properly nurtured, can be more powerful than any sword."
+Silviana glanced between them, her expression amused. "I see you have already learned one of the most important lessons of being a paladin."
 
-Gond nodded slowly, beginning to understand. Each healing was more than just the mending of flesh—it was a statement, a promise, a beacon for others to follow. The divine power flowing through him wasn't just about individual miracles, but about building something larger. A movement. A cause.
+"Which is?"
 
-A revolution.
+"That even the chosen need friends to keep them humble."
 
-The thought should have daunted him, but instead it filled him with a strange sense of anticipation. Tomorrow would bring new challenges, new choices, new opportunities to channel the divine light in service of something greater than himself.
+Despite everything—the weight of destiny, the burden of power, the uncertainty of what lay ahead—Gond found himself smiling.
 
-And for the first time since accepting his calling, Gond found himself looking forward to whatever came next.
+Perhaps being a paladin wouldn't be so terrible after all.

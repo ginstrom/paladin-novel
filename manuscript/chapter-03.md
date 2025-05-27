@@ -4,9 +4,11 @@
 
 ### Chapter 3 – Shore of Second Chances
 
-"Come on," Gond said. "Our path lies ahead." Gond hauled himself to his feet, legs shaking.
+"Come on," Gond said. "Our path lies ahead."
 
 When his companions hesitated, he extended a hand to Pell, then moved toward the priest. "Cold kills slower than slavers, but it still kills."
+
+"And I want to get out of sight of any ships," said Pell, eyes scanning the horizon.
 
 Sim looked up, offering a nod. "Inland. Freshwater." He pointed toward a gap in the dunes. "Fleabane and thrift cluster near streams—we can follow them to water."
 
@@ -14,11 +16,9 @@ Gond filed the information away. The priest's knowledge kept surprising him—no
 
 He selected a warped boathook, testing its weight. Pell snatched up a coil of rope, fingers already working to untangle the knots. Sim gathered barnacle-crusted gourds, shaking each one near his ear before nodding approval.
 
-They followed the thin trickle of freshwater inland, through a narrow gully where the stream broadened into clear, cold water. Pell dropped to his belly and drank like a man dying of thirst. Gond sipped carefully, eyes scanning the ridgelines above.
+They followed the thin trickle of freshwater inland, through a narrow gully where the stream broadened into clear, cold water. Pell dropped to his belly and drank like a man dying of thirst. Gond sipped carefully, eyes scanning the ridgelines above. The coast had little more vegetation than sandgrass, scrub, and a few wind-twisted low trees. The lack of cover made Gond feel exposed. The smoke they had seen had come from somewhere beyond the ridgeline, a bit to the left of the trickling waterfall that fed into the basin. Gond again found the smoke, a wispy tendril smudging the grey sky.
 
-Sim crouched beside patches of sea-kale, showing Pell how to scrape salt crystals from the rocks. "For preserving meat," he explained, "when we find some."
-
-The path climbed toward rugged cliffs, winding between wind-carved stones. At the crest stood a small hut, weathered grey as the morning sky. Smoke rose from its crooked chimney, carrying the scent of woodsmoke and herbs.
+The path they were on appeared to lead toward the source of the smoke. It climbed toward rugged cliffs, winding between wind-carved stones. Gond and his party followed it warily, eyes scanning the ridgeline. Just beyond the crest stood a small hut, weathered grey with a slate roof that seemed to blend with the slate hills in which it nestled. There they found the source of the smoke, trickling from the hut's crooked chimney and carrying the scent of woodsmoke and herbs.
 
 Before Gond could knock, the door swung open. An elderly woman stood in the threshold, spear held steady in capable hands. Her eyes swept over them—taking in their sodden clothes, makeshift weapons, the desperate edge that clung to escaped slaves.
 
@@ -28,11 +28,11 @@ Gond lowered his staff. "Gond."
 
 "Pell." The rope hit the ground.
 
-"Sim." The priest spread his hands, empty palms facing outward. "We seek warmth and safety. No harm intended."
+"Sim." The priest spread his hands, empty palms facing outward. "We seek warmth and safety. No intend no harm."
 
 The woman's spear didn't waver. Her gaze lingered on each face, reading something in their expressions—the hollow look of recent captivity, the way they favored certain limbs, the telltale marks of shackle wear. Finally, she stepped aside. "One hour. No longer."
 
-Warmth enveloped them as they entered, along with the complex symphony of a healer's workshop. Bundles of herbs hung from every rafter—some Gond recognized, others exotic and unfamiliar. Thyme and sage dominated, but underneath lay sharper scents: willow bark, feverfew, something that made his nose tingle. Clay pots lined wooden shelves, each marked with symbols in a flowing script that looked almost elven. A grinding stone sat beside the hearth, its surface stained dark with years of use.
+Warmth enveloped them as they entered, along with the complex symphony of a healer's workshop. Bundles of herbs hung from every rafter—some Gond recognized, others exotic and unfamiliar. Thyme and sage dominated, but underneath lay sharper scents: willow bark, feverfew, something that made his nose tingle. A grinding stone sat beside the hearth, its surface stained dark with years of use.
 
 The woman—Maera, she said—moved with practiced efficiency. Her hands, weathered but steady, selected specific jars without hesitation. A small goat dozed in a woven basket near the fire, its breathing soft and even. Maps covered one wall, marked with routes and symbols that meant nothing to Gond but suggested extensive knowledge of the region.
 
@@ -40,7 +40,7 @@ Maera ladled steaming broth into wooden bowls, but not before adding pinches of 
 
 Gond's hands shook as he lifted the bowl to his lips. The broth tasted of fish and wild onions, richer than any feast he could remember. Around him, Pell and Sim ate with the same desperate hunger, color returning to their faces.
 
-Maera moved between them with efficient grace, binding Pell's bruised ribs with strips of clean cloth, examining Sim's blistered feet, cleaning the ugly brand on Gond's forehead with a pungent salve that made his eyes water.
+Maera moved between them with efficient grace, binding Pell's bruised ribs with strips of clean cloth, examining Sim's blistered feet, cleaning Gond's wound and the ugly brand on his forehead with a pungent salve that made his eyes water.
 
 "You're a healer?" Sim asked, watching her work.
 
@@ -68,15 +68,15 @@ Maera leaned forward, her fingers pausing mid-stir over the pot. "Alanyi." She r
 
 Gond's knuckles whitened around his bowl. "And the temples bless it."
 
-"Of course they do. Kemiss blesses commerce, Turin blesses order, and both gods apparently smile on profitable ventures." Maera stood, moving to tend the fire. "The salt mines always need workers. The quarries too. Most last six months, maybe eight if they're strong. Long enough to be forgotten by anyone who might come looking."
+"Of course they do. Kemiss blesses commerce, Turin blesses order, and both gods apparently smile on profitable ventures." Maera stood, moving to tend the fire. "The salt mines always need workers. The quarries too. Most last six months, maybe eight if they're strong. Short enough to be forgotten before anyone might come looking."
 
 "But some do come looking," Sim said quietly.
 
-Maera's poker paused in the coals. "Some do. And some find what they're seeking." She didn't elaborate, but her eyes flicked toward a small wooden box on the highest shelf—carved with intricate patterns that definitely looked elven.
+Maera's poker paused in the coals. "Some do. And some find what they're seeking." She didn't elaborate, but her eyes flicked toward a small wooden box on the highest shelf—carved with intricate patterns that looked elven to Gond's untrained eye.
 
-"Then keep these two alive," she said, returning to her seat. The corner of her mouth twitched—not quite a smile, but close.
+"Heal and guide, eh? Then keep these two alive," she said to Sim, returning to her seat. The corner of her mouth twitched—not quite a smile, but close.
 
-Gond set down his empty bowl. "We're heading for Blackwater. I have business there. Two men who betrayed me—Borin and Kael. They sold me to slavers for thirty pieces of silver." His voice dropped to a growl. "I intend to collect what they owe."
+Gond set down his empty bowl. "We're heading for Blackwater. I have business there. I'm looking for the men who betrayed me, and the inns there will be a good place to start. I've got scores to settle." His voice dropped to a growl. "I intend to collect what they owe."
 
 Pell's eyes brightened at the mention of the city. "Streets full of opportunity. Coin changing hands. Information for sale."
 
@@ -88,7 +88,7 @@ Gond's jaw hardened. "You seem well-informed about current bounties."
 
 "Information travels. Merchants talk. Fishermen gossip." Maera shrugged, but Pell's sharp eyes had caught something—the way she'd known the exact bounty amount, the casual mention of the Crimson Company by name. Details that suggested more than casual interest.
 
-"There's a pilgrim way-station south of here," Maera continued, sketching directions in the dirt floor with a charred stick. She drew a rough coastline, then marked an X inland. "Old shrine to Alanyi, abandoned now. Stone walls, good water, hidden from the main roads. Travelers used to stop there for blessing and rest."
+"There's a pilgrim way-station southeast of here," Maera continued, pulling out one of her maps and tracing over the coastline with a stick from the hearth. "This is us." Then she pointed at a spot inland. "Old shrine to Alanyi, abandoned now. Stone walls, good water, hidden from the main roads. Travelers used to stop there for blessing and rest."
 
 "Used to?" Sim leaned forward.
 
@@ -96,13 +96,13 @@ Gond's jaw hardened. "You seem well-informed about current bounties."
 
 Pell snorted. "And others?"
 
-"Others say there are still people who remember what mercy looks like." Maera's weathered hands sketched more details in the dirt. "The way-station offers shelter, but it's temporary. A place to rest and plan, not to hide. Too close to the roads, too well-known to certain... interested parties."
+"Others say there are still people who remember what mercy looks like." Maera's weathered hands pointed out more details on the map. "The way-station offers shelter, but it's temporary. A place to rest and plan, not to hide. Too close to the roads, too well-known to certain... interested parties."
 
 "And for permanent hiding?" Gond asked.
 
-Maera's stick moved to draw jagged lines representing hills. "The Thornwood Hills. Thirty miles inland, rough country. Caves and hidden valleys, game to hunt, streams for water. The terrain breaks up pursuit—supply wagons can't follow, and most bounty hunters won't risk the climb." She paused. "But it's harsh living. Winter kills the unprepared, and you'd be cut off from news, supplies, any hope of striking back at your enemies."
+Maera's stick moved north from the way-station, to a ragged range of hills. "The Thornwood Hills. Thirty miles inland, rough country. Caves and hidden valleys, game to hunt, streams for water. The terrain breaks up pursuit—supply wagons can't follow, and most bounty hunters won't risk the climb." She paused. "But it's harsh living. Winter kills the unprepared, and you'd be cut off from news, supplies, any hope of striking back at your enemies."
 
-Gond's eyes fixed on the crude map. "Striking back."
+Gond's eyes fixed on the map. "Striking back."
 
 "Blackwater's dangerous for branded men, but not impossible. The city's grown fat on slave gold—guards can be bought, officials look the other way, and there are always shadows for those who know how to use them." Maera met his gaze. "But the Crimson Company's doubled patrols recently. They're searching for piraets now, or so they say, offering rewards for information. Your faces will be known."
 
@@ -136,9 +136,9 @@ Gond studied her weathered face. "You know a lot about helping people disappear.
 
 "Friends." The word carried weight. "People who believe some things matter more than profit." She handed Gond the bundle, and he noticed her fingers bore faint scars—old burns from forge work, cuts from blades. Not the hands of someone who'd spent her life only grinding herbs.
 
-A soft whistle came from outside—three short notes, then two long ones. Maera's head turned toward the sound, and for just a moment, her careful mask slipped. Alertness sharpened her features, the look of someone accustomed to signals and codes.
+A soft whistle came from outside—three short notes, then two long ones. Gond and Pell's heads snapped up, alert, hands darting toward weapons. Maera's head turned toward the sound, and for just a moment, her careful mask slipped. Alertness sharpened her features, and for that moment she looked nothing like a simple herbalist.
 
-"Fishing boats returning," she said, but her hand had moved instinctively toward a walking stick that looked suspiciously like it could serve as a weapon. "The tide's turning."
+"Fishing boats returning," she said, visibly relaxing. "The tide's turning."
 
 Gond exchanged glances with Pell, who'd caught the same details. The whistle hadn't sounded like any fishing signal either of them knew.
 
@@ -158,13 +158,13 @@ She pressed the cloth into Sim's hand along with the satchel. "The way-station k
 
 Outside, the wind had picked up, driving clouds across the grey sky. Gond adjusted his grip on the boathook, testing its balance. Behind them, the ocean whispered its endless secrets. Ahead lay Blackwater, uncertain and dangerous.
 
-As they prepared to leave, Maera caught Gond's arm. "The men you seek—Borin and Kael. Blackwater's a large city, but the slave trade makes it smaller. Word travels fast in certain circles." Her voice dropped. "If they're still there, they'll hear you're coming. Be ready for that."
+As they prepared to leave, Maera caught Gond's arm. "The men you seek—Borin and Kael. Blackwater's a large city, but the slave trade makes it smaller. Word travels fast in certain circles." Her voice dropped. "If they're there, they'll hear you're coming. Be ready for that."
 
-"You think they're still in Blackwater?"
+"You think they could be in Blackwater?"
 
-"Men like that don't stray far from easy money. And the slave trade's been very profitable lately." Her grip tightened slightly. "But remember—revenge is a fire that burns the one who carries it as much as the one it's meant for. Sometimes the best victory is simply surviving to see another dawn."
+"Men like that are drawn to easy money. And the slave trade's been very profitable lately." Her grip tightened slightly. "But remember—revenge is a fire that burns the one who carries it as much as the one it's meant for. Sometimes the best victory is simply surviving to see another dawn."
 
-Gond nodded, understanding more than her words conveyed. This woman had seen enough escaped slaves to know the hunger for vengeance that drove them. Had probably seen what that hunger could do to a person.
+Gond nodded. This woman had seen enough escaped slaves to know the hunger for vengeance that drove them. Had probably seen what that hunger could do to a person.
 
 "Thank you," he said simply.
 
@@ -177,5 +177,3 @@ Gond nodded, understanding more than her words conveyed. This woman had seen eno
 The words settled into Gond's chest like stones dropped into still water. He looked at his companions—the warrior, the rogue, the priest. Three men with nothing in common but shared survival and the chains they'd broken.
 
 He turned toward the inland path, feeling the weight of their trust like a physical burden. Behind them, the relentless ocean. Ahead, whatever waited in Blackwater.
-
-Together, they stepped forward into the uncertain morning.

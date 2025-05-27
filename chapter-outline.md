@@ -42,7 +42,7 @@
 *   Keep descriptions vivid but not gratuitous.
 *   Emphasize practical details that show Gond's experience.
 
-## Part II: Seeds of Rebellion (Chs 4-10)
+## Part II: Seeds of Rebellion (Chs 4-11)
 
 ### Chapter 4: Crack in the Chain
 *   Pursuit signs appear; Gond's party ambushes slave cart.
@@ -306,7 +306,7 @@
 *   Keep Gond's voice authentic as his responsibilities expand.
 *   Highlight the strength found in diversity and cooperation.
 
-## Part V: The War for Freedom (Chs 22-26)
+## Part V: The War for Freedom (Chs 22-27)
 
 ### Chapter 22: The First Tithe of Tears
 *   **War council planning**: Strategic planning for assault on Saltmere, focusing on reclaiming Alanyi's Sunken Grotto temple. Gond's leadership shows spiritual maturity and divine authority following Alanyi's manifestation.

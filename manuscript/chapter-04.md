@@ -46,7 +46,7 @@ The lead slaver squinted, recognition dawning too slowly. By the time his hand m
 
 Chaos erupted. Pell burst from cover, his knife flashing as he severed the horses' traces. The startled animals reared, eyes rolling white with terror, nostrils flaring at the sudden scent of blood. They bolted a dozen paces, hooves drumming against the packed earth, before stopping to crop grass with nervous, sideways glances at the violence behind them.
 
-The rear guard's crossbow bolt hissed past Gond's arm, grazing it but flying past. He lunged forward, hooking the man's leg and sending him sprawling. Two quick blows from the iron hook finished the job. Pell's blade found the third slaver before he could draw steel.
+The rear guard's crossbow bolt hissed past Gond's arm, grazing it but flying wide. He lunged forward, hooking the man's leg and sending him sprawling. Two quick blows from the iron hook finished the job. Pell's blade found the third slaver before he could draw steel.
 
 In moments, three bodies lay still in the dust. Sim moved calmly to the terrified children. As he passed, Pell grinned and handed him a key ring—his fingers had been busy during the fight, working even as his blade found its mark. The shackles fell away with metallic clinks.
 
@@ -78,7 +78,7 @@ Pell opened his mouth to protest, but something in Gond's expression killed the 
 
 "I'll return after I've finished by business there." Gond stood, his shadow long in the firelight.
 
-The gentler of the two cart horses carried the injured Dax, while the other carried the supplies they'd looted from the caravan. There were enough for perhaps a week if they were frugal and supplemented with game.
+The gentler of the two cart horses carried the injured Dax, while the other carried the supplies they'd looted from the caravan. There were enough for perhaps two weeks if they were frugal and supplemented with game.
 
 Dawn found them at the ancient way-station, its moss-covered stones half-hidden by climbing ivy. They quickly helped the boy down, stored supplies, and secured the horses.
 
