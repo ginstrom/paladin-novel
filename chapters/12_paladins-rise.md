@@ -46,7 +46,7 @@ They made their way down the winding path to the settlement's heart, where a cro
 
 The crowd parted as Gond approached, and he got his first clear look at her. She was beautiful in the way of growing things—ageless and serene, with eyes the color of deep forest pools. But there was something else in those eyes, a weight of years and knowledge that made Gond feel suddenly young and foolish.
 
-Silviana's gaze lingered on his fading brand, her head tilting as her fingers traced patterns in the air—not quite touching, but following the outline of where the twin circles had once burned so clearly. The marks were still visible, but faded now—more shadow than scar, as if the divine power growing within him was slowly erasing the mark of his bondage. When she spoke, her voice carried the music of wind through leaves, each word flowing like water over stones.
+Silviana's gaze lingered on his fading brand, her head tilting as her fingers traced patterns in the air, following the outline of where the twin circles had once burned so clearly. The marks were still visible, but faded now—more shadow than scar, as if the mark of his bondage was being erased. When she spoke, her voice carried the music of wind through leaves, each word flowing like water over stones.
 
 "You are the one they call the Healer of the Hills."
 
@@ -72,15 +72,17 @@ The words hit the crowd like a physical blow. Some gasped, others fell to their 
 
 The corners of Silviana's mouth drew down, fine lines deepening around her ancient eyes. "The goddess of mercy has been pushed aside by those who profit from suffering. Where once her temples offered sanctuary, now the priests of Kemiss—god of commerce—hold sway, blessing slavers' chains and counting coin from slave auctions. And darker still..." She paused, glancing around at the listening crowd. "There are whispers of banned worship returning, evil cloaked in false righteousness."
 
-"I'm not a paladin," Gond said, his voice rougher than he intended. "I'm a mercenary who can heal."
+"I'm not a paladin," Gond said, his voice rougher than intended. "I've got some healing abilities, maybe even from Alanyi, but it's a gift that others have as well. Sim here also has the power of healing."
 
-Silviana's expression grew gentle but firm. "Luck does not raise the dead, Gond. Luck does not call an elf from her forest home after a century of silence. Luck does not gather the lost and broken and forge them into something stronger." She gestured toward the settlement around them. "Look at what you have built here. Look at what you have become."
+Silviana's expression grew gentle but firm. "A mere healer does wield such power that it can be sensed leagues away, Gond. A mere healer does not call an elf from her forest home after a century of silence. A mere healer does not gather the lost and broken and forge them into something stronger." She gestured toward the settlement around them. "Look at what you have built here. Look at what you have become."
 
 Gond followed her gaze, seeing the community through her eyes. The former slaves who now stood tall and proud. The children who played without fear. The gardens and workshops and homes that had grown from nothing but hope and determination.
 
-"They did this," he said. "Not me."
+"I can't be a paladin," Gond said. "That would mean-"
 
-"They followed where you led. They trusted where you guided. They believed because you gave them reason to believe." Silviana's voice carried absolute certainty. "That is what paladins do, Gond. They kindle hope in the hopeless. They stand as light against the darkness."
+"It would mean you have a lot of work ahead of you," said Silviani, eyes glinting humorously.
+
+"Look around at these people," she continued. "They followed where you led. They trusted where you guided. They believed because you gave them reason to believe." Silviana's voice carried absolute certainty. "That is what paladins do, Gond. They kindle hope in the hopeless. They stand as light against the darkness."
 
 Sim stepped forward, his face bright. "Accept it, Gond. We all can see it."
 
