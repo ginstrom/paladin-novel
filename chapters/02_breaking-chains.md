@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part I: The Rude Awakening
-
-### Chapter 2: Breaking Chains
+# Chapter 2: Breaking Chains
 
 The ship's hull groaned like an old man's bones, each creak marking time in their floating prison. Gond's skull still felt like someone had used it for hammer practice, but the initial fog had lifted enough for him to think clearly. Around him, the symphony of misery played on—retching, whimpering, the constant rattle of chains.
 

@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part V: The War of Restoration
-
-### Chapter 25: The Cleansing Tide
+# Chapter 25: The Cleansing Tide
 
 The dawn over Saltmere broke red and angry, its crimson light reflecting off the steel of weapons and the grim faces of soldiers who had watched their delegation murdered in cold blood. Hands gripped sword hilts with white knuckles. Jaws clenched tight enough to make teeth ache. The betrayal had stripped away any lingering hope for a peaceful resolution; only the hard language of steel and divine fire remained. Gond stood upon a makeshift platform of siege engine timbers, his gaze fixed on the city that had become a festering wound on Alanyi's coast.
 

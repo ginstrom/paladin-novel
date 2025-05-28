@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part III: An Unlikely Saint
-
-### Chapter 17: Allies and Enemies
+# Chapter 17: Allies and Enemies
 
 The delegation arrived three days after Maera's war council, announced by the sound of bells—not the harsh clang of alarm, but the melodious chiming of ceremonial instruments. From the watchtower, Gond could see them approaching: a procession of robed figures moving with the measured pace of religious ceremony, their banners bearing symbols he recognized from Sim's teachings.
 

@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part IV: Forging a Free Nation
-
-### Chapter 21: Revelation and Ripples
+# Chapter 21: Revelation and Ripples
 
 The messenger arrived at dawn, his horse foam-flecked and trembling with exhaustion. Gond met him at the settlement's gates, already knowing the news would be significant—no one rode that hard for trivial matters.
 

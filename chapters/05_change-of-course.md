@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part II: Seeds of Rebellion
-
-### Chapter 5 – A Change of Course
+# Chapter 5 – A Change of Course
 
 Pre-dawn mist coiled around Blackwater's northern gate like ghostly fingers as Gond observed from the darkness a few hundred yards out. Reaching down, he grabbed a handful of mud and smeared it across his forehead, then nudged his horse forward. 
 

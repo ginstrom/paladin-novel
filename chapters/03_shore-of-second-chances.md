@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part I: The Rude Awakening
-
-### Chapter 3 – Shore of Second Chances
+# Chapter 3 – Shore of Second Chances
 
 "Come on," Gond said. "Our path lies ahead."
 

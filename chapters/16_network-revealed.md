@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part III: An Unlikely Saint
-
-### Chapter 16: The Network Revealed
+# Chapter 16: The Network Revealed
 
 The first sign that everything was about to change came with the morning mist—a column of riders approaching from the south, moving with the disciplined precision of a military unit. But these weren't slavers. The banners they carried bore symbols Gond didn't recognize, and at their head rode a figure he knew all too well.
 

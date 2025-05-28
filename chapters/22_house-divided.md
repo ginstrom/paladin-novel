@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part IV: Forging a Free Nation
-
-### Chapter 22: A House Divided
+# Chapter 22: A House Divided
 
 The first defectors arrived at dawn—a column of twenty knights in travel-stained armor, their banners torn and their faces grim. At their head rode Sir Marcus Brightwater, a man Gond recognized from Elena's intelligence reports as one of the Noble Knights' most respected commanders.
 

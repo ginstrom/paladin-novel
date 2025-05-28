@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part IV: Forging a Free Nation
-
-### Chapter 18: First Stand
+# Chapter 18: First Stand
 
 The messenger stumbled into the valley at dawn, his horse lathered with sweat and foam. Pell caught the man as he slid from the saddle, legs buckling beneath him.
 

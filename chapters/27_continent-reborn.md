@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part V: The War of Restoration
-
-### Chapter 27: A Continent Reborn
+# Chapter 27: A Continent Reborn
 
 The morning after Turin's divine wrath had cleansed the Citadel of Asham-Val, Gond stood in what had once been High Cleric Mordain's private chambers. Sunlight streamed through windows that had been shuttered for years, illuminating walls where twisted symbols had been scoured away by divine fire, leaving only clean stone behind.
 

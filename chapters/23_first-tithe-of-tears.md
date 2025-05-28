@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part V: The War of Restoration
-
-### Chapter 23: The First Tithe of Tears
+# Chapter 23: The First Tithe of Tears
 
 The war council tent, once a place of strained alliances and grudging compromise, now buzzed with purposeful activity—voices no longer carried the sharp edge of suspicion, hands no longer hovered near weapon hilts during debates, and the very air seemed charged with shared conviction. Woodsmoke and old parchment still scented the air, but beneath it lay the almost palpable thrum of shared conviction, a resonance that had settled over them since Alanyi's voice had echoed through Gond. Maps of the Slavers' Coast still dominated the tables, but now, beside the grim fortifications of Saltmere, Blackwater, and Port Sorrow, new symbols had appeared—faded markings indicating ruined shrines, forgotten holy wells, places where Alanyi's light had once touched the land.
 

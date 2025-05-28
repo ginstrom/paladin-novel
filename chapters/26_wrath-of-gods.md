@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part V: The War for Freedom
-
-### Chapter 26: The Wrath of Gods
+# Chapter 26: The Wrath of Gods
 
 The Citadel of Asham-Val squatted on its rocky outcrop like a diseased tooth, its black stone walls scarred by weeks of dwarven siege engines. Gond reined in his horse at the crest of the hill, studying the fortress that had once been a beacon of Turin's justice and now served as the final stronghold of corruption.
 

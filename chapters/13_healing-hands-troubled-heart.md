@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part III: An Unlikely Saint
-
-### Chapter 13: Healing Hands, Troubled Heart
+# Chapter 13: Healing Hands, Troubled Heart
 
 The morning sun filtered through the valley's canopy, casting dappled shadows across the clearing where Gond sat cross-legged on a flat stone. His hands rested palm-up on his knees, fingers slightly curled as Silviana had shown him. The position felt ridiculous—like a street performer waiting for coins. His left foot had gone numb twenty minutes ago, and a persistent ache was building between his shoulder blades from holding his spine so rigidly straight.
 

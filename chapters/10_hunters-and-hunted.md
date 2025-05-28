@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part II: Seeds of Rebellion
-
-### Chapter 10: Hunters and Hunted
+# Chapter 10: Hunters and Hunted
 
 The next morning dawned hot and sultry. The cicadas were already producing their summer cacaphony by the time Gond's party had cleared the valley.
 

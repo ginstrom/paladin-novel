@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part II: Seeds of Rebellion
-
-### Chapter 4 – Crack in the Chain
+# Chapter 4 – Crack in the Chain
 
 The salt wind had teeth that morning, sharpening every sound that drifted across the northern bluffs. 
 

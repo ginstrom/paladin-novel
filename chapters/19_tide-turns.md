@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part IV: Forging a Free Nation
-
-### Chapter 19: The Tide Turns
+# Chapter 19: The Tide Turns
 
 Three weeks after the battle, Gond crouched in the pre-dawn darkness, watching the slave convoy wind through the valley below. Forty captives chained in a line, guarded by a dozen armed men. The perfect target for their new strategy.
 

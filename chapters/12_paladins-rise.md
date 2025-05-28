@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part III: An Unlikely Saint
-
-### Chapter 12: Paladin's Rise
+# Chapter 12: Paladin's Rise
 
 A month had passed since the golden light, and Gond still couldn't walk through the settlement without notice. Heads turned as he passed. Conversations paused mid-word. Children peered from behind their mothers' skirts, wide-eyed and whispering.
 

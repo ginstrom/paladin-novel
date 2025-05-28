@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part III: An Unlikely Saint
-
-### Chapter 15: Burden of Grace
+# Chapter 15: Burden of Grace
 
 The victory had come at a price.
 

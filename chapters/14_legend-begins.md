@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part III: An Unlikely Saint
-
-### Chapter 14: The Legend Begins
+# Chapter 14: The Legend Begins
 
 The first sign of trouble came with the dawn—a line of smoke rising from the valley's eastern approach, too thick and dark to be a cooking fire. Gond stood at the settlement's edge, watching the distant plume with growing unease. Beside him, Pell squinted against the morning light, his hand resting on his knife hilt.
 

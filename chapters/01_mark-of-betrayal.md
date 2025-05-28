@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part I: The Rude Awakening
-
-### Chapter 1: The Mark of Betrayal
+# Chapter 1: The Mark of Betrayal
 
 Gond's tongue stuck to the roof of his mouth like old leather. The taste coating his teeth told him this wasn't a typical morning after. Blood, stale ale, and something bitter that made his throat constrict. His forehead throbbed with each heartbeat. The pain was sharp enough to make his eyes water before he'd even opened them.
 

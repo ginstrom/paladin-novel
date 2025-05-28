@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part V: The War of Restoration
-
-### Chapter 24: The Shadow of Gorlatch
+# Chapter 24: The Shadow of Gorlatch
 
 The army, a river of steel and prayer, flowed south. Each dawn painted the sky with hues of Alanyi's hope, yet each morning also brought a subtle chill. Two days into their march from the encampment overlooking Saltmere's distant promise, a disquieting pattern emerged. First, a dwarven scout, then a human forager, then another scout—this one elven—failed to answer morning muster.
 

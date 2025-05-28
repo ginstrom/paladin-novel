@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part II: Seeds of Rebellion
-
-### Chapter 11: First Blood, First Miracle
+# Chapter 11: First Blood, First Miracle
 
 The slave catchers' confidence shattered like glass against stone. Gond's ambush unfolded with devastating precision—arrows whistled from concealed positions, pit traps swallowed horses and riders, coordinated attacks turned the hunters into the hunted.
 

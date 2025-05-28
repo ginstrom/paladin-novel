@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part IV: Forging a Free Nation
-
-### Chapter 20: The Price of War
+# Chapter 20: The Price of War
 
 The air in the council chamber was thick enough to spread on hardtack, a blend of woodsmoke, old parchment, and the distinct aroma of simmering dwarven frustration. Maps lay unfurled across the long table, weighted down with daggers and whetstones, depicting the Slavers' Coast and the fortified cities that were their ultimate targets. Gond, seated at the head, let his gaze drift over the faces assembled. Each bore the marks of the coming conflict in their own way.
 

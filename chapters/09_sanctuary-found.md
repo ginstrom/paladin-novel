@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part II: Seeds of Rebellion
-
-### Chapter 9: Sanctuary Found
+# Chapter 9: Sanctuary Found
 
 Word had apparently continued to spread through Maera's network, and the trickle of refugees remained steady. Each new face brought both hope and concern—more mouths to feed, more lives to protect, but also more hands to build their sanctuary. 
 

@@ -1,8 +1,4 @@
-# Paladin's Rise
-
-## Part II: Seeds of Rebellion
-
-### Chapter 6: Whispers in Stone
+# Chapter 6: Whispers in Stone
 
 Gond surged up the last few feet of wall, muscles screaming as he hauled himself over the parapet. Below, a shout erupted from the guard who'd spotted his silhouette against the stars.
 
