@@ -10,7 +10,7 @@ Slowly, the mood of the group transformed into something approaching hope. Sim w
 
 The sound of axes biting into wood echoed across the valley as Dax led a crew of refugees in felling trees for construction. His carpentry skills had proven invaluable—within days of their arrival, he'd identified the best timber and organized cutting crews. "Pine for the frames," he called to a group hauling logs. "Oak for the load-bearing posts. And save those birch branches—we'll need them for roofing."
 
-Sim moved tirelessly among the injured and weary, his gentle touch and soft prayers bringing order to chaos. Aerin and Dax, energized by safety, took charge of foraging, their youthful enthusiasm infectious. Lira revealed an unexpected talent for organization, creating order from their scattered belongings.
+Sim moved tirelessly among the injured and weary, his gentle touch and soft prayers bringing order to chaos. Alia and Dax, energized by safety, took charge of foraging, their youthful enthusiasm infectious. Lira revealed an unexpected talent for organization, creating order from their scattered belongings.
 
 Among the newest arrivals, Gond had begun identifying useful skills. Korven, a grizzled man with burn scars covering his arms, had worked iron before his enslavement. "Give me a forge and some bellows," he'd said, examining their meager collection of tools, "and I can make what we need. Nails, hinges, proper blades." 
 

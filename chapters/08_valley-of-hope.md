@@ -4,7 +4,21 @@ It took the party another week to find the valley. Trudging over steep hills, th
 
 A week later, the first of the refugees arrived.
 
-They came in ones, twos, and threes, with similar stories for the most part: escaped slaves, peasants fleeing cruel masters, apprentices put out by their masters. Another commonality to all the refugees was a name mentioned: Maera. She had started sending refugees on to them. Where she sent them before nobody knew.
+She said her name was Lira, an escaped slave who looked no more than eighteen. Her dark hair hung in matted tangles around a face hollowed by hunger, and fresh cuts marked her arms where shackles had rubbed raw. She limped badly, favoring her left leg, and barely made it to the valley's edge before collapsing.
+
+"Maera sent me," she gasped as Sim knelt beside her with water and gentle hands. "Said there were... people like me here."
+
+Her story emerged in fragments as Sim tended her wounds. A kitchen maid in a merchant's house, caught stealing bread for her sick mother. The magistrate had been in a foul mood that day—slavery for theft, to be worked in the salt mines until her debt was paid. A debt that would never be paid.
+
+But Lira had skills that had kept her alive. "My father taught me to hunt before he sold me for his debts," she said, wincing as Sim cleaned a particularly deep cut. "Tracked deer through forests thicker than this. Knew how to move quiet, how to read signs." Her eyes held a fierce pride despite her exhaustion. "That's how I made it here alone."
+
+Pell emerged from the shadows, studying the newcomer with calculating eyes. "Another stray," he muttered, but without real malice. "We'll be running a proper refuge soon."
+
+Gond found himself stepping forward before he'd made a conscious decision. Something about the girl's determination, her refusal to surrender despite everything she'd endured, called to him. "She stays," he said simply. "Anyone Maera sends is welcome here."
+
+The words felt right in his mouth, weighted with certainty he didn't fully understand. Around the fire, the other refugees nodded their agreement, and Gond saw something shift in their faces—a recognition of his authority that went beyond mere survival.
+
+After that, they continued to come in ones, twos, and threes, with similar stories for the most part: escaped slaves, peasants fleeing cruel masters, apprentices put out by their masters. Another commonality to all the refugees was a name mentioned: Maera. She had started sending refugees on to them. Where she sent them before nobody knew.
 
 Sim took charge of the refugees, arranging shelter, and giving them tasks to keep the group fed and prepare for the coming seasons.
 
@@ -38,7 +52,7 @@ Gond stepped between them. When he spoke, his voice seemed to settle over the en
 
 "Enough."
 
-The single word hung in the air. Korven's hand froze halfway to his blade. Aerin's mouth closed with an audible snap. Even the children stopped their restless fidgeting. The refugees who had been edging toward the argument now stood perfectly still, their eyes fixed on Gond with the attention of people recognizing authority they hadn't expected to find.
+The single word hung in the air. Korven's hand froze halfway to his blade. Alia's mouth closed with an audible snap. Even the children stopped their restless fidgeting. The refugees who had been edging toward the argument now stood perfectly still, their eyes fixed on Gond with the attention of people recognizing authority they hadn't expected to find.
 
 "We share what we have, or we all starve together." Gond's eyes moved from face to face, holding each gaze until they looked away. "Korven, you take first watch. Everyone else, you know your jobs."
 
@@ -80,7 +94,7 @@ Gond glanced at him. "You really believe your goddess is involved in this?"
 
 "The smallest seed can grow into the mightiest oak, given proper soil." Sim's smile was gentle in the starlight. "Sometimes strength comes from unexpected places."
 
-Aerin's gaze shifted to Sim. "How do you always know which herbs to use? Jorik should have died from that infection."
+Alia's gaze shifted to Sim. "How do you always know which herbs to use? Jorik should have died from that infection."
 
 Sim's fingers traced patterns in the dirt. "The forest teaches those who listen. Every plant has its purpose."
 

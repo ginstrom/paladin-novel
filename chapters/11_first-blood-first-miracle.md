@@ -42,13 +42,13 @@ Sim moved from the children's shelter to kneel beside Dax, ignoring the pain in 
 
 "He's beyond my help," Sim whispered, his voice breaking. Tears streamed down his weathered cheeks. "The damage is too great. I cannot—" His hands fell to his sides, the faint glow extinguished.
 
-Around them, the survivors gathered in a silent circle. Shoulders slumped in defeat. Hands covered mouths to stifle sobs. Eyes turned away from the dying boy, unable to bear witness to their helplessness. Aerin knelt beside her brother, her tears falling onto his blood-stained face.
+Around them, the survivors gathered in a silent circle. Shoulders slumped in defeat. Hands covered mouths to stifle sobs. Eyes turned away from the dying boy, unable to bear witness to their helplessness. Alia knelt beside her brother, her tears falling onto his blood-stained face.
 
 Gond felt a pull he could neither name nor resist. His feet carried him forward without conscious thought, drawn by an invisible thread that seemed to connect his heart to the dying boy. The circle of mourners parted before him, their faces etched with resignation.
 
 He knelt beside Dax, his hands hovering over the terrible wounds. The boy's breathing grew shallower, more labored. Time was running out.
 
-Aerin looked up, her face streaked with tears. She reached out as if to stop him.
+Alia looked up, her face streaked with tears. She reached out as if to stop him.
 
 "Let him work," Sim said quietly, catching her wrist. His eyes never left Gond's face.
 

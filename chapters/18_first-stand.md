@@ -28,7 +28,7 @@ Thorek nodded approvingly. "The engine's positioned well. Overlapping fields of 
 
 Elena pointed to the settlement's layout. "They'll expect desperate refugees hiding behind makeshift walls. Instead, they'll find prepared positions and coordinated defense."
 
-Gond surveyed his people as they began their preparations. Sim moved among the fighters, checking wounds from previous skirmishes. Silviana stood near the ancient oak, her hands pressed against its bark, lips moving in silent prayer. Aerin and Dax helped distribute bolts and arrows, their faces grim but determined.
+Gond surveyed his people as they began their preparations. Sim moved among the fighters, checking wounds from previous skirmishes. Silviana stood near the ancient oak, her hands pressed against its bark, lips moving in silent prayer. Alia and Dax helped distribute bolts and arrows, their faces grim but determined.
 
 "Pell, take twenty of our best and position them in the rocks above the eastern pass. Let the first column through, then hit them from behind."
 

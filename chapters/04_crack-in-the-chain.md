@@ -119,3 +119,31 @@ Alia offered the ribbon back. "For luck," she said.
 Gond tied it to the sword's hilt.
 
 Wind rattled the broken shutters, but inside the cracked stone walls the air felt warmer.
+
+***
+
+#### A Change of Plans
+
+Dawn brought the sound of distant hoofbeats—too many, too organized. Gond crept to the window and counted at least a dozen riders spread in a search line, moving methodically through the hills. The escaped slaver had been quick about raising the alarm.
+
+"They're expanding the search," he told the others as they gathered around the dying fire. "Professional hunters, not just city guards."
+
+Pell spat into the ashes. "How long before they reach us?"
+
+"Hours, maybe less." Gond studied the children's faces—Alia clutching her ribbon, Dax testing his weight on his injured ankle. His original plan had been simple: drop them with Maera, let her network find them safe passage to distant lands. But with slave catchers scouring every trail...
+
+"I was going to take you to Maera," he said, kneeling to meet Alia's eyes. "She has ways of getting people to safety. But with this many hunters..." He shook his head. "They'll be watching her place, questioning anyone who comes near."
+
+Alia's hand found her brother's. "What does that mean?"
+
+Gond's jaw tightened as he made the choice that would change everything. "It means you're coming with us. All the way to the hidden valley Sim knows about."
+
+Pell's eyebrows shot up. "Gond, that's—"
+
+"Madness?" Gond stood, shouldering his pack. "Maybe. But leaving them here is death, and trying to reach Maera is a trap." He looked at each face in turn. "We stick together. All of us."
+
+Pell muttered something under his breath about collecting strays, but he was already checking his weapons. "Your call. But if we're dragging children through the wilderness, we'd better move fast and quiet."
+
+Sim nodded approvingly. "The valley can shelter us all. And perhaps..." He glanced at the children with something like hope in his weathered features. "Perhaps that's as it should be."
+
+Wind rattled the broken shutters, but inside the cracked stone walls the air felt warmer.

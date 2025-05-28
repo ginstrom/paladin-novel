@@ -15,10 +15,10 @@ def main():
                         help=f'Words per page (default: {PAGE_LEN})')
     args = parser.parse_args()
 
-    filenames = sorted(glob.glob('manuscript/chapter-*.md'))
+    filenames = sorted(glob.glob('chapters/[0-9][0-9]_*.md'))
 
     if not filenames:
-        print('No chapter files found in manuscript/ directory')
+        print('No chapter files found in chapters/ directory')
         return
 
     minmax = dict(

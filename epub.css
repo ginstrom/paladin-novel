@@ -21,7 +21,8 @@ h1, h2, h3 {
 
 h1 {
     font-size: 1.8em;
-    page-break-before: always;
+    break-before: page; 
+    page-break-before: always; 
 }
 
 h2 {
@@ -86,4 +87,21 @@ strong {
 /* No text indent for certain elements */
 .no-indent {
     text-indent: 0;
+}
+
+
+/* ---------- centred part title page ---------- */
+.part-title{
+    break-before: page;            /* EPUB 3 / modern readers          */
+    page-break-before: always;     /* older Kindle/MOBI fallback       */
+
+    /* centre on screen */
+    text-align: center;
+    margin-top: 50vh;              /* push halfway down the viewport   */
+    transform: translateY(-50%);   /* pull up half its own height      */
+
+    /* optional typography tweaks */
+    font-size: 1.8em;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
 }
