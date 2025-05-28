@@ -24,7 +24,7 @@ Gond obeyed, though his shoulders remained rigid. The memory came easily enough�
 
 Gond opened his eyes to find her watching him with those ancient, knowing eyes. "It finds another way through. Or it builds pressure until it breaks free."
 
-"Precisely." She gestured toward the settlement below, where smoke rose from cooking fires and the sounds of daily life drifted upward. "Your power has been finding its own way through—in moments of crisis, when your conscious mind steps aside. But such uncontrolled channeling strains your capacity to connect with the divine."
+"Precisely." She gestured toward the settlement below, where smoke rose from cooking fires and the sounds of daily life drifted upward. "Your power has been finding its own way through—in moments of crisis, when your conscious mind steps aside."
 
 The strain. Gond's hand moved unconsciously to his chest, where a persistent ache had settled after each healing. Not pain exactly, but a tension, as if he were forcing divine energy through channels too narrow to contain it properly. After healing Dax, he'd slept for nearly two days. The smaller healings since—a child's fever, an infected wound, a broken bone—left him exhausted for hours.
 
@@ -78,7 +78,7 @@ Gond considered this as he watched the settlement below. More people had arrived
 
 "How many?" he asked.
 
-Silviana didn't need clarification. "In the old stories, the greatest paladins healed hundreds. Some say thousands. But they were different afterward—more divine than mortal, touched by something beyond human understanding."
+Silviana didn't need clarification. "In the old stories, the greatest paladins healed hundreds. Some say thousands. But they were different afterward—more divine than mortal—touched by something beyond human understanding."
 
 "And if I refuse? If I say no more healings?"
 
@@ -149,3 +149,5 @@ A revolution.
 The thought should have daunted him, but instead it filled him with a strange sense of anticipation. Tomorrow would bring new challenges, new choices, new opportunities to channel the divine light in service of something greater than himself.
 
 And for the first time since accepting his calling, Gond found himself looking forward to whatever came next.
+
+"not just the healing—but the return of Alanyi's true servant"

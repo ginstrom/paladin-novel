@@ -34,7 +34,7 @@ Before Gond could respond, Sim appeared at the top of the path, slightly out of 
 
 "Another sick child?"
 
-"No." Sim's expression was strange—part wonder, part uncertainty. "An elf. She says she's been traveling for weeks, drawn here by... by Alanyi's call."
+"No." Sim's expression was strange—part wonder, part uncertainty. "An elf. She says she's been traveling for weeks, drawn here by—by Alanyi's call."
 
 Gond and Pell exchanged glances. Elves were legends in these parts, creatures of story and song who kept to their hidden forests. What would bring one here?
 
@@ -74,7 +74,7 @@ Silviana's expression grew gentle but firm. "A mere healer does wield such power
 
 Gond followed her gaze, seeing the community through her eyes. The former slaves who now stood tall and proud. The children who played without fear. The gardens and workshops and homes that had grown from nothing but hope and determination.
 
-"I can't be a paladin," Gond said. "That would mean-"
+"I can't be a paladin," Gond said. "That would mean—"
 
 "It would mean you have a lot of work ahead of you," said Silviani, eyes glinting humorously.
 
@@ -116,7 +116,7 @@ Silviana's eyes widened with recognition, her breath catching as she stared at t
 
 "A sword that used to be crude iron," Gond said. "It changed during my travels."
 
-"Not just any sword. A blade touched by divine will." Silviana's voice carried the weight of ancient knowledge. "The old songs speak of such weapons—steel transformed by righteous purpose, forged not in earthly fires but in the crucible of a paladin's awakening. There have been perhaps a dozen such blades in all the long years since Alanyi first walked among mortals."
+"Not just any sword—a blade touched by divine will." Silviana's voice carried the weight of ancient knowledge. "The old songs speak of such weapons—steel transformed by righteous purpose, forged not in earthly fires but in the crucible of a paladin's awakening. There have been perhaps a dozen such blades in all the long years since Alanyi first walked among mortals."
 
 Sim moved closer, his eyes bright with wonder. "The legends are true, then? About paladin weapons?"
 
@@ -151,3 +151,5 @@ Silviana glanced between them, her expression amused. "I see you have already le
 Despite everything—the weight of destiny, the burden of power, the uncertainty of what lay ahead—Gond found himself smiling.
 
 Perhaps being a paladin wouldn't be so terrible after all.
+
+"not just the healing—but the return of Alanyi's true servant"

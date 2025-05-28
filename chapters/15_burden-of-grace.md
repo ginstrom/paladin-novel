@@ -193,3 +193,5 @@ As the council continued late into the night, planning and preparing for the bat
 The legend of the healer in the hills was ending. In its place, something new was being born—a movement that would shake the foundations of the world.
 
 And for the first time since accepting his calling, Gond was ready to embrace everything that meant.
+
+"The path of justice tempered with mercy—of strength guided by wisdom."

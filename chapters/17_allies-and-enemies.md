@@ -215,3 +215,5 @@ Pell was quiet for a moment, studying Gond's profile in the moonlight. "You know
 As they completed their circuit and returned to the settlement's heart, Gond felt some of the weight on his shoulders ease. The path ahead was uncertain, the challenges enormous, the stakes higher than ever before. But he wasn't walking it alone.
 
 And perhaps, in the end, that would be enough.
+
+"Justice without compassion becomes cruelty—the world has learned this truth"

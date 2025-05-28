@@ -98,7 +98,7 @@ Pell's eyebrow arched. "What? How?"
 
 "How long before they find us?" Aerin asked, unconsciously moving closer to her brother.
 
-"Days, maybe less. Word travels fast when there's gold involved." Gond studied their faces in the firelight—frightened, hopeful, trusting. The weight of responsibility settled heavier on his shoulders. "We need to disappear. Deep into the hills where horses can't follow."
+"Days, maybe less—word travels fast when there's gold involved." Gond studied their faces in the firelight—frightened, hopeful, trusting. The weight of responsibility settled heavier on his shoulders. "We need to disappear. Deep into the hills where horses can't follow."
 
 "Into thin air?" Pell's voice carried forced lightness, but his eyes were serious.
 

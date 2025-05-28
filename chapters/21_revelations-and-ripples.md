@@ -100,7 +100,7 @@ Both men hissed, their human masks slipping further. "The Forbidden God has many
 
 "Finally, he understands," Aldwin laughed, a sound like a mail fist dragged across glass. "Every chain forged, every auction blessed, every temple that turned from mercy to commerce—all part of the great work. The waning of the light, the triumph of profitable darkness."
 
-The fear spell pulsed stronger, but Gond drew his sword. The silver blade blazed with blue-white light, and suddenly his companions could move again. Elena's sword cleared its sheath, Thorek raised his warhammer, and Silviana began weaving protective magic.
+The fear spell pulsed stronger, but Gond drew his sword. The silver blade blazed with blue-white light, and suddenly his companions could move again. Elena's blade cleared its sheath, Thorek raised his warhammer, and Silviana began weaving protective magic.
 
 "Impossible," Cassius breathed, staring at the glowing blade. "No mortal weapon should be able to cut through our power."
 
@@ -180,7 +180,7 @@ A subtle murmur, like the rustling of ancient leaves, passed through the Circle.
 
 "That's a fair assessment," Gond said with a wry twist of his lips. "I didn't seek this. I was a mercenary, content with my coin and my anonymity. This path chose me, through fire and chains. Responsibility, as it turns out, is a stubborn master."
 
-Another member of the Circle, a male elf with silver hair and eyes like deep forest pools, leaned forward. "Yet you wield power that could only come from divine blessing. We have felt it from here—the healing light, the righteous fury, the touch of something beyond mortal ken."
+Another member of the Circle, a male elf with silver hair and eyes like deep forest pools, leaned forward. "Yet you wield power that could only come from divine blessing. We have felt it from here—the healing light—the righteous fury, the touch of something beyond mortal ken."
 
 "I do what needs doing. If the power comes from Alanyi, I'm grateful. If it comes from somewhere else..." Gond shrugged. "I'll use it to free slaves and protect the innocent either way."
 

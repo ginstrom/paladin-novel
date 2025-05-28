@@ -14,7 +14,7 @@ Sir Marcus dismounted heavily, his movements those of a man pushed beyond exhaus
 
 "Seen enough of what?"
 
-"The truth." Sir Marcus's voice cracked like breaking stone, each word forced through clenched teeth. His hands trembled—not with fear, but with barely contained rage that made his armor rattle softly. "Three days ago, we raided a plantation outside Westmarch. Found children in the fields, some no older than eight. When we demanded their release, the overseer showed us a contract signed by Sir Roderick himself."
+"The truth—three days ago, we raided a plantation outside Westmarch. Found children in the fields, some no older than eight. When we demanded their release, the overseer showed us a contract signed by Sir Roderick himself."
 
 The words hit like physical blows. Heat bloomed beneath Gond's ribs, spreading outward through his chest like molten metal seeking release. His fingertips tingled with electric warmth, and for a moment, the air around him seemed to shimmer with barely visible light.
 
@@ -22,7 +22,7 @@ The words hit like physical blows. Heat bloomed beneath Gond's ribs, spreading o
 
 "So you left?"
 
-"We were expelled. Branded as traitors to the order and enemies of the crown." Sir Marcus's laugh was harsh. "Funny thing is, they were right. We are traitors—to a system that deserves to burn."
+"We were expelled—branded as traitors to the order and enemies of the crown." Sir Marcus's laugh was harsh. "Funny thing is, they were right. We are traitors—to a system that deserves to burn."
 
 Thorek stepped forward, studying the knights with professional interest. "How many more like you?"
 
@@ -88,13 +88,13 @@ Silviana gasped, her elven senses immediately recognizing the divine presence. H
 
 The divine presence grew stronger, and those with spiritual sensitivity could see a faint glow surrounding Gond, as if he were lit from within by starlight.
 
-"The balance must be restored. Turin's strength is needed—his hammer to break the chains of oppression, his sword to defend the innocent. But strength without mercy becomes tyranny. Justice without compassion becomes cruelty. The world has learned this truth through centuries of suffering."
+"The balance must be restored. Turin's strength is needed—his hammer to break the chains of oppression, his sword to defend the innocent. But strength without mercy becomes tyranny. Justice without compassion becomes cruelty—the world has learned this truth through centuries of suffering."
 
 Sir Marcus found himself weeping openly, his warrior's pride crumbling before the overwhelming sense of divine love and sorrow.
 
 "Rise, my faithful ones," Alanyi's voice commanded gently. "Reclaim what was lost. Rebuild what was broken. Let my light shine again in temples raised not to my glory, but to the healing of this wounded world. Let mercy temper justice, let compassion guide strength, let joy return to hearts that have known only fear."
 
-The presence began to fade, but the voice continued, growing softer but no less profound. "The path ahead is hard, my children. You will face those who profit from darkness, who have grown fat on suffering, who mistake cruelty for strength. But you do not walk alone. In every freed slave, in every healed wound, in every moment of hope kindled in despair—there I am with you."
+The presence began to fade, but the voice continued, growing softer but no less profound. "The path ahead is hard, my children. You will face those who profit from darkness—who have grown fat on suffering, who mistake cruelty for strength. But you do not walk alone. In every freed slave, in every healed wound, in every moment of hope kindled in despair—there I am with you."
 
 As the divine presence withdrew, Gond swayed slightly, his own consciousness returning fully. The chamber was silent except for the sound of quiet weeping and awed breathing.
 
@@ -114,7 +114,7 @@ In the profound silence that followed, Gond felt a clarity of purpose he'd never
 
 Sim stood slowly, his eyes bright with tears and wonder. "What would you have me do?"
 
-"Lead her revival," Gond said simply. "Not through force or compulsion, but through example. As we liberate lands, as we free people from bondage, create spaces where her worship can flourish again. Rebuild the ruined temples, train new priests, but always remember—we offer hope, we don't demand faith."
+"Lead her revival," Gond said simply. "Not through force or compulsion—but through example. As we liberate lands, as we free people from bondage, create spaces where her worship can flourish again. Rebuild the ruined temples, train new priests, but always remember—we offer hope—we don't demand faith."
 
 "I... I'm not worthy of such responsibility," Sim protested.
 
@@ -148,7 +148,7 @@ The transformation in the settlement was remarkable. The Noble Knight defectors,
 
 "It's like watching a new religion being born," Pell observed as he watched Sim leading a mixed group of humans, dwarves, and elves in evening prayers. "Though I suppose that's exactly what it is."
 
-"Not new," Gond corrected. "Reborn. Alanyi's worship is ancient, older than the kingdoms that tried to suppress it. We're not creating something from nothing—we're nurturing something that never truly died."
+"Not new—reborn," Gond corrected. "Alanyi's worship is ancient, older than the kingdoms that tried to suppress it. We're not creating something from nothing—we're nurturing something that never truly died."
 
 "And you?" Pell asked. "How does it feel to be a prophet?"
 
@@ -170,11 +170,11 @@ The final council meeting before the campaign was held in the settlement's large
 
 "The northern force is ready," reported Captain Lyralei, speaking for the elven contingent. "Five hundred warriors, supported by mages and scouts. We'll strike at the supply routes through the Thornwood, but we'll also secure the ruins of the Starlight Shrine. Our lore-keepers believe it can be restored."
 
-"The Iron Covenant stands prepared," Thorek declared. "Two thousand hammers, ready to break whatever walls stand in our way. And when those walls fall, we'll help raise new ones—temples instead of slave pens, healing halls instead of auction houses."
+"The Iron Covenant stands prepared," Thorek declared. "Two thousand hammers, ready to break whatever walls stand in our way. And when those walls fall, we'll help raise new ones—temples instead of slave pens—healing halls instead of auction houses."
 
 "And the coastal assault?" Elena asked.
 
-Gond stood, feeling the weight of divine purpose settling on his shoulders like a mantle. "Fifteen hundred fighters, including our newest allies. We'll hit three cities in rapid succession—Saltmere, Blackwater, and Port Sorrow. But we're not just cutting off the head of the serpent. We're purifying the land itself."
+Gond stood, feeling the weight of divine purpose settling on his shoulders like a mantle. "Fifteen hundred fighters, including our newest allies. We'll hit three cities in rapid succession—Saltmere, Blackwater, and Port Sorrow. But we're not just cutting off the head—we're purifying the land itself."
 
 He moved to the great map that dominated one wall, pointing to the marked positions. "Each of these cities has ruins of Alanyi's temples, buried under slave markets and counting houses. When we take them, we'll tear down the monuments to greed and raise up sanctuaries of healing."
 

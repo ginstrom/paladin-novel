@@ -2,13 +2,13 @@
 
 The messenger stumbled into the valley at dawn, his horse lathered with sweat and foam. Pell caught the man as he slid from the saddle, legs buckling beneath him.
 
-"Three columns," the scout gasped, clutching Pell's arm. "Coming from the east. Maybe two hundred men. They march in perfect formation—shields locked, spears angled at identical degrees, no stragglers or wanderers. These aren't slavers grabbing easy prey."
+"Three columns—coming from the east," the scout gasped, clutching Pell's arm. "Maybe two hundred men. They march in perfect formation—shields locked, spears angled at identical degrees, no stragglers or wanderers. These aren't slavers grabbing easy prey."
 
 Gond emerged from the council tent, Thorek and Elena flanking him. The dwarf's hand rested on his warhammer, while Elena's fingers drummed against her sword hilt.
 
 "How far?" Gond asked.
 
-"Half a day's march. They'll be here by midday." The messenger's eyes darted around the bustling settlement. "They've got siege ladders. Crossbow companies. This isn't a raid—it's an assault."
+"Half a day's march—they'll be here by midday." The messenger's eyes darted around the bustling settlement. "They've got siege ladders. Crossbow companies. This isn't a raid—it's an assault."
 
 Thorek spat into the dirt. "About time. Been wondering when they'd stop sending amateurs."
 
@@ -20,7 +20,7 @@ Gond's jaw tightened. The settlement had grown to nearly three hundred souls, bu
 
 The massive dwarf emerged from behind his siege engine, bronze-reinforced and gleaming in the morning light. Gold teeth flashed in his beard as he grinned. "Aye, lad? Time to test the old girl?"
 
-"Three columns, professional soldiers. Can your engine cover the eastern approach?"
+"Three columns—coming from the east. Can your engine cover the eastern approach?"
 
 Grimjaw's grin widened. "Cover it? I can turn it into a firey graveyard. Just give me targets."
 
@@ -164,7 +164,7 @@ The lead rider dismounted, removing his helm to reveal a weathered face and gray
 
 Thorek stepped forward, offering a warrior's salute. "Brother. What news?"
 
-Korgan's expression was grim. "The slave cities have formed an alliance. Five major ports, pooling their resources. They're raising an army—not mercenaries this time, but their own soldiers. Professional troops with siege engines and cavalry."
+Korgan's expression was grim. "The slave cities have formed an alliance. Five major ports, pooling their resources. They're raising an army—not mercenaries this time—but their own soldiers. Professional troops with siege engines and cavalry."
 
 Gond felt his stomach tighten. "How many?"
 

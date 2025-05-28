@@ -24,7 +24,7 @@ The second messenger, a young woman on a lathered horse, brought more dramatic n
 
 Thorek Ironheart, who had been overseeing the citadel's transformation into a symbol of the new order, stroked his beard thoughtfully. "Fear can be as powerful as hope, when properly applied. They know that if Turin himself struck down his own corrupt priests, no earthly power can protect them."
 
-"It's more than fear," Sim said, looking up from where he was teaching a group of former temple guards the true rites of Turin's worship. "It's recognition. They're finally seeing what we've been trying to show them—that the gods never supported slavery and oppression. That was always a lie told by those who profited from suffering."
+"It's more than fear—it's recognition," Sim said, looking up from where he was teaching a group of former temple guards the true rites of Turin's worship. "They're finally seeing what we've been trying to show them—that the gods never supported slavery and oppression. That was always a lie told by those who profited from suffering."
 
 The third messenger brought the most significant news of all. A formal delegation from the Continental Assembly—representatives from every major city and province—was requesting an audience. They wanted to discuss terms for a unified government, with Gond as its spiritual and moral leader.
 
@@ -102,7 +102,7 @@ Gond considered the question. "Sometimes. But then I look at what we've built, a
 
 "Even though it was harder? Even though it took longer?"
 
-"Especially because of that," Gond said. "The easy path leads to easy destruction. The hard path—the right path—that's what builds something that lasts."
+"Especially because of that," Gond said. "The easy path leads to easy destruction. The hard path—the path of justice tempered with mercy—of strength guided by wisdom—that's what builds something that lasts."
 
 ***
 
@@ -110,7 +110,7 @@ Ten years after the signing of the Charter, Gond stood once again in a place of 
 
 Elena, now serving her second term as the Continental Council's rotating chair, stepped to the podium. Her hair was touched with gray, her face lined with the cares of leadership, but her voice was strong and clear.
 
-"Ten years ago," she began, "we stood at a crossroads. We could have chosen the path of vengeance, of replacing one form of oppression with another. Instead, we chose the harder path—the path of justice tempered with mercy, of strength guided by wisdom."
+"Ten years ago," she began, "we stood at a crossroads. We could have chosen the path of vengeance, of replacing one form of oppression with another. Instead, we chose the harder path—the path of justice tempered with mercy—of strength guided by wisdom."
 
 The crowd listened in respectful silence as she outlined the achievements of the past decade—the elimination of slavery throughout the known world, the establishment of universal education, the creation of trade networks based on mutual benefit rather than exploitation.
 

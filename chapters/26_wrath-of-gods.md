@@ -18,7 +18,7 @@ The command post buzzed with activity. Maps covered every available surface, mar
 
 "Looks like you've made good progress," Gond said, studying the map. Several sections of the outer wall showed breach points, and siege towers had been positioned for assault.
 
-"Aye, but it's the inner keep that's the real problem." Thorek pointed to the citadel's heart—a massive tower that rose from the center of the complex like a stone spear. "That's where they've holed up. The corrupt priests and their remaining guards. Maybe two hundred men, but they're fanatics. And the keep itself..." He shook his head. "It's impregnable. Built in the old style, with walls thick as a man is tall and wards that turn aside both steel and sorcery."
+"Aye, but it's the inner keep that's the real problem," Thorek said, pointing to the citadel's heart—a massive tower that rose from the center of the complex like a stone spear. "That's where they've holed up. The corrupt priests and their remaining guards. Maybe two hundred men, but they're fanatics. And the keep itself..." He shook his head. "It's impregnable. Built in the old style, with walls thick as a man is tall and wards that turn aside both steel and sorcery."
 
 Gond frowned. "What about divine power?"
 

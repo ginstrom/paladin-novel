@@ -70,7 +70,7 @@ Roderick was silent for a long moment, his eyes studying Gond's face as if searc
 
 "We speak of freedom," Gond corrected gently. "True freedom. For everyone."
 
-The knight rose, his hand falling to the pommel of his sword. "Then our paths, it seems, diverge more sharply than I had hoped." He looked at Gond, his brow furrowing slightly as his mouth pressed into a thin line—disapproval warring with something that might have been reluctant admiration. "You are a compelling speaker, Gond of the Valley. And a dangerous idealist. Such dreams rarely survive contact with the world's realities."
+The knight rose, his hand falling to the pommel of his sword. "Then our paths, it seems, diverge more sharply than I had hoped." He looked at Gond, his brow furrowing slightly as his mouth pressed into a thin line—disapproval warring with something that might have been reluctant admiration. "You are a compelling speaker—and a dangerous idealist."
 
 "Perhaps," Gond allowed. "But we intend to change those realities."
 

@@ -20,11 +20,11 @@ The sound of hammering had joined the axes as refugees fashioned tools from salv
 
 Throughout the valley, Gond's name echoed quietly. When disputes arose over work assignments, people sought his judgment. When questions needed answers, they turned to him. It seemed that Gond's mere presence was enough to calm tempers and turn anger into smiles. Gond found himself at the center of every decision, the focal point around which their small community revolved. 
 
-Increasingly, people began to notice strange manifestations of some kid of power in Gond. One night, he had his sword out for maintenance-oiling and polishing. He had noticed the quality of the metal increasing gradually since his experience at the temple.
+Increasingly, people began to notice strange manifestations of some kind of power in Gond. One night, he had his sword out for maintenance—oiling and polishing. He had noticed the quality of the metal increasing gradually since his experience at the temple.
 
-Pell seemed to take notice too. "I could have sword that old pig sticker of yours was plain iron," he joked. "More suited for hoeing turnips than fighting. But that blade is pure sword-steel or I'm a three-legged mule."
+Pell seemed to take notice too. "I could have sworn that old pig sticker of yours was plain iron," he joked. "More suited for hoeing turnips than fighting. But that blade is pure sword-steel—or I'm a three-legged mule."
 
-"Just proper maintenance bringing out the sword's own qualities," replied Gond. "You should try it on your own sword."
+"Just proper maintenance—oiling and polishing bringing out the sword's own qualities," replied Gond. "You should try it on your own sword."
 
 "If I could turn iron into steel by oiling and polishing, I'd be fat and rich."
 
@@ -138,7 +138,7 @@ The faces looking back at him showed fear, yes, but also determination. These we
 
 Three days later, the expedition returned with more than just food.
 
-The weary but trimphant party picked their way down the valley's narrow entrance, leading the community's horses-they now had four, including the old cart horse Gond and his companions had stolen in their first caravan raid. Each horse was pulling a fully laden sledge, the expedition's members grunting and straining to help the sledges over roots and boulders. The Thornfield farmstead had yielded better than expected—not just grain and preserved meat from the root cellars, but tools, weapons, and materials the fleeing family had been forced to abandon.
+The weary but triumphant party picked their way down the valley's narrow entrance, leading the community's horses—they now had four, including the old cart horse Gond and his companions had stolen in their first caravan raid. Each horse was pulling a fully laden sledge, the expedition's members grunting and straining to help the sledges over roots and boulders. The Thornfield farmstead had yielded better than expected—not just grain and preserved meat from the root cellars, but tools, weapons, and materials the fleeing family had been forced to abandon.
 
 "Ten sacks of potatoes, five sacks of oats, and another five of wheat," Gorn told the waiting refugees, dismounting with obvious relief. "Enough to last us another month and a half, maybe more if we're careful. Plus salt pork, dried beans, and a barrel of honey."
 
@@ -152,7 +152,7 @@ Within days, the valley echoed with new sounds. Korven's hammer rang against ste
 
 From his forge came a steady stream of improvements: iron-reinforced spear points to replace sharpened sticks, proper hinges for doors that had hung crooked on leather straps, and cooking pots with handles that didn't burn hands. He crafted horseshoes for their mounts, whose hooves had been splitting on the rocky ground, and sturdy buckles to replace the rope knots that held their makeshift armor together.
 
-Dax's crews moved with fresh purpose, their crude lean-tos giving way to solid timber frames. Where before they had lashed logs together with rope, now they fitted joints with precision, the satisfying thunk of hammer on nail replacing the creak of strained bindings. Doors hung straight, roofs shed rain instead of leaking, and storage chests protected their meager possessions from moisture and vermin.
+Dax's crews moved with fresh purpose, their crude lean-tos giving way to solid timber frames. Where before they had lashed logs together with rope, now they fitted joints with precision—no longer the tentative tapping of makeshift repairs, but the bold rhythm of a craftsman with proper tools. Doors hung straight, roofs shed rain instead of leaking, and storage chests protected their meager possessions from moisture and vermin.
 
 "It's amazing what a difference real tools make," Lira observed, watching a crew raise the frame of what would become their first permanent storehouse. "We're not just surviving anymore. We're building something that could last."
 

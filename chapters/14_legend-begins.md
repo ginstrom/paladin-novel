@@ -28,11 +28,11 @@ As they approached, Gond could see the man's condition—exhaustion, dehydration
 
 Westport. Gond's jaw tightened. That was nearly a hundred miles southeast—farther than any previous refugee had traveled to reach them. The implications were troubling.
 
-Marcus raised his head, and Gond saw tears cutting tracks through the grime on his cheeks. His hands shook as he spoke, and Gond noticed the raw blisters on his palms from weeks of walking with an improvised staff. "My granddaughter," he whispered, his voice cracking with exhaustion. "The wasting sickness. The healers in Westport... they said there was nothing... but I heard stories. A man who could work miracles. Please, I have gold—"
+Marcus raised his head, and Gond saw tears cutting tracks through the grime on his cheeks. His hands shook as he spoke, and Gond noticed the raw blisters on his palms from weeks of walking with an improvised staff. "My granddaughter," he whispered, his voice cracking with exhaustion. "The wasting sickness. The healers in Westport... they said there was nothing—but I heard stories. A man who could work miracles. Please, I have gold—"
 
 "Keep your gold," Gond said gently, helping Sim support the old man. "Where is she?"
 
-"I... I couldn't bring her. Too weak for the journey. She's with my daughter in Westport, but..." Marcus's voice broke. "She won't last much longer. Please, if you could come—"
+"I... I couldn't bring her. Too weak for the journey. She's with my daughter in Westport, but—" Marcus's voice broke. "She won't last much longer. Please, if you could come—"
 
 "I can't leave the valley," Gond said, the words tasting like ash in his mouth. "Too many people here depend on—"
 
@@ -114,7 +114,7 @@ The observation hit Gond like a revelation. When had he last thought about his f
 
 "When did I stop caring about revenge?"
 
-Pell was quiet for a moment, watching the evacuation preparations with thoughtful eyes. "Hard to say exactly. Maybe when you chose to leave Blackwater with your betrayers alive. Maybe when you started healing people instead of planning how to hurt the ones who wronged you." He shrugged. "Or maybe it was gradual—so slow you didn't notice until now."
+Pell was quiet for a moment, watching the evacuation preparations with thoughtful eyes. "Hard to say exactly. Maybe when you chose to leave Blackwater—with your betrayers alive. Maybe when you started healing people instead of planning how to hurt the ones who wronged you." He shrugged. "Or maybe it was gradual—so slow you didn't notice until now."
 
 Gond felt something shift inside him, like a weight he'd been carrying for so long he'd forgotten it was there suddenly lifting away. The rage that had sustained him through slavery, through escape, through those first desperate weeks of freedom—it was gone. Not suppressed or controlled, but genuinely absent, replaced by something else entirely.
 
@@ -219,3 +219,5 @@ For a moment, the battlefield was silent except for the sound of horses shifting
 "Kill them all!" he screamed.
 
 The battle for the valley had begun.
+
+"not by mortal hands—but by the roots of the World Tree itself"

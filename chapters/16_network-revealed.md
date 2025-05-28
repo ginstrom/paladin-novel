@@ -44,7 +44,7 @@ The larger dwarf looked up from his work, his face splitting into a grin that re
 
 "Defected, resigned, told the Crown to stuff their gold where the sun don't shine—call it what you will." Grimjaw's expression grew serious. "But when word reached me that a paladin of Alanyi had risen, that the old alliance might be renewed... well, some things are more important than steady pay."
 
-He gestured toward the siege engine and the wagons behind it. "Brought more than just myself, too. Three wagonloads of proper steel, bronze fittings, and enough tools to outfit a real forge. That little setup your man Korven's been working with—" He shook his head dismissively. "Good for horseshoes and nails, maybe. But if you're planning to take on fortified cities, you'll need weapons that can punch through stone walls."
+He gestured toward the siege engine and the wagons behind it. "Brought more than just myself, too—three wagonloads of proper steel, bronze fittings, and enough tools to outfit a real forge. That little setup your man Korven's been working with—" He shook his head dismissively. "Good for horseshoes and nails, maybe—but if you're planning to take on fortified cities, you'll need weapons that can punch through stone walls."
 
 Gond's shoulders straightened as if an invisible yoke had been placed across them, the muscles between his shoulder blades tightening with the sudden awareness of what was being offered—and what it would demand of him. These weren't desperate refugees seeking miracles—these were professionals, soldiers and leaders who'd made calculated decisions to join his cause.
 
@@ -217,3 +217,5 @@ Gond nodded, thinking of Willem and the lesson learned through defiance. "Someti
 As the family began the process of preparing Grandmother Nessa for burial, Gond returned to the dying fire where Elena and Maera waited. The weight of what they were planning—what he was committing to—was enormous. But for the first time since accepting his calling, he felt truly ready for what lay ahead.
 
 He had learned to trust divine wisdom even when his heart rebelled against it. He had learned that being a paladin meant serving a purpose larger than his own understanding. And he had learned that sometimes the greatest strength came not from standing alone, but from standing with others who shared your vision of what the world could become.
+
+"the healing light—the righteous fury, the touch of something beyond mortal ken"
