@@ -6,7 +6,7 @@ Gond, a cynical mercenary, never figured he'd be more than a sword for hire. His
 
 But his captors and betrayers underestimated him. When an opportunity arose on the slave ship, Gond, alongside a wiry rogue named Pell and a gentle priest of Alanyi named Sim, carved a path to freedom with broken chains and brute force. They plunged into the sea, eventually washing ashore, battered but alive.
 
-Their journey led them to Maera, a reclusive hermit-healer who offered them aid and pointed them towards the city of Blackwater. However, their path was fraught with peril. They ambushed a slave cart, liberating two young siblings, Aerin and Dax, and acquiring much-needed supplies. Gond, initially driven by a desire for vengeance against Borin and Kael, decided to scout Blackwater alone, leaving his companions and the rescued children at a hidden way-station.
+Their journey led them to Maera, a reclusive hermit-healer who offered them aid and pointed them towards the city of Blackwater. However, their path was fraught with peril. They ambushed a slave cart, liberating two young siblings,  and Dax, and acquiring much-needed supplies. Gond, initially driven by a desire for vengeance against Borin and Kael, decided to scout Blackwater alone, leaving his companions and the rescued children at a hidden way-station.
 
 In Blackwater, Gond discovered a hefty bounty on his head, his branded face plastered on wanted posters. The danger was too great for a direct confrontation, forcing him to abandon his revenge plans—his first unconscious choice of protection over personal vengeance. On his return, he encountered and rescued another escaped slave, a young woman named Lira.
 
