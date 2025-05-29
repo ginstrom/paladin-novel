@@ -68,7 +68,7 @@
 *   Sim senses something significant occurred but doesn't press.
 *   First barely perceptible hints of divine influence: Gond's instincts seem sharper.
 
-### Chapter 7: The Gradual Awakening
+### Chapter 7: Awakening
 *   Group travels deeper into wilderness seeking permanent sanctuary.
 *   Gond begins experiencing subtle manifestations he attributes to survival training.
 *   Senses approaching danger (slave catchers) but chalks it up to woodcraft.
@@ -104,6 +104,10 @@
 *   Community prepares for war - defensive positions, evacuation routes, trap setting.
 *   Chapter ends with tension building as signs of approaching slave catchers multiply.
 
+### Chapter 11: First Blood, First Miracle
+*   [Placeholder: This chapter details a pivotal early conflict or the first undeniable manifestation of Alanyi's power through Gond, marking a significant turning point.]
+*   [Placeholder: Key events include a desperate struggle, a critical choice by Gond, and a miraculous outcome that solidifies his path and draws attention.]
+
 ### Key Themes for Part II
 *   Gradual spiritual awakening
 *   Community building under threat
@@ -132,9 +136,9 @@
 *   Build tension gradually toward the inevitable confrontation.
 *   Use the valley setting to create both beauty and vulnerability.
 
-## Part III: An Unlikely Saint (Chs 11-16)
+## Part III: An Unlikely Saint (Chs 12-17)
 
-### Chapter 11: Paladin's Rise
+### Chapter 12: Paladin's Rise
 *   Aftermath of the clear miracle; community reacts with awe and fear.
 *   Gond grapples with the undeniable reality of his divine calling.
 *   **Arrival of Silviana Starweaver**: Elven lore-keeper arrives after news of the healing miracle spreads to elven communities.
@@ -143,7 +147,7 @@
 *   Internal conflict between Gond's cynical nature and his new role.
 *   First conscious attempts to understand and control his abilities with elven guidance.
 
-### Chapter 12: Healing Hands, Troubled Heart
+### Chapter 13: Healing Hands, Troubled Heart
 *   Gond learns to consciously channel his healing powers with Sim and Silviana's guidance.
 *   Silviana shares ancient elven techniques for managing divine power.
 *   The emotional and physical toll of using divine abilities.
@@ -151,7 +155,7 @@
 *   Community expectations weigh heavily on his shoulders.
 *   Growing reputation attracts both hope and unwanted attention.
 
-### Chapter 13: The Legend Begins
+### Chapter 14: The Legend Begins
 *   News of the "healer in the hills" spreads to nearby villages and slave cities.
 *   Desperate people seek out Gond's haven, swelling the population.
 *   Resource management becomes critical: food shortages, security concerns.
@@ -161,7 +165,7 @@
 *   **Character growth moment**: Gond recognizes his unconscious transformation from vengeance-seeker to protector.
 *   Slave hunters and city agents begin taking serious notice.
 
-### Chapter 14: Burden of Grace
+### Chapter 15: Burden of Grace
 *   Gond faces a personal crisis: a failed healing or devastating attack.
 *   Questions the divine purpose and his own worthiness for the calling.
 *   **Arrival of Thorek Ironheart**: Dwarven war-priest arrives with Maera's expanded network to assess Gond's worthiness.
@@ -171,7 +175,7 @@
 *   **Dwarven alliance formed**: Thorek offers weapons, tactical training, and siege engines in exchange for joining righteous cause.
 *   Recommits to his path with deeper understanding of the cost and new military support.
 
-### Chapter 15: The Network Revealed
+### Chapter 16: The Network Revealed
 *   Maera returns with military column including Elena Brightblade (former Royal Guard) and massive siege engines.
 *   **Grimjaw Ironforge's arrival**: Master dwarven siege engineer defects with bronze-reinforced war machines and professional equipment.
 *   Maera reveals her role as network coordinator, spreading word of Gond's sanctuary to continental resistance.
@@ -180,7 +184,7 @@
 *   Gond realizes his role extends beyond the valley to a continental liberation movement.
 *   Decision point: remain hidden sanctuary or join larger war against slave system.
 
-### Chapter 16: Allies and Enemies
+### Chapter 17: Allies and Enemies
 *   First contact with sympathetic members of established holy orders.
 *   Some see Gond as a threat to religious authority; others as divine instrument.
 *   Political maneuvering as different factions seek to use or control Gond.
@@ -222,9 +226,9 @@
 *   Use the expanding scope to raise both hope and danger.
 *   Explore cultural differences and similarities between races united by common cause.
 
-## Part IV: Forging a Free Nation (Chs 17-21)
+## Part IV: Forging a Free Nation (Chs 18-22)
 
-### Chapter 17: First Stand
+### Chapter 18: First Stand
 *   Gond's community faces its first major coordinated attack from slave city forces.
 *   Strategic battle showcasing Gond's tactical mind and established divine powers.
 *   **Dwarven siege engines in action**: Thorek and Grimjaw's forces prove essential for defense.
@@ -232,7 +236,7 @@
 *   Gond's leadership solidified through crisis management.
 *   The win inspires hope but also escalates the conflict.
 
-### Chapter 18: The Tide Turns
+### Chapter 19: The Tide Turns
 *   Gond leads coordinated raids on slave operations with allied groups.
 *   Combination of stealth, divine power, and tactical brilliance.
 *   **Dwarven siege engines crucial**: Grimjaw's weapons essential for attacking fortified positions.
@@ -244,7 +248,7 @@
 *   Gond's reputation as liberator spreads across the continent.
 *   Success draws more attention from powerful enemies.
 
-### Chapter 19: Dawn of a New Order
+### Chapter 20: The Price of War
 *   The movement organizes into a structured society with governance.
 *   Gond struggles with political complexities beyond military leadership.
 *   Internal conflicts as different factions vie for influence.
@@ -255,7 +259,7 @@
 *   Cultural and legal foundations laid for post-liberation society.
 *   Grimjaw designs specialized equipment for the liberation army.
 
-### Chapter 20: Revelation and Ripples
+### Chapter 21: Revelation and Ripples
 *   Gond's paladin identity becomes known to all major holy orders.
 *   Religious establishment splits between those supporting and opposing him.
 *   **The Circle of Whispers debates**: Elven council evaluates whether Gond represents true divine calling.
@@ -263,7 +267,7 @@
 *   Gond must navigate religious politics while maintaining his mission.
 *   The schism in religious orders creates new opportunities and dangers.
 
-### Chapter 21: A House Divided
+### Chapter 22: A House Divided
 *   Open conflict within holy orders as some members join Gond's cause.
 *   **Circle of Whispers endorsement**: Official elven support legitimizes Gond's paladin status.
 *   **Noble Knights formal break**: Aristocratic knights finally break from the corrupt Marshal Order.
@@ -306,9 +310,9 @@
 *   Keep Gond's voice authentic as his responsibilities expand.
 *   Highlight the strength found in diversity and cooperation.
 
-## Part V: The War for Freedom (Chs 22-27)
+## Part V: The War for Freedom (Chs 23-27)
 
-### Chapter 22: A House Divided
+### Chapter 23: The First Tithe of Tears
 *   **Noble Knight defectors arrive**: Sir Marcus Brightwater leads twenty knights who've broken from Sir Roderick's faction after discovering child slavery contracts.
 *   **Civil war within Noble Knights**: Split between reformers and those profiting from corruption; Sir Marcus's group expelled as "traitors."
 *   **Integration challenges**: Difficulty incorporating knights with ingrained assumptions about justice versus mercy.
@@ -318,21 +322,21 @@
 *   **Silviana aids Reformed Order**: Offers ancient elven knowledge to help human "Reformed Order" restore lost rites and practices.
 *   **Three-army coordination planned**: Explicit focus on spiritual restoration alongside military objectives for upcoming campaign.
 
-### Chapter 23: The Shadow of Gorlatch
+### Chapter 24: The Shadow of Gorlatch
 *   **March to Saltmere**: Army advances toward the coastal city, but mysterious disappearances plague the column. Scouts and foragers vanish without trace, creating tension and suspicion.
 *   **Unity through conflict**: Skirmish with slaver loyalists becomes catalyst for inter-racial cooperation. Sir Kaelen (Noble Knight) is saved by Joric (former slave), breaking down class barriers and fostering mutual respect.
 *   **Gorlatch's revenge**: Major attack by three Gorlatch clerics using fear magic, illusions, and poison. They seek vengeance for Gond's interference with their "tithes." Gond's divine light breaks their power and destroys the clerics.
 *   **Discovery of atrocities**: Missing soldiers found tortured in a pit near Saltmere. Borin Stonebeard (dwarf) is healed by Gond, but Elara (human forager) is beyond saving. Alanyi guides Gond to ease her suffering rather than attempt futile healing - a lesson in divine obedience.
 *   **Siege established**: Army reaches Saltmere and establishes full siege. Harbor blockaded, siege engines positioned. False delegation from the city offers compromise but is murdered by their own guards, revealing Gorlatch's total control. The siege begins in earnest.
 
-### Chapter 24: The Cleansing Tide
+### Chapter 25: The Cleansing Tide
 *   **Liberation of Saltmere**: Gond leads strike force through ancient tunnels beneath the city, coordinated with main assault. Dwarven siege engines prove crucial. Alanyi's Sunken Grotto is reclaimed and purified after fierce fighting with Gorlatch cultists.
 *   **Kael's redemption**: During post-battle healing rounds, Gond discovers his former friend Kael wounded and dying among enemy fighters. Despite past betrayal, Gond chooses divine mercy and heals him, offering a path to redemption.
 *   **Fall of Blackwater**: Internal rebellion erupts during siege as Maera's network activates. City tears itself apart from within while Gond's forces breach the walls. Discovery of horrific Gorlatch temple in the keep's dungeons reveals depths of corruption.
 *   **Conquest of Port Sorrow**: Elite Gorlatch clerics defend the city with supernatural fear magic from three black ships. Gond unleashes massive divine light that breaks their power but collapses from the effort. Upon recovery, engages in divine duel (Alanyi vs. Gorlatch) to defeat the high priests.
 *   **March to aid dwarves**: Chapter ends with news of Thorek's siege of Citadel Asham-Val. Gond's army, though weary from coastal victories, marches inland to support their dwarven allies in the final assault on corruption's last stronghold.
 
-### Chapter 25: The Wrath of Gods
+### Chapter 26: The Wrath of Gods
 *   **Battle of Citadel Asham-Val**: Gond's army arrives to aid Thorek's dwarven siege of the corrupt Order of Turin stronghold.
 *   **Discovery of atrocities**: Branded children found in the citadel's dungeons reveal the depths of corruption.
 *   **Combined assault**: Human, dwarven, and elven forces coordinate to breach the fortress defenses.
@@ -342,7 +346,7 @@
 *   **Final victory**: The last stronghold of organized corruption falls, marking the end of the old order.
 *   **Continuity of growth**: Shows Gond's complete spiritual evolution from vengeful mercenary to instrument of divine will.
 
-### Chapter 26: A Continent Reborn
+### Chapter 27: A Continent Reborn
 *   **Immediate aftermath**: Transformation of Citadel Asham-Val from corruption stronghold to symbol of hope. Former enemies work alongside liberators in healing and rebuilding.
 *   **Continental response**: News of Turin's divine intervention spreads, breaking last resistance across eastern provinces. The gods' own endorsement ends organized opposition.
 *   **Government formation**: Continental Congress convenes in rebuilt Millhaven. Charter of Free Peoples established with rotating leadership and universal rights. Gond steps down to prove the system works without its founders.

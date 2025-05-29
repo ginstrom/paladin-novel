@@ -12,14 +12,14 @@
 - **Chapter 3**: Meet Maera, receive aid and guidance toward Blackwater, **Gond reflects on his past avoidance of slaver contracts**
 
 ### Part II: Seeds of Rebellion (Chapters 4-11)
-- **Chapter 4**: Ambush slave cart, rescue Aerin and Dax, acquire horses, **Gond acquires crude black iron sword**, **realizes his fundamental shift from passive acceptance to active resistance**
+- **Chapter 4**: Ambush slave cart, rescue Alia and Dax, acquire horses, **Gond acquires crude black iron sword**, **realizes his fundamental shift from passive acceptance to active resistance**
 - **Chapter 5**: Gond scouts Blackwater alone, abandons revenge pursuit for group safety, rescues Lira, **refuses better weapons in favor of crude sword**
 - **Chapter 6**: First mystical encounter at ruined temple of Alanyi
 - **Chapter 7**: **Three weeks after finding the valley** - Gradual awakening of divine abilities, settle in hidden valley
 - **Chapter 8**: **"Valley of Hope"** - Valley community establishment, refugees arrive, Gond's "gifts" continue manifesting (calming animals, sensing weather, enhanced tactical awareness), Sim and Gond pray over wounded refugee Jorik with unnaturally fast healing
 - **Chapter 9**: **"Sanctuary Found"** - Settlement development with skilled refugees (Korven blacksmith, Marta sailmaker, Dax carpenter), food crisis forces Thornfield expedition, discovery of systematic slaver raids, successful supply run, Gond's sword quality mysteriously improving
 - **Chapter 10**: **"Hunters and Hunted"** - Gond leads supply expedition to Thornfield, overhears slavers discussing plans to attack "northern valley," realizes sanctuary discovered, return with grim news of approaching professional slavers, community prepares for war
-- **Chapter 11**: **A month after the healing miracle** - Silviana Starweaver arrives, Gond accepts paladin identity, **Silviana shares elven lore about divine paladin blades**, **Gond's brand visibly fading as divine power grows**, **Silviana explains brand-erasing ability will develop**
+- **Chapter 11**: **"First Blood, First Miracle"** - Slave catcher ambush, Gond's sword transforms to silver during battle, **Korven fights in ambush party with blacksmith's hammer**, camp attack kills Old Henrik (former soldier defending children) and old Marta, Dax mortally wounded, **Gond's first major divine healing miracle** saves Dax with golden light, paladin identity fully accepted
 
 ### Part III: An Unlikely Saint (Chapters 12-16)
 - **Chapter 12**: Divine power training with Silviana, learning costs and control
@@ -71,6 +71,13 @@
 - **Self-recognition**: Acknowledges past cowardice disguised as pragmatism
 - **Chapter 4**: Pivotal realization that his perspective has fundamentally shifted
 - **Transformation trigger**: Personal experience of slavery brands him, makes resistance personal and urgent
+
+### Korven Continuity Fix (2025-05-29)
+- **Issue**: Korven was killed in Chapter 11 but appeared alive as settlement blacksmith in Chapter 16
+- **Solution**: Moved Korven to the ambush party in Chapter 11, fighting with blacksmith's hammer
+- **Replacement**: Created "Old Henrik" (grizzled former soldier) to die defending children's shelter
+- **Result**: Korven survives to continue his role as settlement blacksmith throughout later chapters
+- **Character consistency**: Korven's blacksmith skills now demonstrated in combat, making his survival logical
 
 ## Gond's Divine Powers - Brand Fading and Erasing
 
