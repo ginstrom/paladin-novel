@@ -25,6 +25,10 @@ word-count:
 		echo "Word count script not found"; \
 	fi
 
+.PHONY: master
+master:
+	python3 scripts/combine_chapters.py
+
 .PHONY: help
 help:
 	@echo "Available targets:"
@@ -32,4 +36,5 @@ help:
 	@echo "  clean      - Remove build directory"
 	@echo "  test       - Build and verify EPUB"
 	@echo "  word-count - Show word count statistics"
+	@echo "  master     - Combine all chapters into build/epub-master.md"
 	@echo "  help       - Show this help message"
