@@ -78,7 +78,9 @@ Pell's grin held anticipation and wariness in equal measure. "Let's hope hidden 
 
 ***
 
-They broke camp before sunrise, moving with the quiet efficiency of people who understood that noise meant death. Alia rode their remaining horse, her arms wrapped around the supply pack. Dax walked beside them, his injured feet healing but still tender.
+They broke camp before sunrise, moving with the quiet efficiency of people who understood that noise meant death. Whatever protection had shielded the way-station from casual discovery, it wouldn't hold against a determined search. The mysterious concealment had bought them precious time, but Gond knew better than to trust their lives to blessings and curses.
+
+Gond took the first turn riding their remaining horse, dozing in the saddle and resting his sore ankle. Soon he switched off with Dax, whose injured feet were healing well but still tender.
 
 The path Sim chose led steadily upward, away from the coastal roads and into the wild heart of the hills. Ancient trails wound between towering pines and moss-covered boulders, paths that seemed more memory than reality. Soft drizzle whispered through the landscape, turning everything grey and ghostly.
 
@@ -86,23 +88,19 @@ The path Sim chose led steadily upward, away from the coastal roads and into the
 
 Sim's smile was gentle. "I wasn't always a priest. Before Alanyi called me, I was... other things. A man learns the hidden paths when his life depends on staying hidden."
 
-They traveled in single file, Sim leading, Gond bringing up the rear. Every hour, he called a halt and climbed to higher ground, scanning their back trail for signs of pursuit. The guards would find the waystation eventually, but by then they'd be deep in country where horses couldn't follow.
+They traveled in single file, Sim leading, Gond bringing up the rear. Every hour, he called a halt and climbed to higher ground, scanning their back trail for signs of pursuit. The guards would find the waystation eventually, but by then they'd be deep in country where a party with carts couldn't follow.
 
-The first sign of trouble came at midday. Smoke rose from the direction they'd come—thin, dark columns that spoke of burning buildings. Gond's jaw tightened as he counted the fires. The waystation. The shepherd's hut where they'd sheltered two nights ago. The guards were being thorough.
+The first sign of trouble came at midday. Smoke rose from the direction they'd come—campfires. From the direction and distance Gond surmised they were at the waystation.
 
-"They're destroying everything," Alia whispered, staring at the distant smoke.
+"They're so close," Alia whispered, staring at the smoke.
 
-"Good," Pell said grimly. "Means they're angry. Angry men make mistakes."
+The afternoon brought new challenges. The trail grew steeper, winding through narrow defiles where loose stone threatened to betray their passage. Dax struggled to stay mounted as the horse picked its way over treacherous ground. Alia began to stumble.
 
-But Gond wasn't so sure. The systematic destruction spoke of discipline, not rage. Someone was coordinating this search, someone who understood that escaped slaves needed shelter and supplies. They were burning every refuge, forcing their quarry into the open.
-
-The afternoon brought new challenges. The trail grew steeper, winding through narrow defiles where loose stone threatened to betray their passage. Alia struggled to stay mounted as the horse picked its way over treacherous ground. Dax's feet began bleeding again, leaving traces that any tracker could follow.
-
-Gond called another halt, this time to tend wounds and redistribute supplies. They couldn't afford to leave a trail of blood.
+Gond called another halt, this time to tend wounds and redistribute supplies. They couldn't afford to slow down.
 
 "How much farther?" Alia asked, her face pale with exhaustion.
 
-Sim consulted the sun's position, then pointed toward a distant ridge. "Beyond that rise. The temple lies in a hidden valley, sheltered by cliffs on three sides."
+Sim consulted the sun's position, then pointed toward a distant ridge. "Beyond that rise. An old temple of Alanyi lies in a hidden grove, sheltered by hills. We can rest there for the night."
 
 "Temple?" Pell's voice carried skepticism. "I thought we were looking for a cave or a shepherd's hut."
 
@@ -110,11 +108,11 @@ Sim consulted the sun's position, then pointed toward a distant ridge. "Beyond t
 
 They pressed on, the ridge seeming to retreat with each step. The drizzle turned to steady rain, soaking through their clothes and making the rocky path treacherous. Gond found himself constantly checking their back trail, expecting to see pursuit cresting each hill behind them.
 
-As evening approached, they finally reached the ridge. The view beyond took Gond's breath away—a hidden valley nestled between towering cliffs, green and peaceful in the fading light. Ancient stone walls emerged from the mist, partially hidden by climbing ivy and thick moss.
+As evening approached, they finally reached the ridge. The view beyond took Gond's breath away—a hidden grove nestled among steep hills, green and peaceful in the fading light. Ancient stone walls emerged from the mist, partially hidden by climbing ivy and thick moss.
 
 "There," Sim said simply. "Sanctuary."
 
-The moment their horse stepped onto the temple grounds, its ears pricked forward and it released a soft whicker of contentment, no longer pulling against the reins. Gond stopped, warmth spreading through his chest. The sensation was neither pleasant nor painful, just... insistent.
+The moment their horse stepped onto the temple grounds, its ears pricked forward and it released a soft whicker of contentment. Gond stopped, warmth spreading through his chest. The sensation was neither pleasant nor painful, just... puzzling.
 
 The turf beneath their feet was different than the rocky ground they had been traveling over—thicker, greener. The air carried a fresh smell that contrasted with the dusty trail. Dax's limp eased as he walked, and even Pell's perpetual tension seemed to drain a little from his shoulders.
 

@@ -10,7 +10,7 @@ Sim looked up, offering a nod. "Inland. Freshwater." He pointed toward a gap in 
 
 Gond filed the information away. The priest's knowledge kept surprising him—not the mystical nonsense he'd expected, but practical survival skills. He scanned the debris littering the shore. Barrels bobbed in the shallows, tangled nets draped across rocks, planks scattered like broken bones.
 
-He selected a warped boathook, testing its weight. Pell snatched up a coil of rope, fingers already working to untangle the knots. Sim gathered barnacle-crusted gourds, shaking each one near his ear before nodding approval.
+He selected a warped boathook, testing its weight. Pell snatched up a length of wood, shoving the crude club into his belt. Sim gathered barnacle-crusted gourds, shaking each one near his ear before nodding approval.
 
 They followed the thin trickle of freshwater inland, through a narrow gully where the stream broadened into clear, cold water. Pell dropped to his belly and drank like a man dying of thirst. Gond sipped carefully, eyes scanning the ridgelines above. The coast had little more vegetation than sandgrass, scrub, and a few wind-twisted low trees. The lack of cover made Gond feel exposed. The smoke they had seen had come from somewhere beyond the ridgeline, a bit to the left of the trickling waterfall that fed into the basin. Gond again found the smoke, a wispy tendril smudging the grey sky.
 
@@ -20,11 +20,11 @@ Before Gond could knock, the door swung open. An elderly woman stood in the thre
 
 "Names. Weapons down."
 
-Gond lowered his staff. "Gond."
+Gond lowered his boathook. "Gond."
 
-"Pell." The rope hit the ground.
+"Pell." The club hit the ground.
 
-"Sim." The priest spread his hands, empty palms facing outward. "We seek warmth and safety. No intend no harm."
+"Sim." The priest spread his hands, empty palms facing outward. "We seek warmth and safety. We mean no harm."
 
 The woman's spear didn't waver. Her gaze lingered on each face, reading something in their expressions—the hollow look of recent captivity, the way they favored certain limbs, the telltale marks of shackle wear. Finally, she stepped aside. "One hour. No longer."
 
@@ -48,7 +48,7 @@ Gond's jaw tightened at her words. He'd seen those auctions himself—stood in t
 
 He'd been a coward. Called it pragmatism, but it was cowardice plain and simple.
 
-Maera glanced at Sim. "You're not armed, while your companion here has a spare dagger. Don't you fight?"
+Maera glanced at Sim. "You're not armed, while your companions are. Don't you fight?"
 
 Sim's hands remained folded in his lap. "My path is mercy. I heal and guide."
 
@@ -82,7 +82,7 @@ Maera studied their faces with the calculating gaze of someone who'd made such a
 
 Gond's jaw hardened. "You seem well-informed about current bounties."
 
-"Information travels. Merchants talk. Fishermen gossip." Maera shrugged, but Pell's sharp eyes had caught something—the way she'd known the exact bounty amount, the casual mention of the Crimson Company by name. Details that suggested more than casual interest.
+"Information travels. Merchants talk. Fishermen gossip." Maera shrugged, but Pell's sharp eyes had caught something—her forced indifference suggested more than casual interest.
 
 "There's a pilgrim way-station southeast of here," Maera continued, pulling out one of her maps and tracing over the coastline with a stick from the hearth. "This is us." Then she pointed at a spot inland. "Old shrine to Alanyi, abandoned now. Stone walls, good water, hidden from the main roads. Travelers used to stop there for blessing and rest."
 
@@ -94,13 +94,15 @@ Pell snorted. "And others?"
 
 "Others say there are still people who remember what mercy looks like." Maera's weathered hands pointed out more details on the map. "The way-station offers shelter, but it's temporary. A place to rest and plan, not to hide. Too close to the roads, too well-known to certain... interested parties."
 
+She paused, her finger tracing the grotto where the way-station lay. "Though I'll grant you this—that particular grotto is unusually well hidden. Slavers have never ventured into it, far as I know. Some say there's a lingering blessing over the place, others claim it's cursed." Her eyes met Gond's directly. "Don't mean to tell you your business, but no blessing or curse will stop truly determined pursuit. The protection, whatever it is, won't last forever."
+
 "And for permanent hiding?" Gond asked.
 
 Maera's stick moved north from the way-station, to a ragged range of hills. "The Thornwood Hills. Thirty miles inland, rough country. Caves and hidden valleys, game to hunt, streams for water. The terrain breaks up pursuit—supply wagons can't follow, and most bounty hunters won't risk the climb." She paused. "But it's harsh living. Winter kills the unprepared, and you'd be cut off from news, supplies, any hope of striking back at your enemies."
 
 Gond's eyes fixed on the map. "Striking back."
 
-"Blackwater's dangerous for branded men, but not impossible. The city's grown fat on slave gold—guards can be bought, officials look the other way, and there are always shadows for those who know how to use them." Maera met his gaze. "But the Crimson Company's doubled patrols recently. They're searching for piraets now, or so they say, offering rewards for information. Your faces will be known."
+"Blackwater's dangerous for branded men, but not impossible. The city's grown fat on slave gold—guards can be bought, officials look the other way, and there are always shadows for those who know how to use them." Maera met his gaze. "But the Crimson Company's doubled patrols recently. They're offering rewards for information. Your faces will be known."
 
 "You're advising against it," Sim observed.
 
@@ -140,17 +142,9 @@ Gond exchanged glances with Pell, who'd caught the same details. The whistle had
 
 "We should go," Gond said, standing. "We've imposed on your hospitality long enough."
 
-"No imposition. But yes, daylight's burning, and the way-station is a full day's walk." Maera moved to a small chest near the door, withdrawing a piece of cloth marked with a simple symbol—a circle with a line through it. "If you encounter others on the road, show them this. Some will know its meaning."
+"No imposition. But yes, daylight's burning, and the way-station is a full day's walk." 
 
-"And what meaning is that?" Pell asked.
-
-"That you're under protection." Maera's eyes met each of theirs in turn. "That someone vouches for your character."
-
-She pressed the cloth into Sim's hand along with the satchel. "The way-station keeper is called Brother Marcus. Tell him Maera sends her regards, and that the tide brings interesting driftwood."
-
-"Driftwood?" Sim repeated.
-
-"He'll understand." Maera opened the door, checking the path outside with the practiced eye of someone who'd learned caution the hard way. "Go south until you reach the old oak with the lightning scar. Turn east there, follow the stream. You'll find the shrine before sunset if you keep a steady pace."
+Maera opened the door, checking the path outside with the practiced eye of someone who'd learned caution the hard way. "Go south until you reach the old oak with the lightning scar. Turn east there, follow the stream. You'll find the way-station before sunset if you keep a steady pace."
 
 Outside, the wind had picked up, driving clouds across the grey sky. Gond adjusted his grip on the boathook, testing its balance. Behind them, the ocean whispered its endless secrets. Ahead lay Blackwater, uncertain and dangerous.
 
@@ -166,10 +160,10 @@ Gond nodded. This woman had seen enough escaped slaves to know the hunger for ve
 
 "Thank me by staying alive. All three of you." Maera stepped back, but her eyes remained watchful. "The world has enough graves already."
 
-"We make an odd company," Pell observed, shouldering his rope.
+"We make an odd company," Pell observed, adjusting his club in his belt. He had aslo wheedled an old but wicked-looking knife from Maera, which was tucked into the other side of the belt.
 
 "Odd, but perhaps balanced." Sim watched Gond carefully. "Sometimes the strangest alliances hold the strongest purpose."
 
 The words settled into Gond's chest like stones dropped into still water. He looked at his companions—the warrior, the rogue, the priest. Three men with nothing in common but shared survival and the chains they'd broken.
 
-He turned toward the inland path, feeling the weight of their trust like a physical burden. Behind them, the relentless ocean. Ahead, whatever waited in Blackwater.
+He turned toward the inland path, eyes stony under jutting brows. He did not look back.

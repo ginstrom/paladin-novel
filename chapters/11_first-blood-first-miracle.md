@@ -1,20 +1,22 @@
 # Chapter 11: First Blood, First Miracle
 
-The slave catchers' confidence shattered like glass against stone. Gond's ambush unfolded with devastating precision—arrows whistled from concealed positions, pit traps swallowed horses and riders, coordinated attacks turned the hunters into the hunted.
+The slave catchers' confidence shattered like glass against stone. Gond's ambush unfolded with devastating precision—bolts and arrows whistled from concealed positions, pit traps swallowed horses and riders, coordinated attacks turned the hunters into the hunted.
 
-Gond flowed through the battle with fluid grace, his blade dancing between opponents while his feet found perfect footing on treacherous ground. Every decision flowed from instincts that seemed to see around corners. When the enemy tried to flank left, he was already there with a counter-ambush. When they attempted to retreat to higher ground, his archers were waiting. The flow of combat spread before him like a map, each move predictable, each counter-move inevitable.
-
-"Behind you!" Pell shouted, engaging two slavers near the valley's entrance.
-
-Gond drew his sword as he spun to face the threat. The blade that emerged from its sheath was no longer the crude, dark iron he had carried for weeks. Instead, it gleamed like polished silver, its edge sharp as winter starlight. The transformation was so complete, so impossible, that for a moment he could only stare.
+Gond drew his sword and prepared to join the battle. The blade that emerged from its sheath was no longer the crude, dark iron he had carried for weeks. Instead, it gleamed like polished silver, its edge sharp as winter starlight.
 
 "By the gods," breathed a nearby refugee, lowering his bow. "Finally picked a weapon worthy of a leader."
+ 
+Gond flowed through the battle with fluid grace, his blade dancing between opponents while his feet found perfect footing on treacherous ground. Every decision flowed from instincts that seemed to see around corners. When the enemy tried to flank left, he was already there with a counter-ambush. When they attempted to retreat to higher ground, his archers were waiting. The flow of combat spread before him like a map, each move predictable, each counter-move inevitable.
+
+Nearby, Korven fought with the methodical precision of his trade, his blacksmith's hammer crushing armor and bone with equal efficiency. The big man had insisted on joining the ambush party, claiming his forge work had given him the strength to wield weapons others couldn't lift. He proved his point by caving in a slaver's breastplate with a single overhead blow, the bronze-reinforced steel crumpling like parchment.
+
+"Behind you!" Pell shouted, engaging two slavers near the valley's entrance.
 
 Gond spun, his blade meeting the descending sword of a massive slaver captain. The man's strength was enormous, each blow driving Gond back step by step. Steel rang against steel as they fought, the captain's experience evident in every calculated strike.
 
 The slaver's blade slipped past Gond's guard, the point driving deep into his thigh. Fire shot up his leg, and he stumbled, blood flowing freely down to pool in his boot. The watching refugees gasped—such a wound would cripple a man, leave him limping for life if he survived at all.
 
-But Gond fought on, his movements barely hindered. The transformed blade sang through the air with supernatural sharpness. When the captain raised his sword to block Gond's next strike, the silver blade sheared through the steel like parchment, continuing its arc to find the gap between breastplate and helm. The man toppled backward, his severed weapon clattering in two pieces on the stone.
+But Gond fought on, his movements barely hindered. The transformed blade sang through the air with almost supernatural speed. When the captain raised his sword to block Gond's next strike, the silver blade sheared through the steel like parchment, continuing its arc to find the gap between breastplate and helm. The man toppled backward, his severed weapon clattering in two pieces on the stone.
 
 The battle turned decisively. The remaining slavers, seeing their leader fall and their ambush turned against them, broke and fled. Gond's people pursued them to the valley's edge before turning back whooping.
 
@@ -28,7 +30,7 @@ The return to camp revealed a different horror. Overturned pots, scattered belon
 
 But they had left their mark.
 
-Korven lay sprawled near the children's shelter, his body riddled with crossbow bolts. He had died defending those he'd sworn to protect. Nearby, old Marta sat propped against a tree, her sightless eyes staring at nothing, blood still seeping from a gash in her chest.
+Old Henrik lay sprawled near the children's shelter, his body riddled with crossbow bolts. The grizzled former soldier had died defending those he'd sworn to protect, his weathered hands still clutching the broken spear he'd used to hold the slavers at bay. Nearby, a young mother sat propped against a tree, her sightless eyes staring at nothing, blood still seeping from a gash in her chest. Gond recalled that she had just reached the refuge two days past.
 
 Sim knelt beside the children's shelter, cradling his right hand against his chest. His knuckles were split and bloody, and a slaver's sword lay abandoned nearby, its wielder nowhere to be seen. When Gond approached, the priest looked up with pain-filled eyes.
 
@@ -56,7 +58,7 @@ Gond placed his palms on Dax's chest and closed his eyes. At first, nothing. No 
 
 *Alanyi,* he prayed silently, the words forming without conscious thought. *If you're there, if this is real, help me save him.*
 
-Gradually, like dawn breaking over distant mountains, he became aware of a presence. A flicker of life, faint as a dying ember in the depths of winter. Dax's essence, barely clinging to the broken shell of his body, ready to slip away into darkness.
+Gradually, like the first star appearing in the night sky, he became aware of a presence. A flicker of life, faint as a dying ember. Dax's essence, barely clinging to the broken shell of his body, ready to slip away into darkness.
 
 Gond cupped that fragile spark in his mind, breathing on it as one might coax life from the last coal in a cold hearth. He imagined the boy whole—ribs unbroken, lungs clear, blood flowing as it should. He poured his will into that vision, feeding the ember with everything he had.
 

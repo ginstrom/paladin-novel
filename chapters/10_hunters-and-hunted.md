@@ -4,19 +4,21 @@ The next morning dawned hot and sultry. The cicadas were already producing their
 
 The horses' hooves made soft sounds on the damp earth, as they whickered gently. Behind him, the volunteers moved with the quiet discipline he'd drilled into them—Pell, Korven, Lira, and nine others whose families depended on this mission's success.
 
-The Thornfield farmstead lay two hours south through increasingly dangerous territory. Every step took them closer to the smoke columns they'd seen on the horizon, closer to the systematic destruction that crept northward like a plague.
+The Thornfield farmstead lay a day's march south through increasingly dangerous territory. Every step took them closer to the smoke columns they'd seen on the horizon, closer to the systematic destruction that crept northward like a plague.
 
-Gond's shoulders tensed without warning, as if invisible hands had gripped them. The hair on his arms stood on end. He raised his hand, bringing the column to a halt. Something had changed in the air around them—a subtle shift that made his skin prickle with warning. He dismounted, pressing his ear to the ground.
+They reached the hills above the farmstead, and began looking for a place to hide and wait for nightfall.
+
+Gond's shoulders tensed without warning, as if invisible hands had gripped them. The hair on his arms stood on end. He raised his hand, bringing the column to a halt. Something had changed in the air around them—a subtle shift that made his skin prickle with warning. He dismounted, checking the trail.
 
 "What is it?" Pell whispered, sliding from his saddle to join him.
 
-"Riders." Gond's voice was barely audible. "Coming from the east. Maybe a dozen, moving fast."
+"Riders." Gond's voice was barely audible. "Coming from the east. Maybe half a dozen, moving fast."
 
 The volunteers exchanged worried glances. They were still an hour from the farmstead, exposed on open ground with nowhere to hide except a thin line of scrub oak fifty yards to their left.
 
 "Slavers?" Korven asked, his hand moving instinctively to his sword hilt.
 
-Gond closed his eyes, extending his senses in ways he still didn't fully understand. The approaching riders maintained perfect spacing—three horse-lengths between each mount, their formation never wavering despite the uneven terrain. Their horses stepped in rhythm, shod hooves striking the ground in near-unison. Professional. Dangerous.
+Gond closed his eyes, extending his senses in ways he still didn't fully understand. In his mind's eye he saw the riders as shadowy figures, emanating menace. His senses screamed danger.
 
 "Yes." He opened his eyes, his decision made. "Into the trees. Now. Lead the horses."
 
@@ -24,13 +26,17 @@ The volunteers moved with practiced efficiency, leading their mounts into the sc
 
 The sound of hoofbeats grew louder, accompanied by the jingle of mail and the creak of leather. Gond peered through the branches, counting the approaching riders. Six men in the colors of the Coastal Slavers Guild, their equipment professional and well-maintained. These weren't the desperate bandits who sometimes raided isolated farms—these were soldiers.
 
-"Thornfield's been picked clean," one of the riders called to his companions as they passed. "Nothing left but bones and ash."
+"Thornfield will have been been picked clean by now," one of the riders called to his companions as they passed. "Nothing left but bones and ash."
 
-"What about the other sites on the map?" another voice replied. "The hidden camps?"
+"How do you know that?" called back an older voice.
 
-"We'll hit them in sequence. The one marked in the northern valley should be next—maybe tomorrow, depending on how long it takes to regroup."
+"The other farmstead said this place has been abandoned for months." The tone became wheedling. "If we don't get back to camp by nightfall, we'll miss the fun with those captured farmers. That redhead..."
 
-Gond's blood turned to ice. They were talking about his valley, his people. The systematic destruction was even closer than he'd feared.
+"All right," the other voice acquiesced. "But if it turns out you were wrong, our lord will have all our heads."
+
+The chatter became indistinct as the party turned around and headed back.
+
+Gond's blood turned to ice. They were talking about systematically raiding farms, taking the farmers captive. It would only be a matter of time before they checked his valley.
 
 The slavers continued past, their voices fading as they rode north toward destinations that made Gond's stomach clench with dread. He waited until the sound of hooves disappeared entirely before signaling his people to emerge from hiding.
 
@@ -40,7 +46,7 @@ The slavers continued past, their voices fading as they rode north toward destin
 
 They retrieved their horses and continued south, but the mood had changed. What had been a dangerous supply run was now a race against time. Every minute they spent away from the valley was another minute their families remained unaware of the approaching threat.
 
-The Thornfield farmstead appeared through the morning mist like a ghost of better times. The main house stood intact but empty, its windows dark and door hanging open. Outbuildings clustered around it—barn, smokehouse, root cellar, grain storage. Exactly what they needed, if the slavers had left anything behind.
+The Thornfield farmstead appeared through the evening mist like a ghost of better times. The main house stood intact but empty, its windows dark and door hanging open. Outbuildings clustered around it—barn, smokehouse, root cellar, grain storage. Exactly what they needed, if the slavers had left anything behind.
 
 "Spread out," Gond ordered quietly. "Check every building, but stay alert. If I give the signal, drop everything and run for the horses."
 
@@ -56,11 +62,9 @@ He climbed from the cellar to find Pell standing beside the storage building, hi
 
 "They left everything," Pell said, gesturing to the interior. "Wheat, barley, oats—enough to feed our people for months. But why? Slavers usually take anything valuable."
 
-Gond studied the untouched stores, his tactical mind working through the implications. "Because they're not planning to come back this way. They're clearing the region permanently—no point in preserving supplies for future raids."
+Gond studied the untouched stores. "You heard them. Lazy, undisciplined. Raiders turned slavers would be my guess."
 
-The realization hit him like a physical blow. This wasn't just about capturing refugees for the slave markets. Someone was systematically emptying the entire region of free settlements, preparing the land for something else entirely.
-
-"Load everything we can carry," he ordered. "Fill every sack, every barrel we brought."
+"Load everything we can carry," he ordered. "Fill every sack, every barrel we brought. But just in case they come back, don't make it too obvious that we've been here. Keep the remaining supplies in neat stacks and leave no obvious signs."
 
 For the next two hours, the volunteers worked with desperate efficiency. They loaded grain sacks onto pack horses, filled water barrels with preserved meat, stuffed their saddlebags with dried vegetables and medicinal herbs from the farmhouse garden. Every pound they could carry was another day their community could survive.
 
@@ -70,11 +74,11 @@ As they prepared to depart, Gond took one last look at the abandoned farmstead. 
 
 Gond nodded, swinging into his saddle. "Let's go home."
 
-The return journey felt longer despite their urgency. The horses moved slowly under their heavy loads, and every sound made the volunteers reach for weapons. But Gond's enhanced senses detected no immediate threats—the slavers had continued north, probably to regroup before their next assault.
+They traveled a safe distance from the farmstead and then dozed, waiting for dawn. The return journey felt longer despite their urgency. The horses moved slowly under their heavy loads, and every sound made the volunteers reach for weapons. But Gond's enhanced senses detected no immediate threats—the slavers had continued north, probably to regroup before their next assault.
 
 They reached the valley as the sun touched the western peaks, their arrival greeted with cheers that quickly turned to concerned murmurs as word spread of what they'd overheard. Gond called an immediate gathering, the entire community clustering around the central fire as he shared the grim news.
 
-"They know about us," he said without preamble. "Professional slavers with detailed maps, moving systematically through the region. They'll reach us within days."
+"Slavers," he said without preamble. "Systematically raiding and capturing all the residents in the area. We've got to assume they'll be here in no more than a few weeks."
 
 The faces looking back at him showed fear, but also determination. These people had found hope in their hidden valley, and they wouldn't surrender it without a fight.
 
@@ -86,7 +90,7 @@ Gond looked around the circle of upturned faces—men and women who had trusted 
 
 The words hit like stones dropped into still water, ripples of unease spreading through the crowd. But these were no longer the broken, desperate fugitives who had first stumbled into their sanctuary. Weeks of good food, safety, and purpose had transformed them into something resembling a community.
 
-Korven, the surly man who had once challenged Aerin over food, stepped forward. His tone held none of its former hostility. "What do you need us to do?"
+Korven, the surly man who had once challenged Lira over food, stepped forward. His tone held none of its former hostility. "What do you need us to do?"
 
 Gond's mind was already mapping their defensive strategy, seeing the flow of battle before it began. "Pell, take a team and set snares along the main approaches. Nothing lethal—we want to slow them down, not announce our presence with screams."
 
@@ -100,7 +104,7 @@ The refugees dispersed with purpose, but Gond caught the overconfident glances s
 
 ***
 
-The next day, Gond crouched at the ridge's edge, scanning the horizon for the expected raiders. He turned to Pell and Sim. "They're coming soon."
+Two weeks later, Gond crouched at the ridge's edge, scanning the horizon for the expected raiders. He turned to Pell and Sim. "They're coming soon."
 
 Pell frowned. "How can you be so certain?"
 
@@ -112,7 +116,7 @@ Gond couldn't explain the certainty that gripped him, the way his skin seemed to
 
 "Don't start," Gond warned, but there was no real heat in his voice. He was beginning to accept that something had changed in him, even if he couldn't—or wouldn't—name what that something was.
 
-A flicker of movement on the opposite ridge. "They're here!" His voice carried clearly through the morning air, but now it was a signal to his hidden watchers, not a call to battle. "About fifteen of them! Positions!"
+A flicker of movement on the opposite ridge. "They're here!" His voice carried clearly through the morning air, but now it was a signal to his hidden watchers, not a call to battle. "About fifteen of them, approaching on foot! Positions!"
 
 The refugees scattered in controlled chaos—some sprinting toward hidden weapon caches, others grabbing children and herding them toward the concealed cave entrances. Mothers clutched infants while older children helped carry supplies. Men stumbled over tent ropes in their haste to reach defensive positions, while women stuffed precious belongings into hastily packed bundles.
 

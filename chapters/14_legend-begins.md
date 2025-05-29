@@ -1,18 +1,15 @@
 # Chapter 14: The Legend Begins
 
-The first sign of trouble came with the dawn—a line of smoke rising from the valley's eastern approach, too thick and dark to be a cooking fire. Gond stood at the settlement's edge, watching the distant plume with growing unease. Beside him, Pell squinted against the morning light, his hand resting on his knife hilt.
 
-"Could be a forest fire," the thief said, though his tone suggested he didn't believe it.
+Gond stood at the settlement's edge, watching the plume of black from the nearest farmstead with unease. Scouts had seen the rows of black smoke marking the slavers' approach two days prior. Beside him, Pell squinted against the morning light, his hand resting on his knife hilt.
 
-"Could be." Gond's fingers drummed against his sword pommel. "But fires don't usually travel in straight lines toward specific valleys."
-
-The settlement had grown considerably in the weeks since Silviana's arrival. What had once been a handful of refugees huddled around a single fire now sprawled across the valley floor—dozens of shelters, cooking areas, workshops, and storage pits. The population had swelled to nearly two hundred souls, all drawn by whispered tales of the "Healer in the Hills."
+The settlement had grown considerably in the weeks since Silviana's arrival. The population had swelled to nearly two hundred souls, all drawn by whispered tales of the "Healer in the Hills."
 
 And that, Gond reflected grimly, was precisely the problem.
 
-"How many today?" he asked.
+"How many new refugees are we getting these days?" he asked.
 
-Pell consulted the tally marks carved into a piece of bark—his method for tracking new arrivals. "Seven yesterday. Thirteen the day before. Word's spreading faster than we can contain it."
+Pell consulted the tally marks carved into a piece of bark—his method for tracking new arrivals. "Three yesterday. Seven the day before. Word's spreading faster than we can contain it."
 
 The numbers told the story Gond had been dreading. Each healing, each miracle, sent ripples outward through the network of desperate people seeking hope. Refugees told other refugees. Escaped slaves whispered to those still in bondage. Sympathetic villagers passed along rumors to anyone who would listen.
 
@@ -34,7 +31,7 @@ Marcus raised his head, and Gond saw tears cutting tracks through the grime on h
 
 "I... I couldn't bring her. Too weak for the journey. She's with my daughter in Westport, but—" Marcus's voice broke. "She won't last much longer. Please, if you could come—"
 
-"I can't leave the valley," Gond said, the words tasting like ash in his mouth. "Too many people here depend on—"
+"I can't leave the valley," Gond said, the words tasting like ash in his mouth. "We're liable to be attacked—"
 
 "Then she'll die." Marcus's grip on Gond's arm was surprisingly strong. "A child of eight years, and she'll die because I couldn't convince a miracle worker to travel a few days' ride."
 
@@ -52,19 +49,17 @@ They stood in silence for a moment, watching the settlement come alive around th
 
 It was, Gond realized, starting to feel like home. And that made what was coming all the more painful.
 
-"We can't stay here much longer," he said.
+"Won't be much longer until the slavers reach the valley," he said.
 
-Pell nodded. "Too many people know about us now. And that smoke..."
+Pell nodded. "That burning farmstead is no more than an hour away on horseback."
 
-"Isn't a forest fire." Gond's hand moved to his sword hilt again. "Question is, how long do we have?"
+"It's only a matter of time." Gond's hand moved to his sword hilt. "Question is, how long do we have?"
 
 The answer came sooner than expected. A shout from the eastern watch post echoed across the valley, followed by the sound of a horn—three short blasts, the signal for approaching strangers. Not the long, urgent call that would indicate immediate danger, but enough to put everyone on alert.
 
 Gond and Pell jogged toward the watch post, arriving just as the sentry pointed toward a group of figures emerging from the tree line. A dozen people, moving slowly, supporting each other. Refugees, by the look of them, but something was wrong. They moved with the desperate urgency of people fleeing immediate danger.
 
 "Slavers," the lead figure gasped as they reached the settlement's edge. A woman, middle-aged, her clothes singed and torn. "Burned out Millhaven village. Took everyone they could catch. We ran... been running for two days..."
-
-Millhaven. Gond knew the name—a farming community about twenty miles east. Close enough that smoke from its burning would be visible from the valley. Close enough that anyone who escaped would know exactly where to run.
 
 "How many slavers?" Pell asked, already thinking tactically.
 
@@ -78,13 +73,13 @@ The words hit the settlement like a physical blow. Conversations stopped. Childr
 
 "Quiet," Gond said, his voice carrying across the suddenly tense crowd. "Everyone stay calm. We've prepared for this."
 
-But even as he spoke the words, Gond felt the weight of leadership settling heavier on his shoulders. They had prepared, after a fashion—escape routes, hidden caches of supplies, contingency plans. But those plans had been made when the settlement was smaller, more mobile. With two hundred people, including children and elderly, evacuation would be a nightmare.
+But even as he spoke the words, Gond felt the weight of leadership settling heavier on his shoulders. With nearly two hundred souls in the valley, including children and elderly, defense would be a desperate affair. They had to rely on the courage of their few fighters and the strength of their defensive positions.
 
-"Pell," he said quietly. "How long to get everyone out?"
+"Pell," he said quietly. "How long to get out those who can't fight?"
 
 "If we start now? Six hours, minimum. And that's if we leave everything behind."
 
-Six hours. Gond looked at the smoke on the horizon, estimating distances and travel times. If the slavers had burned Millhaven two days ago and were following the refugees' trail...
+Six hours. Gond looked at the smoke on the horizon, estimating distances and travel times. He reckoned they had two hours at most. And if they knew about the valley beforehand...
 
 "They'll be here by midday," he said.
 
@@ -92,7 +87,7 @@ Six hours. Gond looked at the smoke on the horizon, estimating distances and tra
 
 The crowd was looking to him now, waiting for orders, for reassurance, for another miracle. But this wasn't something divine power could solve. This was tactics, logistics, and hard choices.
 
-"Sim," Gond called. "Start organizing the evacuation. Priority to children and anyone who can't travel fast. Aerin, get the fighters ready—we'll need a rear guard." He paused, scanning the faces around him. "Everyone else, pack only what you can carry. We move in one hour."
+"Pell, get the fighters to their posts. Those who can't fight, behind the pallisade." Gond wasn't about to leave the non-fighters undefended again.
 
 The settlement exploded into controlled chaos as people scattered to follow his orders. But Gond remained standing in the center of it all, feeling strangely detached from the urgency around him. This was what he'd feared from the beginning—the moment when his presence would bring danger to those he'd sworn to protect.
 
@@ -114,7 +109,7 @@ The observation hit Gond like a revelation. When had he last thought about his f
 
 "When did I stop caring about revenge?"
 
-Pell was quiet for a moment, watching the evacuation preparations with thoughtful eyes. "Hard to say exactly. Maybe when you chose to leave Blackwater—with your betrayers alive. Maybe when you started healing people instead of planning how to hurt the ones who wronged you." He shrugged. "Or maybe it was gradual—so slow you didn't notice until now."
+Pell was quiet for a moment, watching the evacuation preparations with thoughtful eyes. "Hard to say exactly. Maybe when you chose to leave Blackwater and lead us to this valley. Maybe when you started healing people instead of planning how to hurt the ones who wronged you." He shrugged. "Or maybe it was gradual—so slow you didn't notice until now."
 
 Gond felt something shift inside him, like a weight he'd been carrying for so long he'd forgotten it was there suddenly lifting away. The rage that had sustained him through slavery, through escape, through those first desperate weeks of freedom—it was gone. Not suppressed or controlled, but genuinely absent, replaced by something else entirely.
 
@@ -126,39 +121,31 @@ Before Gond could answer, another commotion arose from the settlement's edge. Mo
 
 "They're here," someone shouted.
 
-The evacuation, barely begun, ground to a halt as people froze in terror. Children began crying. Adults clutched whatever possessions they'd managed to gather, looking around desperately for somewhere to run.
+The preparations, barely begun, ground to a halt. Children began crying. Adults froze in terror, looking around desperately for somewhere to run.
 
 But there was nowhere to run. The valley had only two exits—the main approach where the slavers were advancing, and a narrow mountain pass that would take hours to traverse with so many people. They were trapped.
 
 Gond felt the divine power stirring within him, responding to the fear and desperation around him. But this wasn't a situation that could be healed or blessed away. This required a different kind of intervention.
 
-"How many fighters do we have?" he asked Pell.
+"Are the fighters ready?" asked Gond.
 
-"Maybe thirty who know which end of a sword to hold. Another twenty with hunting experience." Pell's expression was grim. "Against fifty professional slavers? We'll buy you maybe an hour."
+"Ready? Sure," said Pell. "But we've got maybe thirty who know which end of a sword to hold. Another twenty with hunting experience." Pell's expression was grim. "Against fifty professional slavers? I give us an hour."
 
-An hour. Enough time to get some of the children away, perhaps, but not nearly enough to save everyone. Gond looked around at the faces turned toward him—people who'd come here seeking safety, seeking healing, seeking hope. People who trusted him to protect them.
+Gond looked around at the faces turned toward him—people who'd come here seeking safety, seeking healing, seeking hope. People who trusted him to protect them.
 
 The weight of that trust was almost crushing. But beneath it, Gond felt something else—a clarity he'd never experienced before. This was why he'd been given divine power. Not just to heal individual wounds, but to stand between the innocent and those who would harm them.
 
-"No," he said quietly.
-
-"No what?" Pell asked.
-
-"No retreat. No evacuation." Gond's voice grew stronger, carrying across the settlement. "We make our stand here."
+"This is our time," called out Grond to the onlookers. "Today we make our stand."
 
 The crowd stirred uneasily. Someone called out, "But there are too many of them!"
 
-"There are too many of us to run," Gond replied. "Too many children, too many elderly, too many who can't move fast enough to escape. So we don't run. We fight."
-
-"That's suicide," Lira protested, pushing through the crowd. "We should at least try to get the children out—"
-
-"And leave them orphans in the wilderness?" Gond shook his head. "No. We stay together. We protect each other. And we trust that sometimes, when the cause is just, fifty isn't always more than two hundred."
+"Trust in Alanyi," Gond said, his voice gaining confidence. "Today we learn that sometimes, when the cause is just, fifty isn't always more than two hundred."
 
 He could see the doubt in their faces, the fear that he was asking them to die for his pride. But he could also see something else—a spark of hope, of defiance, of the same spirit that had brought them all here in the first place.
 
-"Silviana," he called. The elf appeared at his side as if she'd been waiting for his summons. "Can you and Sim organize the non-combatants? Get them to the center of the settlement, behind whatever cover we can improvise."
+"Silviana," he called. The elf appeared at his side as if she'd been waiting for his summons. "Can you and Sim organize the non-combatants? Get them into the pallisade, and protect them as you can."
 
-Around them, the settlement transformed with desperate efficiency. Men dragged heavy wooden tables from the dining areas to form makeshift barricades. Women overturned wagons and filled them with stones and dirt. Children carried bundles of arrows to the defenders while older refugees sharpened kitchen knives and farm tools into weapons. The sound of hammering filled the air as Jorik and his apprentices reinforced weak points in their improvised fortifications.
+Around them, the settlement transformed with desperate efficiency. Fighters took up positions for ambush and defense. Mothers sheparded their children to the pallisade.
 
 "And you?" she asked.
 
@@ -178,7 +165,7 @@ The legend of the healer in the hills was about to become something else entirel
 
 The slavers advanced with professional precision, their formation tight and disciplined. Their shields locked with practiced efficiency, spears angled at identical degrees, each rider maintaining perfect spacing despite the uneven terrain. At their head rode a man in expensive armor, his face hidden behind a helm decorated with silver inlay. Behind him came the foot soldiers—hardened men with the look of veterans, their weapons well-maintained and their movements coordinated.
 
-Gond stood at the settlement's edge, flanked by Pell and Aerin, watching the approaching force with tactical eyes. Fifty-three by his count, all mounted, all armed with crossbows in addition to their melee weapons. A formidable force by any measure.
+Gond stood at the settlement's edge, flanked by Pell and Lira, watching the approaching force with tactical eyes. Fifty-three by his count, all mounted, all armed with crossbows in addition to their melee weapons. A formidable force by any measure.
 
 "They're not here to negotiate," Pell observed.
 
@@ -218,6 +205,12 @@ For a moment, the battlefield was silent except for the sound of horses shifting
 
 "Kill them all!" he screamed.
 
-The battle for the valley had begun.
+Crossbow bolts flew, a dark swarm against the sudden, blinding flare of Gond’s light. The radiance pulsed, a tangible shield, and most shafts flew wildly off course, their aim spoiled by the searing glare that forced slavers to squint and turn their heads. A few bolts struck home, not with the wet thud of flesh, but with sharp cracks as they glanced off shields or armor, the impact staggering defenders but drawing no blood, as if an unseen hand had deflected them. 
 
-"not by mortal hands—but by the roots of the World Tree itself"
+Horses shrieked, eyes rolling white, and several riders, caught off guard by their mounts’ terror, tumbled heavily to the churned earth. Recovering with curses, the remaining slavers spurred their horses forward, a wave of steel and leather. 
+
+The settlement’s newer recruits, faces pale but jaws set, formed a ragged line, their pikes a bristling, uneven hedge. Fear was a cold knot in their bellies, visible in the tremor of their spear-shafts, but they held. The charge, meant to shatter them, stumbled against the unexpected resilience of the pike wall, horses shying from the points, riders forced to pull up short or risk impalement.
+
+Then Gond, a figure wreathed in golden light, was upon them. “For the Valley! For Alanyi!” His voice, amplified by the divine power, cut through the din. Pell, a dark blur at his flank, darted in and out, his short blades finding gaps in armor. Lira, her face a mask of concentration, shot one arrow after another into the mass of attackers. The more experienced defenders surged with Gond and Pell, each fighting with the fury of three, their desperate courage fanned into a blaze by Gond’s presence. Slavers cried out as they were dragged from saddles or met by a flurry of blows that overwhelmed their defenses.
+
+Gond himself seemed an omnipresent force. One moment, his sword sang a high, clear note as it parried a captain’s thrust, the next he was a shield before a faltering novice, his light flaring to turn aside a killing blow. He moved through the chaos not as a single man, but as a manifestation of the valley’s will to survive, his presence a rallying point, his light a beacon against the encroaching darkness.

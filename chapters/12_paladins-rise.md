@@ -28,7 +28,7 @@ Gond set down his bowl, appetite gone. The memory of that moment still haunted h
 
 "The power isn't always there," he said quietly. "Sometimes I reach for it and find nothing. What happens when someone really needs help and I can't—"
 
-"Then you do what you can with your hands and your sword, same as always." Pell's voice was matter-of-fact. "But that doesn't mean you should hide from the gift when it is there."
+"Then you do what you can with your hands and your sword, same as always." Pell's voice was matter-of-fact. "But that doesn't mean you should hide from the gift when it's there."
 
 Before Gond could respond, Sim appeared at the top of the path, slightly out of breath from the climb. "Gond, you need to come down. There's someone here to see you."
 
@@ -42,7 +42,7 @@ They made their way down the winding path to the settlement's heart, where a cro
 
 The crowd parted as Gond approached, and he got his first clear look at her. She was beautiful in the way of growing things—ageless and serene, with eyes the color of deep forest pools. But there was something else in those eyes, a weight of years and knowledge that made Gond feel suddenly young and foolish.
 
-Silviana's gaze lingered on his fading brand, her head tilting as her fingers traced patterns in the air, following the outline of where the twin circles had once burned so clearly. The marks were still visible, but faded now—more shadow than scar, as if the mark of his bondage was being erased. When she spoke, her voice carried the music of wind through leaves, each word flowing like water over stones.
+Silviana's gaze lingered on his fading brand, her head tilting as her fingers traced patterns in the air, following the outline of where the twin manacles had once burned so clearly. The marks were still visible, but faded now—more shadow than scar, as if the mark of his bondage was being erased. When she spoke, her voice carried the music of wind through leaves, each word flowing like water over stones.
 
 "You are the one they call the Healer of the Hills."
 
@@ -62,7 +62,7 @@ Murmurs rippled through the crowd. Gond felt heat rise in his cheeks, uncomforta
 
 "A paladin of Alanyi. Her champion in a world that has forgotten her light."
 
-The words hit the crowd like a physical blow. Some gasped, others fell to their knees. Gond heard someone whisper a prayer, another person sob with what sounded like relief.
+The words hit the crowd like a rock in a pond. Some gasped, others fell to their knees. Gond heard someone whisper a prayer, another person sob with what sounded like relief.
 
 "Forgotten her light?" Gond asked. "What do you mean?"
 
@@ -110,9 +110,9 @@ As they walked toward Gond's shelter, Silviana's gaze fell upon the sword at Gon
 
 "Your blade," she said quietly. "May I see it?"
 
-Gond hesitated, then drew the silver sword. Even in the afternoon light, it seemed to gleam with its own inner radiance, the steel unmarked despite weeks of use. The moment the blade cleared its sheath, several onlookers stepped back involuntarily, as if the weapon's presence pressed against them like a warm wind.
+Gond hesitated, then drew the silver sword. Even in the afternoon light, it seemed to gleam with its own inner radiance, the steel unmarked despite use in hard fighting. The moment the blade cleared its sheath, a subtle hum could be heard, nearly beyond the range of human hearing.
 
-Silviana's eyes widened with recognition, her breath catching as she stared at the transformed steel. "By the ancient trees," she whispered, her voice barely audible. "I had heard rumors, but to see it with my own eyes..." She looked up at Gond with something approaching reverence, her hands trembling slightly. "Do you know what you carry?"
+Silviana's eyes widened with recognition, her breath catching as she stared at the blue-silver steel. "By the ancient trees," she whispered, her voice barely audible. "I had heard rumors, but to see it with my own eyes..." She looked up at Gond with something approaching reverence, her hands trembling slightly. "Do you know what you carry?"
 
 "A sword that used to be crude iron," Gond said. "It changed during my travels."
 
@@ -128,13 +128,11 @@ Gond stared at the sword, remembering the moment it had sheared through the slav
 
 "What happened to him?" Gond asked.
 
-"He fell defending a village from a demon incursion, his blade blazing like a star until the very end." Silviana's voice was soft with old grief. "But the sword endured. It always does, waiting for the next worthy hand to claim it."
+"He fell defending a village from a demon incursion, his blade blazing like a star until the very end." Silviana's voice was soft with old grief. "His sword dissolved into mist upon his death, for the blade had become an extension of his soul."
 
-Gond sheathed the weapon carefully, feeling its weight differently now. Not just steel and leather, but legacy and responsibility.
+Gond sheathed the weapon carefully, feeling its weight differently now. Not just steel and leather, but a sign of his calling.
 
 As they walked toward Gond's shelter, the crowd began to disperse, but Gond could feel their eyes following him. The weight of their hope, their faith, their need. It no longer felt quite so crushing. Instead, it felt like purpose.
-
-The transformation was complete. The real work was just beginning.
 
 Behind them, Sim fell into step with a spring in his stride that hadn't been there in weeks. "A paladin," he murmured, just loud enough for Gond to hear. "Alanyi be praised, I knew it from the start."
 
@@ -146,10 +144,6 @@ Silviana glanced between them, her expression amused. "I see you have already le
 
 "Which is?"
 
-"That even the chosen need friends to keep them humble."
+"That even the chosen need friends."
 
 Despite everything—the weight of destiny, the burden of power, the uncertainty of what lay ahead—Gond found himself smiling.
-
-Perhaps being a paladin wouldn't be so terrible after all.
-
-"not just the healing—but the return of Alanyi's true servant"

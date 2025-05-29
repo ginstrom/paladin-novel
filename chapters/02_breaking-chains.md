@@ -26,7 +26,7 @@ Pell's eyes glittered with something more than hunger. His weathered hands bore 
 
 "Close enough to swim, if a man's desperate enough." Pell's grin was sharp as a blade. "And if he times it right. Third watch is when they make the turn—that's when Greasy takes his shift."
 
-"Keep your god handy," Jord muttered. "We'll need more than pretty words."
+"Keep your god handy," Jord muttered to Sim. "We'll need more than pretty words."
 
 Sim's mouth curved in the faintest smile. "She's always listening."
 
@@ -46,7 +46,7 @@ Pell's eyes glittered in the dim light filtering down from above. "Twelve steps 
 
 "I will." The priest's voice carried quiet certainty.
 
-"Free as many as you can in 30 seconds, then follow us. We can't save them all," Gond said, the words tasting like ash. "Free as many as you can, but get to that rail within a minute or you're fish bait."
+"Take no more than 30 seconds to free the others, then follow us. We can't save them all," Gond said, the words tasting like ash. "Free as many as you can, but get to that rail within a minute or you're fish bait."
 
 Gond held Sim's gaze until the man nodded reluctantly.
 
@@ -60,11 +60,7 @@ Sim placed a gentle hand on Jord's arm. The big man's breathing slowed slightly,
 
 "Pretty words won't stop a crossbow bolt," Jord muttered, but some of the tension left his shoulders.
 
-Gond studied each face in turn. "Pell—you're sure about the rope?"
-
-"Port side, three feet from the mast." Pell's fingers moved in small, precise gestures, mapping the deck from memory.
-
-"Got it." Gond turned to the big man chained to his wrist. "Jord, you follow my lead. No charging, no roaring. We move fast but quiet until we're committed."
+Gond turned to the big man chained to his wrist. "Jord, you follow my lead. No charging, no roaring. We move fast but quiet until we're committed."
 
 "And if it goes wrong?" Jord asked.
 
@@ -82,19 +78,19 @@ Gond's hand shot up, fingers closing on the guard's rough tunic. One sharp yank,
 
 "Now!"
 
-Pell moved like water, flowing over Greasy's prone form to snatch keys and shortsword. Steel flashed as he freed himself, then tossed the keys to Sim, who caught them without looking up from his quiet prayers. Gond snatched the guard's short sword from his belt as he climbed past.
+Pell moved like water, flowing over Greasy's prone form to snatch keys and shortsword. Steel flashed as he freed himself, then tossed the keys to Sim, who caught them without looking up from his quiet prayers. Pell tossed the short sword to Gond as he climbed past appropriating the guard's dagger for himself.
 
 "Jord, Wait—" Gond started, but the big man did not wait for his chain to be unlocked. Instead he roared and charged upward, chains trailing behind him like anchor rope. Shouts erupted from above.
 
 "Bloody fool!" Gond snarled, racing after him to avoid getting pulled down by the chain connecting them.
 
-The deck exploded into chaos. Guards stumbled from their dice games, fumbling for weapons. Gond's blade found the gap between one man's ribs before the guard could clear his scabbard. The man folded over, hands clutching his throat as he toppled into the rail.
+The deck exploded into chaos. Guards stumbled from their dice games, fumbling for weapons. Gond's blade found the gap between one man's ribs before the guard could clear his scabbard. The man folded over, hands clutching his side as he toppled into the rail.
 
 "Over the side!" Gond shouted over the rising din.
 
-Pell appeared at his shoulder, his knife work quick and merciless. Prisoners poured from below like water through a broken dam, some still trailing chains, all desperate. Gond saw Pell and Sim reach the rail and leap over.
+Pell appeared at his shoulder, his dagger work quick and merciless. Prisoners poured from below like water through a broken dam, some still trailing chains, all desperate. Gond saw Pell and Sim reach the rail and leap over.
 
-Gond looked around and saw that the shouts had drawn attention. Four guards, armed and wary, were approaching from Jord's left. Jord, intent on bashing the skull of the guard he held, failed to see death approaching on his left. Gond butted the big man with his shoulder, moving him just enough that the nearest guard's blow was fouled in the lines, but not before Gond received a sharp blow to his left shoulder.
+Gond looked around and saw that the shouts had drawn attention. Four guards, armed and wary, were approaching from Jord's left. Jord, intent on bashing the skull of the guard he had grabbed, failed to see death approaching. Gond butted the big man with his shoulder, moving him just enough that the nearest guard's blow was fouled in the lines, but not before Gond received a sharp blow to his left shoulder.
 
 "Get overboard!" shouted Gond.
 
@@ -106,7 +102,7 @@ Gond's head broke the surface and he took a gasping breath of cold air that tast
 
 Twenty yards ahead, Pell and Sim swam with steady strokes, still wearing manacles but swimming strongly.
 
-The shore seemed impossibly distant, but Gond forced his aching arms to move. Left shoulder feeling like it was on fire, Gond found a stroke he could manage with his injury. Stroke after stroke, breath after ragged breath, until his knees scraped sand and he could crawl onto the beach.
+The shore seemed impossibly distant, but Gond forced his aching arms to move. Shoulder feeling like it was on fire, Gond found a stroke he could manage with his injury. Stroke after stroke, breath after ragged breath, until his knees scraped sand and he could crawl onto the beach.
 
 He collapsed face-first into wet sand, lungs burning, every muscle screaming. Nearby, Pell rolled onto his back and actually laughed—a breathless, disbelieving sound.
 
@@ -122,18 +118,20 @@ When the retching finally stopped, Gond found Sim kneeling beside him with a str
 
 ***
 
-Hours later, Pell produced a rusty file from somewhere in his rags. The metal scraped against iron with agonizing slowness, each stroke sending vibrations through already raw wrists. Gond's hands shook uncontrollably—not from effort, but from the bone-deep cold that had settled into his marrow. His lips had turned blue, and his breath came in short, visible puffs despite the mild coastal air.
+Hours later, Pell produced a rusty file from somewhere in his rags. The metal scraped against iron with agonizing slowness, each stroke sending vibrations through already raw wrists. 
+
+Once he was free, he passed the file to Gond. Gond's hands shook uncontrollably—not from effort, but from the bone-deep cold that had settled into his marrow. His lips had gone numb, and his breath came in short, visible puffs despite the mild spring air. Pell took the file back.
 
 "Hold still," Pell muttered through chattering teeth, his own fingers fumbling with the file. Dark humor crept into his voice even as his hands trembled. "At this rate, we'll die of old age before these bloody things come off. Though I suppose that's better than drowning."
 
-Sim worked at his own manacles with methodical patience, but Gond could see the priest's shoulders hunched against more than just the cold. The weight of the dead escapees pressed down on all of them, but on Sim more than the mercenaries who had seen their share of death.
+Sim waited patiently for Pell to hand him the file, but Gond could see the priest's shoulders hunched against more than just the cold. The weight of the dead escapees pressed down on all of them, but on Sim more than the mercenaries who had seen their share of death.
 
-Pell finally worked his own chains free and immediately set to helping the others, his usual quick wit subdued. "Well," he said, forcing lightness into his voice, "at least we're not fish food. Though I'm starting to think the fish might have had the easier time of it."
+"Well," Pell said finally, forcing lightness into his voice, "at least we're not fish food. Though I'm starting to think the fish might have had the easier time of it."
 
 The joke fell flat in the grey morning air, but it served its purpose—a reminder that they were alive, that survival meant moving forward despite the weight of what they'd lost.
 
 ***
 
-When the last manacle finally fell away, Gond stood and brushed sand from his clothes. His legs still shook, his shoulder was throbbing, and the world tilted slightly with each movement, but he forced himself upright. Inland, Gond spotted smoke from a chimney, promising warmth and shelter.
+With the last manacle removed, Gond stood and brushed sand from his clothes. His legs still shook, his shoulder was throbbing, and the world tilted slightly with each movement, but he forced himself upright. Inland, Gond spotted smoke from a chimney, promising warmth and shelter.
 
 He looked at his unlikely companions—the sharp-eyed mercenary thief and the gentle priest—and his chest tightened, then released, as if iron bands had suddenly snapped. Not quite trust, but maybe its distant cousin. They had bled together, suffered together, lost a friend together. That had to count for something.

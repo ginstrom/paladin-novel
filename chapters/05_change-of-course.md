@@ -1,6 +1,6 @@
 # Chapter 5 – A Change of Course
 
-Pre-dawn mist coiled around Blackwater's northern gate like ghostly fingers as Gond observed from the darkness a few hundred yards out. Reaching down, he grabbed a handful of mud and smeared it across his forehead, then nudged his horse forward. 
+Afternoon fog coiled around Blackwater's northern gate like ghostly fingers as Gond observed from a few hundred yards out. Reaching down, he grabbed a handful of mud and smeared it across his forehead, then nudged his horse forward. 
 
 Gond's breath fogged in the chill air. He tugged his hood lower, concealing the brand that marked him as escaped property. The city's walls loomed ahead, black silhouettes against the pale sky. His pulse hammered against his throat.
 
@@ -8,17 +8,17 @@ Three guards clustered by the portcullis, halberds gleaming in the lantern light
 
 "Hold there." The guard's voice carried the authority of a man who'd killed for less. "Name and business?"
 
-"Rosan Vale," Gond lied smoothly, adopting the weary slouch of a man beaten down by travel. "Horse trader from Cliffmere. Storm scattered my stock—only managed to recover this one. Not even a saddle." He patted the cart-horse's neck.
+"Rosan Vale," Gond lied smoothly, adopting the weary slouch of a man beaten down by travel. "Horse trader from Cliffmere. Storm few nights back scattered my stock—only managed to recover this one. Not even a saddle." He patted the cart-horse's neck.
 
 The second guard circled slowly, eyes taking in every detail. "One horse doesn't make much of a trade. Papers?"
 
 Gond's stomach clenched. "Lost in the storm, along with everything else." He slid three silver coins into the guard's palm—more than the usual gate fee. "It's what the storm left me."
 
-The coins vanished, but suspicion remained etched in weathered faces. The third guard stepped closer, lantern raised. Light caught the mud smeared across his forehead before he could turn away.
+The coins vanished, but suspicion remained etched in weathered faces. The third guard stepped closer examining Gond's face. He caught the mud smeared across his forehead before he could turn away.
 
-"Horsing trading must be dirty work." The guard's hand drifted to his sword hilt. "Mighty dirty work for a horse trader."
+"Horsing trading must be dirty work." The guard's hand drifted to his sword hilt.
 
-"The one doesn't look it, but he led me a merry chase." Gond forced levity into his voice. "Clumsy me, landed face first in the mud chasing him down. I'd never live it down with the lads if they knew."
+"This one doesn't look it, but he led me a merry chase." Gond forced levity into his voice. "Clumsy me, landed face first in the mud chasing him down. I'd never live it down with the lads if they knew."
 
 The guards exchanged glances. The oldest nodded slowly. "Aye. Happens to the best of us." But his eyes never left Gond's face. "Welcome to Blackwater, trader. Mind the curfew—sunset to sunrise, no one moves without papers."
 

@@ -1,28 +1,28 @@
 # Chapter 1: The Mark of Betrayal
 
-Gond's tongue stuck to the roof of his mouth like old leather. The taste coating his teeth told him this wasn't a typical morning after. Blood, stale ale, and something bitter that made his throat constrict. His forehead throbbed with each heartbeat. The pain was sharp enough to make his eyes water before he'd even opened them.
+Gond woke up with the second-worst hangover of his life and a splitting headache to boot. His tongue stuck to the roof of his mouth like old leather. Blood, stale ale, and something bitter that made his throat constrict. His forehead throbbed with each heartbeat. The pain was sharp enough to make his eyes water before he'd even opened them.
 
 When he finally cracked one eyelid, pale moonlight leaked through gaps in warped planking above. The surface beneath him rose and fell in a gentle rhythm that sent his stomach lurching sideways. 
 
-*Ship.* The realization hit him like cold water. *Wonderful.*
+*Ship.* The realization jolted him from his stupor.
 
-Iron clinked against his wrist as he tried to sit up. Manacles. Of course. His second attempt to rise succeeded. He had to lean heavily against splintered timber that felt damp under his palm.
+Iron clinked against his wrist as he tried to sit up. Manacles. He succeeded in his second attempt to rise, punctuated with a soldier's curse. He had to lean heavily against splintered timber that felt damp under his palm.
 
-An itch flared across his forehead. His fingers rose instinctively. They found raised, tender flesh—still raw, still seeping. Heat radiated from the wound. The skin felt thick and ridged under his touch. Two intertwined manacles, each no larger than a copper coin, burned into his flesh with deliberate precision.
+An itch flared across his forehead. His fingers rose instinctively. They found raised, tender flesh—still raw, still seeping. Heat radiated from the wound. The skin felt thick and ridged under his touch. Gond's breath caught.
 
-His breath caught. His hand trembled against the brand for a heartbeat before jerking away as if the flesh had turned to flame. The fingers that had traced the marks curled slowly into a fist, knuckles white in the dim light.
+A bucket of murky water sat within reach, its surface barely catching the moonlight. Gond stared at it for a long moment, his throat working silently. When he finally leaned forward, his movements were deliberate, almost mechanical. Gradually a face came into focus on the dim surface of the water. Lantern jaw, unshaven. Hawkish nose, badly broken once. Ice-blue eyes under jutting brows. And above them, a brand. 
 
-A muscle jumped in his jaw. His chest rose and fell—too shallow, too measured, nostrils flaring with each careful intake.
+Two interlocked manacles, each no larger than a copper coin, burned into his flesh with deliberate precision. The slaver's mark.
 
-A bucket of murky water sat within reach, its surface barely catching the moonlight. Gond stared at it for a long moment, his throat working silently. When he finally leaned forward, his movements were deliberate, almost mechanical. The reflection that stared back showed a ghost-pale face, hollow-eyed and marked forever by the crude iron circles that branded him property.
+A muscle jumped in his jaw. His chest rose and fell—too shallow, too measured, nostrils flaring with each careful intake. Gond wrenched his gaze from the bucket and took a deliberate look around him.
 
 The hold stretched before him in the dim light. A collection of hunched shapes chained in pairs. The air hung thick with the smell of unwashed bodies, fear-sweat, and something else. Something that made him breathe through his mouth.
 
-The man beside him had shoulders like a dock worker and fists to match. Purple bruises mottled his face.  His thick wrists were chaged where he'd fought his bonds. Air wheezed through his throat, each intake scraping like sandpaper. When his eyes flicked open, pupils sharp as broken glass, muscles coiled beneath bruised skin. The muscles in his jaw kept working, like he was chewing on words too dangerous to speak.
+The man beside him had shoulders like a dock worker and fists to match. Purple bruises mottled his face. His thick wrists were chafed where he'd fought his bonds. Air wheezed through his throat, each intake scraping like sandpaper. His eyes flicked open, pupils sharp as broken glass, glancing at Gond before resuming his brooding. The muscles in his jaw kept working, like he was chewing on words too dangerous to speak.
 
-Across from Gond, two figures slumped forward. One sat perfectly still—too still. His head lolled at an angle that spoke of either a broken neck or final surrender. Flies had begun their grisly work around his vacant stare. Tattered silk clung to his frame—once fine clothing now stained with blood and worse. A merchant, perhaps, or minor noble who'd trusted the wrong people.
+Across from Gond, two figures slumped forward. One sat perfectly still—too still. His head lolled at an angle that spoke of either a broken neck or final surrender. Flies had begun their grisly work around his vacant stare. Tattered silk clung to his frame—once fine clothing now stained with blood and worse.
 
-His companion coughed wetly, each breath a visible struggle. Waxy skin stretched over sharp cheekbones. His chest barely moved with each shallow intake. Ink stains marked his fingertips. Spectacles hung broken from a chain around his neck. A scribe or clerk, reduced to this.
+His companion coughed wetly, each breath a visible struggle. Waxy skin stretched over sharp cheekbones. His chest barely moved with each shallow intake. Ink stains marked his fingertips. A scribe or clerk by the look of him.
 
 *Not much time left for that one.*
 
@@ -30,9 +30,9 @@ Two more bodies lay motionless further into the hold. A woman with farmer's hand
 
 Gond flexed his fingers, testing the chain's give. Solid. Professional work. His captors knew their business.
 
-Memory crept back in fragments. Borin's flushed face raised in a toast at the Prancing Dragon, his voice booming over the tavern's din: "To Gond, luckiest sword on the coast!" A swimming head too drunk after just two pints of ale. Kael's answering smirk, those cold eyes catching torchlight as he leaned close. "Business, mate. Nothing personal."
+Memory crept back in fragments. Borin's flushed face raised in a toast at the Prancing Dragon, his voice booming over the tavern's din: "To Gond, luckiest sword on the coast!" A swimming head too drunk after just two pints of ale. Kael's answering smirk as the room turned sideways and his vision dimmed. Those cold eyes catching torchlight as he leaned close, and the last words he recalled before waking up on the ship: "Business, mate. Nothing personal." 
 
-The alley behind the inn. Then darkness.
+Then darkness.
 
 *Luckiest sword on the coast.* The bitter irony wasn't lost on him. He'd built that reputation by being selective about his contracts. Never worked for slavers—not out of any grand moral stance, just distaste for the business. 
 
@@ -42,9 +42,9 @@ The Guild was too powerful, too connected. Kings and nobles lined their pockets 
 
 *Look how well that worked out.*
 
-Behind him, chained to the opposite bulkhead, sat a wiry man who had the same look of a mercenary that Gond did when he looked in a mirror. Beside the mercenary, close enough that their chains clinked together when either moved, was a slim, unassuming man whose aura of calm seemed out of place. The mercenary leaned forward, catching Gond's eye across the narrow space between them. "How long was I out?" Gond murmured.
+Behind him, chained to the opposite bulkhead, sat a wiry man who had the same air of a mercenary that Gond did when he looked in a mirror. Beside the mercenary, close enough that their chains clinked together when either moved, was a slim, unassuming man whose aura of calm seemed out of place. The mercenary leaned forward, catching Gond's eye across the narrow space between them. "How long was I out?" Gond murmured.
 
-"A couple of days. Weren't sure you were going to come to there, mate." The wiry man gestured with his manacled hands. "Name's Pell by the way. And my companion here is Sim." Sim sketched a nod with a wry smile, his chains rattling softly.
+"A couple of days. Weren't sure you were going to make it there, mate." The wiry man gestured with his manacled hands. "Name's Pell by the way. And my companion here is Sim." Sim sketched a nod with a wry smile, his chains rattling softly.
 
 Pell jerked his head toward the dock worker beside Gond. "And that lunk chained up to you is Jord." Jord gave a grunt and turned away.
 
@@ -70,25 +70,23 @@ A second voice drifted down from the deck. "How many you reckon will last past t
 
 "That scribe there won't see a week," the other guard observed with casual interest. "Betting pool says three days."
 
-"You're generous. I give him till tomorrow's shift change." Garrett's boot scraped against the deck planks. "Course, the strong ones sometimes last longer. Had one bastard make it four months before the salt ate through his lungs. Kept working right up till he drowned in his own blood."
+"You're generous. I give him till tomorrow's shift change." Garrett's boot scraped against the deck planks. "Course, the strong ones sometimes last longer. Had one bastard make it half a year before the salt ate through his lungs. Kept working right up till he drowned in his own blood."
 
 Both guards laughed.
-
-"Remember that big fellow from the last shipment? Thought he was tough."
-
-"Oh, the one who tried to organize the others? Yeah, overseers made an example of him. Chained him to the salt face for three days without water. By the end, he was licking the walls and begging to die."
-
-More laughter echoed from above.
 
 The dying scribe's breathing hitched. His eyes had opened during the conversation, staring at nothing. A thin line of drool escaped the corner of his mouth.
 
 Pell shifted beside Gond, his chains clinking softly. "Cheerful bunch," he whispered.
 
-"Salt mines," Sim murmured, so quietly Gond almost missed it. "I've heard the stories. The lucky ones die in the first week."
+"Salt mines," Sim murmured, so quietly Gond almost missed it. "Alanyi have mercy."
 
-Jord's breathing had changed—shorter, sharper. His massive hands opened and closed repeatedly, testing his bonds.
+"Alanyi? That some kind of god?" asked Gond.
 
-Above them, Garrett's voice carried clearly. "Captain says we're making good time. Should reach Blackwater Bay by tomorrow evening. Then it's a short march to the mines."
+"Godess," corrected Pell. "Our Sim here is a priest of this Alanyi, although I have to question her power if her priests make a habit of one-way trips to the salt mines."
+
+"Alanyi is the godess of peace and mercy," clarified Sim. "And I can't think of many places needing mercy more than this one," he continued with a lopsided grin. "Though I must admit, I'd much rather she'd sent me to a nice monastery than a slaver's ship."
+
+Above them, Garrett's voice carried clearly. "Captain says we're making good time. Should reach Blackwater Bay by tomorrow evening. We'll pick up more cargo there and then head to the mines."
 
 "Good. This cargo's starting to stink. Lost two more since yesterday—that woman in the corner finally stopped breathing, and the old man by the bulkhead. Want me to toss 'em overboard?"
 
@@ -96,15 +94,11 @@ Above them, Garrett's voice carried clearly. "Captain says we're making good tim
 
 A boot kicked something metallic across the deck. "You know what I love about this job? No matter how tough they think they are down there, the mines break 'em all. Rich, poor, soldier, merchant—salt don't care. It eats through everything."
 
-"Except the overseers," the second guard added. "They got those masks, the special gear. Can work the deep tunnels for years."
-
-"Course they do. Can't have the help dying too quick. Bad for business."
-
 The conversation drifted away as the guards moved to other parts of the ship.
 
-In the hold, silence stretched like a held breath. The woman in the corner had indeed stopped her lullaby. Her chest no longer rose and fell. The old man Garrett mentioned sat propped against the far bulkhead, his head tilted at an unnatural angle.
+In the hold, silence stretched like a held breath. The woman in the corner had indeed stopped her lullaby. Her chest no longer rose and fell. The old man Garrett mentioned sat propped against the far bulkhead, his head drooping.
 
-The dock worker beside Gond stared at his manacled hands. His thick fingers traced the iron links over and over, wearing a groove in the metal. "Four months," he whispered. "That's the record."
+The dock worker beside Gond stared at his manacled hands. His thick fingers traced the iron links over and over, wearing a groove in the metal. "Ten months," he whispered. "They say that's the record."
 
 "Don't," Pell said quietly.
 
@@ -126,36 +120,16 @@ A new voice joined the guards above—younger, uncertain. "Sir, should we check 
 
 "But sir, if too many die before we arrive—"
 
-"Boy, you're new to this, aren't you?" The second guard's voice turned instructional. "See, the mine bosses, they order by the shipload, not by the head. They know half'll be dead by the time we dock, another quarter'll die in the first week. That's why they pack us so tight. It's all figured into the price."
-
-"The smart ones," Garrett added, "they don't even try to keep 'em all alive. Waste of food and water. Better to let the weak ones die off early, save resources for the ones who might last a month or two."
-
-"How long do they usually work them?"
-
-"Depends. Strong back like that soldier down there? Maybe three months if he's lucky. Scrawny clerk types? Week, maybe two. Women last longer sometimes—they're more careful, don't try to fight the system. But the salt gets everyone in the end."
-
-"What about escape attempts?"
-
-Both older guards laughed. "From the mines? Boy, you really are green. Mines are built in the middle of nowhere, surrounded by wasteland for fifty miles in every direction. Even if someone got out of the tunnels, where they gonna go? Desert'll kill you faster than the salt."
-
-"Plus," the second guard added, "overseers got dogs. Big ones, trained to track runaways. They don't bring 'em back alive."
-
-The young guard's voice dropped. "Seems like a waste. Some of these people look educated, skilled."
-
-"That's the beauty of it," Garrett said. "Don't matter what they were before. Merchant, soldier, farmer, priest—salt makes 'em all equal. All just meat for the grinder."
+"Boy, this is your first time on this run, isn't it?" asked the older guard. "See, the mine bosses, they order by the shipload, not by the head. They know half'll be dead by the time we dock, another quarter'll die in the first week. That's why they pack 'em so tight. It's all figured into the price."
 
 Something heavy thudded against the deck above. "Speaking of which, time to check the other holds. Got two more shipments below deck. Want to make sure we don't lose too many before we dock."
 
 Their footsteps moved away, but their voices carried back.
 
-"Remember, boy—they're not people anymore. They're inventory. The sooner you learn that, the easier this job gets."
-
 In the hold, the silence that followed felt heavier than before. The dock worker had stopped tracing his chains. His hands lay motionless in his lap. The soldier behind Gond had stopped his rhythmic breathing. Even the prayers in the corner had ceased.
 
 Gond's gaze drifted to the hatch. He studied the lazy way the guards moved, how they clustered together instead of watching properly. Sloppy. Overconfident.
 
-He settled back against the hull, closing his eyes. Let them think him broken. Let them grow careless.
+He settled back against the hull, closing his eyes. Let them grow careless.
 
 His lips curved in the barest suggestion of a smile.
-
-*Entertainment's just about to begin.*

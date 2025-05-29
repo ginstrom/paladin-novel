@@ -2,13 +2,15 @@
 
 It took the party another week to find the valley. Trudging over steep hills, the land opened suddenly into a wide valley sheltered by towering cliffs. A narrow waterfall tumbled down one sheer wall, pooling into a lake so clear Gond could see the bottom twenty feet down. Green grass carpeted the valley floor, dotted with wildflowers and fruit trees gone wild. The band quickly set up camp and started setting up a more permanent encampment.
 
-A week later, the first of the refugees arrived.
+To the suprise of Gond, Dax took the lead in constructing the encampment. He had been an apprentice carpenter, and in fact his family had been traveling to a nearby city to submit his master-work when they were attacked by raiders. Having a purpose seemed to energize Dax, and to Gond, watching him break out of his shell and join the men in their work reminded him of a fresh recruit working his way up to full soldier.
+
+A week after they reached the valley, the first of the refugees arrived.
 
 She said her name was Lira, an escaped slave who looked no more than eighteen. Her dark hair hung in matted tangles around a face hollowed by hunger, and fresh cuts marked her arms where shackles had rubbed raw. She limped badly, favoring her left leg, and barely made it to the valley's edge before collapsing.
 
 "Maera sent me," she gasped as Sim knelt beside her with water and gentle hands. "Said there were... people like me here."
 
-Her story emerged in fragments as Sim tended her wounds. A kitchen maid in a merchant's house, caught stealing bread for her sick mother. The magistrate had been in a foul mood that day—slavery for theft, to be worked in the salt mines until her debt was paid. A debt that would never be paid.
+Her story emerged in fragments as Sim tended her wounds. Her father had sold her into slavery to pay for debts, but she had relatively easy work as a kitchen maid in a merchant's house. But she was caught stealing bread for her sick mother, and the magistrate decided to make an example by sending her to the salt mines. She had escaped just before the guards came to claim her, and had been on the run for two weeks.
 
 But Lira had skills that had kept her alive. "My father taught me to hunt before he sold me for his debts," she said, wincing as Sim cleaned a particularly deep cut. "Tracked deer through forests thicker than this. Knew how to move quiet, how to read signs." Her eyes held a fierce pride despite her exhaustion. "That's how I made it here alone."
 
@@ -16,21 +18,21 @@ Pell emerged from the shadows, studying the newcomer with calculating eyes. "Ano
 
 Gond found himself stepping forward before he'd made a conscious decision. Something about the girl's determination, her refusal to surrender despite everything she'd endured, called to him. "She stays," he said simply. "Anyone Maera sends is welcome here."
 
-The words felt right in his mouth, weighted with certainty he didn't fully understand. Around the fire, the other refugees nodded their agreement, and Gond saw something shift in their faces—a recognition of his authority that went beyond mere survival.
+The words felt right in his mouth, weighted with certainty he didn't fully understand. Around the fire, the others their agreement, and Gond saw something shift in their faces—a recognition of his authority that went beyond mere survival.
 
-After that, they continued to come in ones, twos, and threes, with similar stories for the most part: escaped slaves, peasants fleeing cruel masters, apprentices put out by their masters. Another commonality to all the refugees was a name mentioned: Maera. She had started sending refugees on to them. Where she sent them before nobody knew.
+After that, refugees continued to arrive in ones, twos, and threes, with similar stories for the most part: escaped slaves, peasants fleeing cruel masters, apprentices put out by their masters. Another commonality to all the refugees was the name they mentioned: Maera. She was sending refugees on to them. Where she sent them before nobody knew.
 
 Sim took charge of the refugees, arranging shelter, and giving them tasks to keep the group fed and prepare for the coming seasons.
 
 ***
 
-Three weeks after finding the valley, Gond, Lira and Pell were out hunting. When Pell started down what appeared to be a clear trail, Gond's hand shot out, stopping him. Bird calls had shifted to warning silence, and his shoulders tensed as if invisible hands had gripped them. The hair on his arms stood on end.
+Three weeks after finding the valley, Gond, Lira and Pell were out hunting a day's march from the valley. When Pell started down what appeared to be a clear trail, Gond's hand shot out, stopping him. Bird calls had shifted to warning silence, and his shoulders tensed as if invisible hands had gripped them. The hair on his arms stood on end.
 
 "Wait."
 
 Pell frowned, scanning the area. "Looks clear to me."
 
-He studied the path more carefully, noting how the grass lay too flat, how no birds sang in the nearby trees. "There." He pointed to a barely visible depression in the earth. "There was a camp here. They buried the fire pit there. And there's fresh horse dung beyond those rocks."
+"Just wait," repeated Gond. "There's something..."
 
 Within minutes, dust clouds appeared on the horizon. An armed party, moving fast along the very route Pell had suggested.
 
@@ -62,11 +64,13 @@ Pell appeared at Gond's elbow as they settled for the night. "That was... intere
 
 "Since I started making sense instead of noise." But even as Gond spoke, he wondered at how easily the conflict had resolved. The words had felt right in his mouth, weighted with certainty he didn't understand.
 
-Later that evening, one of the newer refugees—a man named Jorik—took a turn for the worse. Fever burned through him, and angry red lines spread from a festering wound on his arm. Sim worked tirelessly, applying herbs and murmuring prayers, but the infection was winning.
+A few evenings later, one of the newer refugees—a man named Jorik—took a turn for the worse. Fever burned through him, and angry red lines spread from a festering wound on his arm. Sim worked tirelessly, applying herbs and murmuring prayers, but the infection was winning.
 
 Gond knelt beside the dying man without conscious thought. His memory of the temple stirred, and he felt that he must touch Jorik.
 
 "I don't think—" Sim began, then stopped as Gond placed his hands on Jorik's burning forehead.
+
+Gond sent a silent plea to Alanyi. *Please-*
 
 Gond felt nothing, but watched as Jorik's labored breathing gradually eased. The man's chest, which had been rising and falling in rapid, shallow gasps, began to slow and deepen. Sweat beaded on his forehead, then began to dry. Within an hour, Jorik's eyes fluttered open, clear and focused, and he pushed himself up on his elbows asking for food.
 
@@ -93,9 +97,3 @@ Soft footsteps announced Sim's approach. The priest settled beside him on the ro
 Gond glanced at him. "You really believe your goddess is involved in this?"
 
 "The smallest seed can grow into the mightiest oak, given proper soil." Sim's smile was gentle in the starlight. "Sometimes strength comes from unexpected places."
-
-Alia's gaze shifted to Sim. "How do you always know which herbs to use? Jorik should have died from that infection."
-
-Sim's fingers traced patterns in the dirt. "The forest teaches those who listen. Every plant has its purpose."
-
-The priest's knowing look followed him, but Sim said nothing more. They sat in comfortable silence, watching the stars wheel overhead, while around them the refugees slept peacefully under Gond's protection.
