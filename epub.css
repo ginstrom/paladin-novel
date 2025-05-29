@@ -2,12 +2,16 @@
 
 /* Body and general text styling */
 body {
-    font-family: "Times New Roman", serif;
+    font-family: "Times New Roman", "Georgia", "Palatino", "Palatino Linotype", "Book Antiqua", "Minion Pro", "Adobe Garamond Pro", "Garamond", "Hoefler Text", "Baskerville", "Crimson Text", serif;
     font-size: 1em;
     line-height: 1.4;
     margin: 0;
     padding: 1em;
     text-align: justify;
+    
+    /* Prevent CJK interpretation of punctuation */
+    font-variant-east-asian: normal;
+    font-feature-settings: "halt" 0, "vhal" 0, "hwid" 0, "twid" 0, "qwid" 0;
 }
 
 /* Headings */
@@ -104,4 +108,44 @@ strong {
     font-size: 1.8em;
     letter-spacing: 0.05em;
     text-transform: uppercase;
+}
+
+/* ---------- Kobo punctuation fix ---------- */
+/* Specific rules to prevent curly quotes from being treated as full-width CJK characters */
+
+/* Target all punctuation that might be affected by CJK font fallback */
+body, p, em, strong, .dialogue {
+    /* Additional font feature settings for punctuation */
+    font-feature-settings: "halt" 0, "vhal" 0, "hwid" 0, "twid" 0, "qwid" 0, "palt" 0, "vpal" 0;
+    
+    /* Explicitly disable East Asian typography features */
+    font-variant-east-asian: normal;
+    font-variant-numeric: normal;
+    
+    /* Force proportional spacing for all characters */
+    font-variant-alternates: normal;
+}
+
+/* Specific targeting of problematic Unicode ranges */
+/* This targets the General Punctuation block (U+2000-U+206F) which includes curly quotes */
+@supports (unicode-range: U+2018-U+201F) {
+    @font-face {
+        font-family: "PunctuationFix";
+        src: local("Georgia"), local("Times New Roman"), local("Times"), local("serif");
+        unicode-range: U+2018-U+201F; /* Left/right single/double quotes and related */
+        font-feature-settings: "halt" 0, "hwid" 0, "qwid" 0;
+    }
+    
+    body {
+        font-family: "PunctuationFix", "Times New Roman", "Georgia", "Palatino", "Palatino Linotype", "Book Antiqua", "Minion Pro", "Adobe Garamond Pro", "Garamond", "Hoefler Text", "Baskerville", "Crimson Text", serif;
+    }
+}
+
+/* Fallback for older e-readers that don't support @supports or unicode-range */
+/* Force specific character width for common problematic characters */
+.quote-fix {
+    font-variant-east-asian: normal;
+    font-feature-settings: "halt" 0, "hwid" 0, "qwid" 0;
+    display: inline;
+    width: auto;
 }

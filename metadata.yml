@@ -1,15 +1,31 @@
 ---
-title: Paladin's Rise
+title: "Paladin's Rise"
 author:
-  - Ryan Ginstrom
-language: en
-date: 2025-08-01
-rights: © 2025 Ryan Ginstrom. All rights reserved.
-publisher: Iron Quill Press
-identifier: "978-1-23456-789-0"
-cover-image: images/cover.png
+  - "Ryan Ginstrom"
+language: "en"
+date: "2025-08-01"
+publisher: ""
+rights: "© 2025 Ryan Ginstrom. All rights reserved."
+identifier: "urn:isbn:9781234567890"  # URN form preferred for Calibre
+cover-image: "images/cover.png"
 subject:
-  - Epic fantasy
-  - Slave rebellion
+  - "Epic Fantasy"
+  - "Slave Rebellion"
+  - "Redemption"
+  - "Magic and Religion"
 description: |
-  Gond never figured betrayal would come with a slave brand burned into his forehead. The cynical mercenary's predictable life shattered when his own comrades drugged him and sold him to slavers bound for the salt mines—where most survive only months. But his betrayers underestimated him. Breaking free with broken chains and brute force, Gond washes ashore driven by a thirst for revenge that should have been simple to satisfy. Instead, he finds himself protecting escaped slaves, children, and a gentle priest whose talk of divine mercy sounds like madness to a blade-for-hire. When mystical encounters manifest around ancient temple ruins and his wounds heal impossibly fast, Gond faces an inconvenient truth: the gods have plans for him that don't involve the vengeance he craves. In a world where slavery is blessed by corrupt temples and freedom means death, can one reluctant mercenary become the instrument of divine justice an entire continent desperately needs?
+  Gond never figured betrayal would come with a slave brand burned into his forehead. The cynical mercenary's predictable life shattered when his own comrades drugged him and sold him to slavers bound for the salt mines—where most survive only months. But his betrayers underestimated him...
+
+  Breaking free with broken chains and brute force, Gond washes ashore driven by a thirst for revenge that should have been simple to satisfy. Instead, he finds himself protecting escaped slaves, children, and a gentle priest whose talk of divine mercy sounds like madness to a blade-for-hire...
+
+  In a world where slavery is blessed by corrupt temples and freedom means death, can one reluctant mercenary become the instrument of divine justice an entire continent desperately needs?
+
+type: "Book"
+creator: "Ryan Ginstrom"  # Calibre sometimes prefers this over 'author'
+language-code: "en-US"
+calibre: true  # optional hint for Calibre
+tags:  # Alternative to subject if using Calibre
+  - "Fantasy"
+  - "Adventure"
+  - "Mythical Heroes"
+---
