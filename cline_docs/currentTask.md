@@ -1,30 +1,42 @@
 ## Current Objective
-Conduct an overall review of the story for credibility in timing, specifically looking for messengers arriving with too-perfect timing or attackers appearing with unrealistically short warning. Implement minor clarifications to enhance realism where needed.
+Fix EPUB table of contents (TOC) numbering. Even with `--number-sections=false` in the Pandoc command, the TOC still displays numbers. This will be addressed by adding a CSS rule to `epub.css` to explicitly hide list numbering in the TOC.
 
 ## Context
-Reviewed Memory Bank files (`timeContinuity.md`, `currentTask.md`, `codebaseSummary.md`, `projectRoadmap.md`). Searched all chapters for relevant scenes. Analyzed key chapters (14, 18, 21) for timing credibility.
+The user reported that the TOC in the generated EPUB (`build/paladins-rise.epub`) is still numbered, despite the Pandoc command in the `Makefile` using `--number-sections=false`.
+Previous attempts to fix this by only modifying the Pandoc command were insufficient.
+The `projectRoadmap.md` and `codebaseSummary.md` both note a previous attempt on 2025-05-30 to fix this issue via Makefile changes.
 
-**Previous Task (Dialogue Revision):**
-Successfully revised dialogue in:
-- `chapters/11_first-blood-first-miracle.md`
-- `chapters/02_breaking-chains.md`
-- `chapters/04_crack-in-the-chain.md`
-- `chapters/10_hunters-and-hunted.md`
-- `chapters/15_burden-of-grace.md`
-- `chapters/19_tide-turns.md`
-- `chapters/25_cleansing-tide.md`
-- `chapters/24_shadow-of-gorlatch.md`
-- `chapters/26_wrath-of-gods.md`
-- `chapters/27_continent-reborn.md`
-User feedback on the style of revisions has been incorporated. `cline_docs/authoringGuidelines.md` and `cline_docs/characters.md` have been updated. User confirmed satisfaction with Gond's evolving tone and overall progress.
+Memory Bank files read:
+- `cline_docs/projectRoadmap.md`
+- `cline_docs/currentTask.md` (previous state)
+- `cline_docs/techStack.md`
+- `cline_docs/codebaseSummary.md`
+- `Makefile`
 
-## Plan for Timing Credibility Audit
-1.  **Chapter 14 ("The Legend Begins") Clarification:** Add a brief line to explain the short final warning before the slaver attack.
-2.  **Chapter 18 ("First Stand") Clarification:** Add a line to explain the short notice (hours) before the professional army's attack.
-3.  **Documentation Update (`timeContinuity.md`):** Add a section summarizing this timing credibility audit, its findings, and the rationale for any changes made.
-4.  **Documentation Update (`projectRoadmap.md`):** Mark the timing credibility audit task as complete.
-5.  **Documentation Update (`codebaseSummary.md`):** Note the timing credibility review and minor chapter revisions.
-6.  Present the completed work to the user.
+## Plan & Execution
+1.  **Modify `epub.css`**: Added CSS rules to hide numbering in the TOC. **[COMPLETED]**
+    ```css
+    /* Suppress TOC numbering */
+    nav[epub|type~="toc"] ol {
+      list-style-type: none;
+      margin-left: 0;
+      padding-left: 1em; /* Adjust as needed for indentation */
+    }
+
+    /* Fallback for older readers or different TOC structures */
+    ol.toc, .toc ol {
+      list-style-type: none;
+      margin-left: 0;
+      padding-left: 1em; /* Adjust as needed for indentation */
+    }
+    ```
+2.  **Rebuild EPUB**: Ran `make` to regenerate `build/paladins-rise.epub`. **[COMPLETED]**
+3.  **Verify Fix**: User will check the TOC in their EPUB reader. **[PENDING USER VERIFICATION]**
+4.  **Update Documentation**:
+    - Update `cline_docs/currentTask.md` to reflect completion. **[COMPLETED]**
+    - Update `cline_docs/projectRoadmap.md` to note the successful fix. **[PENDING]**
+    - Update `cline_docs/codebaseSummary.md` with this change. **[PENDING]**
+5.  **Attempt Completion**: Present the result to the user. **[PENDING]**
 
 ## Next Steps
-1.  Implement clarification in `chapters/14_legend-begins.md`.
+1. Update `cline_docs/projectRoadmap.md`.

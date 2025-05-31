@@ -149,3 +149,17 @@ body, p, em, strong, .dialogue {
     display: inline;
     width: auto;
 }
+
+/* Suppress TOC numbering */
+nav[epub|type~="toc"] ol {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 1em; /* Adjust as needed for indentation */
+}
+
+/* Fallback for older readers or different TOC structures */
+ol.toc, .toc ol {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 1em; /* Adjust as needed for indentation */
+}
