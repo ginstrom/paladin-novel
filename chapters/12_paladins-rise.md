@@ -16,7 +16,7 @@ Gond hated it.
 
 "Up here. Alone. For the third day running." Pell bit into a piece of dried meat. "They think you're angry with them."
 
-"I'm not angry." Gond stabbed at his porridge with unnecessary force. "I'm just... tired of being treated like some kind of saint."
+"I'm not angry." Gond stabbed at his porridge with unnecessary force. "I'm just… tired of being treated like some kind of saint."
 
 "You did bring a boy back from the dead."
 
@@ -52,7 +52,7 @@ It wasn't a question. Gond nodded anyway, acutely aware of the watching crowd. "
 
 "What kind of calling?"
 
-Silviana stepped closer with the fluid grace of wind through branches, and Gond caught the scent of pine and lavender that seemed to cling to her. "The touch of Alanyi. Her power flows through this place like a river, and you..." She reached out as if to touch his face, her movements deliberate and unhurried, then stopped, her hand hovering inches from his skin. "You are the source. I sense great gifts growing in you—some already awakened, others still sleeping, waiting for their time."
+Silviana stepped closer with the fluid grace of wind through branches, and Gond caught the scent of pine and lavender that seemed to cling to her. "The touch of Alanyi. Her power flows through this place like a river, and you…" She reached out as if to touch his face, her movements deliberate and unhurried, then stopped, her hand hovering inches from his skin. "You are the source. I sense great gifts growing in you—some already awakened, others still sleeping, waiting for their time."
 
 Murmurs rippled through the crowd. Gond felt heat rise in his cheeks, uncomfortable with the scrutiny. "I don't know about gifts. I just do what I can to help."
 
@@ -66,7 +66,7 @@ The words hit the crowd like a rock in a pond. Some gasped, others fell to their
 
 "Forgotten her light?" Gond asked. "What do you mean?"
 
-The corners of Silviana's mouth drew down, fine lines deepening around her ancient eyes. "The goddess of mercy has been pushed aside by those who profit from suffering. Where once her temples offered sanctuary, now the priests of Kemiss—god of commerce—hold sway, blessing slavers' chains and counting coin from slave auctions. And darker still..." She paused, glancing around at the listening crowd. "There are whispers of banned worship returning, evil cloaked in false righteousness."
+The corners of Silviana's mouth drew down, fine lines deepening around her ancient eyes. "The goddess of mercy has been pushed aside by those who profit from suffering. Where once her temples offered sanctuary, now the priests of Kemiss—god of commerce—hold sway, blessing slavers' chains and counting coin from slave auctions. And darker still…" She paused, glancing around at the listening crowd. "There are whispers of banned worship returning, evil cloaked in false righteousness."
 
 "I'm not a paladin," Gond said, his voice rougher than intended. "I've got some healing abilities, maybe even from Alanyi, but it's a gift that others have as well. Sim here also has the power of healing."
 
@@ -90,7 +90,7 @@ The weight of their expectation pressed down on him like a physical thing. Part 
 
 "Then you learn," Silviana said. "You grow into your power, and your power grows with you. You discover what it truly means to serve the goddess of peace and mercy."
 
-She gestured toward his fading brand. "Already the goddess works to free you from the marks of bondage. As your connection to Alanyi deepens, her light will erase all traces of your enslavement. And in time..." Her voice grew soft with wonder. "In time, you will carry that same gift to others. The touch that heals wounds can also heal the scars of slavery itself."
+She gestured toward his fading brand. "Already the goddess works to free you from the marks of bondage. As your connection to Alanyi deepens, her light will erase all traces of your enslavement. And in time…" Her voice grew soft with wonder. "In time, you will carry that same gift to others. The touch that heals wounds can also heal the scars of slavery itself."
 
 "You mean I could remove their brands?" Gond asked, thinking of the marked faces throughout the settlement.
 
@@ -112,7 +112,7 @@ As they walked toward Gond's shelter, Silviana's gaze fell upon the sword at Gon
 
 Gond hesitated, then drew the silver sword. Even in the afternoon light, it seemed to gleam with its own inner radiance, the steel unmarked despite use in hard fighting. The moment the blade cleared its sheath, a subtle hum could be heard, nearly beyond the range of human hearing.
 
-Silviana's eyes widened with recognition, her breath catching as she stared at the blue-silver steel. "By the ancient trees," she whispered, her voice barely audible. "I had heard rumors, but to see it with my own eyes..." She looked up at Gond with something approaching reverence, her hands trembling slightly. "Do you know what you carry?"
+Silviana's eyes widened with recognition, her breath catching as she stared at the blue-silver steel. "By the ancient trees," she whispered, her voice barely audible. "I had heard rumors, but to see it with my own eyes…" She looked up at Gond with something approaching reverence, her hands trembling slightly. "Do you know what you carry?"
 
 "A sword that used to be crude iron," Gond said. "It changed during my travels."
 

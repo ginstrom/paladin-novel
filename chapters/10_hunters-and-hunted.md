@@ -12,7 +12,7 @@ Gond's shoulders tensed without warning, as if invisible hands had gripped them.
 
 "What is it?" Pell whispered, sliding from his saddle to join him.
 
-"Riders." Gond's voice was barely audible. "Coming from the east. Maybe half a dozen, moving fast."
+"Riders," Gond breathed, barely a whisper. "East. Half a dozen, comin' fast."
 
 The volunteers exchanged worried glances. They were still an hour from the farmstead, exposed on open ground with nowhere to hide except a thin line of scrub oak fifty yards to their left.
 
@@ -26,13 +26,13 @@ The volunteers moved with practiced efficiency, leading their mounts into the sc
 
 The sound of hoofbeats grew louder, accompanied by the jingle of mail and the creak of leather. Gond peered through the branches, counting the approaching riders. Six men in the colors of the Coastal Slavers Guild, their equipment professional and well-maintained. These weren't the desperate bandits who sometimes raided isolated farms—these were soldiers.
 
-"Thornfield will have been been picked clean by now," one of the riders called to his companions as they passed. "Nothing left but bones and ash."
+"Thornfield's picked clean, I tell ya," one of the riders shouted over the wind. "Nothin' but bones and ash there."
 
-"How do you know that?" called back an older voice.
+"And you know this how, exactly?" an older, gravelly voice called back.
 
-"The other farmstead said this place has been abandoned for months." The tone became wheedling. "If we don't get back to camp by nightfall, we'll miss the fun with those captured farmers. That redhead..."
+"Other farmstead told us! Place's been empty for months." The younger man's tone turned whiny. "C'mon, if we don't get back to camp by dark, we'll miss all the fun with those new farm-brats. That redhead..." He trailed off with a lewd chuckle.
 
-"All right," the other voice acquiesced. "But if it turns out you were wrong, our lord will have all our heads."
+"Fine, fine," the older voice grumbled. "But if you're wrong, it's our hides the Captain will be tanning, not just yours."
 
 The chatter became indistinct as the party turned around and headed back.
 
@@ -60,9 +60,9 @@ Barrels lined the walls, filled with salted pork, dried beans, preserved vegetab
 
 He climbed from the cellar to find Pell standing beside the storage building, his expression a mixture of amazement and concern.
 
-"They left everything," Pell said, gesturing to the interior. "Wheat, barley, oats—enough to feed our people for months. But why? Slavers usually take anything valuable."
+"They left *everything*," Pell breathed, gesturing to the interior. "Wheat, barley, oats—Gods, Gond, there's enough here to feed us for months! But why? Slavers worth their salt strip a place bare."
 
-Gond studied the untouched stores. "You heard them. Lazy, undisciplined. Raiders turned slavers would be my guess."
+Gond grunted, kicking a stray sack. "You heard 'em. Lazy, sloppy. Raiders turned slavers, more than likely."
 
 "Load everything we can carry," he ordered. "Fill every sack, every barrel we brought. But just in case they come back, don't make it too obvious that we've been here. Keep the remaining supplies in neat stacks and leave no obvious signs."
 
@@ -86,7 +86,7 @@ The faces looking back at him showed fear, but also determination. These people 
 
 Gond looked around the circle of upturned faces—men and women who had trusted him with their lives, children who deserved a chance to grow up free. The weight of their faith settled on his shoulders like a mantle.
 
-"We've had our respite," he announced without preamble. "Now we prepare for war."
+"Our time of quiet is over," he announced, his voice flat but carrying. "Now we prepare for war."
 
 The words hit like stones dropped into still water, ripples of unease spreading through the crowd. But these were no longer the broken, desperate fugitives who had first stumbled into their sanctuary. Weeks of good food, safety, and purpose had transformed them into something resembling a community.
 
@@ -114,7 +114,7 @@ Gond couldn't explain the certainty that gripped him, the way his skin seemed to
 
 "Your intuition's been remarkably accurate lately," Sim noted, joining their conversation. "Almost as if you're receiving guidance from a higher source."
 
-"Don't start," Gond warned, but there was no real heat in his voice. He was beginning to accept that something had changed in him, even if he couldn't—or wouldn't—name what that something was.
+"Don't you start with that gods-talk now, Sim," Gond grumbled, though there was no real bite to it. He was, slowly, starting to admit to himself that *something* was different, even if he'd rather face a dozen slavers than put a name to it.
 
 A flicker of movement on the opposite ridge. "They're here!" His voice carried clearly through the morning air, but now it was a signal to his hidden watchers, not a call to battle. "About fifteen of them, approaching on foot! Positions!"
 

@@ -1,7 +1,7 @@
 # Cast of Characters
 
 ## Gond
-*   **Bio/Description:** A former mercenary betrayed by his comrades, Borin and Kael. He was drugged, sold into slavery, and branded on his forehead with a slave mark (two intertwined manacles). Initially driven by vengeance against his betrayers, Gond undergoes a profound spiritual transformation from revenge-seeking mercenary to protector-leader. Cynical and reluctant, he possesses an underlying sense of justice, resourcefulness, and is prone to internal monologues. A skilled fighter, capable of cold fury and decisive action. Destined to awaken as a paladin of Alanyi, he exhibits a fundamental humanity that compels him to help those in need, despite his hardened exterior. His character arc demonstrates the shift from personal vengeance to divine mercy.
+*   **Bio/Description:** A former mercenary betrayed by his comrades, Borin and Kael. He was drugged, sold into slavery, and branded on his forehead with a slave mark (two intertwined manacles). Initially driven by vengeance against his betrayers, Gond undergoes a profound spiritual transformation from revenge-seeking mercenary to protector-leader. Cynical and reluctant, he possesses an underlying sense of justice, resourcefulness, and is prone to internal monologues. A skilled fighter, capable of cold fury and decisive action. Destined to awaken as a paladin of Alanyi, he exhibits a fundamental humanity that compels him to help those in need, despite his hardened exterior. **As his divine power grows, his colloquial speech patterns remain, but his tone evolves to become kinder and less gruff.** His character arc demonstrates the shift from personal vengeance to divine mercy.
 *   **First Appearance:** Chapter 1
 *   **Key Actions/Events:**
     *   Wakes as a slave on a ship, recalls betrayal by Borin and Kael (Ch 1).
@@ -46,6 +46,7 @@
 
 ## Pell
 *   **Bio/Description:** A thief, lean and sharp-eyed, perpetually alert and calculating. Resourceful, skilled with knives, and adept at picking locks and acquiring items (e.g., a file to remove manacles). A capable and ruthless fighter when necessary. Loyal to Gond and Sim. Initially described in Chapter 2 as being chained with Sim.
+*   **Backstory:** Formerly a scout/rogue/spy for hire. As a poor street urchin, he witnessed great injustice that made him contemptuous of the law and those who enforce it unjustly. Gond is the first leader he has met who genuinely cares about those he leads, which makes Pell want to follow him and believe in his message of liberation.
 *   **First Appearance:** Chapter 2
 *   **Key Actions/Events:**
     *   Identifies a careless guard (Greasy) as a weak link for escape (Ch 2).
@@ -74,6 +75,7 @@
 
 ## Sim
 *   **Bio/Description:** A priest of Alanyi, the goddess of peace, light, justice, and redemption. Gentle, serene, and demonstrates his faith through consistent compassionate actions rather than words. Never proselytizes or initiates religious discussions. Surprisingly practical, with extensive knowledge of herbs, survival, and healing. A pacifist by nature who responds to questions about his faith with nature-based metaphors and deflective humility. His devotion is shown through small, unexplained rituals and his unwavering commitment to helping others.
+*   **Backstory:** Formerly an herbalist and poacher until called by Alanyi. In a moment of great anger, he killed a would-be robber threatening his poor family. Wandered the land in shame until he received a vision from Alanyi. Her messages of peace, pacifism, and redemption deeply appealed to him. Has nearly no formal training in Alanyi's teachings and is nearly illiterate, making his faith more intuitive and personal than scholarly.
 *   **First Appearance:** Chapter 2
 *   **Key Actions/Events:**
     *   Chained with Pell on the slave ship, offers prayers (Ch 2).
@@ -154,6 +156,7 @@
     *   Provides shelter, food, and medical aid to Gond, Pell, and Sim after their escape (Ch 3).
     *   Treats Gond's branded forehead (Ch 3).
     *   Offers supplies and directions to a hidden pilgrim way-station (Ch 3).
+    *   Provides Sim with a magically attuned leaf (minor elven magic) to help guide trusted refugees to the hidden valley, hinting it may also aid in evading pursuit (Ch 3).
     *   Advises Gond on compassion and justice (Ch 3).
     *   **Network revelation**: Returns with armed escort and reveals her role as resistance organizer (Ch 15).
     *   Brings Elena Brightblade and intelligence about enemy responses (Ch 15).

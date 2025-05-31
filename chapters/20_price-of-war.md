@@ -22,7 +22,7 @@ Gond listened, a faint smile playing on his lips. The tension was still present,
 
 He leaned forward, his gaze sweeping the council. "We will not choose one path, but many. We will be the hammer, and the subtle current. The open hand, and the hidden blade. We fight not just to win, but to build something worthy of the sacrifices this war will demand."
 
-A commotion from the courtyard interrupted him—the unmistakable clatter of armored men and horses. Gond rose, his hand resting lightly on the hilt of his sword, no longer a crude piece of iron but a blade of silver-white steel that seemed to hum with a faint energy. "Expecting company, Elena?"
+A commotion from the courtyard interrupted him—the unmistakable clatter of armored men and horses. Gond rose, his hand resting lightly on the hilt of his sword. "Expecting company, Elena?"
 
 Elena was already at the window. "Noble Knights, by the look of their banners. Sir Roderick Ashford leads them."
 
@@ -48,7 +48,7 @@ Sir Roderick met his gaze directly. "There are many within the Noble Knights, my
 
 "A laudable goal," Gond conceded. "What form of coordination do you envision?"
 
-"We have resources," Roderick stated. "Wealth, influence, access to intelligence within the courts and merchant houses. We can disrupt their finances, sow discord among their leadership, even provide arms and training to those who rise against them. In return..."
+"We have resources," Roderick stated. "Wealth, influence, access to intelligence within the courts and merchant houses. We can disrupt their finances, sow discord among their leadership, even provide arms and training to those who rise against them. In return…"
 
 "Ah," Gond said softly. "The inevitable return."
 
@@ -72,7 +72,7 @@ Roderick was silent for a long moment, his eyes studying Gond's face as if searc
 
 The knight rose, his hand falling to the pommel of his sword. "Then our paths, it seems, diverge more sharply than I had hoped." He looked at Gond, his brow furrowing slightly as his mouth pressed into a thin line—disapproval warring with something that might have been reluctant admiration. "You are a compelling speaker—and a dangerous idealist."
 
-"Perhaps," Gond allowed. "But we intend to change those realities."
+"Perhaps," Gond allowed. "But we intend to change our ideals into realities."
 
 Roderick gave a curt nod. "When your war efforts align with objectives that serve the greater good of ending this vile trade – objectives we can support without endorsing your… social experiment – my people may offer aid. Intelligence, perhaps, or action against mutual foes. But we will not fuel a fire that consumes the very foundations of order." He turned to leave. "A word of advice. Such radical equality breeds its own resentments. Be wary of those closest to you."
 
@@ -110,10 +110,10 @@ The council reconvened, the maps now bearing new marks, new possibilities. The e
 
 Gond looked at the faces around him – dwarf and elf, human and former slave, warrior and healer and strategist. Each unique, each vital. "We are walking a knife's edge," he said. "Enemies before us, uncertain allies at our flank. But we walk it together."
 
-His gaze drifted to the window, where the valley was alive with the work of a people building their own future. "Sir Roderick spoke of the world's realities. He is not wrong. But realities can be reshaped. Ideals can be given form and strength. What we build here, what we fight for… this is not just a dream. It is the shape of the world to come, if we have the courage to make it so."
+His gaze drifted to the window, where the valley was alive with the work of a people building their own future. "Sir Roderick spoke of the world's realities. He's not wrong. But realities can be reshaped. Ideals can be given form and strength. What we build here, what we fight for… this is not just a dream. It is the shape of the world to come, if we have the courage to make it so."
 
 A messenger, breathless and dust-covered, was shown into the chamber, bearing dispatches. Gond took them, his expression sobering as he read.
 
-"The Slavers' Alliance has mustered," he announced, his voice quiet but carrying to every corner of the room. "Three thousand strong, with siege engines and cavalry, marching from the south. And…" He paused, a different light in his eyes. "And word from Maera's network. Uprisings in three more provinces. Temples openly declaring for our cause. Even some younger nobles are renouncing their titles and riding to join us."
+"The Slavers' Alliance has mustered," he announced, his voice quiet but carrying to every corner of the room. "They've fortified their major cities. And…" He paused, a different light in his eyes. "And word from Maera's network. Uprisings in three more provinces. Temples openly declaring for our cause. Even some younger nobles are renouncing their titles and riding to join us."
 
 He looked up, meeting their gazes one by one. "The war is upon us. In all its fury, and all its hope."

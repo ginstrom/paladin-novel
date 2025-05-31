@@ -1,6 +1,6 @@
 ## Project Goals
 - [x] Initialize project structure and documentation.
-- [ ] Write "Paladin's Rise" novel.
+- [x] Write "Paladin's Rise" novel.
 - [x] Create comprehensive translation guide for English-Japanese translation.
 
 ## Key Features
@@ -18,7 +18,30 @@
 
 ## Completed Tasks
 
+### Manuscript Quality & Consistency (2025-05-31)
+- **TIMING CREDIBILITY AUDIT**: Reviewed messenger arrival and attack timings across all chapters. Implemented minor clarifications in Ch 14 ("The Legend Begins") and Ch 18 ("First Stand") to enhance realism of short warning periods. Documented audit in `cline_docs/timeContinuity.md`.
+
+### Dialogue Enhancement (2025-05-31)
+- **COLLOQUIALISM & TONE REFINEMENT**: Revised dialogue across multiple chapters (Ch 2, 4, 10, 11, 15, 19, 24, 25, 26, 27) to be more colloquial and natural, especially in high-stress situations. Incorporated Gond's character development, ensuring his dialogue reflects a kinder, less gruff tone as his divine power grows, while maintaining his established colloquial speech patterns. Maintained solemnity for divine pronouncements.
+
+### Manuscript Quality & Consistency (2025-05-31)
+- **MAERA'S MAGICAL LEAF ENHANCEMENTS**: Added further details and effects of Maera's magical leaf. In Chapter 6, Gond and Pell notice their tracks are fainter than expected, subtly hinting at the leaf's evasive properties. In Chapter 8, Sim observes the leaf glowing and guiding them towards the valley during their journey, reinforcing its magical nature before Lira's arrival. Chapter 3's initial introduction of the leaf was reviewed and confirmed consistent.
+- **MAERA'S MAGICAL LEAF BACKSTORY**: Successfully integrated backstory explaining how refugees find the hidden valley. Added scene in Chapter 3 where Maera gives Sim a magically attuned leaf (minor elven magic) that glows when pointed toward the valley and may aid in evading pursuit. Updated Chapter 8 so Lira presents the leaf upon arrival as proof of Maera's guidance. Updated Maera's character entry to reflect this new magical ability and role in guiding refugees.
+- **MAGIC CONSISTENCY AUDIT**: Conducted a comprehensive review of magical effects for Alanyi (gold/fire), Turin (silver/lightning), and Gorlatch (black/poison). Created `cline_docs/magic_consistency_audit.md` to log all instances. Made targeted edits to chapters 17, 22, 23, 24, and 26 to enhance or correct descriptions, ensuring alignment with established divine magic signatures.
+
+### Character Development Enhancement (2025-05-31)
+- **BACKSTORY INTEGRATION**: Successfully integrated comprehensive backstory details for Pell and Sim across multiple chapters to enhance character relatability and depth. Added Pell's street urchin background, his loyalty to Gond as the first caring leader he's known, and his wariness of corrupt authority. Integrated Sim's herbalist past, his struggle with violence and past trauma, his near-illiteracy, and his intuitive faith-based approach to Alanyi's teachings. All changes follow "show, don't tell" principles and maintain narrative consistency.
+
+### Manuscript Completion (2025-05-31)
+- **COMPLETED NOVEL**: Rewrote and finalized Chapter 27 ("Continent Reborn"), completing the "Paladin's Rise" manuscript. The chapter depicts Sim's flourishing new church, the abolition of slavery, Kael's future as a priest, and Gond's ambiguous destiny as a wandering healer.
+
+### EPUB Improvements (2025-05-30)
+- Fixed EPUB table of contents numbering: Modified `Makefile` to use Pandoc options (`--toc-depth=1 --number-sections=false`) to prevent sequential numbering of the book title and chapters, ensuring chapters retain their "Chapter X: Title" format without leading numbers.
+
 ### Manuscript Revisions (2025-05-30)
+- **MAJOR REWRITE - Ch 19 ("The Tide Turns")**: Complete rewrite to align with narrative requirements from Chapters 15-18 and continuity for Chapter 20. New chapter depicts Gond's strategic ambush and annihilation of the main Slavers' Alliance army (2000+ strong) at Millhaven Pass, using coordinated multi-racial forces and captured siege engines. This decisive victory shifts the war from defensive to offensive, enabling the planned attacks on slaver cities in Chapter 20. Adheres to "show, don't tell" principles with detailed battle sequences and character development.
+- Revised Ch 15 ("Burden of Grace") & Ch 16 ("The Network Revealed"): Added new section to end of Ch 15 detailing initial caravan raids, liberation of slaves, training, supply acquisition, and widening of the valley path. Modified opening of Ch 16 to reflect these changes, showing an expanded, more active settlement and defenses when Maera's group arrives. This provides a smoother transition and demonstrates the immediate impact of the new offensive strategy.
+- Revised Ch 16 ("The Network Revealed"): Corrected continuity error regarding Grimjaw's arrival. Instead of a fully assembled siege engine (impossible due to terrain), he now brings components (glowing steel bands, strange contraptions, timber) hauled by oxen, which are then assembled into war machines guarding the valley entrance.
 - Revised Ch 15 ("Burden of Grace"): Changed timing and context of Thorek's arrival to be two days after the battle, during Gond's vigil at the graves, to enhance narrative impact and reduce convenience.
 - Revised Ch 14 ("The Legend Begins"): Updated defensive preparations, added new detailed battle description, adhered to "show, don't tell."
 

@@ -2,7 +2,7 @@
 
 The Citadel of Asham-Val squatted on its rocky outcrop like a diseased tooth, its black stone walls scarred by weeks of dwarven siege engines. Gond reined in his horse at the crest of the hill, studying the fortress that had once been a beacon of Turin's justice and now served as the final stronghold of corruption.
 
-"Impressive stonework," Pell observed, riding up beside him. "Shame about the current tenants."
+"Solid walls," Pell remarked, pulling up alongside. "Too bad about the folks inside."
 
 Below them, the combined army stretched across the valley floor—humans, dwarves, and elves united in common cause. Smoke rose from a dozen siege positions where Grimjaw's engines hurled stone and fire at the citadel's walls. The sound of metal on stone rang across the landscape like a blacksmith's hammer, punctuated by the occasional crash of falling masonry.
 
@@ -14,63 +14,63 @@ Gond nudged his horse forward, and the others followed. As they descended toward
 
 The command post buzzed with activity. Maps covered every available surface, marked with siege positions, supply lines, and assault routes. Thorek Ironheart stood at the center of it all, his massive frame bent over a detailed sketch of the citadel's defenses. The dwarven war-priest looked up as Gond approached, his weathered face creasing into a grim smile.
 
-"About time you showed up," Thorek rumbled, clasping Gond's forearm in the traditional dwarven greeting. "We've been having all the fun without you."
+"About time you showed up," Thorek grumbled, but his grip on Gond's forearm was firm. "We were starting to think you'd let us have all the fun."
 
-"Looks like you've made good progress," Gond said, studying the map. Several sections of the outer wall showed breach points, and siege towers had been positioned for assault.
+"Looks like you've been busy," Gond said, eyes scanning the map. Breaches marked the outer wall, siege towers loomed.
 
-"Aye, but it's the inner keep that's the real problem," Thorek said, pointing to the citadel's heart—a massive tower that rose from the center of the complex like a stone spear. "That's where they've holed up. The corrupt priests and their remaining guards. Maybe two hundred men, but they're fanatics. And the keep itself..." He shook his head. "It's impregnable. Built in the old style, with walls thick as a man is tall and wards that turn aside both steel and sorcery."
+"Aye, chewed through the rind, no problem," Thorek said, jabbing a thumb at the citadel's core—a monster of a tower. "But the heart of it? That's where the rot's dug in. Priests, their pet guards. Maybe two hundred, all frothing at the mouth. And that keep…" He spat. "Built like a mountain. Walls thicker'n a giant's skull, wards that'll laugh at steel and spit back spells."
 
 Gond frowned. "What about divine power?"
 
-"Tried it myself," Thorek admitted, his voice carrying frustration. "The corruption runs deep, but the foundations are still blessed by Turin's own hand. It resists even righteous force."
+"Tried it myself," Thorek admitted, his voice carrying frustration. "The corruption runs deep, but the foundations are still blessed by Turin's own hand. When I struck them with my hammer, calling on Turin's might, the stones shimmered with Turin's silver light, and I felt a jolt as if lightning itself pushed back. It resists even righteous force."
 
 "Then how do we reach them?"
 
-Thorek's eyes gleamed with something between hope and uncertainty. "There might be a way. But it's dangerous, and it requires..." He glanced around the tent, then lowered his voice. "It requires awakening something that's been sleeping for three centuries."
+Thorek's eyes gleamed with something between hope and uncertainty. "There might be a way. But it's dangerous, and it requires…" He glanced around the tent, then lowered his voice. "It requires awakening something that's been sleeping for three centuries."
 
 He led them to a smaller section of the map, pointing to a structure near the base of the keep. "The Hall of Guardians. Built by my ancestors when the alliance between our peoples was strong, when Turin and Alanyi worked hand in hand to protect the innocent."
 
-Silviana stepped closer, her ancient eyes studying the markings. "I remember the stories. Four Guardians, wrought of stone and steel, animated by Turin's own wrath against injustice."
+Silviana stepped closer, her ancient eyes studying the markings. "I remember the stories. Four Guardians, wrought of stone and steel, animated by Turin's own wrath against injustice." Her voice was hushed, and as she spoke of that wrath, a faint scent of ozone seemed to touch the air in the command tent, as if the memory alone carried a spark of its power.
 
-"Aye," Thorek nodded. "The Guardians of Turin. My people built them as the ultimate expression of divine justice—constructs that could channel the god's power directly, unstoppable in their purpose." His expression darkened. "But when the schism came, when humans and dwarves went their separate ways, the knowledge of their awakening was... divided."
+"Aye," Thorek nodded. "The Guardians of Turin. My people built them as the ultimate expression of divine justice—constructs that could channel the god's power directly, arcs of silver lightning occasionally visible within their stone frames even in dormancy, unstoppable in their purpose." His expression darkened. "But when the schism came, when humans and dwarves went their separate ways, the knowledge of their awakening was… divided."
 
 "Divided how?" Gond asked.
 
-"The rituals, the words of power—my battlemasters still know them. Passed down through generations, kept alive in our war-chants and ceremonies. But the divine spark needed to wake them..." Thorek looked directly at Gond. "That requires a level of power we haven't possessed since the old alliances broke."
+"The rituals, the words of power—my battlemasters still know them. Passed down through generations, kept alive in our war-chants and ceremonies. But the divine spark needed to wake them…" Thorek looked directly at Gond. "That requires a level of power we haven't possessed since the old alliances broke."
 
-Gond felt a chill run down his spine. "You want me to awaken them."
+A shiver traced Gond's spine. "You want me to wake them."
 
-"The humans have forgotten what the Guardians even are," Thorek continued. "They think the Hall is just another storage chamber. Security is light—a handful of guards at most. But the keep itself, where the corrupt priests hide..." He gestured at the map. "That's a fortress within a fortress. Impregnable to any force we can bring to bear."
+"Humans don't even remember what they are," Thorek pressed on. "Think the Hall's just a dusty storeroom. The guard is light, sloppy. But that keep, where the filth is hiding..." He jabbed the map again. "That's a nut we can't crack, not with what we've got."
 
-"Except the Guardians," Silviana said quietly. "If they could be awakened."
+"Unless the Guardians can," Silviana murmured, her eyes distant.
 
-"But I'm a paladin of Alanyi," Gond protested. "My power comes from her, not Turin. How could I possibly—"
+"But I'm Alanyi's paladin," Gond argued, a knot tightening in his gut. "My strength is hers, not Turin's. How in the blazes am I supposed to—"
 
 "Because they were allies once," Silviana interrupted, her voice carrying the weight of ancient memory. "In the early days, before the world grew dark and divided, Turin and Alanyi worked together. Justice and mercy, strength and compassion—two faces of the same divine truth. The rituals were designed for both powers working in harmony."
 
-Thorek nodded eagerly. "My grandfather's grandfather told stories of the old ceremonies. Priests of both gods standing together, their powers intertwined like the roots of a great tree. If anyone could bridge that gap..." He looked at Gond with something approaching reverence. "It would be you."
+Thorek nodded eagerly. "My grandfather's grandfather told stories of the old ceremonies. Priests of both gods standing together, their powers intertwined like the roots of a great tree. If anyone could bridge that gap…" He looked at Gond with something approaching reverence. "It would be you."
 
-Gond stared at the map, his mind racing. The idea was audacious, dangerous, and possibly suicidal. But if it worked...
+Gond stared at the map, his mind racing. The idea was audacious, dangerous, and possibly suicidal. But if it worked…
 
 "What would I need to do?"
 
-"A small team," Thorek said immediately. "Three people at most, to avoid drawing attention. You, one of my battlemasters who knows the awakening rites, and..." He glanced at Silviana. "Someone who understands the old bonds between the gods."
+"A small team," Thorek said immediately. "Three people at most, to avoid drawing attention. You, one of my battlemasters who knows the awakening rites, and…" He glanced at Silviana. "Someone who understands the old bonds between the gods."
 
 "I'll go," Silviana said without hesitation. "This is what I came here for—to see the ancient alliances restored."
 
 "The guards?" Pell asked, ever practical.
 
-"Six men, maybe eight," Thorek replied. "Professional soldiers, but not expecting trouble. The real challenge will be the ritual itself. If it fails..."
+"Six men, maybe eight," Thorek replied. "Professional soldiers, but not expecting trouble. The real challenge will be the ritual itself. If it fails…"
 
-"If it fails, we're no worse off than we are now," Gond said, though his voice carried more confidence than he felt. "And if it succeeds?"
+"If it fails, we're back where we started," Gond said, trying to sound more sure than he felt. "And if it works?"
 
-Thorek's grin was fierce. "If it succeeds, the corrupt priests will learn what Turin's true wrath looks like."
+Thorek's grin was all teeth and fire, a flicker of silver in his eyes. "If it works, those oathbreakers will find out what Turin's real anger feels like—a silver storm, quick and final."
 
 ***
 
 The approach to the Hall of Guardians took them through a maze of rubble and abandoned outbuildings. The siege had reduced much of the citadel's outer structures to ruins, providing ample cover for their small party. Gond moved carefully through the debris, his divine senses alert for any sign of danger.
 
-Beside him, Korgan Ironbeard—Thorek's chosen battlemaster—muttered prayers under his breath. The dwarven warrior carried an ancient hammer inscribed with runes that seemed to pulse with their own inner light. His beard was braided with iron rings that chimed softly with each step, and his eyes held the fervor of one who had waited his entire life for this moment.
+Beside him, Korgan Ironbeard—Thorek's chosen battlemaster—muttered prayers under his breath. The dwarven warrior carried an ancient hammer inscribed with runes that seemed to pulse with a faint, inner silver light, an occasional tiny spark escaping the etched symbols. His beard was braided with iron rings that chimed softly with each step, and his eyes held the fervor of one who had waited his entire life for this moment.
 
 Silviana brought up the rear, her elven grace allowing her to move through the rubble without disturbing so much as a pebble. She carried her staff of white wood that seemed to glow faintly in the gathering dusk, and her lips moved in silent prayers to Alanyi.
 
@@ -78,19 +78,19 @@ Silviana brought up the rear, her elven grace allowing her to move through the r
 
 The Hall of Guardians stood before them, a low building of black stone that seemed to absorb the fading light. Unlike the ornate architecture of the keep, this structure was purely functional—thick walls, narrow windows, and a single heavy door bound with iron. Two guards stood at the entrance, their attention focused outward toward the siege lines.
 
-"Six more inside," Gond murmured, his enhanced senses picking up the sound of voices and movement within. "They're playing dice."
+"Six more inside," Gond murmured, his senses sharp. "I can hear them playing dice."
 
-"Overconfident," Korgan growled. "They think themselves safe behind these walls."
+"Cocky fools," Korgan rumbled. "Think these stones'll keep 'em safe."
 
-"They're about to learn otherwise," Silviana said, her voice carrying an edge that reminded Gond that elves, for all their grace and wisdom, were still warriors when the need arose.
+"They're in for a rude awakening," Silviana said, a glint in her ancient eyes that spoke of elven steel.
 
-The attack came swift and silent. Gond's sword took the first guard before the man could cry out, while Silviana's staff struck the second with a burst of silver light that dropped him unconscious to the stones. They dragged the bodies into the shadows and approached the door.
+The attack was swift and quiet. Gond's blade silenced the first guard. Silviana's staff flared, and the second dropped without a sound. They dragged the bodies into the shadows and faced the door.
 
-"Ready?" Gond asked.
+"Ready?" Gond asked, his voice low.
 
-Korgan's hammer began to glow brighter, and Silviana's staff hummed with barely contained power. Gond drew his sword, feeling Alanyi's presence stir within him like a warm flame.
+Korgan's hammer began to glow brighter, and Silviana's staff hummed with barely contained power. Gond drew his sword, feeling Alanyi's presence stir within him.
 
-The door burst inward with a crash that echoed through the hall. The six guards inside scrambled for their weapons, but they were too slow. Gond moved like a force of nature, his blade weaving patterns of silver light that cut through armor and flesh with equal ease. Korgan's hammer sang as it crushed bone and steel, while Silviana's magic turned aside sword strokes and sent men flying into the walls.
+The door burst inward with a crash that echoed through the hall. The six guards inside scrambled for their weapons, but they were too slow. Gond moved like a whirlwind, his blade weaving patterns of silver light that cut through armor and flesh with equal ease. Korgan's hammer sang as it crushed bone and steel, while Silviana's magic turned aside sword strokes and sent men flying into the walls.
 
 The fight was brief but vicious. When the last guard fell, the hall was silent except for the sound of their breathing and the distant rumble of siege engines.
 
@@ -112,7 +112,7 @@ Silviana added her voice to his, singing in the liquid syllables of ancient Elvi
 
 "Now," Korgan called out. "Reach for your goddess. Let her power flow through you, but don't try to control it. Let it find its own path."
 
-Gond closed his eyes and opened himself to Alanyi's presence. The familiar warmth bloomed in his chest, but this time it felt different—stronger, more focused. He could feel the goddess's attention upon him, her approval flowing through their connection like sunlight through crystal.
+Gond closed his eyes and opened himself to Alanyi's presence. The familiar warmth bloomed in his chest, but this time it felt different—stronger, more intense. He could feel the goddess's focus upon him, her approval flowing through their connection like sunlight through crystal.
 
 *Trust,* her voice whispered in his mind. *Trust in the old bonds, the ancient friendships. What was divided can be made whole.*
 
@@ -120,7 +120,7 @@ The power flowed out of him and into the platform, following the carved channels
 
 "It's working," Silviana gasped. "The old bonds are remembering themselves."
 
-The chamber filled with light—not the silver radiance of Alanyi alone, but something richer and more complex. Gold and silver intertwined, justice and mercy dancing together in perfect harmony. The very air began to sing with power, and Gond felt another presence stirring—vast, ancient, and filled with righteous fury.
+The chamber filled with light—not the golden radiance of Alanyi alone, but something richer and more complex. Silver and gold intertwined, justice and mercy dancing together in perfect harmony. The very air began to sing with power, and Gond felt another presence stirring—vast, ancient, and filled with righteous fury.
 
 *Sister,* Turin's voice rumbled through the chamber, speaking directly to Alanyi through their shared connection. *It has been too long.*
 
@@ -154,7 +154,7 @@ Without another word, the four Guardians began to move toward the chamber's exit
 
 From outside came the sound of screaming—not the cries of battle, but the shrieks of men who had suddenly realized they faced something far beyond their understanding. The ground shook as the Guardians moved through the citadel, and flashes of lightning illuminated the windows of the inner keep.
 
-The corrupt priests' stronghold, which had withstood weeks of siege and resisted every assault, lasted less than ten minutes against the Guardians' advance. Walls that had been blessed by Turin's own power crumbled before constructs that carried his direct authority. Wards that had turned aside sorcery and steel alike shattered like glass before the combined might of justice and mercy working in perfect harmony.
+The corrupt priests' stronghold, which had withstood weeks of siege and resisted every assault, lasted less than ten minutes against the Guardians' advance. Walls that had been blessed by Turin's own power—their stones perhaps still holding faint, dormant silver energies—crumbled before constructs that carried his direct authority, the ancient wards shattering with sharp cracks like thunder. Wards that had turned aside sorcery and steel alike shattered like glass before the combined might of justice and mercy working in perfect harmony.
 
 The screaming stopped abruptly, replaced by a silence that was somehow more terrible than any sound. Then, from the direction of the keep, came a new noise—a deep, resonant hum that seemed to come from the earth itself.
 
@@ -164,33 +164,27 @@ They emerged from the Hall of Guardians to find the citadel transformed. Where t
 
 As Gond watched, the divine constructs turned toward him one final time. Their eyes, which had blazed with the fire of righteous judgment, were growing dim. Cracks appeared in their stone flesh, spreading like spider webs across their mighty forms.
 
-"It is done," the first Guardian said, its voice already growing faint. "Justice has been served. The innocent are avenged."
+"It is done," the first Guardian's voice faded. "Justice is served. The innocent, avenged."
 
-"The corruption is cleansed," added the second, pieces of its hammer beginning to crumble away. "The guilty have faced judgment."
+"The blight is cleansed," the second rasped, its hammer crumbling. "The guilty have answered."
 
-"Our purpose is fulfilled," said the third, its sword dissolving into motes of golden light. "We return to the eternal rest."
+"Our task is complete," the third stated, its sword dissolving to silver dust. "We go to our rest."
 
-The fourth Guardian looked directly at Gond, and for a moment its fading eyes seemed almost human. "Tell them," it said, its voice barely a whisper. "Tell them that Turin and Alanyi remember their ancient bond. Tell them that justice and mercy are not enemies, but partners in the dance of righteousness."
+The fourth Guardian fixed its dimming, almost human eyes on Gond. "Keep the bond. Mercy and justice."
 
 With those words, the Guardians crumbled to dust. The divine fire that had animated them flickered once and went out, leaving only four piles of stone and metal where the mighty constructs had stood.
 
-Gond sank to his knees, overwhelmed by what he had witnessed. The power that had flowed through him during the ritual had left him drained, but more than that, he felt the weight of what had just occurred. The corrupt priests were dead, their stronghold destroyed, but the cost...
+Gond sank to his knees, overwhelmed by what he had witnessed. The power that had flowed through him during the ritual had left him drained, but more than that, he felt the weight of what had just occurred. The corrupt priests were dead, their stronghold destroyed, but the cost…
 
-"They chose this," Silviana said gently, placing a hand on his shoulder. "They were created for this purpose, and they fulfilled it willingly. There is no tragedy in a life lived according to its true calling."
+"They were made for this," Silviana said softly, her hand on his shoulder. "They did their duty. Now they return to the gods."
 
-"The war is over," Korgan added, his voice filled with wonder. "The last bastion of the old corruption has fallen. The age of slavery ends here, in this place, with this act."
+"It's over," Korgan breathed, awe in his voice. "The last den of that filth… gone. Slavery dies today, right here."
 
 From the siege lines came the sound of cheering as word of the keep's destruction spread through the army. Horns blew, drums thundered, and voices rose in songs of victory and thanksgiving. The combined forces of humans, dwarves, and elves had witnessed something unprecedented—the direct intervention of the gods themselves in the affairs of mortals.
 
-But Gond barely heard the celebration. His attention was fixed on the piles of dust that had once been the Guardians, and on the words that still echoed in his mind: *Justice and mercy are not enemies, but partners in the dance of righteousness.*
+"Come on," Silviana said, helping Gond up. "The others need to see you. They need to know what happened here."
 
-"Come," Silviana said, helping him to his feet. "The others will want to see you. They'll want to know what happened here."
-
-Gond nodded, though his legs felt unsteady. As they made their way back through the ruins of the citadel, he found himself thinking about the journey that had brought them to this moment. It had begun with betrayal and slavery, continued through rebellion and war, and now... now it was ending with something he had never expected to see.
-
-Not just victory, but redemption. Not just the defeat of enemies, but the restoration of ancient bonds that had been thought lost forever. The Guardians were gone, but their message remained: the gods had not forgotten their people, and the old alliances could be renewed.
-
-
+Gond nodded, though his legs felt unsteady. As they made their way back through the ruins of the citadel, he found himself thinking about the journey that had brought them to this moment. It had begun with betrayal and slavery, continued through rebellion and war, and now… now it was ending with something he had never expected to see.
 
 ***
 
@@ -199,5 +193,3 @@ In the days that followed, the ruins of the Citadel of Asham-Val became a place 
 The dust of the Guardians was gathered with reverence and divided among the temples of both gods, a reminder that divine power was not meant to be hoarded but shared. The Hall of Guardians itself was consecrated as a shrine to the renewed friendship between Turin and Alanyi, a place where priests of both faiths could come to remember the bonds that united them.
 
 Most importantly, the victory at Asham-Val marked the end of organized resistance to the new order. Word spread quickly across the continent that the last stronghold of the old corruption had fallen, and with it, the final hope of those who would restore the age of slavery and oppression.
-
-But more than a military victory, it was a spiritual one. The sight of the gods themselves working together sent a clear message to every temple and shrine across the land: the divine powers supported the cause of freedom and justice, and those who would corrupt their teachings did so at their own peril.

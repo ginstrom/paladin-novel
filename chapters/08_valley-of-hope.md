@@ -1,6 +1,10 @@
 # Chapter 8: The Valley of Hope
 
-It took the party another week to find the valley. Trudging over steep hills, the land opened suddenly into a wide valley sheltered by towering cliffs. A narrow waterfall tumbled down one sheer wall, pooling into a lake so clear Gond could see the bottom twenty feet down. Green grass carpeted the valley floor, dotted with wildflowers and fruit trees gone wild. The band quickly set up camp and started setting up a more permanent encampment.
+The journey from Alanyi's hidden temple to the valley Maera had spoken of took them the better part of a week. The terrain grew wilder, the paths less certain. Sim, however, seemed to navigate with an uncanny sense of direction. Several times, when Gond found himself doubting their course through a dense thicket or a confusing maze of ravines, he would see Sim pause, head tilted as if listening to some distant whisper. The priest would often draw out the silver-green leaf Maera had given him, holding it cupped in his palm.
+
+One afternoon, as they rested in the shade of an ancient, gnarled oak, Gond watched Sim with the leaf. The priest held it out, turning it slowly. As the leaf pointed towards a distant, unseen cleft in the mountains, a soft, pearlescent light pulsed from its veins, so faint Gond might have dismissed it as a trick of the dappled sunlight. But the light was steady, a gentle thrum against Sim's skin. Sim nodded to himself, a quiet smile touching his lips, and then tucked the leaf away. When they resumed their march, he led them towards that cleft with renewed confidence. The way, though still arduous, seemed to open before them more easily, as if the very land consented to their passage.
+
+Finally, after days of trudging over steep hills, the land opened suddenly into a wide valley sheltered by towering cliffs. A narrow waterfall tumbled down one sheer wall, pooling into a lake so clear Gond could see the bottom twenty feet down. Green grass carpeted the valley floor, dotted with wildflowers and fruit trees gone wild. The band quickly set up camp and started setting up a more permanent encampment.
 
 To the suprise of Gond, Dax took the lead in constructing the encampment. He had been an apprentice carpenter, and in fact his family had been traveling to a nearby city to submit his master-work when they were attacked by raiders. Having a purpose seemed to energize Dax, and to Gond, watching him break out of his shell and join the men in their work reminded him of a fresh recruit working his way up to full soldier.
 
@@ -8,7 +12,7 @@ A week after they reached the valley, the first of the refugees arrived.
 
 She said her name was Lira, an escaped slave who looked no more than eighteen. Her dark hair hung in matted tangles around a face hollowed by hunger, and fresh cuts marked her arms where shackles had rubbed raw. She limped badly, favoring her left leg, and barely made it to the valley's edge before collapsing.
 
-"Maera sent me," she gasped as Sim knelt beside her with water and gentle hands. "Said there were... people like me here."
+"Maera sent me," she gasped, her breath catching in ragged sobs as Sim knelt beside her with water and gentle hands. Her fingers, raw and trembling, fumbled at the neck of her ragged tunic and drew out a silver-green leaf, clutched so tightly its edges had creased. She held it out, a desperate offering. "She said… show this. That it would prove… I am who I say. That you would know I was sent by one who helps." The leaf lay on her dirt-stained palm, seemingly ordinary, yet her eyes clung to it as if it were a sacred relic. "She said there were… people like me here."
 
 Her story emerged in fragments as Sim tended her wounds. Her father had sold her into slavery to pay for debts, but she had relatively easy work as a kitchen maid in a merchant's house. But she was caught stealing bread for her sick mother, and the magistrate decided to make an example by sending her to the salt mines. She had escaped just before the guards came to claim her, and had been on the run for two weeks.
 
@@ -20,7 +24,7 @@ Gond found himself stepping forward before he'd made a conscious decision. Somet
 
 The words felt right in his mouth, weighted with certainty he didn't fully understand. Around the fire, the others their agreement, and Gond saw something shift in their faces—a recognition of his authority that went beyond mere survival.
 
-After that, refugees continued to arrive in ones, twos, and threes, with similar stories for the most part: escaped slaves, peasants fleeing cruel masters, apprentices put out by their masters. Another commonality to all the refugees was the name they mentioned: Maera. She was sending refugees on to them. Where she sent them before nobody knew.
+After that, refugees continued to arrive in ones, twos, and threes, with similar stories for the most part: escaped slaves, peasants fleeing cruel masters, apprentices put out by their masters. Many of them carried the same silver-green leaf that Sim and Lira had. Another commonality to all the refugees was the name they mentioned: Maera. She was sending refugees on to them. Where she sent them before nobody knew.
 
 Sim took charge of the refugees, arranging shelter, and giving them tasks to keep the group fed and prepare for the coming seasons.
 
@@ -32,7 +36,7 @@ Three weeks after finding the valley, Gond, Lira and Pell were out hunting a day
 
 Pell frowned, scanning the area. "Looks clear to me."
 
-"Just wait," repeated Gond. "There's something..."
+"Just wait," repeated Gond. "There's something…"
 
 Within minutes, dust clouds appeared on the horizon. An armed party, moving fast along the very route Pell had suggested.
 
@@ -60,7 +64,7 @@ The single word hung in the air. Korven's hand froze halfway to his blade. Alia'
 
 The argument died as if it had never been. Korven nodded curtly and moved to his assigned position. Lira gathered the children and began tending them. The others dispersed to their tasks, the tension evaporating like morning mist. Several refugees glanced back at Gond with expressions of relief and something approaching reverence.
 
-Pell appeared at Gond's elbow as they settled for the night. "That was... interesting. Since when do you command that kind of authority?"
+Pell appeared at Gond's elbow as they settled for the night. "That was… interesting. Since when do you command that kind of authority?"
 
 "Since I started making sense instead of noise." But even as Gond spoke, he wondered at how easily the conflict had resolved. The words had felt right in his mouth, weighted with certainty he didn't understand.
 
@@ -86,7 +90,7 @@ Soft footsteps announced Sim's approach. The priest settled beside him on the ro
 
 "Troubled thoughts?"
 
-"Just wondering how we got here." Gond kept his voice low. "Few weeks ago, I was a sellsword with no responsibilities beyond my next meal. Now..."
+"Just wondering how we got here." Gond kept his voice low. "Few weeks ago, I was a sellsword with no responsibilities beyond my next meal. Now…"
 
 "Now you carry the hopes of two dozen souls." Sim's voice held no judgment. "Heavy burden."
 

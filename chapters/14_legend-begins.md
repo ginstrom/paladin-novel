@@ -25,11 +25,11 @@ As they approached, Gond could see the man's condition—exhaustion, dehydration
 
 Westport. Gond's jaw tightened. That was nearly a hundred miles southeast—farther than any previous refugee had traveled to reach them. The implications were troubling.
 
-Marcus raised his head, and Gond saw tears cutting tracks through the grime on his cheeks. His hands shook as he spoke, and Gond noticed the raw blisters on his palms from weeks of walking with an improvised staff. "My granddaughter," he whispered, his voice cracking with exhaustion. "The wasting sickness. The healers in Westport... they said there was nothing—but I heard stories. A man who could work miracles. Please, I have gold—"
+Marcus raised his head, and Gond saw tears cutting tracks through the grime on his cheeks. His hands shook as he spoke, and Gond noticed the raw blisters on his palms from weeks of walking with an improvised staff. "My granddaughter," he whispered, his voice cracking with exhaustion. "The wasting sickness. The healers in Westport… they said there was nothing—but I heard stories. A man who could work miracles. Please, I have gold—"
 
 "Keep your gold," Gond said gently, helping Sim support the old man. "Where is she?"
 
-"I... I couldn't bring her. Too weak for the journey. She's with my daughter in Westport, but—" Marcus's voice broke. "She won't last much longer. Please, if you could come—"
+"I… I couldn't bring her. Too weak for the journey. She's with my daughter in Westport, but—" Marcus's voice broke. "She won't last much longer. Please, if you could come—"
 
 "I can't leave the valley," Gond said, the words tasting like ash in his mouth. "We're liable to be attacked—"
 
@@ -59,11 +59,11 @@ The answer came sooner than expected. A shout from the eastern watch post echoed
 
 Gond and Pell jogged toward the watch post, arriving just as the sentry pointed toward a group of figures emerging from the tree line. A dozen people, moving slowly, supporting each other. Refugees, by the look of them, but something was wrong. They moved with the desperate urgency of people fleeing immediate danger.
 
-"Slavers," the lead figure gasped as they reached the settlement's edge. A woman, middle-aged, her clothes singed and torn. "Burned out Millhaven village. Took everyone they could catch. We ran... been running for two days..."
+"Slavers," the lead figure gasped as they reached the settlement's edge. A woman, middle-aged, her clothes singed and torn. "Burned out Millhaven village. Took everyone they could catch. We ran… been running for two days…"
 
 "How many slavers?" Pell asked, already thinking tactically.
 
-"Fifty, maybe more. Professional outfit, not the usual raiders. They had a list." The woman's eyes found Gond, and he saw recognition dawn in them. "They were asking about the healer."
+"Fifty, maybe more. Professional outfit, not the usual raiders. They had a list." The woman's eyes found Gond, and he saw recognition dawn in them. "They were asking about the healer. They're moving fast, like they know exactly where they're going."
 
 The words hit the settlement like a physical blow. Conversations stopped. Children moved closer to their parents. Hands drifted toward weapons.
 
@@ -79,7 +79,7 @@ But even as he spoke the words, Gond felt the weight of leadership settling heav
 
 "If we start now? Six hours, minimum. And that's if we leave everything behind."
 
-Six hours. Gond looked at the smoke on the horizon, estimating distances and travel times. He reckoned they had two hours at most. And if they knew about the valley beforehand...
+Six hours. Gond looked at the smoke on the horizon, estimating distances and travel times. He reckoned they had two hours at most. And if they knew about the valley beforehand…
 
 "They'll be here by midday," he said.
 
@@ -99,7 +99,7 @@ The settlement exploded into controlled chaos as people scattered to follow his 
 
 "You think I should have stayed focused on Borin and Kael."
 
-"I think," Pell said slowly, "that a few months ago, you would have been halfway to wherever they're hiding by now. Instead, you're here, about to risk your life for a bunch of strangers."
+"I think," Pell said slowly, "that a few months ago, you would have been halfway to wherever they're hiding by now. Instead, you're here, about to risk your life for a bunch of strangers." His voice carried something Gond had never heard before—not just respect, but something deeper. "I've worked for a lot of men who called themselves leaders. Most of them only cared about what their followers could do for them."
 
 The observation hit Gond like a revelation. When had he last thought about his former comrades? When had the burning need for revenge faded into something so distant it felt like someone else's memory?
 
@@ -115,7 +115,7 @@ Gond felt something shift inside him, like a weight he'd been carrying for so lo
 
 "I don't want revenge anymore," he said, the words feeling strange on his tongue.
 
-"I know," Pell said simply. "Question is, what do you want instead?"
+"I know," Pell said simply. His eyes held a glint of something that might have been satisfaction. "First time I've followed someone who actually gives a damn about the people under his command. Makes a difference." He paused, then added quietly, "Question is, what do you want instead?"
 
 Before Gond could answer, another commotion arose from the settlement's edge. More refugees, these ones in even worse condition than the last group. And behind them, barely visible through the trees, the glint of metal in the morning sun.
 

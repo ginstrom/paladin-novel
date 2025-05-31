@@ -10,7 +10,7 @@ Gond met them in the settlement's center, flanked by Thorek and Silviana. The co
 
 "What happened?" Gond asked.
 
-Sir Marcus dismounted heavily, his movements those of a man pushed beyond exhaustion. Fresh scars crisscrossed his knuckles, and a partially healed cut ran from his left temple to his jaw—the kind of wound that came from fighting someone you'd once called brother. "Civil war. The Noble Knights have split down the middle. Half still believe we can reform the system from within. The other half..." He gestured to his battered companions. "We've seen enough."
+Sir Marcus dismounted heavily, his movements those of a man pushed beyond exhaustion. Fresh scars crisscrossed his knuckles, and a partially healed cut ran from his left temple to his jaw—the kind of wound that came from fighting someone you'd once called brother. "Civil war. The Noble Knights have split down the middle. Half still believe we can reform the system from within. The other half…" He gestured to his battered companions. "We've seen enough."
 
 "Seen enough of what?"
 
@@ -18,7 +18,7 @@ Sir Marcus dismounted heavily, his movements those of a man pushed beyond exhaus
 
 The words hit like physical blows. Heat bloomed beneath Gond's ribs, spreading outward through his chest like molten metal seeking release. His fingertips tingled with electric warmth, and for a moment, the air around him seemed to shimmer with barely visible light.
 
-"Roderick's been playing both sides," Sir Marcus continued. "Talking about honor and reform while his family profits from child slavery. When we confronted him..." He touched a bandage on his forehead. "Let's just say the discussion became heated."
+"Roderick's been playing both sides," Sir Marcus continued. "Talking about honor and reform while his family profits from child slavery. When we confronted him…" He touched a bandage on his forehead. "Let's just say the discussion became heated."
 
 "So you left?"
 
@@ -36,7 +36,7 @@ Thorek stepped forward, studying the knights with professional interest. "How ma
 
 The integration of the Noble Knight defectors proved more challenging than Gond had anticipated. Unlike the refugees and former slaves who'd joined them, these men came with ingrained assumptions about justice and divine purpose that needed careful reshaping.
 
-"I don't understand," Sir Garrett Blackwood declared during his first council session. "We're here to end slavery, to bring justice to the oppressed. Turin's hammer should fall on these slavers like divine wrath. Why all this talk of mercy and healing?"
+"I don't understand," Sir Garrett Blackwood declared during his first council session. "We're here to end slavery, to bring justice to the oppressed. Turin's hammer should fall on these slavers like divine wrath." As he spoke the last words, some in the council fancied they saw a flicker of silver light in his eyes, or heard the distant crackle of a storm, so fervent was his conviction. "Why all this talk of mercy and healing?"
 
 Sim, seated quietly in the circle, spoke with gentle firmness. "Because justice without mercy becomes vengeance. And vengeance breeds only more suffering."
 
@@ -48,7 +48,7 @@ Sir Garrett's brow furrowed. "Alanyi? But her temples are ruins. Her priests sca
 
 The knight's gaze swept the diverse gathering—former slaves working alongside dwarven smiths, elven advisors sharing ancient wisdom with human strategists, children who'd known only bondage now learning to read and fight.
 
-"I see... cooperation," Sir Garrett admitted reluctantly.
+"I see… cooperation," Sir Garrett admitted reluctantly.
 
 "You see healing," Gond corrected. "You see what happens when mercy tempers justice, when strength serves compassion rather than domination."
 
@@ -62,7 +62,7 @@ The evening council meeting was larger than usual, packed with representatives f
 
 "Frightened of what?" Sir Marcus asked.
 
-"Of being noticed," Sim replied quietly. "For two centuries, Alanyi's worship has been... discouraged. Not banned outright, but marginalized, forgotten, allowed to wither. Her temples fell into ruin while Turin's grew grand and wealthy."
+"Of being noticed," Sim replied quietly. "For two centuries, Alanyi's worship has been… discouraged. Not banned outright, but marginalized, forgotten, allowed to wither. Her temples fell into ruin while Turin's grew grand and wealthy."
 
 Silviana's gaze dropped to her hands, her fingers tracing the grain of the wooden table as if reading ancient stories in its surface. When she looked up again, moisture gathered at the corners of her eyes—the first crack in her elven composure that any of them had witnessed. "The elves remember when her light shone as bright as any god's. When healing and joy were valued as highly as strength and justice."
 
@@ -116,7 +116,7 @@ Sim stood slowly, his eyes bright with tears and wonder. "What would you have me
 
 "Lead her revival," Gond said simply. "Not through force or compulsion—but through example. As we liberate lands, as we free people from bondage, create spaces where her worship can flourish again. Rebuild the ruined temples, train new priests, but always remember—we offer hope—we don't demand faith."
 
-"I... I'm not worthy of such responsibility," Sim protested.
+"I… I'm not worthy of such responsibility," Sim protested.
 
 "None of us are," Gond replied with a slight smile. "But worthiness isn't the point. Willingness is. Will you serve?"
 
@@ -138,11 +138,11 @@ Thorek hefted his warhammer, but his expression was thoughtful rather than merel
 
 "And the Noble Knights who remain loyal to the old ways?" Sir Marcus asked.
 
-"They'll have to choose," Gond replied. "Stand with the corruption they've served, or embrace the restoration that's coming. Some will see the truth, as you did. Others..." He shrugged. "Turin's justice will find them eventually."
+"They'll have to choose," Gond replied. "Stand with the corruption they've served, or embrace the restoration that's coming. Some will see the truth, as you did. Others…" He shrugged. "Turin's justice will find them eventually."
 
 ***
 
-The next few days passed in a whirlwind of preparation, but now every action carried deeper meaning. In the settlement's makeshift temple, Sim worked alongside Silviana to consecrate weapons with ancient rites—swords gleamed with faint silver light after being anointed with blessed oils, crossbow bolts were carved with tiny symbols of Alanyi's mercy, and even the siege engines received ritual purification with sacred water drawn from the settlement's deepest well. Maps were studied not just for tactical advantage, but for the locations of ruined temples that could be reclaimed. Messages flew between allied forces, carrying word of the divine mandate that now guided their cause.
+The next few days passed in a whirlwind of preparation, but now every action carried deeper meaning. In the settlement's makeshift temple, Sim worked alongside Silviana to consecrate weapons with ancient rites—swords gleamed with faint silver light after being anointed with blessed oils, and even the siege engines received ritual purification with sacred water drawn from the settlement's deepest well. Maps were studied not just for tactical advantage, but for the locations of ruined temples that could be reclaimed. Messages flew between allied forces, carrying word of the divine mandate that now guided their cause.
 
 The transformation in the settlement was remarkable. The Noble Knight defectors, who had arrived seeking simple justice, now spoke of restoration and healing with the fervor of converts. Former slaves who had fought for freedom now understood they were part of something greater—the return of hope itself to a world that had forgotten its meaning.
 
@@ -158,7 +158,7 @@ Gond was quiet for a long moment, watching the diverse gathering that had become
 
 "Something like that." Gond's smile was rueful. "Though I suppose I'm not doing it alone."
 
-Indeed, the burden was shared. Sim had thrown himself into his new role, his shoulders squared with newfound purpose as he worked late into each night by candlelight, carefully transcribing ancient texts with Silviana. His gentle hands moved with steady precision across parchment, recording the scattered knowledge of Alanyi's rites and teachings. The elven lore-keeper proved invaluable, her ancient memory holding songs and ceremonies that had been lost to human knowledge for centuries.
+Indeed, the burden was shared. Sim had thrown himself into his new role, his shoulders squared with newfound purpose as he worked late into each night by candlelight, carefully transcribing ancient texts with Silviana. His gentle hands moved with painstaking deliberation across parchment, each letter formed with the careful concentration of someone for whom writing was still a struggle. More often than not, Silviana would speak the ancient words aloud while Sim listened with closed eyes, committing them to memory rather than parchment—his faith had always been one of the heart rather than the written word. The elven lore-keeper proved invaluable, her ancient memory holding songs and ceremonies that had been lost to human knowledge for centuries.
 
 The military preparations continued as well, but with new purpose. Elena coordinated with the elven forces, planning strikes that would not only disrupt the slave trade but also secure locations where Alanyi's temples could be rebuilt. Thorek worked with his Iron Covenant allies to ensure their assault on the inland strongholds would leave room for healing and restoration rather than just destruction.
 
@@ -170,7 +170,7 @@ The final council meeting before the campaign was held in the settlement's large
 
 "The northern force is ready," reported Captain Lyralei, speaking for the elven contingent. "Five hundred warriors, supported by mages and scouts. We'll strike at the supply routes through the Thornwood, but we'll also secure the ruins of the Starlight Shrine. Our lore-keepers believe it can be restored."
 
-"The Iron Covenant stands prepared," Thorek declared. "Two thousand hammers, ready to break whatever walls stand in our way. And when those walls fall, we'll help raise new ones—temples instead of slave pens—healing halls instead of auction houses."
+"The Iron Covenant stands prepared," Thorek declared. "Two thousand hammers for the central cities, ready to break whatever walls stand in our way. And when those walls fall, we'll help raise new ones—temples instead of slave pens—healing halls instead of auction houses."
 
 "And the coastal assault?" Elena asked.
 
@@ -225,7 +225,3 @@ The house of the old order was indeed divided, split between those who clung to 
 Tomorrow would bring the ultimate test. Three armies would march against an enemy that outnumbered them and outgunned them. The odds were long, the risks enormous.
 
 But as Gond looked out over the settlement—at the workshops and training grounds, the council halls and healing centers, the small shrine where Sim led evening prayers for a mixed congregation of humans, dwarves, and elves—he felt no doubt.
-
-They'd already won the most important victory. They'd proven that Alanyi's vision was possible, that mercy and justice could work together, that healing was stronger than hatred.
-
-Now all they had to do was share that victory with the world.

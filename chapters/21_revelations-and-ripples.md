@@ -6,7 +6,7 @@ The messenger arrived at dawn, his horse foam-flecked and trembling with exhaust
 
 Gond helped steady the messenger, noting the man's travel-stained robes marked him as a temple courier. "What kind of proclamation?"
 
-"About you." The messenger's pupils dilated with shock, his mouth working soundlessly for a moment before words emerged. "They've declared you either the greatest saint in a century or the most dangerous heretic since the Sundering Wars."
+"About you." The messenger's eyes were wide with shock, his mouth working soundlessly for a moment before words emerged. "They've declared you either the greatest saint in a century or the most dangerous heretic since the Sundering Wars."
 
 Gond's lips thinned. Another bloody complication. "And the temples are offering a consensus on which I am?" he asked, his voice dry.
 
@@ -42,13 +42,13 @@ Gond felt his stomach tighten. The Circle of Whispers was the highest authority 
 
 "And there's one more thing," the messenger added, consulting another scroll. "A delegation from Millhaven arrived yesterday, seeking audience. They claim to represent the merchant guilds."
 
-Gond's expression didn't change, but a new alertness entered his eyes. "Millhaven, you say? And they arrived *yesterday*?" The timing, as always, was suspect. "Something about them troubles you. What did you feel?"
+Gond's expression didn't change, but a new alertness entered his eyes. "Millhaven, you say? And they arrived *yesterday*?" The timing was suspect to say the least. "Something about them troubles you. What did you feel?"
 
-"Nothing I can put my finger on, Lord Gond... just a feeling. They're too smooth, their eyes too quick. And they don't carry the smell of incense, more like... old coin and something else I can't name."
+"Nothing I can put my finger on, my Lord… just a feeling. They're too smooth, their eyes too quick."
 
 "But you have concerns about them," Gond stated, his gaze steady on the messenger.
 
-"Well it ain't for me to say I figure, but they don't behave like any priests I've seen before."
+"Well it ain't for me to say I figure, but they don't behave like any priests of Kemiss I've seen before."
 
 Silviana's eyes sharpened. "Priests of Kemiss? Here?"
 
@@ -66,15 +66,15 @@ They wore the robes of Kemiss priests—rich blue fabric with golden thread depi
 
 "Greetings," said the elder of the two as Gond and his retinue entered. The man rose with a fluid motion that belied his thin frame. His smile was a carefully constructed artifice. "I am Brother Aldwin, and this is Brother Cassius. We represent the merchant guilds of Millhaven."
 
-"An honor you travel so far for," Gond said, his tone neutral as he took a seat. He gestured for his companions. "Millhaven's guilds have not typically concerned themselves with settlements such as ours. What 'opportunities' bring you here now?" His gaze was direct, missing nothing of their subtle reactions.
+"An honor you have traveled so far to speak with us," Gond said, his tone neutral as he took a seat. He gestured for his companions. "Millhaven's guilds have not typically concerned themselves with settlements such as ours. What 'opportunities' bring you here now?" His gaze was direct, missing nothing of their subtle reactions.
 
-"Trade opportunities," Aldwin replied smoothly. "Your... liberation activities have disrupted certain supply chains. We're here to discuss alternative arrangements that might benefit all parties."
+"Trade opportunities," Aldwin replied smoothly. "Your… liberation activities have disrupted certain supply chains. We're here to discuss alternative arrangements that might benefit all parties."
 
-The air in the room seemed to thicken, carrying an acrid scent like burning copper. Gond felt the divine power stirring uneasily in his chest, like a warning bell. There was something fundamentally wrong about these men, something that made his paladin senses recoil.
+The air in the room seemed to thicken, carrying an acrid scent like burning weeds. Gond felt the divine power stirring uneasily in his chest, like a warning bell. There was something fundamentally wrong about these men, something that made his paladin senses recoil.
 
 "What kind of arrangements?" Elena asked.
 
-"Practical ones," Cassius spoke for the first time, his voice carrying an odd resonance. "The slave trade serves important economic functions. Perhaps we could find ways to... reform it rather than destroy it entirely."
+"Practical ones," Cassius spoke for the first time, his voice carrying an odd resonance. "The slave trade serves important economic functions. Perhaps we could find ways to… reform it rather than destroy it entirely."
 
 "Reform slavery?" Thorek's hand moved to his warhammer. "That's like reforming murder."
 
@@ -84,7 +84,7 @@ As he spoke, Gond felt something else—a creeping sensation of fear trying to w
 
 "You're not priests of Kemiss," Silviana said suddenly, her elven senses apparently detecting the same wrongness.
 
-The two men's facades cracked slightly. Aldwin's smile became predatory, while Cassius's eyes flashed with something that wasn't entirely human.
+The two men's facades cracked slightly. Aldwin's smile became predatory, while something flickered in Cassius's eyes that wasn't entirely human.
 
 "Perceptive," Aldwin said. "But then, we expected no less from the so-called paladin's advisors."
 
@@ -92,13 +92,15 @@ The fear effect intensified, washing over the room like a tide. Gond saw Elena's
 
 But Gond felt the divine power surge in response, burning away the imposed fear like sunlight through fog. More than that—he sensed the true nature of the men before him. Not merchants, not even priests of Kemiss, but something far darker.
 
-"Gorlatch," he said, the name coming to him with divine certainty.
+"Gorlatch," he said, the name coming to him with divine certainty, along with a clear call to action.
 
 Both men hissed, their human masks slipping further. "The Forbidden God has many servants," Cassius snarled. "More than you know. We have worked for centuries to build what you seek to destroy."
 
 "The slave trade," Gond realized. "It was never just about profit. It was about corruption, about weakening Alanyi's influence."
 
 "Finally, he understands," Aldwin laughed, a sound like a mail fist dragged across glass. "Every chain forged, every auction blessed, every temple that turned from mercy to commerce—all part of the great work. The waning of the light, the triumph of profitable darkness."
+
+"And your companions are helpless to aid you," laughed Cassius. "They are frozen by the sending of our Master." Cassius' eyes had turned completely black. "And even a paladin can't stand against two high priests of Gorlatch!"
 
 The fear spell pulsed stronger, but Gond drew his sword. The silver blade blazed with blue-white light, and suddenly his companions could move again. Elena's blade cleared its sheath, Thorek raised his warhammer, and Silviana began weaving protective magic.
 
@@ -122,6 +124,8 @@ Gond sheathed his sword, feeling the divine light fade but not disappear entirel
 
 As they left the guest quarters, Gond felt the weight of revelation settling on his shoulders. The enemy was larger and more insidious than they'd imagined. But they'd also proven something important—his divine power could cut through even ancient evil.
 
+Later examination by Gond found that the rest of the delegation were ordinary merchants who knew nothing of their leaders' true form. Gond permitted them to leave in peace, telling them to spread the word that the days of Gorlatch's influence were ending.
+
 ***
 
 The next afternoon, the council met again to discuss the request from the elves.
@@ -144,7 +148,7 @@ The blunt assessment sent a chill through the chamber. For all their victories, 
 
 "Absolutely not," Elena protested. "It could be a trap. The Circle might be neutral, but they have their own agenda."
 
-"What choice do I have? If I refuse, it confirms their suspicions. If I go and fail their tests..." He shrugged. "At least we'll know where we stand."
+"What choice do I have? If I refuse, it confirms their suspicions. If I go and fail their tests…" He shrugged. "At least we'll know where we stand."
 
 "You won't go alone," Thorek declared. "The Iron Covenant has as much right to witness this as anyone."
 
@@ -170,7 +174,7 @@ Gond had expected elves, but these beings transcended such simple categories. Th
 
 The eldest, a figure whose hair was white as starlight and whose eyes held the depth of centuries, rose from her stone seat.
 
-"Gond of the Valley," she said, her voice carrying the music of wind through leaves. "I am Aelindra, Speaker for the Circle. You have claimed claiming authority. To cliam such authority falsely carries grave consequences. How do you answer?"
+"Gond of the Valley," she said, her voice carrying the music of wind through leaves. "I am Aelindra, Speaker for the Circle. You have claimed divine authority. To cliam such authority falsely carries grave consequences. How do you answer?"
 
 "I claim nothing," Gond replied, his voice steady as he stepped forward. He met Aelindra's ancient gaze without flinching. "I am what Alanyi, or fate, or sheer bloody-mindedness has made me. If your Circle deems that 'divine authority,' that is your word for it. I call it a heavy load and a path I walk because I must."
 
@@ -182,7 +186,7 @@ A subtle murmur, like the rustling of ancient leaves, passed through the Circle.
 
 Another member of the Circle, a male elf with silver hair and eyes like deep forest pools, leaned forward. "Yet you wield power that could only come from divine blessing. We have felt it from here—the healing light—the righteous fury, the touch of something beyond mortal ken."
 
-"I do what needs doing. If the power comes from Alanyi, I'm grateful. If it comes from somewhere else..." Gond shrugged. "I'll use it to free slaves and protect the innocent either way."
+"I do what needs doing. I accept Alanyi's power with gratitude, for our need is great. If this makes me a paladin, then so be it. If not…" Gond shrugged. "I'll use it to free slaves and protect the innocent either way."
 
 "Even if it damns your soul?" asked a third member, her voice sharp as winter wind.
 
@@ -214,7 +218,7 @@ The power flowed down his arms and into the wounded elf. For a moment, nothing h
 
 The elf gasped, his eyes widening in pain and hope. The darkness fought back, sending tendrils of cold up Gond's arms. He gritted his teeth and poured more power into the healing, feeling the divine light clash with primordial shadow.
 
-For a heartbeat, the outcome hung in balance. Then the shadow shattered like glass, dissolving into wisps of nothingness. The elf's arm blazed with silver light, flesh and bone reforming as if they'd never been damaged. As the light reached its zenith, a searing white that forced many to shield their eyes, Silviana gasped, her gaze fixed on Gond's brow. For an instant, superimposed over the faded slave brand, she saw two intertwined circles of pure, ethereal light—Alanyi's sigil—burning with an impossible intensity before vanishing as swiftly as it appeared. The healed elf, blinking against the afterglow, stared in awe at Gond's now-clear brow.
+For a heartbeat, the outcome hung in balance. Then the shadow shattered like glass, dissolving into wisps of nothingness. The elf's arm blazed with golden light, flesh and bone reforming as if they'd never been damaged. As the light reached its zenith, a searing brilliance that forced many to shield their eyes, Silviana gasped, her gaze fixed on Gond's brow. For an instant, superimposed over the faded slave brand, she saw two intertwined circles of pure, ethereal light—Alanyi's sigil—burning with an impossible intensity before vanishing as swiftly as it appeared. The healed elf, blinking against the afterglow, stared in awe at Gond's now-clear brow.
 
 When the light faded, the arm was whole.
 
@@ -234,7 +238,7 @@ Aelindra rose from her stone seat, and the other members of the Circle followed 
 
 "It means the elven nations will support his cause. It means our ancient treaties with the dwarves are renewed in common purpose. And it means the established human orders can no longer claim exclusive authority over divine matters."
 
-The implications hit Gond like a physical blow. This wasn't just religious recognition—it was a political earthquake that would reshape the balance of power across the continent.
+The implications left Gond stunned. This wasn't just religious recognition—it was a political earthquake that would reshape the balance of power across the continent.
 
 "There's more," Aelindra continued. "We offer you a gift, Paladin. Knowledge that may aid your cause."
 
@@ -272,15 +276,15 @@ Gond dismounted, the weariness of the past days settling into his bones, yet a n
 
 ***
 
-The council chamber buzzed with a nervous energy. Maps, old and newly acquired from the Circle, lay spread across the main table. Maera's scouts, dusty and grim-faced, stood ready to give their reports.
+The council chamber buzzed with a nervous energy. Maps, newly annotated with the knowledge acquired from the Circle, lay spread across the main table. Maera's scouts, dusty and grim-faced, stood ready to give their reports.
 
 "From the Northern Passes," one began, "three temples of Alanyi have declared for Gond. Their priests are now hunted by Royalist patrols. Lord Valerius of Stonebridge has mobilized his household guard, claiming to 'restore order'."
 
 Pell, leaning against a wall, let out a dry chuckle. "My 'noble' contact in the capital sends his panicked regards. Says the King's council is in an uproar. Half want to send an army to crush us, the other half want to send assassins to deal with Gond quietly. Apparently, 'heretic' and 'saint' are causing quite the theological headache."
 
-Elena, her hand resting on the hilt of her sword, pointed to a coastal region on one of the Circle's maps. "And the Slaver cities? This intelligence suggests they're consolidating forces near the Dragon's Teeth pass. They know their secrets are compromised."
+Elena, her hand resting on the hilt of her sword, pointed to a coastal region on one of the Circle's maps. "And the Slaver cities? This intelligence suggests they're pulling further into their cities. They know their secrets are compromised."
 
-Thorek slammed a mailed fist on the table. "Let them come! The Iron Covenant has waited centuries for a true reckoning."
+Thorek slammed a mailed fist on the table. "Then let's crush them now! The Iron Covenant has waited centuries for a true reckoning."
 
 "This isn't just about military might anymore, Thorek," Silviana interjected, her voice calm amid the rising tension. "We're fighting for the soul of civilization itself. The Circle's recognition gives us legitimacy, but it also paints a larger target on our backs."
 

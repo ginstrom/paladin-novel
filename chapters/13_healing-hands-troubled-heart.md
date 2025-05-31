@@ -50,7 +50,7 @@ They'd established the healing circle at Silviana's suggestion—a ring of smoot
 
 "What's your name?" he asked.
 
-"Mira," she whispered. "My... my village. They came in the night. Slavers. I hid in the root cellar, but when I tried to help the others..." She coughed, more blood staining her lips.
+"Mira," she whispered. "My… my village. They came in the night. Slavers. I hid in the root cellar, but when I tried to help the others…" She coughed, more blood staining her lips.
 
 Gond felt the rage building—the old, familiar fury at the injustice of it all. But beneath that anger, something else stirred. The divine light, responding not to his commands but to his compassion. He let himself feel Mira's pain, her terror, her desperate hope.
 
@@ -128,7 +128,7 @@ Gond drank his tea in silence, watching the flames dance and shift. Around them,
 
 "Probably not. Sim's herbs would have broken it in a day or two."
 
-"But his parents' faces when I healed him instantly..."
+"But his parents' faces when I healed him instantly…"
 
 "Hope," Silviana finished. "You gave them hope. And hope, properly nurtured, can be more powerful than any sword."
 

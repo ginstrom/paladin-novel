@@ -55,7 +55,7 @@ def main():
         for i in [1, 2, 3]:
             chapter_file = find_chapter_file(i)
             if chapter_file:
-                print(f"Adding Chapter {i}...")
+                print(f"Adding Chapter {i}…")
                 f.write('\\newpage\n')
                 f.write('\n')
                 chapter_content = extract_chapter_content(chapter_file)
@@ -75,7 +75,7 @@ def main():
         for i in [4, 5, 6, 7, 8, 9, 10, 11]:
             chapter_file = find_chapter_file(i)
             if chapter_file:
-                print(f"Adding Chapter {i}...")
+                print(f"Adding Chapter {i}…")
                 f.write('\\newpage\n')
                 f.write('\n')
                 chapter_content = extract_chapter_content(chapter_file)
@@ -95,7 +95,7 @@ def main():
         for i in [12, 13, 14, 15, 16, 17]:
             chapter_file = find_chapter_file(i)
             if chapter_file:
-                print(f"Adding Chapter {i}...")
+                print(f"Adding Chapter {i}…")
                 f.write('\\newpage\n')
                 f.write('\n')
                 chapter_content = extract_chapter_content(chapter_file)
@@ -115,7 +115,7 @@ def main():
         for i in [18, 19, 20, 21, 22]:
             chapter_file = find_chapter_file(i)
             if chapter_file:
-                print(f"Adding Chapter {i}...")
+                print(f"Adding Chapter {i}…")
                 f.write('\\newpage\n')
                 f.write('\n')
                 chapter_content = extract_chapter_content(chapter_file)
@@ -135,7 +135,7 @@ def main():
         for i in [23, 24, 25, 26, 27]:
             chapter_file = find_chapter_file(i)
             if chapter_file:
-                print(f"Adding Chapter {i}...")
+                print(f"Adding Chapter {i}…")
                 f.write('\\newpage\n')
                 f.write('\n')
                 chapter_content = extract_chapter_content(chapter_file)

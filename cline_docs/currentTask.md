@@ -1,33 +1,30 @@
 ## Current Objective
-Revise Chapter 15 ("Burden of Grace") to change the timing and context of Thorek's arrival.
+Conduct an overall review of the story for credibility in timing, specifically looking for messengers arriving with too-perfect timing or attackers appearing with unrealistically short warning. Implement minor clarifications to enhance realism where needed.
 
 ## Context
-The user has requested a change to Chapter 15. Currently, Thorek's appearance at the end of Silivana's speech is considered too convenient. The revision will have Thorek arrive two days later, while Gond is at the graves of those who fell defending the valley. This change aims to make Thorek's arrival more impactful and less coincidental.
+Reviewed Memory Bank files (`timeContinuity.md`, `currentTask.md`, `codebaseSummary.md`, `projectRoadmap.md`). Searched all chapters for relevant scenes. Analyzed key chapters (14, 18, 21) for timing credibility.
 
-This task aligns with the overall project goal of writing the "Paladin's Rise" novel and ensuring narrative coherence and quality.
+**Previous Task (Dialogue Revision):**
+Successfully revised dialogue in:
+- `chapters/11_first-blood-first-miracle.md`
+- `chapters/02_breaking-chains.md`
+- `chapters/04_crack-in-the-chain.md`
+- `chapters/10_hunters-and-hunted.md`
+- `chapters/15_burden-of-grace.md`
+- `chapters/19_tide-turns.md`
+- `chapters/25_cleansing-tide.md`
+- `chapters/24_shadow-of-gorlatch.md`
+- `chapters/26_wrath-of-gods.md`
+- `chapters/27_continent-reborn.md`
+User feedback on the style of revisions has been incorporated. `cline_docs/authoringGuidelines.md` and `cline_docs/characters.md` have been updated. User confirmed satisfaction with Gond's evolving tone and overall progress.
 
-## Implementation Plan
-1.  **Review Memory Bank:** Read essential Memory Bank documents (`projectRoadmap.md`, `currentTask.md` (this file), `techStack.md`, `codebaseSummary.md`). (Completed)
-2.  **Update `cline_docs/currentTask.md`:** Document the current task and detailed plan. (Completed)
-3.  **Read Relevant Files:**
-    *   Read `chapters/15_burden-of-grace.md` to understand the current scene of Thorek's arrival and Silivana's speech. (Completed)
-    *   Read `cline_docs/showDontTellReference.md` to ensure adherence to narrative style, particularly "show, don't tell" principles. (Completed)
-4.  **Plan Chapter Revision:** (Completed in PLAN MODE)
-    *   Identified the existing text describing Thorek's arrival immediately after Silivana's speech.
-    *   Outlined the new scene:
-        *   Established a time jump of two days after the battle/Silivana's speech.
-        *   Described Gond visiting the graves of the fallen defenders. Focused on showing his emotional state and the somber atmosphere.
-        *   Introduced Thorek's arrival into this scene.
-        *   Ensured dialogue and interactions are consistent.
-5.  **Modify `chapters/15_burden-of-grace.md`:** (Completed)
-    *   Used the `replace_in_file` tool to:
-        *   Removed the section where Thorek arrives immediately after Silivana's speech.
-        *   Added the new scene depicting Gond at the graves and Thorek's subsequent arrival.
-    *   Ensured all changes adhere to the "show, don't tell" principles.
-    *   User provided further edits which were incorporated into the final file.
-6.  **Await User Confirmation:** (User implicitly confirmed by allowing continuation after file modification and providing their own edits).
-7.  **Update `cline_docs/projectRoadmap.md`:** Add an entry for the completion of this revision task. (Completed)
-8.  **Update `cline_docs/codebaseSummary.md`:** Add a new entry at the top of "Recent Significant Changes" detailing the revision of Chapter 15. (Completed)
+## Plan for Timing Credibility Audit
+1.  **Chapter 14 ("The Legend Begins") Clarification:** Add a brief line to explain the short final warning before the slaver attack.
+2.  **Chapter 18 ("First Stand") Clarification:** Add a line to explain the short notice (hours) before the professional army's attack.
+3.  **Documentation Update (`timeContinuity.md`):** Add a section summarizing this timing credibility audit, its findings, and the rationale for any changes made.
+4.  **Documentation Update (`projectRoadmap.md`):** Mark the timing credibility audit task as complete.
+5.  **Documentation Update (`codebaseSummary.md`):** Note the timing credibility review and minor chapter revisions.
+6.  Present the completed work to the user.
 
-## Task Status
-COMPLETED
+## Next Steps
+1.  Implement clarification in `chapters/14_legend-begins.md`.

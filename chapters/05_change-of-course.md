@@ -36,7 +36,7 @@ The merchant's mouth snapped shut. He nodded frantically and hurried away. But G
 
 More heads turned. Whispers spread like ripples in a pond. A city guard pushed through the crowd, hand on his sword. Gond melted into an alley, heart pounding.
 
-The narrow passage reeked of garbage and piss. He pressed against the wall, listening to boots on cobblestones. The guard's voice carried clearly: "...spitting image... five hundred royals... search every inn and stable..."
+The narrow passage reeked of garbage and piss. He pressed against the wall, listening to boots on cobblestones. The guard's voice carried clearly: "…spitting image… five hundred royals… search every inn and stable…"
 
 Gond cursed under his breath. The city was a trap, and it was closing fast. He needed to reach his horse and get out. But as he peered around the corner, his blood turned to ice.
 
@@ -64,7 +64,7 @@ The cooper's eyes narrowed. Then he glanced at the window, where guards ran past
 
 Gond nodded.
 
-The man studied him for a long moment. Then he pointed to a large barrel in the corner. "That one's empty. But if they search here..." He wiped his hands on his leather apron. "Name's Aldric, by the way. Figure if I'm risking my neck, we ought to know each other."
+The man studied him for a long moment. Then he pointed to a large barrel in the corner. "That one's empty. But if they search here…" He wiped his hands on his leather apron. "Name's Aldric, by the way. Figure if I'm risking my neck, we ought to know each other."
 
 "I know the risk." Gond moved to the corner. "I'm Gond. Thank you, Aldric."
 

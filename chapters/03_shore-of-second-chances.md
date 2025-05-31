@@ -6,9 +6,9 @@ When his companions hesitated, he extended a hand to Pell, then moved toward the
 
 "And I want to get out of sight of any ships," said Pell, eyes scanning the horizon.
 
-Sim looked up, offering a nod. "Inland. Freshwater." He pointed toward a gap in the dunes. "Fleabane and thrift cluster near streams—we can follow them to water."
+Sim looked up, offering a nod. "Inland. Freshwater." He pointed toward a gap in the dunes. "Fleabane and thrift cluster near streams—we can follow them to water." His voice carried the quiet confidence of someone who'd spent years reading the land's subtle signs.
 
-Gond filed the information away. The priest's knowledge kept surprising him—not the mystical nonsense he'd expected, but practical survival skills. He scanned the debris littering the shore. Barrels bobbed in the shallows, tangled nets draped across rocks, planks scattered like broken bones.
+Gond filed the information away. The priest's knowledge kept surprising him—not the mystical nonsense he'd expected, but practical survival skills that spoke of a life lived close to the earth. He scanned the debris littering the shore. Barrels bobbed in the shallows, tangled nets draped across rocks, planks scattered like broken bones.
 
 He selected a warped boathook, testing its weight. Pell snatched up a length of wood, shoving the crude club into his belt. Sim gathered barnacle-crusted gourds, shaking each one near his ear before nodding approval.
 
@@ -22,13 +22,15 @@ Before Gond could knock, the door swung open. An elderly woman stood in the thre
 
 Gond lowered his boathook. "Gond."
 
-"Pell." The club hit the ground.
+"Pell." The club hit the ground. His eyes never stopped moving, cataloging exits, weapons within reach, the woman's stance—habits learned in alleys where a moment's inattention meant death.
 
 "Sim." The priest spread his hands, empty palms facing outward. "We seek warmth and safety. We mean no harm."
 
 The woman's spear didn't waver. Her gaze lingered on each face, reading something in their expressions—the hollow look of recent captivity, the way they favored certain limbs, the telltale marks of shackle wear. Finally, she stepped aside. "One hour. No longer."
 
 Warmth enveloped them as they entered, along with the complex symphony of a healer's workshop. Bundles of herbs hung from every rafter—some Gond recognized, others exotic and unfamiliar. Thyme and sage dominated, but underneath lay sharper scents: willow bark, feverfew, something that made his nose tingle. A grinding stone sat beside the hearth, its surface stained dark with years of use.
+
+Sim's eyes moved over the hanging bundles with quiet recognition, his gaze lingering on clusters of dried comfrey and what looked like wild garlic. 
 
 The woman—Maera, she said—moved with practiced efficiency. Her hands, weathered but steady, selected specific jars without hesitation. A small goat dozed in a woven basket near the fire, its breathing soft and even. Maps covered one wall, marked with routes and symbols that meant nothing to Gond but suggested extensive knowledge of the region.
 
@@ -88,11 +90,11 @@ Gond's jaw hardened. "You seem well-informed about current bounties."
 
 "Used to?" Sim leaned forward.
 
-"Still do, sometimes. Different kind of travelers now. People seeking... alternative routes." Her meaning hung in the air like smoke. "The shrine's been maintained. Supplies appear when needed. Food, blankets, medicine. Some say it's divine providence."
+"Still do, sometimes. Different kind of travelers now. People seeking… alternative routes." Her meaning hung in the air like smoke. "The shrine's been maintained. Supplies appear when needed. Food, blankets, medicine. Some say it's divine providence."
 
 Pell snorted. "And others?"
 
-"Others say there are still people who remember what mercy looks like." Maera's weathered hands pointed out more details on the map. "The way-station offers shelter, but it's temporary. A place to rest and plan, not to hide. Too close to the roads, too well-known to certain... interested parties."
+"Others say there are still people who remember what mercy looks like." Maera's weathered hands pointed out more details on the map. "The way-station offers shelter, but it's temporary. A place to rest and plan, not to hide. Too close to the roads, too well-known to certain… interested parties."
 
 She paused, her finger tracing the grotto where the way-station lay. "Though I'll grant you this—that particular grotto is unusually well hidden. Slavers have never ventured into it, far as I know. Some say there's a lingering blessing over the place, others claim it's cursed." Her eyes met Gond's directly. "Don't mean to tell you your business, but no blessing or curse will stop truly determined pursuit. The protection, whatever it is, won't last forever."
 
@@ -110,6 +112,12 @@ Gond's eyes fixed on the map. "Striking back."
 
 She pressed a larger satchel into Sim's hands—dried provisions, bundled herbs, and the additional supplies. "The way-station first. Rest, plan, decide. The hills will still be there if you choose them. Blackwater too, though it may choose you first."
 
+Maera then reached into a small, intricately carved wooden box on a high shelf—the same one Gond had noticed earlier, its patterns elven. She drew out a single, perfectly preserved silver-green leaf, its edges almost luminous. She pressed it into Sim's other hand.
+
+"A trifle," she said, her voice softer now. "Something from the Elder Folk. A child's game, mostly." Her gaze met Sim's, a flicker of understanding passing between them. "For you, priest, it may be more. Hold it, when you seek true sanctuary. It might… guide your hand." She paused, a slight smile touching her lips. "And those who carry such tokens sometimes find the shadows cling a little closer, making them harder to follow. A small blessing, perhaps, in these dark times."
+
+Sim closed his fingers around the leaf. It felt cool and smooth against his palm. For an instant, as his skin touched it, he thought he saw a faint, pearlescent shimmer trace its veins, but it was gone as quickly as it appeared. He tucked it carefully into his tunic.
+
 "You've helped others," Gond said. It wasn't a question.
 
 Maera's hands stilled on the satchel's ties. "I've treated injuries. Offered directions. Shared what food I could spare." Her voice carried careful neutrality. "Healers help the wounded. It's what we do."
@@ -120,15 +128,15 @@ Maera's hands stilled on the satchel's ties. "I've treated injuries. Offered dir
 
 Pell had been studying the maps on the wall during their conversation, his thief's eye cataloging details. "Those routes," he said, nodding toward the marked paths. "They don't follow the main roads."
 
-"Pilgrims often prefer quieter paths. Less... crowded." Maera's tone remained neutral, but Gond caught the subtle emphasis.
+"Pilgrims often prefer quieter paths. Less… crowded." Maera's tone remained neutral, but Gond caught the subtle emphasis.
 
 "And the symbols?" Sim asked, pointing to the small marks scattered across the maps.
 
-"Safe houses. Wells. Places where travelers might find aid." Maera moved to the wall, her finger tracing one particular route. "This path leads to a fishing village where the captain asks no questions about passengers. This one to a monastery where the brothers practice true charity. And this..." She touched a symbol near Blackwater. "A tavern where the owner's daughter was once sold to pay debts. He remembers."
+"Safe houses. Wells. Places where travelers might find aid." Maera moved to the wall, her finger tracing one particular route. "This path leads to a fishing village where the captain asks no questions about passengers. This one to a monastery where the brothers practice true charity. And this…" She touched a symbol near Blackwater. "A tavern where the owner's daughter was once sold to pay debts. He remembers."
 
 Gond studied her weathered face. "You know a lot about helping people disappear."
 
-"I know about helping people survive." Maera returned to her shelves, selecting a small wrapped bundle. "Take this. Dried fish and journey bread. The way-station should have supplies, but..." She shrugged. "Sometimes supplies run low."
+"I know about helping people survive." Maera returned to her shelves, selecting a small wrapped bundle. "Take this. Dried fish and journey bread. The way-station should have supplies, but…" She shrugged. "Sometimes supplies run low."
 
 "Who maintains it?" Sim asked. "The way-station."
 

@@ -46,7 +46,7 @@ Gond waited until the merchant departed before revealing himself. Pell's grin of
 
 Alia and Dax emerged from the shelter, their faces lighting with relief at Gond's return.
 
-"We thought..." Alia began, then stopped, shaking her head. "You were gone so long."
+"We thought…" Alia began, then stopped, shaking her head. "You were gone so long."
 
 "Blackwater is death," Gond concluded, settling heavily beside their small fire. His ankle throbbed, and exhaustion weighed on his shoulders like a lead cloak. "They've doubled our bounty. Guards are searching every building, questioning every merchant. And they have the horse."
 
@@ -66,7 +66,7 @@ Sim nodded, that calm certainty settling over him like a mantle. "Wisdom. Safety
 
 "Forgotten ruins sound perfect for forgotten people," Pell muttered.
 
-Dax flexed his hands, testing the strength that had returned to them. "I worked with my father's carpentry crew before..." He gestured at his brand. "I know how to build, if we can find the materials. But we'll need tools. Axes for felling trees. Saws for cutting lumber."
+Dax flexed his hands, testing the strength that had returned to them. "I worked with my father's carpentry crew before…" He gestured at his brand. "I know how to build, if we can find the materials. But we'll need tools. Axes for felling trees. Saws for cutting lumber."
 
 "One problem at a time," Gond said. "First we survive. Then we build."
 
@@ -86,9 +86,19 @@ The path Sim chose led steadily upward, away from the coastal roads and into the
 
 "How do you know these ways?" Gond asked as they navigated a particularly treacherous slope.
 
-Sim's smile was gentle. "I wasn't always a priest. Before Alanyi called me, I was... other things. A man learns the hidden paths when his life depends on staying hidden."
+Sim's smile was gentle. "I wasn't always a priest. Before Alanyi called me, I was… other things. A man learns the hidden paths when his life depends on staying hidden."
 
 They traveled in single file, Sim leading, Gond bringing up the rear. Every hour, he called a halt and climbed to higher ground, scanning their back trail for signs of pursuit. The guards would find the waystation eventually, but by then they'd be deep in country where a party with carts couldn't follow.
+
+During one such halt, Pell joined Gond on a rocky outcrop overlooking the path they’d taken. Gond’s eyes narrowed, tracing their passage through the damp earth and fallen leaves. "Odd," he muttered, more to himself than to Pell.
+
+Pell followed his gaze. "What's odd? See something?"
+
+Gond shook his head. "No, that's just it. Our tracks… they're fainter than they should be. Especially with the horse. Almost as if the rain's washing them away faster than it ought to, or…" He trailed off, unable to articulate the subtle wrongness. Sim, who had been resting with Alia and Dax below, carried the small, silver-green leaf Maera had given him tucked securely in his tunic. Gond hadn't given it much thought, but Maera had mentioned it might make them harder to follow.
+
+Pell squinted at the barely discernible trail. A grin touched his lips. "Well, maybe we all just need to fatten up a bit, eh? Leave a proper mark for anyone curious enough to follow." He clapped Gond on the shoulder. "Less work for you, covering our trail."
+
+Gond grunted, unconvinced. He made a mental note to observe Sim more closely.
 
 The first sign of trouble came at midday. Smoke rose from the direction they'd come—campfires. From the direction and distance Gond surmised they were at the waystation.
 
@@ -112,7 +122,7 @@ As evening approached, they finally reached the ridge. The view beyond took Gond
 
 "There," Sim said simply. "Sanctuary."
 
-The moment their horse stepped onto the temple grounds, its ears pricked forward and it released a soft whicker of contentment. Gond stopped, warmth spreading through his chest. The sensation was neither pleasant nor painful, just... puzzling.
+The moment their horse stepped onto the temple grounds, its ears pricked forward and it released a soft whicker of contentment. Gond stopped, warmth spreading through his chest. The sensation was neither pleasant nor painful, just… puzzling.
 
 The turf beneath their feet was different than the rocky ground they had been traveling over—thicker, greener. The air carried a fresh smell that contrasted with the dusty trail. Dax's limp eased as he walked, and even Pell's perpetual tension seemed to drain a little from his shoulders.
 

@@ -22,11 +22,11 @@ Gond's brand felt hot on his head like fresh coals. Slave‑catchers were near, 
 
 "Are you changing the plan?" hissed Pell. "We'll be outnumbered, and they'll be well armed while we've got a boathook and glorified kitchen knife between us."
 
-Pell looked at Gond's stony face and sighed. "OK, as you wish. Things were getting a bit boring anyway."
+Pell stared at Gond's set jaw, then blew out a breath. "Fine. Your funeral. Getting a bit dull 'round here anyway."
 
 ***
 
-#### Laying the Trap
+## Laying the Trap
 
 The track narrowed where two limestone outcrops funneled travelers into a rocky choke point. Gond traced a quick map in the sand.
 
@@ -38,7 +38,7 @@ They took positions. Gond stood alone in the center of the trail, feigning fatig
 
 Behind the cart Gond saw them—*a girl, fourteen at most, dark curls matted with grime; a boy, perhaps sixteen, limping badly.*  The girl glanced up, eyes blazing defiance even as she held her brother upright. Both bore the familiar slavers' brand.
 
-Gond raised a weary hand. "Wheel snapped a mile back," he called. "Could use a lift to Blackwater."
+Gond raised a weary hand, slumping a bit. "Oi, friends! Wheel's busted on my cart, 'bout a mile back," he called out, voice rough. "Any chance of a ride toward Blackwater?"
 
 The lead driver leaned down, suspicion dawning too late. Gond's boathook snapped up, catching the man under the jaw with a crack that echoed between the cliffs. The scene broke into chaos.
 
@@ -72,13 +72,13 @@ A sigh escaped Gond—then a crossbow string snapped.
 
 ---
 
-#### Complication in the Dunes
+## Complication in the Dunes
 
 Pain lanced across Gond's upper arm; crimson soaked his sleeve. A fourth slaver—missed in the count—worked desperately at the crank, loading another bolt.
 
 Before Gond could pursue, the girl hurled the loosened chain lock. It whistled past the guard's ear and clanged against rock, missing the man but startling him into dropping his bolt. Her act bought a precious instant; Gond seized it.
 
-"Stay with your brother!" he barked, already vaulting into action. Gond sprinted after the slaver, blood dripping past his elbow. Sand swallowed the noise of his footsteps; only the ragged sound of his own breathing marked the chase. Shortly he heard Pell's rhythmic pants a few paces behind, but could not spare a look back.
+"Alia, stay with your brother! Don't move!" he roared, already a blur of motion. Gond sprinted after the slaver, blood dripping past his elbow. Sand swallowed the noise of his footsteps; only the ragged sound of his own breathing marked the chase. Shortly he heard Pell's rhythmic pants a few paces behind, but could not spare a look back.
 
 Halfway across the first dune the slaver fitted another bolt into his crossbow, whirled, and fired again. The bolt hissed past Gond's cheek, close enough to feel the wind of its passing. Adrenaline drowned the pain in his arm, and Gond mustered another burst of speed. The crude black blade he had claimed earlier rasped free of its sheath, rough iron glinting dully.
 
@@ -90,13 +90,13 @@ Alia—he knew her name now—stood at the dune's base, small hands balled, chin
 
 Gond's blade hovered. In the staccato hush he heard his own breathing and, beneath it, the echo of forging hammers—of the life he'd left, lives he'd taken. He lowered the sword.
 
-"Run," he told the slaver. The man scrambled away, discarding crossbow, vanishing into salt mist.
+"Get out of my sight," Gond growled, lowering the blade. "And if I ever see your face again..." He let the threat hang. The man scrambled away, dropping his crossbow, and vanished into the salt mist.
 
 The air settled. Gond sank to one knee as fresh blood oozed from his arm.
 
 ---
 
-#### Refuge at the Way‑Station
+## Refuge at the Way‑Station
 
 By twilight they reached the abandoned way‑station, moss‑covered walls glowing emerald in dying light. Broken statues of forgotten gods lined the courtyard, their faces weathered blank—judging neither the righteous nor the damned.
 
@@ -108,7 +108,7 @@ Inside the guardroom, Sim cleaned and rebound Gond's wound. Alia hovered, handin
 
 The girl accepted the ribbon worldlessly, holding it tightly.
 
-Later, around a sputtering fire, Pell sketched a rough map in the dirt. "Patrol road runs here," he said, dagger tracing a line intersecting the path they had used. "We'll be safe here for now, but eventually they'll widen their patrols. Won't be long until that guard gets the word out," he concluded in a flat tone, avoiding Gond's gaze.
+Later, around a sputtering fire, Pell sketched a rough map in the dirt. "Patrol road runs here," he said, dagger tracing a line intersecting the path they had used. "We're safe enough for a night, maybe two. But they'll be swarming like angry hornets once that bastard guard starts squawking." He avoided Gond's gaze.
 
 "Pell, take the first watch," said Gond. "And put that fire out before midnight. We saw how visible woodsmoke is in this country." Pell nodded grimly.
 
@@ -124,7 +124,7 @@ Alia offered the ribbon back. "For luck," she said.
 
 ***
 
-#### A Change of Plans
+## A Change of Plans
 
 The pre-dawn glow found Gond on a bluff above the way-station, studying their back trail. The morning mist clung to the valleys below, and through it he could see movement on the far ridge—a lone rider picking his way along the distant trail.
 
@@ -134,7 +134,7 @@ But as Gond watched, something strange happened. The rider's gaze swept across t
 
 Gond blinked, rubbing his eyes. When he looked again, the scout was already disappearing over the far crest, having passed them by completely.
 
-*Whatever Maera said about this place being protected...* Gond shook his head, unsettled. He'd seen enough in his years as a mercenary to know when something wasn't natural. But protected or not, they couldn't rely on it forever.
+*Whatever Maera said about this place being protected…* Gond shook his head, unsettled. He'd seen enough in his years as a mercenary to know when something wasn't natural. But protected or not, they couldn't rely on it forever.
 
 He hurried down the bluff.
 
@@ -150,9 +150,9 @@ Pell's eyebrows rose. "You believe Maera's talk about blessings and curses?"
 
 Pell's grin was sharp as a blade. "Miracles? We used up our share of those escaping from the slave ship."
 
-Gond's original plan had been simple: drop the children with Maera, let her network find them safe passage to distant lands. But with slave catchers scouring every trail...
+Gond's original plan had been simple: drop the children with Maera, let her network find them safe passage to distant lands. But with slave catchers scouring every trail…
 
-"I was going to take you to Maera," he said, kneeling to meet Dax and Alia's eyes. "She has ways of getting people to safety. But with this many hunters..." He shook his head. "They'll be watching her place, questioning anyone who comes near."
+"I was going to take you to Maera," he said, kneeling to meet Dax and Alia's eyes. "She has ways of getting people to safety. But with this many hunters…" He shook his head. "They'll be watching her place, questioning anyone who comes near."
 
 Alia's hand found her brother's. "What does that mean?"
 
@@ -164,4 +164,4 @@ Pell's eyebrows shot up. "Gond, that's—"
 
 Pell muttered something under his breath about collecting strays, but he was already checking his weapons. "Your call. But if we're dragging children through the wilderness, we'd better move fast and quiet."
 
-Sim nodded approvingly. "The valley can shelter us all. And perhaps..." He glanced at the children with something like hope in his weathered features. "Perhaps that's as it should be."
+Sim nodded approvingly. "The valley can shelter us all. And perhaps…" He glanced at the children with something like hope in his weathered features. "Perhaps that's as it should be."

@@ -5,7 +5,7 @@ SRC    = $(shell cat filelist.txt) metadata.yml epub.css $(wildcard images/*)
 
 $(BOOK): $(SRC)
 	pandoc $$(cat filelist.txt) --metadata-file=metadata.yml \
-	       --toc --split-level=1 --css=epub.css \
+	       --toc --toc-depth=1 --split-level=1 --css=epub.css \
 	       --resource-path=.:images --output=$@
 
 .PHONY: clean

@@ -1,129 +1,155 @@
 # Chapter 19: The Tide Turns
 
-Three weeks after the battle, Gond crouched in the pre-dawn darkness, watching the slave convoy wind through the valley below. Forty captives chained in a line, guarded by a dozen armed men. The perfect target for their new strategy.
+The war council had been in session for three days, and the maps spread across the long table bore the scars of heated debate—ink stains, torn edges, and the circular marks left by countless mugs of bitter ale. Gond stood at the head of the table, his silver-white sword resting against his chair. The weapon hummed with barely contained energy, responding to the tension that filled the room like smoke from a poorly tended fire.
 
-"Remember," he whispered to the fighters spread among the rocks around him. "We hit fast, free the slaves, and disappear before reinforcements arrive."
+"Two thousand, three hundred, give or take a few stragglers," Pell said, tapping the map. He placed a series of small wooden tokens on the map, each representing enemy formations. "Got about two hundred horses on the flanks. Six big siege engines, maybe more, right down the middle. And these are pros, Gond, not the usual dirt-scratchers we've been hitting."
 
-Pell's voice crackled through the speaking stone, one of Silviana's elven innovations. "Eastern team in position."
+Thorek Ironheart leaned forward, his braided beard clicking softly as the metal rings struck the table's edge. "They're moving slow. Those engines are slowing them down, forcing them to stick to the main roads." His thick finger traced the enemy's projected route. "Here, through Millhaven Pass. It's the only way to get those machines through the mountains."
 
-"Western team ready," Elena reported from the opposite ridge.
+Elena Brightblade studied the terrain with a tactician's eye, her weathered hands mapping elevations and chokepoints. "The pass is narrow—maybe fifty yards at its widest point. Steep walls on both sides, loose scree that would make climbing difficult." She looked up, meeting Gond's gaze. "It's perfect for an ambush, but only if we can get our forces in position without being detected."
 
-Gond smiled grimly. In the weeks since their victory, they'd transformed from a defensive settlement into an offensive force. Coordinated raids across three provinces, liberating hundreds of slaves while striking at the economic heart of the slave trade.
+"My beauties ain't exactly mountain goats," Grimjaw rumbled, his gold-capped teeth glinting. "But I can strip 'em down. Smaller bits, easier to haul. Won't get the same reach, sure, but in a tight spot like this pass? Range won't matter. It's all about putting the hurt where it counts."
 
-Grimjaw's portable ballista spoke first, its bolt taking down the lead guard. Then the valley erupted in controlled chaos. Crossbow bolts rained from the ridges while Thorek's warriors charged from concealment, their war cries echoing off the canyon walls.
+Silviana Starweaver sat with her hands folded, her ancient eyes reflecting depths of knowledge that spanned centuries. "The elven paths through the high country could move small groups undetected. My people know ways through the mountains that haven't been used by human feet in generations." Her voice carried the musical cadence of her race, but underneath lay steel. 
 
-The guards never had a chance. They moved with the disciplined formations of professional soldiers—shields locked, spears angled at precise degrees, no wasted motion—but they'd been caught in a perfect ambush by fighters who knew every stone of this terrain.
+"We can position archers on the heights with Grimjaw's engines," said Gond. "Rain death from above while our main force strikes from the front and rear, bottling them in the pass."
 
-His fighters moved with practiced efficiency, using captured keys to free the slaves while others secured the guards' weapons and supplies. The entire operation took less than ten minutes.
+Maera spread intelligence reports across an empty section of the table, her network's careful observations laid out in neat rows. "My people in Millhaven say the enemy vanguard hits town tomorrow night. They're demanding food, grabbing guides, and threatening to torch the place if folks don't cooperate." Her expression went grim. "And they're asking about our valley. Asking about *you*, Gond."
 
-But as Gond helped an elderly man to his feet, something made him look twice at two of the captured guards. They sat with their backs against a wagon wheel, hands bound, faces turned away from the light.
+A chill settled over the council. Gond felt that familiar hum of power in his chest, but it wasn't just a shield this time. It was cold, sharp, like a blade being drawn.
 
-The men who'd betrayed him, sold him into slavery, destroyed his old life. They looked older, harder, their clothes bearing the dust of long travel. Slave catchers now, hunting the very people Gond had sworn to protect.
+"How long?" he asked, his voice quiet.
 
-Kael's head snapped up at the familiar voice. His pupils dilated with shock, his mouth falling open as he recognized Gond. The slave brand still visible on Gond's forehead despite the divine power that had healed so many other wounds.
+"If they maintain their current pace, they'll reach the valley in a week," Pell replied. "But that assumes they don't encounter any… obstacles along the way."
 
-Borin finally looked up, his face cycling through shock, then his shoulders sagged as if invisible weights had settled upon them. His hands trembled slightly before he clenched them into fists. "Well, mate. Looks like the gods have a sense of humor after all."
+Gond's smile was sharp as a blade's edge. "Then we'd better make sure they do."
 
-The freed slaves were already moving toward the rally point, guided by Elena's team. But Gond remained frozen, staring at the two men who'd shaped his destiny in ways they could never have imagined.
+***
 
-The question hung in the air like a blade. By the laws of war, captured slave catchers faced execution. By the laws of justice, these two had earned death a dozen times over. By the laws of personal vengeance...
+The preparations began before dawn, with Pell's scouts melting into the pre-dawn darkness like shadows given purpose. They carried with them detailed maps of Millhaven Pass, marking every boulder that could provide cover, every ledge that could hold an archer, every weakness in the rocky walls that could be exploited. Behind them came the main force, moving in small groups to avoid detection, their gear muffled and their weapons wrapped in cloth to prevent telltale glints of metal.
 
-Gond drew his sword. Blueish-white light blazed from its blade. The two captives squinted and drew back their teeth in grimaces, their bodies instinctively recoiling from the divine radiance.
+Grimjaw's engineers worked with the focused intensity of master craftsmen, breaking down their massive siege engines into components that could be pulled by teams of oxen. The bronze-reinforced frames were disassembled into sections, the torsion springs carefully wrapped and protected, the throwing arms secured with leather straps. What had been instruments of defensive warfare were being transformed into tools of ambush, their destructive power concentrated into portable packages of death.
 
-"You know," Borin said conversationally, though his voice carried a tremor he couldn't quite suppress, "I always wondered what happened to you. Heard rumors about some paladin stirring up trouble, but never thought..."
+Thorek led his dwarven warriors up the mountain paths, their heavy armor replaced with lighter mail that wouldn't ring against stone. Each dwarf carried a crossbow in addition to their traditional weapons, and their movements spoke of warriors who had fought in mountain passes before. They knew how to use terrain as a weapon, how to turn stone and gravity into allies.
 
-Heat bloomed beneath Gond's ribs, but not the familiar warmth of divine power. This was different—a cold fire that spoke of old wounds and older anger. His muscles tensed as memories flooded back: the betrayal, the chains, the months of suffering. One stroke would end it. Justice for their betrayal, vengeance for the months of slavery, retribution for every person they'd helped enslave since. He reached inside himself for guidance, but the goddess seemed withdrawn, as if waiting.
+Elena coordinated the human fighters, organizing them into strike teams that could move independently but fight as a coordinated whole. Former slaves who had learned the art of war stood alongside veteran soldiers who had abandoned corrupt masters, their shared purpose binding them more tightly than any oath of allegiance. They carried grappling hooks and climbing gear, prepared to scale the pass walls if the battle demanded it.
 
-"Aye," Borin agreed, his eyes never leaving the blazing sword. Sweat beaded on his forehead despite the cool morning air. "Been living on borrowed time since we took that job. Should have known better than to cross the luckiest sword on the coast."
+Silviana led a small group of elven archers along paths that seemed to exist more in memory than reality, their feet finding purchase on ledges that human eyes could barely see. They moved with the fluid grace of their race, carrying longbows of yew and ash that could drive arrows through mail at distances that would make human archers weep with envy. Their quivers held arrows with heads designed for different purposes—bodkins for armor, broadheads for flesh, and a few special shafts with tips that gleamed with more than mere steel.
 
-Gond's vision blurred. The sword felt impossibly heavy, as if it weighed more than mountains. The warmth in his chest suddenly shifted, cooling from the heat of anger to something deeper, more profound. Divine power stirred, but it felt different—not the hot surge of battle, but something cooler, deeper.
+Gond himself moved between the groups, checking preparations and offering words of encouragement. But those who looked closely could see something different in his bearing—a confidence that went beyond mere tactical planning. His hand rested easily on his sword's hilt, and the weapon's faint luminescence seemed to pulse from within its sheath. Divine power flowed through him like a river finding its course, no longer the uncertain trickle of his early days but a steady current of purpose and strength.
 
-*Mercy.*
+Five days later, the last of the ambush force reached their positions. Millhaven Pass stretched below them like a stone corridor, its walls rising nearly two hundred feet on either side. The road that wound through its length was barely wide enough for two wagons to pass, and the loose scree on the slopes would make any attempt to climb treacherous at best. It was, as Elena had observed, perfect for an ambush.
 
-The word whispered through his mind like wind through leaves. Not justice, not vengeance, but mercy.
+Now all they had to do was wait.
 
-Gond hesitated, then drew his knife and sliced through the ropes. Borin and Kael rubbed their wrists, watching Gond with expressions of complete bewilderment, their eyes wide and uncomprehending.
+***
 
-"Here's what's going to happen," Gond said, his voice carrying an authority that seemed to resonate from somewhere beyond himself, each word ringing with divine certainty. "You're going to walk away from here. You're going to spread the word to every mercenary company, every slave catcher, every hired sword on this continent."
+The enemy vanguard appeared at the pass entrance as the afternoon sun began its descent. Fifty cavalry rode in loose formation, their horses picking their way carefully over the rocky ground. Behind them came the scouts on foot, eyes scanning the heights for any sign of danger. They moved with the caution of professionals who understood that mountain passes were natural killing grounds, but their very caution worked against them—they were looking for obvious threats, not for the carefully concealed positions that Gond's forces had spent days preparing.
 
-He stepped closer, and both men flinched despite themselves, their bodies pressing back against the wagon wheel.
+Gond crouched behind a boulder the size of a small house, positioned where he could see the entire length of the pass. Beside him, Thorek held a crossbow loaded with a bolt that would signal the beginning of the attack. The dwarf's breathing was steady and controlled, his eyes fixed on the enemy column with the patience of a hunter waiting for the perfect shot.
 
-"Tell them that Gond the Paladin protects the free people of this land. Tell them that anyone who hunts my people, anyone who tries to drag them back into chains, will face divine judgment."
+"First group's through," Pell's voice whispered from a speaking stone, one of Silviana's elven innovations that allowed communication across distances. "Main column's entering the pass now."
 
-He turned away, then paused. "Oh, and Borin? Kael? If I ever see you again, if you ever threaten my people again, I won't hesitate. The next time we meet, one of us dies."
+Gond peered around the boulder's edge and felt his breath catch. The intelligence reports hadn't done justice to the sheer size of the enemy force. The column stretched back beyond the pass entrance, a river of steel and leather that seemed to flow endlessly between the stone walls. Siege engines rolled on massive wheels, their throwing arms reaching toward the sky like the limbs of mechanical giants. Infantry marched in disciplined ranks, their spears creating a forest of steel points that caught the afternoon light. Cavalry rode on the flanks, their horses snorting and stamping in the confined space.
 
-The two men scrambled to their feet, backing away slowly. Kael opened his mouth as if to speak, then thought better of it. They turned and fled into the hills, leaving their weapons and supplies behind.
+"Grimjaw," Gond whispered into his own speaking stone. "You ready?"
 
-Pell watched them go, shaking his head. "You've gone soft, my friend. Those two will be back to their old tricks within a week."
+"Been ready since before you were born, lad," came the gravelly chuckle. "Just say when."
 
-"Maybe," Gond replied. "Or maybe they'll remember that mercy is more powerful than vengeance."
+Gond watched as more of the column entered the pass. The enemy commander was being cautious, sending his forces through in manageable groups rather than risking the entire army in the narrow confines at once. It was smart tactics, but it also meant that Gond's forces would face smaller numbers in each engagement.
 
-The raid's success was measured in more than just freed slaves. They'd captured enough weapons to arm fifty fighters, enough supplies to feed the settlement for a month, and enough gold to buy information from sympathetic merchants.
+The main body of the enemy army was now fully committed to the pass, their siege engines rumbling over the rocky ground with sounds like distant thunder. Officers rode up and down the column, shouting orders and maintaining formation. The professional discipline was impressive, but it also made them predictable.
 
-But as Gond sat in the council tent that evening, listening to reports from other raids, his mind kept drifting to the moment he'd lowered his sword.
+"Elena," Gond spoke into the stone. "Crossbows ready?"
 
-"The southern team hit three convoys yesterday," Elena was saying. "Freed nearly a hundred slaves, captured two wagons of weapons."
+"Loaded and aimed," came the crisp reply. "Waiting for your signal."
 
-"Northern team took out a slaver camp," Thorek added. "Burned their ships, scattered their guards. They won't be operating from that base again."
+"Silviana?"
 
-Maera spread a map across the table, marking successful raids with red pins. "We're disrupting their entire network. Slave prices are rising in the coastal cities, and several smaller operations have shut down entirely."
+"The heights are ours," the elf's musical voice carried clearly through the stone. "My archers have clear shots at their officers."
 
-"Let them," Grimjaw rumbled from his corner. "Bigger convoys mean bigger targets for my engines."
+Gond felt the divine power surge within him, responding to the moment of decision. His sword's luminescence brightened, casting silver light across the boulder's surface. The warmth in his chest spread outward, filling his limbs with strength and his mind with clarity. This was the moment that would determine the fate of everyone who had chosen to follow him, everyone who had placed their trust in his leadership.
 
-Silviana entered the tent, her elven features troubled. The usual fluid grace of her movements seemed constrained, her shoulders held with uncharacteristic tension. "I've received word from the Circle of Whispers. They're... concerned about recent developments."
+"For freedom," he whispered, then raised his voice to carry across the pass. "Now!"
 
-"Religious ones. Your reputation is spreading faster than we anticipated. Some temples are declaring you a saint, others a heretic. The established orders are fracturing."
+Thorek's crossbow sang, its bolt taking an enemy officer from his saddle. The signal was taken up by every hidden position, and suddenly the pass erupted in controlled chaos.
 
-"We are gaining allies. This could work in our favor," replied Maera.
+Pell's team at the mouth of the pass leveraged huge boulders, loosened from the sockets. These fell into the pass, precipitating a rockslide the blocked retreat for the majority of the army that had already entered.
 
-"Or it could work against us," Silviana replied, her fingers tracing nervous patterns on the table's surface. "Religious wars have a way of consuming everything in their path."
+Grimjaw's modified engines spoke next, their smaller frames compensating for reduced range with increased accuracy. Bolts the size of spear shafts punched through armor and flesh, while clay pots filled with alchemical fire shattered against stone and metal, spreading flames that clung like liquid death. The narrow confines of the pass turned the siege engines' fire into a concentrated barrage that no formation could withstand.
 
-Thorek stroked his braided beard, the metal rings chiming softly. "The Iron Covenant has been monitoring the situation. Several human temples have requested our mediation."
+Elena's crossbowmen opened fire from concealed positions along the pass walls, their bolts raining down on the packed enemy ranks. The professional soldiers tried to raise shields, but the angle of fire made defense nearly impossible. Men fell screaming, their blood staining the rocky ground.
 
-"They want to know if you're the real thing. A true paladin, or just a clever pretender using divine magic for political gain."
+Silviana's elven archers added their voices to the deadly chorus, their longbows sending arrows with surgical precision into the enemy ranks. Officers toppled from their horses, sergeants collapsed while shouting orders, and the careful discipline of the professional army began to fray under the relentless pressure.
 
-The tent fell silent. It was a question that had haunted Gond since his first miracle, one he'd never fully answered even to himself.
+But the enemy was not helpless. Their own crossbowmen returned fire, forcing Gond's fighters to duck behind cover. Cavalry charged toward the pass walls, trying to reach positions where they could climb to the heights. The siege engines, those that hadn't been destroyed in the initial barrage, began to return fire, their massive bolts shattering stone and sending deadly fragments flying in all directions.
 
-The elf studied him with ancient eyes, her gaze seeming to pierce through surface concerns to something deeper. "I think you're asking the wrong question. It doesn't matter what I think, or what the temples think, or even what you think. What matters is what you do."
+It was then that Gond made his move.
 
-She gestured toward the map with its red pins. "Every freed slave, every broken chain, every act of mercy—that's your answer. The divine doesn't speak through grand pronouncements or theological debates. It speaks through action."
+He vaulted over the boulder that had concealed him, his sword blazing with silver-white light that seemed to burn away the shadows of the pass. Divine power flowed through him like molten gold, enhancing his speed and strength until he moved with inhuman grace. His feet found purchase on the treacherous scree as if the mountain itself was guiding his steps.
 
-Gond nodded slowly, feeling the weight of truth in her words. "Then we keep acting. Keep freeing slaves, keep building our alliance, keep showing the world that freedom is possible."
+"For Alanyi!" he bellowed, the sound raw and powerful, cutting through the battle's roar. "For freedom!"
 
-"Especially then." Gond's voice carried quiet conviction, each word measured and deliberate. "If the temples have forgotten what their gods actually stand for, then maybe it's time for a reminder."
+The cry echoed back from his fighters, a wave of sound and fury. Thorek's dwarves poured down from the heights, their war hammers and axes gleaming in the afternoon sun. Elena's fighters emerged from concealment, their swords and spears ready for close combat. Even Silviana's elves descended from their lofty perches, drawing curved blades that sang through the air with deadly precision.
 
-Later that night, Gond walked the settlement's perimeter, checking guard posts and talking with the sentries. The place had grown again—nearly four hundred people now, with more arriving every day. Former slaves, sympathetic merchants, deserting soldiers, even a few nobles who'd grown disgusted with their kingdoms' complicity in the slave trade.
+The enemy tried to form defensive lines, but the narrow confines of the pass worked against them. Their superior numbers became a liability as soldiers pressed against each other, unable to maneuver or bring their weapons to bear effectively. The careful formations that had made them so formidable in open battle became death traps in the rocky corridor.
 
-He paused at the eastern wall, where two new arrivals stood watch. A middle-aged woman named Sarah, who'd escaped from a plantation, and her teenage son Marcus, who'd never known freedom until three days ago.
+Gond cut through the enemy ranks like a force of nature, his divine sword cleaving through armor and bone with equal ease. Where he passed, enemy soldiers fell back in terror, their professional discipline crumbling before the sight of a paladin in full divine fury. His blade left trails of silver light in the air, and each strike seemed to carry the weight of divine judgment.
 
-"Better than I dared hope." She glanced at her son, who was scanning the darkness with the intensity of someone who'd learned that vigilance meant survival. His hands gripped his spear with white knuckles, and his eyes never stopped moving. "Marcus is having trouble sleeping. Keeps expecting the overseers to come for him."
+An enemy captain, his armor bearing the crossed manacles of the Slavers' Guild, charged at Gond with a two-handed sword raised high. The man was skilled, his movements speaking of years of training and battlefield experience. But skill meant nothing against divine power. Gond's blade met the captain's sword in a shower of sparks, and the enemy weapon shattered like glass. A return stroke opened the man's throat, and he fell without a sound.
 
-Gond nodded. He'd seen it before—the invisible chains that bound former slaves long after the physical ones were broken. "It takes time. The fear fades, but slowly."
+Around him, the battle raged with increasing intensity. Thorek's hammer crushed skulls and shattered shields, the dwarf's battle cries echoing off the pass walls. Elena moved like a dancer, her blade finding gaps in armor with surgical precision. Grimjaw's engines continued their deadly work, each shot carefully aimed to maximize destruction in the packed enemy ranks.
 
-"You already are," Gond replied. "Freedom isn't something that can be given or taken away by others. It's something you claim for yourself, something you defend with your own hands."
+But it was the sight of Gond himself that truly broke the enemy's will. Here was a figure from legend made manifest, a paladin of the old stories wielding divine power against those who would enslave the innocent. His sword blazed like a star fallen to earth, and his presence on the battlefield seemed to inspire his followers while striking terror into his enemies.
 
-As Gond continued his rounds, he thought about the choice he'd made that morning. Borin and Kael were probably miles away by now, carrying his message to whoever would listen. Some would dismiss it as the ravings of a madman. Others might take it seriously.
+The enemy commander, a grizzled veteran with scars that spoke of a dozen campaigns, tried to rally his men for a counterattack. He rode through the chaos on a destrier that snorted and stamped, its hooves striking sparks from the stone. His voice carried over the din, calling for his soldiers to remember their oaths and their pay.
 
-But the message itself mattered less than the choice to send it. For the first time since his awakening as a paladin, he'd chosen mercy over justice, forgiveness over vengeance. It felt... right. Like a weight he'd been carrying had finally been lifted from his shoulders.
+But even as he shouted, an elven arrow took him through the throat. He toppled from his saddle, and with his fall, the last organized resistance crumbled.
 
-The memories of his old life—the betrayal, the chains, the burning desire for revenge—no longer held the same power over him. They were still there, but transformed, like base metal refined into something purer. He'd found a third option.
+What followed was not a battle but a rout. The professional army that had marched so confidently into the pass broke and ran, their discipline shattered by the ferocity of the ambush and the terror inspired by Gond's divine presence. Some tried to surrender, throwing down their weapons and calling for mercy. Others fought to the end, selling their lives dearly in the rocky confines of the pass.
 
-Three days later, the first reports began trickling in. Mercenary companies withdrawing from slave-hunting contracts. Bounty hunters refusing jobs in the liberated territories. Word spreading through taverns and camps that the Paladin of Alanyi was not to be trifled with.
+But most tried to flee, abandoning their siege engines and supplies in their haste to escape the killing ground. Some managed to break through Gond's forces at the opposite end of the pass, and streamed into the hills beyond. But the majority tried to retreat back through the mouth of the pass. When they found the exit from the pass blocked, they kneeled in surrender, cowering.
 
-"Your message is being heard," Elena reported during the morning briefing. "Several known slave catchers have left the region entirely."
+***
 
-"Still operating, but more cautiously. Larger groups, better routes, avoiding our known territories."
+The sun was setting by the time the last echoes of battle faded from Millhaven Pass. The rocky ground was littered with the detritus of war—broken weapons, abandoned armor, and the still forms of those who would never see another dawn. The air was thick with the smell of blood and smoke, and the cries of the wounded echoed off the stone walls.
 
-But privately, he wondered if he would be. The choice to spare Borin and Kael had felt right in the moment, but doubt gnawed at him. How many slaves would suffer because he'd let two experienced catchers go free? How many lives would be lost because he'd chosen mercy over justice?
+Gond stood in the center of the carnage, his sword's light dimmed to a faint glow. Divine power still flowed through him, but the blazing intensity of battle had faded to a steady warmth in his chest. Around him, his fighters moved through the aftermath, tending to their own wounded and securing prisoners from among the enemy survivors.
 
-The questions had no easy answers. Leadership, he was learning, meant living with uncertainty, making choices based on incomplete information and hoping they were right.
+The cost had been lighter than he had dared hope. Eighteen dead from his own forces, with perhaps twice that number wounded. Against an enemy army of over two thousand, it was a victory beyond his most optimistic projections. But each fallen fighter represented a life cut short, a family that would mourn, a future that would never be realized.
 
-All he could do was trust in the divine power that flowed through him, trust in the allies who'd chosen to follow him, and trust that mercy was indeed more powerful than vengeance.
+Thorek approached, his armor stained with blood and his hammer still dripping. "It's done, lad. The ones that ran won't stop until they reach the coast, and those that stayed…" He gestured toward the prisoners being gathered under guard. "Well, they'll have some thinking to do about their choice of employers."
 
-The tide was turning. Across the continent, the old order was cracking, and something new was being born from its ruins. Whether that something would be better or worse than what came before remained to be seen.
+Elena emerged from the shadows, her practical armor showing the marks of close combat. "We've secured their siege engines—six of the big ones, plus enough crossbows and spears to outfit a small army. Their supply train was carrying enough food to feed our settlement for months."
 
-But for the first time since his awakening, Gond felt truly free. Not just from the chains of slavery, but from the chains of his own past. The man who'd been betrayed and sold was gone. In his place stood someone new—a leader worthy of the cause he served, a paladin who understood that true strength came not from the sword, but from the choice of when not to use it.
+Grimjaw's laughter boomed across the pass as he examined the captured siege engines with professional interest. "Look at these beauties! Dwarven-made, every one of them, but sold to the highest bidder without thought for how they'd be used. Well, they're in proper hands now."
 
-The real war was still coming. But when it arrived, he would meet it not as a man driven by vengeance, but as one guided by mercy.
+Silviana descended from the heights with her elven archers, their movements as graceful as if they were walking through a forest glade rather than a battlefield. "The enemy's retreat is complete," she reported. "My scouts report scattered groups fleeing south, but no organized resistance remains."
 
-And that, he thought, would make all the difference.
+Maera appeared from wherever she had been observing the battle, her network's intelligence having proved invaluable in the victory. "Word of this will spread faster than wildfire," she said, her voice carrying satisfaction. "Every slaver from here to the southern kingdoms will know that the Paladin of Alanyi is not to be trifled with."
+
+Gond nodded, but his attention was focused on the broader implications of their victory. The Slavers' Alliance had committed their main field army to this attack, confident that their superior numbers and professional training would be enough to crush the rebellion in its cradle. Instead, that army had been shattered, its remnants scattered to the winds.
+
+"This changes things," Gond said, his voice still rough from the battle but clear enough to carry. "Their main army's broken. The slaver cities? They're vulnerable now. They've got their town guards, sure, maybe some hired muscle. But nothin' like *this*." He gestured to the carnage.
+
+Thorek's grin was all teeth. "Aye. And now we've got their big smashers to knock on their pretty gates."
+
+Elena nodded, already calculating. "Saltmere, Blackwater, Port Sorrow... their armies were their shield. Without them..."
+
+"Without 'em, they're just rats in a trap," Gond finished, his voice hard. "Now those are cities we can crack open. People we can free. This whole rotten business? We end it."
+
+The divine power stirred within him again, responding to the vision of liberation that stretched out before them. For months, they had been fighting a defensive war, reacting to enemy moves and trying to protect what they had built. But this victory had changed the strategic balance completely.
+
+Now they could go on the offensive.
+
+Pell materialized from the shadows, his thief's instincts having kept him alive through another battle. "So what's the plan, then? March on the cities while they're still reeling from this defeat?"
+
+Gond looked around at the faces of his commanders, seeing the same realization dawning in their eyes. The tide of the war had indeed turned, but not in the way any of them had expected. Instead of a desperate defense of their valley sanctuary, they now had the opportunity to strike at the very heart of the slave trade.
+
+"Back to the valley," he said, the decision settling in his voice. "See to our wounded. Honor our dead. Then we plan. These cities, they've dug in deep over the years. Won't be a quick kick in the door." A grim smile touched his lips. "But they *will* fall. After today, that's not a hope. It's a promise."
+
+As his forces began the long march back to their valley home, Gond remained for a moment longer in the pass. The setting sun painted the stone walls red as blood, and the shadows stretched long across the battlefield. Somewhere in the distance, a carrion bird called, its cry echoing off the rocks.
+
+The mercenary who had been betrayed and sold into slavery was truly gone now, replaced by something harder and more purposeful. The reluctant leader who had stumbled into divine power had evolved into a paladin worthy of the title. And the defensive war that had begun with desperate refugees hiding in a mountain valley had transformed into something far greater—a campaign of liberation that would reshape the continent.
+
+The tide had turned, and nothing would ever be the same.

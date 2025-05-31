@@ -2,17 +2,17 @@
 
 The dawn over Saltmere broke red and angry, its crimson light reflecting off the steel of weapons and the grim faces of soldiers who had watched their delegation murdered in cold blood. Hands gripped sword hilts with white knuckles. Jaws clenched tight enough to make teeth ache. The betrayal had stripped away any lingering hope for a peaceful resolution; only the hard language of steel and divine fire remained. Gond stood upon a makeshift platform of siege engine timbers, his gaze fixed on the city that had become a festering wound on Alanyi's coast.
 
-"They chose this path," Gond's voice, amplified by a touch of divine resonance, carried over the assembled captains. "They chose to serve the shadow. Today, we show them the cost of that choice. Today, Alanyi's light returns to Saltmere!"
+"They picked their side," Gond's voice, boosted by a touch of Alanyi's power, cut through the morning air. "They chose the shadows. Today, they learn what that choice costs. Today, Alanyi's light comes back to Saltmere!"
 
 A roar answered him, a wave of sound from human, dwarf, and elf alike. Grimjaw's engines, "Hope's Hammer" and "Alanyi's Judgment," thundered their assent, hurling massive stones against the already battered ramparts. This was the signal.
 
-**I. The Fall of Saltmere: The Hammer of Justice**
+## The Hammer of Justice
 
 Silviana's ancient knowledge had revealed the hidden ways, tunnels carved when the world was younger, leading beneath Saltmere's western flank, towards the rumored Sunken Grotto. While Grimjaw's bombardment drew the defenders' eyes to the main gates, Gond led a strike force of five hundred—his own veterans, Sir Marcus's repentant knights, and a formidable company of Thorek's Iron Covenant dwarves—into the damp darkness.
 
 The tunnels opened into a series of vast cisterns beneath the city. The air was thick with the stench of stagnant water and something fouler, something that spoke of Gorlatch's taint. They emerged into the slave quarter, the element of surprise absolute. The fighting erupted in narrow confines—steel rang against steel in doorways barely wide enough for two men, boots slipped on blood-slicked cobblestones, and the screams of the wounded echoed off crumbling tenement walls. Warriors pressed shoulder to shoulder, unable to swing their weapons in full arcs, reduced to stabbing thrusts and desperate grappling. Gond's sword, blazing with Alanyi's light, was a beacon in the chaos, his presence bolstering his warriors, his strikes felling slaver guards and Gorlatch cultists with terrible efficiency.
 
-The battle for Saltmere became a grinding advance. Elena Brightblade's main force, seeing the pre-arranged smoke signal from within, launched their assault on the weakened main gates. The true turning point came at the Grand Market, a sprawling plaza that had become a fortified slaver stronghold. Gond's forces were pinned down by heavy crossbow fire from barricaded merchant houses.
+The battle for Saltmere became a grinding advance. A contingent branched off to take the walls, and Elena Brightblade's main force, seeing the pre-arranged smoke signal from the gates, launched their assault. The true turning point came at the Grand Market, a sprawling plaza that had become a fortified slaver stronghold. Gond's forces were pinned down by heavy crossbow fire from barricaded merchant houses.
 
 It was then the dwarves made their mark. Thorek's cousin, Borin Stonebeard, his knuckles white around his warhammer's grip and his beard bristling with barely contained rage from his recent ordeal, led his Iron Covenant warriors in a seemingly suicidal charge. Not directly at the barricades, but at the foundations of the largest slaver-held building. With mighty swings of their warhammers, the dwarves smashed through stone and timber. The structure groaned, then collapsed inwards with a deafening roar, taking dozens of defenders with it and sowing chaos among the rest.
 
@@ -32,69 +32,69 @@ The man's face was turned away, but something about his build, the way he held h
 
 "Kael."
 
-His former friend's eyes widened, then closed as if in pain that had nothing to do with his wounds. "Gond. I... I didn't think you'd come this way."
+His former friend's eyes widened, then closed as if in pain that had nothing to do with his wounds. "Gond. I… I didn't think you'd come this way."
 
 Gond knelt beside him, taking in the severity of the injuries. A deep sword thrust to the side, blood loss, infection already setting in. Without intervention, Kael would be dead within the hour.
 
-"You came back," Gond said quietly. "After we showed you mercy. You came back to fight for them."
+"You came back," Gond said, his voice quiet, more sad than angry. "After we gave you Alanyi's mercy. You came back to fight for *them*."
 
-Kael's laugh turned into a cough that brought up blood. "What else was I supposed to do? You freed us, yes, but you didn't give us a place in your new world. I'm a mercenary, Gond. It's all I know how to be."
+Kael coughed, a wet, bloody sound. "What else was I gonna do, Gond? You set us free, sure, but you didn't exactly roll out the welcome mat. Mercenary work? It's all I know."
 
-"So you chose to be a mercenary for slavers."
+"So you picked the slavers." Not a question, a flat statement.
 
-"I chose to eat." The words came out cracked and hoarse, each syllable edged with pain that went deeper than his wounds. "I chose to have coin in my pocket and a roof over my head. I told myself it was just another job, just another contract. But when the fighting started..." He gestured weakly at his wounds. "I couldn't bring myself to strike at your people with real intent. Hesitation kills, in our line of work."
+"I picked eating," Kael rasped. "Coin in my purse, a roof over my head. Told myself it was just a job. But when the fighting started…" He gestured feebly at his side. "Killing unarmed slaves isn't battle, it's murder. I hesitated. And hesitation'll kill you in this business."
 
 Gond felt the familiar warmth building in his chest, Alanyi's power responding to the pain—not just physical, but spiritual—that radiated from his former friend. He could heal these wounds. The question was whether he should.
 
-"Do you want to live?" he asked.
+"Do you want to live, Kael?" Gond asked, his voice surprisingly gentle.
 
-Kael's eyes searched his face. "Why does it matter what I want? You're going to do whatever you think is right, just like you always did."
+Kael’s eyes searched his. "Why ask? You'll do what you think is right. Always did."
 
-"Maybe. But I'd like to know anyway."
+"Maybe. But I'm asking."
 
-"Yes," Kael whispered after a long moment. "Yes, I want to live. Not because I think I deserve it, but because... because I'm tired of being the kind of man who sells his sword to the highest bidder, regardless of the cause."
+A long pause. "Yeah," Kael breathed. "Yeah, I want to live. Not 'cause I deserve it. Just... I'm tired, Gond. Tired of this life, selling my sword to whoever's buying, no questions asked."
 
-Gond placed his hands on Kael's wounded side. The divine power flowed through him, seeking out the damaged tissue, fighting back the infection, knitting torn flesh together. Kael gasped as the pain receded, his breathing steadying.
+Gond placed his hands on Kael's wounded side. The divine power flowed through him, seeking out the damaged tissue. But Kael's connection to Alanyi was weak, making the conduit difficult to form. Gond drew from Kael's own reserves-his will to live-to maintain the conduit to Alanyi's divine power, fighting back the infection, knitting torn flesh together. Kael gasped as the pain flaired, then receded, his breathing steadying.
 
-"Why?" Kael asked as the healing light faded. "After everything—the betrayal, seeing me here fighting for them again—why save me?"
+"Why?" Kael whispered, the healing light fading. "After all of it... the betrayal, me fighting for them again… why?"
 
-"Because mercy isn't something you earn," Gond said, helping Kael sit up properly. "It's something you're given, in the hope that you'll find a way to deserve it."
+"Mercy's not about earning it, Kael," Gond said, helping him sit up. "It's a gift. Now it's up to you to figure out how to be worthy of it."
 
-Kael stared at his side where the wound had been, then looked up at Gond with something like wonder. "What happens now?"
+Kael stared at his healed side, then up at Gond, a flicker of something unreadable in his eyes. "So… now what?"
 
-"Now you choose," Gond said, rising to his feet. "You can go back to being a sword for hire, taking whatever contracts pay the most. Or you can find another path."
+"Now you choose," Gond said, getting to his feet. "Go back to selling your sword… or find a different way."
 
-"What other path? This is all I know."
+"What different way? This is all I got."
 
-"Then learn something new." Gond looked out over the liberated city, where former slaves were taking their first tentative steps toward freedom. "There are people here who need help adjusting to a life without chains. There are temples being rebuilt, communities being formed. There's work for those willing to serve something greater than themselves."
+"Then learn something new." Gond gestured to the city, where the newly freed were starting to move, to hope. "Folks here need help. Real help. Temples to rebuild, lives to put back together. There's work, Kael, for men willing to serve something bigger than their own pockets."
 
-Kael struggled to his feet, testing his newly healed body. "You think someone like me could do that kind of work?"
+Kael pushed himself up, testing his side. "You think a dog like me could do that?"
 
-"I think anyone can change, if they truly want to." Gond met his eyes. "The question is whether you want to badly enough to do the hard work of becoming someone different."
+"I think any man can change, if he wants it enough." Gond met his gaze. "Question is, Kael, do you want it enough to do the work? To actually *be* different?"
 
 He left Kael standing in the alley, alive and whole, staring at his hands as if seeing them for the first time. What the man would do with this second chance remained to be seen. But for the first time since their paths had crossed again, Gond felt something like hope for his former friend.
 
-**II. The Uprising at Blackwater: The Spark of Rebellion**
+## The Spark of Rebellion
 
 The victory at Saltmere sent ripples along the coast. After a week of rest, resupply, and the establishment of a provisional council under Sim's spiritual guidance, Gond's army marched on Blackwater. The city was smaller than Saltmere, but its reputation for cruelty was just as dark.
 
-The siege of Blackwater began much like Saltmere's, with Grimjaw's engines pounding the walls. But Maera's network had been busy. Whispers of Saltmere's fall, of slaves freed and a benevolent goddess returning, had found fertile ground within Blackwater's oppressed populace. On the third night of the siege, as Gond's forces prepared for a major assault, the city itself erupted.
+The siege of Blackwater began much like Saltmere's, with Grimjaw's engines pounding the walls. But Maera's network had been busy. Whispers of Saltmere's fall, of slaves freed and a benevolent goddess returning, had found fertile ground within Blackwater's oppressed populace. On the third night of the siege, as Gond's forces prepared for another tunnel assault, the city itself erupted.
 
 Fires bloomed in the merchant district like deadly flowers. Shouts and the clash of makeshift weapons echoed from within—kitchen knives against guard swords, cobblestones hurled from rooftops, chains broken and turned into flails. A significant portion of the city guard, long resentful of the Gorlatch cultists' iron grip and perhaps swayed by Maera's agents, turned on their masters. The rebellion was chaotic, desperate, but it threw Blackwater's defenses into disarray.
 
-"Now!" Gond commanded, seeing the opportunity. "Alanyi favors the bold!"
+"Now!" Gond yelled, his voice cutting through the chaos. "Alanyi's with the bold! Go!"
 
 The assault was swift. With defenders fighting on two fronts, the walls were breached with surprising ease. Gond's army poured into a city already tearing itself apart. They linked up with rebel factions, guiding the chaotic energy towards the inner keep, the black heart of Blackwater where the slaver lords and Gorlatch's priests made their stand.
 
-The keep was a fortress of despair. Its dungeons, when finally breached, revealed horrors that chilled even the most hardened veterans. A hidden temple to Gorlatch lay beneath, its altar stained with ancient blood, its cells filled with the remains of countless victims of torture and sacrifice. The air itself felt poisoned by suffering.
+The keep was a fortress of despair. Its dungeons, when finally breached, revealed horrors that chilled even the most hardened veterans. A hidden temple to Gorlatch lay in the dungeons beneath, its altar stained with ancient blood, its cells filled with the remains of countless victims of torture and sacrifice. The air itself felt poisoned by suffering.
 
 Sir Marcus Brightwater, witnessing the depths of the depravity his former order had tacitly supported, sank to his knees, his face ashen. "May Turin forgive us," he choked out. "May Alanyi cleanse us."
 
 Gond, his expression grim, placed a hand on the knight's shoulder. "They will, if our actions now prove worthy." The capture of Blackwater was a victory, but the discovery within its keep was a stark reminder of the true enemy's nature.
 
-**III. Port Sorrow's Shadow: The Light of Divine Confrontation**
+## The Light of Divine Confrontation
 
-Port Sorrow was the last of the three great slaver cities on this stretch of coast. As Gond's army approached, an eerie stillness hung over it. Scouts reported that most of the regular soldiers had fled, deserting their posts. Yet, the city was not undefended. Three ominous black-sailed ships lay anchored in its harbor, and the ramparts were manned by figures in dark robes—Gorlatch's elite clerics.
+Port Sorrow was the last of the three great slaver cities on Slaver's Coast. As Gond's army approached, an eerie stillness hung over it. Scouts reported that most of the regular soldiers had fled, deserting their posts. Yet, the city was not undefended. Three ominous black-sailed ships lay anchored in its harbor, and the ramparts were manned by figures in dark robes—Gorlatch's elite clerics.
 
 As the army arrayed itself for the assault, a wave of pure terror washed over them. It was not the fear of battle, but a supernatural dread, far more potent than any they had faced before. Soldiers screamed, dropping weapons, their courage dissolving like mist. Horses reared, throwing their riders. Even seasoned warriors like Elena and Pell faltered, their faces pale with an unseen horror.
 
@@ -108,23 +108,23 @@ The effort was immense. Gond felt his life force drain as if an ocean were empty
 
 When he awoke, it was to Sim's anxious face and Silviana's cool hand on his brow. The sounds of battle still raged, but they were distant.
 
-"The city…?" Gond rasped.
+"The city…?" Gond managed, his throat raw.
 
-"Your light broke their power, Gond," Silviana said softly. "The army fights with renewed spirit. But the most powerful priests… they have taken refuge in Gorlatch's main temple. A barrier of pure shadow protects it. None can approach."
+"Your light broke their power, Gond," Silviana said, her voice a quiet balm. "The army's fighting with new heart. But their strongest priests… they've taken refuge in Gorlatch's main temple. Shielded by shadow. No one can get near."
 
-Gond struggled to sit up, his body aching, his spirit weary but resolute. "Then I must."
+Gond pushed himself up, every muscle screaming, but his eyes were clear. "Then I go."
 
 Supported by Sim and Elena, he made his way to the heart of Port Sorrow. The temple of Gorlatch was a blasphemous edifice of black stone, pulsating with a visible aura of dark energy. Before it, his army waited, unable to breach the shimmering wall of shadow.
 
-Gond stepped forward alone. "Servants of the Chained God!" his voice, though weak, carried an undeniable authority. "Your master's reign ends today!"
+Gond stepped forward alone. "Servants of the Chained God!" His voice was thin, but it cracked with an authority that wasn't entirely his own. "Your master's time is up!"
 
-The barrier rippled, and a figure emerged—the High Priest of Gorlatch, his eyes burning with cold fire, his form crackling with dark power. "Foolish paladin. You cannot comprehend the power you defy."
+The barrier shimmered, and a figure oozed out—the High Priest of Gorlatch, eyes like burning coals, power crackling around him like dark lightning. "Foolish whelp. You play with powers you can't even imagine."
 
-"I wield a power you have forgotten," Gond retorted. "The power of hope. The strength of mercy."
+"And I wield a power you've long forgotten," Gond shot back, finding a spark of strength. "Hope. Mercy. Today you'll learn that these are stronger than hate."
 
-The battle that followed was not of steel, but of spirit. The High Priest, a conduit for Gorlatch's malevolent will, unleashed blasts of shadow, whispers of despair, illusions of torment. Gond, drawing upon the last reserves of Alanyi's grace, met them with shields of light, affirmations of faith, and the unwavering conviction of a soul dedicated to healing.
+The battle that followed was not of steel, but of spirit. The High Priest, a conduit for Gorlatch's malevolent will, unleashed blasts of shadow, whispers of despair, illusions of torment. Gond, drawing upon his last reserves, channeled Alanyi's grace. He met the High Priess' unholy magic with shields of light, affirmations of faith, and the unwavering conviction of a soul dedicated to healing.
 
-It was a clash of gods, fought through their mortal champions. Darkness surged, threatening to overwhelm, but Alanyi's light, though sometimes flickering, refused to be extinguished. Gond felt her presence, her sorrow for a world so wounded, her fierce love for her children. He became more than Gond; he became her sword, her shield, her unwavering heart.
+Darkness surged, threatening to overwhelm, but Alanyi's light, though sometimes flickering, refused to be extinguished. Gond felt her presence, her sorrow for a world so wounded, her fierce love for her children. He became more than Gond; he became her sword, her shield, her unwavering heart. Despite his exhaustion, Gond felt a renewed strength as Alanyi's power restored him.
 
 With a final, desperate surge, the High Priest channeled Gorlatch's essence. A colossal shadow of the Chained God loomed over the temple, its ethereal chains rattling. But Gond met it with an equally potent manifestation of Alanyi—a radiant figure of light and compassion, whose gentle strength seemed to dissolve the very chains of the shadow.
 
@@ -132,13 +132,13 @@ The High Priest screamed as the divine energies collided, his form consumed firs
 
 Gond stood, swaying but triumphant, Alanyi's light fading gently around him. Port Sorrow was free.
 
-**IV. The Unseen Front: March to Aid the Dwarves**
+## March to Aid the Dwarves
 
-The coastal campaign was over. Saltmere, Blackwater, Port Sorrow—all cleansed, their slave pens emptied, their dark temples shattered. Gond, recovering slowly from the divine duel, oversaw the initial stages of restoration, Sim and Silviana working tirelessly to establish Alanyi's worship and heal the deep scars left by Gorlatch's reign.
+The coastal campaign was over. Saltmere, Blackwater, Port Sorrow were all cleansed, their slave pens emptied, their dark temples shattered. Gond, recovering slowly from the divine duel, oversaw the initial stages of restoration, Sim and Silviana working tirelessly to establish Alanyi's worship and heal the deep scars left by Gorlatch's reign.
 
 Weeks passed. The army, though weary, was buoyed by its victories. Then, a dust-caked dwarven messenger arrived, bearing an urgent dispatch from Thorek Ironheart.
 
-"High Paladin," the dwarf announced, his voice hoarse with fatigue and the strain of hard riding. "King Thorek sends greetings and a plea. We have besieged the Citadel of Asham-Val, the last great stronghold of the corrupt Order of Turin in the Gray Peaks. Their defenses are formidable, their resolve hardened by desperation. We have them contained, but breaking their walls proves… costly. The King requests your aid, that our victory might be swift and the suffering lessened."
+"High Paladin," the dwarf announced, his voice hoarse with fatigue and the strain of hard riding. "Thorek sends greetings and a plea. We have besieged the Citadel of Asham-Val, the last great stronghold of the corrupt Order of Turin in the Gray Peaks. Their defenses are formidable, their resolve hardened by desperation. We have them contained, but breaking their walls proves… costly. The King requests your aid, that our victory might be swift and the suffering lessened."
 
 Gond listened, his gaze distant. The Citadel of Asham-Val. He knew its reputation—a fortress deemed impregnable, the heart of the human faction that still clung to the old ways of oppression, that had profited from the slave trade and resisted Alanyi's return.
 
@@ -146,6 +146,4 @@ His own army was tired. He was tired. But the war was not yet won. The dwarves, 
 
 He looked at Elena, at Sir Marcus, at Pell and Maera. Their expressions mirrored his own understanding.
 
-"Gather the captains," Gond said, his voice regaining its strength. "Inform the army. We march at dawn." He turned to the dwarven messenger. "Tell King Thorek the Cleansing Tide turns inland. We are coming."
-
-The coastal cities were free, but the shadow of the old order still lingered in the mountains. The war for restoration had entered a new, arduous phase.
+"Get the captains," Gond said, his voice finding its old steel. "Tell the army. We move at dawn." He looked at the dwarven messenger, a weary but determined smile touching his lips. "Tell Thorek the Cleansing Tide's rolling inland. We're on our way."

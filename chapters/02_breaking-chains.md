@@ -12,7 +12,7 @@ Jord shifted beside him for the hundredth time, chains clanking. The man's shoul
 
 Jord's jaw worked silently, but he managed a jerky nod.
 
-Behind them, Pell watched everything with eyes like a hawk tracking prey. His head turned at every footstep above, every change in the guards' voices. When he caught Gond's attention, he tilted his chin toward the hatch.
+Behind them, Pell watched everything with eyes like a hawk tracking prey. His head turned at every footstep above, every change in the guards' voices—the same predatory awareness that had kept him alive on the streets, reading the intentions of corrupt watchmen and brutal overseers. When he caught Gond's attention, he tilted his chin toward the hatch.
 
 "One of them keeps leaning too far over," Pell whispered. "The greasy one with the gap teeth. Likes to wave his food around, make us watch him eat."
 
@@ -20,7 +20,7 @@ Gond had noticed. The guard thought himself clever, dangling strips of dried mea
 
 "We wait for his shift," Gond said.
 
-Pell's eyes glittered with something more than hunger. His weathered hands bore the calluses of rope work, and when he spoke of the sea, his voice carried the cadence of a man born to salt spray. "Know this stretch of coast like my own scars. Grew up working the fishing boats out of Millhaven before I found more profitable work." His voice dropped even lower. "Ship's been angling northwest since yesterday. We're coming up on Widow's Cape—nasty bit of rocks that juts out like a broken finger. Captains always swing in close to avoid the deep currents beyond."
+Pell's eyes glittered with something more than hunger. His weathered hands bore the calluses of rope work, and when he spoke of the sea, his voice carried the cadence of a man born to salt spray. "Know this stretch of coast like my own scars. Grew up working the fishing boats out of Millhaven before I found more profitable work." The bitter edge in his voice suggested that 'profitable work' had come with its own chains—different from iron, but chains nonetheless. "Ship's been angling northwest since yesterday. We're coming up on Widow's Cape—nasty bit of rocks that juts out like a broken finger. Captains always swing in close to avoid the deep currents beyond."
 
 "How close?" Gond asked.
 
@@ -36,9 +36,9 @@ The planning began in earnest the next night, when the guards settled into their
 
 "Listen carefully," he breathed, his voice barely audible above the ship's creaking. "We get one chance at this."
 
-Jord's muscles coiled like springs. His fingers drummed against his thigh in rapid, nervous beats. "Just give the word. I'm ready to—"
+Jord's muscles coiled like springs. His fingers drummed against his thigh in rapid, nervous beats. "Just say when. I'll tear through 'em—"
 
-"You're ready to get us all killed," Gond cut him off. "Greasy leans over the hatch every third watch. Always the same spot, always showing off his food."
+"You'll tear us all into fish bait, more like," Gond cut him off. "Greasy leans over the hatch every third watch. Always the same spot, always showing off his food."
 
 Pell's eyes glittered in the dim light filtering down from above. "Twelve steps from hatch to rail on the port side. I counted. But there's a coil of rope near the mainmast—could trip a man in the dark."
 
@@ -54,11 +54,11 @@ Gond held Sim's gaze until the man nodded reluctantly.
 
 "I know what I'm doing," Jord growled, his fists clenching and unclenching in steady rhythm.
 
-"Do you?" Gond's stare could have cut glass. "Because the moment you charge up those stairs screaming like a berserker, every guard on this ship knows exactly where we are."
+"Do you?" Gond's stare could have cut glass. "Because the moment you go up those stairs bellowing like a stuck pig, every bloody guard on this ship knows we're loose."
 
 Sim placed a gentle hand on Jord's arm. The big man's breathing slowed slightly, though his muscles remained taut as bowstrings. "The river finds its way to the sea not through force, but through persistence," the priest murmured.
 
-"Pretty words won't stop a crossbow bolt," Jord muttered, but some of the tension left his shoulders.
+"River water won't stop a crossbow bolt," Jord grumbled, but some of the tension left his shoulders.
 
 Gond turned to the big man chained to his wrist. "Jord, you follow my lead. No charging, no roaring. We move fast but quiet until we're committed."
 
@@ -80,9 +80,9 @@ Gond's hand shot up, fingers closing on the guard's rough tunic. One sharp yank,
 
 Pell moved like water, flowing over Greasy's prone form to snatch keys and shortsword. Steel flashed as he freed himself, then tossed the keys to Sim, who caught them without looking up from his quiet prayers. Pell tossed the short sword to Gond as he climbed past appropriating the guard's dagger for himself.
 
-"Jord, Wait—" Gond started, but the big man did not wait for his chain to be unlocked. Instead he roared and charged upward, chains trailing behind him like anchor rope. Shouts erupted from above.
+"Jord, *wait*—!" Gond bit out, but the big man was already a blur of motion, roaring as he charged upward, chains whipping behind him like anchor rope. Shouts erupted from above.
 
-"Bloody fool!" Gond snarled, racing after him to avoid getting pulled down by the chain connecting them.
+"Gods-damned fool!" Gond snarled, forced to race after him or be dragged down.
 
 The deck exploded into chaos. Guards stumbled from their dice games, fumbling for weapons. Gond's blade found the gap between one man's ribs before the guard could clear his scabbard. The man folded over, hands clutching his side as he toppled into the rail.
 
@@ -106,7 +106,7 @@ The shore seemed impossibly distant, but Gond forced his aching arms to move. Sh
 
 He collapsed face-first into wet sand, lungs burning, every muscle screaming. Nearby, Pell rolled onto his back and actually laughed—a breathless, disbelieving sound.
 
-"Well," the rogue gasped, "that went exactly as planned."
+"Well," the rogue choked out, spitting seawater, "that went just... perfectly to plan, didn't it?"
 
 Sim lay beside him on the beach, his lips moving in what looked like prayers of gratitude. His shoulders shook, though whether from cold or relief, Gond couldn't tell.
 
@@ -122,9 +122,9 @@ Hours later, Pell produced a rusty file from somewhere in his rags. The metal sc
 
 Once he was free, he passed the file to Gond. Gond's hands shook uncontrollably—not from effort, but from the bone-deep cold that had settled into his marrow. His lips had gone numb, and his breath came in short, visible puffs despite the mild spring air. Pell took the file back.
 
-"Hold still," Pell muttered through chattering teeth, his own fingers fumbling with the file. Dark humor crept into his voice even as his hands trembled. "At this rate, we'll die of old age before these bloody things come off. Though I suppose that's better than drowning."
+"Hold still, damn you," Pell muttered, teeth chattering so hard he could barely speak. His own fingers fumbled with the rusty file. "Gods, at this rate, we'll grow old and die before these cursed things are off. Still better than drowning, I suppose."
 
-Sim waited patiently for Pell to hand him the file, but Gond could see the priest's shoulders hunched against more than just the cold. The weight of the dead escapees pressed down on all of them, but on Sim more than the mercenaries who had seen their share of death.
+Sim waited patiently for Pell to hand him the file, but Gond could see the priest's shoulders hunched against more than just the cold. The weight of the dead escapees pressed down on all of them, but on Sim more than the mercenaries who had seen their share of death. His hands trembled slightly as he worked the file—not from cold or exhaustion, but from something deeper. The violence of their escape, necessary though it was, seemed to cut at him in ways that went beyond the physical.
 
 "Well," Pell said finally, forcing lightness into his voice, "at least we're not fish food. Though I'm starting to think the fish might have had the easier time of it."
 

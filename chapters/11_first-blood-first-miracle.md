@@ -4,7 +4,7 @@ The slave catchers' confidence shattered like glass against stone. Gond's ambush
 
 Gond drew his sword and prepared to join the battle. The blade that emerged from its sheath was no longer the crude, dark iron he had carried for weeks. Instead, it gleamed like polished silver, its edge sharp as winter starlight.
 
-"By the gods," breathed a nearby refugee, lowering his bow. "Finally picked a weapon worthy of a leader."
+"By the gods." A nearby refugee lowered his bow, eyes wide. "Finally picked a weapon worthy of a leader."
  
 Gond flowed through the battle with fluid grace, his blade dancing between opponents while his feet found perfect footing on treacherous ground. Every decision flowed from instincts that seemed to see around corners. When the enemy tried to flank left, he was already there with a counter-ambush. When they attempted to retreat to higher ground, his archers were waiting. The flow of combat spread before him like a map, each move predictable, each counter-move inevitable.
 
@@ -20,11 +20,11 @@ But Gond fought on, his movements barely hindered. The transformed blade sang th
 
 The battle turned decisively. The remaining slavers, seeing their leader fall and their ambush turned against them, broke and fled. Gond's people pursued them to the valley's edge before turning back whooping.
 
-As the last echoes of combat faded, Pell approached Gond, his face pale. "That wound—" He pointed at Gond's leg, where blood had soaked through the fabric. "I saw that blade go deep. Should have crippled you, maybe worse."
+As the last echoes of combat faded, Pell approached Gond, his face chalk-white. "That wound—" He pointed at Gond's leg, where blood had soaked through the fabric. "Gods, Gond, I saw that hells-damned blade go clean through! You should be screaming, not standing!"
 
 Gond looked down, pulling aside the torn cloth. Where he expected to find a gaping wound, only a shallow graze marked his thigh. The bleeding had already stopped. He stared at the minor cut, his brow furrowing.
 
-"I could have sworn..." Pell shook his head, backing away. "I saw it happen. We all did."
+"I saw it!" Pell shook his head, taking a step back. "That blade went deep. How are you even standing?"
 
 The return to camp revealed a different horror. Overturned pots, scattered belongings, and drag marks in the dirt told the story. Two slavers had crept in during the battle, targeting those who couldn't fight—the elderly, the women, the children. They had fled when they realized that their main force was broken.
 
@@ -34,7 +34,7 @@ Old Henrik lay sprawled near the children's shelter, his body riddled with cross
 
 Sim knelt beside the children's shelter, cradling his right hand against his chest. His knuckles were split and bloody, and a slaver's sword lay abandoned nearby, its wielder nowhere to be seen. When Gond approached, the priest looked up with pain-filled eyes.
 
-"I had to," Sim said quietly, his voice heavy with anguish. "He was going for the children. I couldn't—" He swallowed hard. "I struck his wrist. Just enough to make him drop the blade." His shoulders sagged. "Every living being has the right to defend themselves and those who cannot defend themselves. But that doesn't make it easier."
+"I had to," Sim said quietly, his voice heavy with anguish. "He was going for the children. I couldn't—" He swallowed hard, his eyes distant with old pain. "I struck his wrist. Just enough to make him drop the blade." His shoulders sagged. "Every living being has the right to defend themselves and those who cannot defend themselves. But that doesn't make it easier." His voice dropped to barely a whisper. "It never gets easier."
 
 And in the center of the camp, young Dax lay gasping in a spreading pool of his own blood.
 
@@ -42,7 +42,7 @@ The boy's chest rose and fell in ragged, desperate rhythm. Pink froth bubbled fr
 
 Sim moved from the children's shelter to kneel beside Dax, ignoring the pain in his injured hand as he channeled what healing power he possessed. Sweat beaded on the priest's forehead, his face growing ashen with effort. His hands trembled, the light flickering like a dying candle.
 
-"He's beyond my help," Sim whispered, his voice breaking. Tears streamed down his weathered cheeks. "The damage is too great. I cannot—" His hands fell to his sides, the faint glow extinguished.
+"He's gone," Sim choked out, tears blurring his vision. "Alanyi forgive me, the damage... it's too much. I can't... I can't do it." His hands fell to his sides, the faint glow extinguished.
 
 Around them, the survivors gathered in a silent circle. Shoulders slumped in defeat. Hands covered mouths to stifle sobs. Eyes turned away from the dying boy, unable to bear witness to their helplessness. Alia knelt beside her brother, her tears falling onto his blood-stained face.
 
@@ -88,7 +88,7 @@ Sim approached slowly, his face radiant. "Now do you believe?" he asked gently.
 
 Gond looked at his hands, still tingling with the memory of that blazing light. He thought of the temple, the vision, the voice that had spoken of carrying hope. All the signs had been there, but he had refused to see them for what they were.
 
-"I believe," he said quietly, the words feeling strange on his tongue. "Alanyi help me, I believe."
+"I believe," he breathed, the admission a weight off his soul. Then, a rougher prayer, almost a curse: "I believe, Alanyi help me."
 
 The priest smiled, placing a hand on Gond's shoulder. "She already has, my friend. She already has."
 

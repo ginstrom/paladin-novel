@@ -44,6 +44,22 @@ Before beginning to write or significantly alter a chapter, complete the followi
     *   **Show, don't tell:** This is paramount. Use actions, dialogue, sensory details, and internal thoughts to convey information and emotion, rather than explicit exposition. Avoid stating character emotions or intentions directly; let them be inferred.
     *   **Pacing:** Linger over world-setting and character development to build immersion. Move briskly through action scenes to maintain tension and excitement.
     *   **Dialogue:** When description alone is insufficient to convey necessary information or character nuances, employ dialogue. Ensure dialogue is natural, serves a purpose (reveals character, advances plot, provides exposition subtly), and is appropriate to the character's voice, background, and current emotional state.
+        *   **Colloquialism and Stress:** In high-stress situations or to reflect a character's informal nature, dialogue should become more colloquial and natural.
+            *   **Goal:** Make dialogue less formal and more reflective of natural speech patterns under pressure.
+            *   **Techniques:**
+                *   Employ shorter, more abrupt sentences or sentence fragments.
+                *   Incorporate character-appropriate exclamations, interjections, or mild curses (e.g., "Gods!", "Damn it!", "Bloody hell!").
+                *   Reflect physical state in speech (e.g., breathless interjections, words broken by chattering teeth).
+                *   Use more informal phrasing, contractions, and common idioms.
+                *   Vary sentence structure to mimic the urgency or panic of the moment.
+            *   **Examples of Revisions:**
+                *   Original (Chapter 2): `"Hold still," Pell muttered through chattering teeth... "At this rate, we'll die of old age before these bloody things come off."`
+                *   Revised (Chapter 2): `"Hold still, damn you," Pell muttered, teeth chattering so hard he could barely speak... "Gods, at this rate, we'll grow old and die before these cursed things are off."` (More direct, stronger expletive reflecting frustration and cold).
+                *   Original (Chapter 11): `"Down!" Gond yelled, shoving Pell aside.`
+                *   Revised (Chapter 11): `"Get *down*!" Gond roared, shoving Pell with the flat of his shield.` (More forceful, emphasis added).
+                *   Original (Chapter 4): `"Run," he told the slaver.`
+                *   Revised (Chapter 4): `"Get out of my sight," Gond growled, lowering the blade. "And if I ever see your face again..." He let the threat hang.` (More menacing and colloquial).
+            *   **User Preferences:** Revisions should be proposed iteratively. The user may prefer original phrasing for specific lines or suggest modifications for conciseness or character consistency (e.g., retaining Pell's "Your funeral." in a specific context in Chapter 4, or preferring "Alia, stay with your brother! Don't move!" over a version that named Dax explicitly).
     *   **Avoid "Telling" Statements:** Steer clear of summary statements that tell the reader what happened or what characters decided (e.g., "The slaves decided to escape"). Instead, show the decision-making process or the actions leading to the event.
     *   Embody Gond's characteristic sardonic wit and internal monologue style, even when the narration is not directly from his perspective.
     *   Adhere to the stylistic guidelines set in `.clinerules` and `.cursorrules` for fiction writing (e.g., vivid descriptions, character depth).

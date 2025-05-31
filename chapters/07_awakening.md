@@ -56,7 +56,7 @@ The main camp came into view as he emerged from the ruins. The fire had burned l
 
 The priest's head tilted slightly as Gond approached, his eyes narrowing with the focus of a man reading subtle signs. Sim's gaze moved from Gond's face to his hands, then back again, cataloging details with the precision of a healer assessing a patient.
 
-"The ruins are... extensive," Gond said carefully, testing his voice. It sounded the same as always, but something in his tone made Sim's eyes sharpen.
+"The ruins are… extensive," Gond said carefully, testing his voice. It sounded the same as always, but something in his tone made Sim's eyes sharpen.
 
 The priest nodded slowly, his weathered fingers stroking his beard as he continued his quiet assessment. "Old places often hold more than stone and memory. They remember what they once were." His eyes lingered on something in Gond's expression that hadn't been there before—a subtle shift in the set of his shoulders, perhaps, or the way he held his head.
 

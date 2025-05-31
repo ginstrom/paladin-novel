@@ -66,7 +66,7 @@ Sim approached, his face grave. "I've been thinking the same. The fruit trees ar
 
 "And too late in the season to plant," added Pell.
 
-"Come fall we'll be able to gather enough acorns, nuts and berries to tide us until spring. But until then..." Sim trailed off.
+"Come fall we'll be able to gather enough acorns, nuts and berries to tide us until spring. But until then…" Sim trailed off.
 
 The three men stood in uncomfortable silence, each understanding the implications. Larger foraging parties meant greater risk of discovery. But without food, their sanctuary would become a tomb.
 
