@@ -1,6 +1,6 @@
 # Chapter 10: Hunters and Hunted
 
-The next morning dawned hot and sultry. The cicadas were already producing their summer cacaphony by the time Gond's party had cleared the valley.
+The next morning dawned hot and sultry. The cicadas were already producing their summer cacophony by the time Gond's party had cleared the valley.
 
 The horses' hooves made soft sounds on the damp earth, as they whickered gently. Behind him, the volunteers moved with the quiet discipline he'd drilled into them—Pell, Korven, Lira, and nine others whose families depended on this mission's success.
 

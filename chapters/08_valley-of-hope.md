@@ -6,7 +6,7 @@ One afternoon, as they rested in the shade of an ancient, gnarled oak, Gond watc
 
 Finally, after days of trudging over steep hills, the land opened suddenly into a wide valley sheltered by towering cliffs. A narrow waterfall tumbled down one sheer wall, pooling into a lake so clear Gond could see the bottom twenty feet down. Green grass carpeted the valley floor, dotted with wildflowers and fruit trees gone wild. The band quickly set up camp and started setting up a more permanent encampment.
 
-To the suprise of Gond, Dax took the lead in constructing the encampment. He had been an apprentice carpenter, and in fact his family had been traveling to a nearby city to submit his master-work when they were attacked by raiders. Having a purpose seemed to energize Dax, and to Gond, watching him break out of his shell and join the men in their work reminded him of a fresh recruit working his way up to full soldier.
+To the surprise of Gond, Dax took the lead in constructing the encampment. He had been an apprentice carpenter, and in fact his family had been traveling to a nearby city to submit his masterwork when they were attacked by raiders. Having a purpose seemed to energize Dax, and to Gond, watching him break out of his shell and join the men in their work reminded him of a fresh recruit working his way up to full soldier.
 
 A week after they reached the valley, the first of the refugees arrived.
 

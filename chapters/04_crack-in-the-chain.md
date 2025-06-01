@@ -42,7 +42,7 @@ Gond raised a weary hand, slumping a bit. "Oi, friends! Wheel's busted on my car
 
 The lead driver leaned down, suspicion dawning too late. Gond's boathook snapped up, catching the man under the jaw with a crack that echoed between the cliffs. The scene broke into chaos.
 
-Pell burst from the grass, severing reins and slashing at the second driver. The horses bolted, but after a few dozen yards bent their necks to crop grass, oblivious of the bloodshead.
+Pell burst from the grass, severing reins and slashing at the second driver. The horses bolted, but after a few dozen yards bent their necks to crop grass, oblivious of the bloodshed.
 
 Steel rang. Gond ducked a clumsy saber slash, drove the boathook butt into a ribcage, pivoted, and swept the bench‑guard onto the road. Pell had a blade in him almost before he struck the ground. Gond turned to the third guard, who was fumbling at his crossbow. Gond charged, causing the guard to shoot wildly. The bolt flew wide, and then Gond was in reach. He swept the guard's feet from under him, then two swift blows finished the job.
 
@@ -106,7 +106,7 @@ Inside the guardroom, Sim cleaned and rebound Gond's wound. Alia hovered, handin
 
 "Ah, I almost forgot," said Gond. "Alia—this ribbon must be yours."
 
-The girl accepted the ribbon worldlessly, holding it tightly.
+The girl accepted the ribbon wordlessly, holding it tightly.
 
 Later, around a sputtering fire, Pell sketched a rough map in the dirt. "Patrol road runs here," he said, dagger tracing a line intersecting the path they had used. "We're safe enough for a night, maybe two. But they'll be swarming like angry hornets once that bastard guard starts squawking." He avoided Gond's gaze.
 

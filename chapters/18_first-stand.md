@@ -22,7 +22,7 @@ The massive dwarf emerged from behind one of his siege engines, bronze-reinforce
 
 "Three columns—coming from the east. Can your engines cover the eastern approach?"
 
-Grimjaw's grin widened. "Cover it? I can turn it into a firey graveyard. Just give me targets."
+Grimjaw's grin widened. "Cover it? I can turn it into a fiery graveyard. Just give me targets."
 
 Thorek nodded approvingly. "The engines are positioned well. Overlapping fields of fire with the crossbow positions. But two hundred soldiers…" He stroked his braided beard. "We'll need every advantage."
 

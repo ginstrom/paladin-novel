@@ -135,7 +135,7 @@ Gond looked around at the faces turned toward him—people who'd come here seeki
 
 The weight of that trust was almost crushing. But beneath it, Gond felt something else—a clarity he'd never experienced before. This was why he'd been given divine power. Not just to heal individual wounds, but to stand between the innocent and those who would harm them.
 
-"This is our time," called out Grond to the onlookers. "Today we make our stand."
+"This is our time," called out Gond to the onlookers. "Today we make our stand."
 
 The crowd stirred uneasily. Someone called out, "But there are too many of them!"
 

@@ -76,7 +76,7 @@ Gond followed her gaze, seeing the community through her eyes. The former slaves
 
 "I can't be a paladin," Gond said. "That would mean—"
 
-"It would mean you have a lot of work ahead of you," said Silviani, eyes glinting humorously.
+"It would mean you have a lot of work ahead of you," said Silviana, eyes glinting humorously.
 
 "Look around at these people," she continued. "They followed where you led. They trusted where you guided. They believed because you gave them reason to believe." Silviana's voice carried absolute certainty. "That is what paladins do, Gond. They kindle hope in the hopeless. They stand as light against the darkness."
 

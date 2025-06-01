@@ -104,7 +104,7 @@ The irony wasn't lost on him. In losing his old self, he'd found something far m
 
 ***
 
-The afternoon brought three more refugees: a family fleeing burned farmlands, their youngest child burning with fever. Gond healed the boy, then spent an hour teaching the parents how to recognize the signs of infection. By evening, Gorn was so exhausted from channeling that he felt hollow inside. Still, the child's laughter as he played with the other settlement children made the cost seem worthwhile.
+The afternoon brought three more refugees: a family fleeing burned farmlands, their youngest child burning with fever. Gond healed the boy, then spent an hour teaching the parents how to recognize the signs of infection. By evening, Gond was so exhausted from channeling that he felt hollow inside. Still, the child's laughter as he played with the other settlement children made the cost seem worthwhile.
 
 As darkness fell and the settlement settled into its nightly routines, Gond found himself sitting by the central fire, staring into the flames. Silviana approached with two cups of the herbal tea she favored—something that tasted of mint and sage.
 
@@ -120,7 +120,7 @@ The weight of her words settled over him like a heavy cloak. "So I'm supposed to
 
 "And how am I supposed to know the will of Alanyi? I've never heard her voice since that first time in the temple."
 
-"Trust me," said Siliviana with a smile. "When the godess speaks to you, you'll know it."
+"Trust me," said Silviana with a smile. "When the goddess speaks to you, you'll know it."
 
 Gond drank his tea in silence, watching the flames dance and shift. Around them, the settlement hummed with quiet activity—families sharing evening meals, guards taking their posts, the soft murmur of conversation and laughter. All of it made possible by his choice to heal rather than flee, to build rather than destroy.
 

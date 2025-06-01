@@ -136,7 +136,7 @@ Two days later, the expedition returned with more than just food.
 
 The weary but triumphant party picked their way down the valley's narrow entrance, leading the community's horses—they now had four, including the old cart horse Gond and his companions had stolen in their first caravan raid. Each horse was pulling a fully laden sledge, the expedition's members grunting and straining to help the sledges over roots and boulders. The Thornfield farmstead had yielded better than expected—not just grain and preserved meat from the root cellars, but tools and materials the fleeing family had been forced to abandon.
 
-"Ten sacks of potatoes, five sacks of oats, and another five of wheat," Gorn told the waiting refugees, dismounting with obvious relief. "Enough to last us another month and a half, maybe more if we're careful. Plus salt pork, dried beans, and a barrel of honey."
+"Ten sacks of potatoes, five sacks of oats, and another five of wheat," Gond told the waiting refugees, dismounting with obvious relief. "Enough to last us another month and a half, maybe more if we're careful. Plus salt pork, dried beans, and a barrel of honey."
 
 "And the rest?" Sim asked, noting the bundles strapped to every available surface.
 

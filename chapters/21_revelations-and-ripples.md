@@ -174,7 +174,7 @@ Gond had expected elves, but these beings transcended such simple categories. Th
 
 The eldest, a figure whose hair was white as starlight and whose eyes held the depth of centuries, rose from her stone seat.
 
-"Gond of the Valley," she said, her voice carrying the music of wind through leaves. "I am Aelindra, Speaker for the Circle. You have claimed divine authority. To cliam such authority falsely carries grave consequences. How do you answer?"
+"Gond of the Valley," she said, her voice carrying the music of wind through leaves. "I am Aelindra, Speaker for the Circle. You have claimed divine authority. To claim such authority falsely carries grave consequences. How do you answer?"
 
 "I claim nothing," Gond replied, his voice steady as he stepped forward. He met Aelindra's ancient gaze without flinching. "I am what Alanyi, or fate, or sheer bloody-mindedness has made me. If your Circle deems that 'divine authority,' that is your word for it. I call it a heavy load and a path I walk because I must."
 

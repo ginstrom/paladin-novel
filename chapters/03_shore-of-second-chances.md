@@ -168,7 +168,7 @@ Gond nodded. This woman had seen enough escaped slaves to know the hunger for ve
 
 "Thank me by staying alive. All three of you." Maera stepped back, but her eyes remained watchful. "The world has enough graves already."
 
-"We make an odd company," Pell observed, adjusting his club in his belt. He had aslo wheedled an old but wicked-looking knife from Maera, which was tucked into the other side of the belt.
+"We make an odd company," Pell observed, adjusting his club in his belt. He had also wheedled an old but wicked-looking knife from Maera, which was tucked into the other side of the belt.
 
 "Odd, but perhaps balanced." Sim watched Gond carefully. "Sometimes the strangest alliances hold the strongest purpose."
 

@@ -90,7 +90,7 @@ The implication was clear: submit, and perhaps some of what Gond had built would
 
 "The Iron Covenant is a rebel faction," one of the other visiting clerics protested. "They have no authority to grant recognition."
 
-"We have the authority of two millenium of faithful service," Korgan replied. "The authority of standing against corruption when others embraced it. The authority of preserving divine truth when others perverted it for political gain."
+"We have the authority of two millennia of faithful service," Korgan replied. "The authority of standing against corruption when others embraced it. The authority of preserving divine truth when others perverted it for political gain."
 
 As the argument continued, Gond found himself studying the faces around him. The visiting clerics were clearly divided—some nodding along with Aldric's demands, others shifting in their seats and avoiding eye contact with the High Cleric. His own people were watching him intently, waiting to see how he would respond to this challenge.
 

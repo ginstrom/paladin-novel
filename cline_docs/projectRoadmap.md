@@ -18,7 +18,12 @@
 
 ## Completed Tasks
 
+### EPUB Improvements (2025-05-31)
+- **Fixed EPUB TOC Numbering (CSS)**: Added CSS rules to `epub.css` to suppress default numbering in the EPUB Table of Contents, ensuring it displays without numbers as intended by the `--number-sections=false` Pandoc flag.
+
+
 ### Manuscript Quality & Consistency (2025-05-31)
+- **COMPREHENSIVE SPELL CHECK**: Performed a full spell check of all 27 chapters, cross-referencing canonical names and fantasy terms. All detected errors and likely typos are documented in `cline_docs/spellcheck_report.md` for targeted correction. No fantasy names or canonical terms were flagged.
 - **TIMING CREDIBILITY AUDIT**: Reviewed messenger arrival and attack timings across all chapters. Implemented minor clarifications in Ch 14 ("The Legend Begins") and Ch 18 ("First Stand") to enhance realism of short warning periods. Documented audit in `cline_docs/timeContinuity.md`.
 
 ### Dialogue Enhancement (2025-05-31)

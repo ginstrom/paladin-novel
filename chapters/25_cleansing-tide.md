@@ -6,7 +6,7 @@ The dawn over Saltmere broke red and angry, its crimson light reflecting off the
 
 A roar answered him, a wave of sound from human, dwarf, and elf alike. Grimjaw's engines, "Hope's Hammer" and "Alanyi's Judgment," thundered their assent, hurling massive stones against the already battered ramparts. This was the signal.
 
-## The Hammer of Justice
+**The Hammer of Justice**
 
 Silviana's ancient knowledge had revealed the hidden ways, tunnels carved when the world was younger, leading beneath Saltmere's western flank, towards the rumored Sunken Grotto. While Grimjaw's bombardment drew the defenders' eyes to the main gates, Gond led a strike force of five hundred—his own veterans, Sir Marcus's repentant knights, and a formidable company of Thorek's Iron Covenant dwarves—into the damp darkness.
 
@@ -74,7 +74,7 @@ Kael pushed himself up, testing his side. "You think a dog like me could do that
 
 He left Kael standing in the alley, alive and whole, staring at his hands as if seeing them for the first time. What the man would do with this second chance remained to be seen. But for the first time since their paths had crossed again, Gond felt something like hope for his former friend.
 
-## The Spark of Rebellion
+**The Spark of Rebellion**
 
 The victory at Saltmere sent ripples along the coast. After a week of rest, resupply, and the establishment of a provisional council under Sim's spiritual guidance, Gond's army marched on Blackwater. The city was smaller than Saltmere, but its reputation for cruelty was just as dark.
 
@@ -92,7 +92,7 @@ Sir Marcus Brightwater, witnessing the depths of the depravity his former order 
 
 Gond, his expression grim, placed a hand on the knight's shoulder. "They will, if our actions now prove worthy." The capture of Blackwater was a victory, but the discovery within its keep was a stark reminder of the true enemy's nature.
 
-## The Light of Divine Confrontation
+**The Light of Divine Confrontation**
 
 Port Sorrow was the last of the three great slaver cities on Slaver's Coast. As Gond's army approached, an eerie stillness hung over it. Scouts reported that most of the regular soldiers had fled, deserting their posts. Yet, the city was not undefended. Three ominous black-sailed ships lay anchored in its harbor, and the ramparts were manned by figures in dark robes—Gorlatch's elite clerics.
 
@@ -132,7 +132,7 @@ The High Priest screamed as the divine energies collided, his form consumed firs
 
 Gond stood, swaying but triumphant, Alanyi's light fading gently around him. Port Sorrow was free.
 
-## March to Aid the Dwarves
+**March to Aid the Dwarves**
 
 The coastal campaign was over. Saltmere, Blackwater, Port Sorrow were all cleansed, their slave pens emptied, their dark temples shattered. Gond, recovering slowly from the divine duel, oversaw the initial stages of restoration, Sim and Silviana working tirelessly to establish Alanyi's worship and heal the deep scars left by Gorlatch's reign.
 

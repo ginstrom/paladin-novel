@@ -52,7 +52,7 @@ Gond's fingers wandered again to the brand.
 
 "Yeah, you've got one just like the rest of us," murmured Pell sympathetically.
 
-For the first time, Gond looked around and saw the same manacle tatoo on every forehead in the hold. 
+For the first time, Gond looked around and saw the same manacle tattoo on every forehead in the hold. 
 
 Gond's free hand clenched against his thigh. The chain between his wrists clinked softly as a tremor ran through his shoulders—brief, quickly suppressed, but there nonetheless.
 
@@ -82,9 +82,9 @@ Pell shifted beside Gond, his chains clinking softly. "Cheerful bunch," he whisp
 
 "Alanyi? That some kind of god?" asked Gond.
 
-"Godess," corrected Pell. "Our Sim here is a priest of this Alanyi, although I have to question her power if her priests make a habit of one-way trips to the salt mines."
+"Goddess," corrected Pell. "Our Sim here is a priest of this Alanyi, although I have to question her power if her priests make a habit of one-way trips to the salt mines."
 
-"Alanyi is the godess of peace and mercy," clarified Sim. "And I can't think of many places needing mercy more than this one," he continued with a lopsided grin. "Though I must admit, I'd much rather she'd sent me to a nice monastery than a slaver's ship."
+"Alanyi is the goddess of peace and mercy," clarified Sim. "And I can't think of many places needing mercy more than this one," he continued with a lopsided grin. "Though I must admit, I'd much rather she'd sent me to a nice monastery than a slaver's ship."
 
 Above them, Garrett's voice carried clearly. "Captain says we're making good time. Should reach Blackwater Bay by tomorrow evening. We'll pick up more cargo there and then head to the mines."
 

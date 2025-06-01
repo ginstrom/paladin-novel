@@ -16,7 +16,7 @@ Gond's stomach clenched. "Lost in the storm, along with everything else." He sli
 
 The coins vanished, but suspicion remained etched in weathered faces. The third guard stepped closer examining Gond's face. He caught the mud smeared across his forehead before he could turn away.
 
-"Horsing trading must be dirty work." The guard's hand drifted to his sword hilt.
+"Horse trading must be dirty work." The guard's hand drifted to his sword hilt.
 
 "This one doesn't look it, but he led me a merry chase." Gond forced levity into his voice. "Clumsy me, landed face first in the mud chasing him down. I'd never live it down with the lads if they knew."
 
