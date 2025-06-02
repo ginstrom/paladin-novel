@@ -84,7 +84,7 @@
 **Phase 2: Action Sequence Clarity**
 - Broke up long combat description into shorter, clearer sentences
 - Enhanced the hand-cutting scene with step-by-step visceral clarity:
-  - 「素早く刃をヨルドの手首に当てた。腱と骨を必死に切り...」→ 「ゴンドは刃をヨルドの手首に当てた。腱を切る。骨を削る。血が水に広がる。手首が離れた。」
+  - 「素早く刃をヨルドの手首に当てた。腱と骨を必死に切り…」→ 「ゴンドは刃をヨルドの手首に当てた。腱を切る。骨を削る。血が水に広がる。手首が離れた。」
 - Clarified subject references in multi-character action scenes
 
 **Phase 3: Dialogue Enhancement**
@@ -102,7 +102,7 @@
 - Enhanced Sim's prayer description:
   - 「唇が感謝の祈りのように動いていた」→ 「唇が静かに動く——感謝の祈りを捧げているのだろう」
 - Strengthened emotional weight of survivor's guilt:
-  - 「死んだ脱走者たちの重みが皆に圧し掛かっていたが...」→ 「死んだ脱走者たちの重みが皆に圧し掛かっている。だがシムにとっては...」
+  - 「死んだ脱走者たちの重みが皆に圧し掛かっていたが…」→ 「死んだ脱走者たちの重みが皆に圧し掛かっている。だがシムにとっては…」
 
 ## Character Voice Translations
 
@@ -125,7 +125,7 @@
 ### Pell (ペル) - Street-Smart Rogue
 **Key Translations** (Enhanced for naturalness):
 - "One of them keeps leaning too far over" → "奴らの一人がいつも身を乗り出しすぎる"
-- "Well, that went just... perfectly to plan, didn't it?" → "まあ、計画通り…完璧にいったじゃないか？"
+- "Well, that went just… perfectly to plan, didn't it?" → "まあ、計画通り…完璧にいったじゃないか？"
 - "Hold still, damn you" → "じっとしてろ、畜生" (More direct, natural phrasing)
 - "At this rate, we'll grow old and die" → "この調子じゃ年を取って死んじまう" (Compressed for naturalness)
 - Preserved sardonic humor and tactical awareness with enhanced colloquial flow
@@ -187,7 +187,7 @@
 ### 4. Dark Humor
 **Challenge**: Pell's sardonic comment after escape
 **Example**:
-- Original: "Well, that went just... perfectly to plan, didn't it?"
+- Original: "Well, that went just… perfectly to plan, didn't it?"
 - Translation: "まあ、計画通り…完璧にいったじゃないか？"
 - **Decision**: Preserved the ironic pause and sarcastic tone with ellipsis and question particle
 

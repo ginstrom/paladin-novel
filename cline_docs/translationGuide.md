@@ -88,9 +88,10 @@ This guide establishes best practices for translating "Paladin's Rise" from Engl
 #### Phase 2: Systematic Term & Symbol Replacement
 1. **Replace all English quotation marks** "…" with Japanese brackets 「…」
 2. **Convert dashes and italic markup** to natural Japanese punctuation
-3. **Fix critical terminology errors** (e.g., manacle = 烙印/焼き印, not 刺青)
-4. **Standardize all proper nouns** according to glossary entries
-5. **Ensure consistent technical terms** throughout
+3. **Use ellipsis character (…) instead of three dots (...)** for consistency
+4. **Fix critical terminology errors** (e.g., manacle = 烙印/焼き印, not 刺青)
+5. **Standardize all proper nouns** according to glossary entries
+6. **Ensure consistent technical terms** throughout
 
 #### Phase 3: Japanese Language Optimization
 1. **Compress redundant phrasing** by 20-30% while preserving meaning
@@ -238,6 +239,7 @@ This guide establishes best practices for translating "Paladin's Rise" from Engl
 - [ ] Technical terms match glossary entries
 - [ ] Cultural adaptations enhance rather than obscure meaning
 - [ ] No English punctuation marks remain
+- [ ] Ellipsis character (…) used instead of three dots (...)
 - [ ] Critical terminology is correctly translated
 - [ ] Text is compressed by 20-30% from literal translation
 - [ ] Consistent 常体 narrative voice maintained

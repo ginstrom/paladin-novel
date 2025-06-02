@@ -1,40 +1,55 @@
 ## Current Objective
-Apply specific literary improvements to Chapter 6 "石の囁き" Japanese translation based on detailed user feedback
+Ellipsis consistency rule established in documentation. User will implement the specific file changes for Chapter 6 "聖域への道" continuity issues and Japanese language naturalness problems based on manual corrections and feedback.
 
 ## Context
-Chapter 6 translation was completed with 5-star quality ratings, but user feedback identified three specific areas for enhancement to achieve commercial publication standards. The improvements focus on literary refinement while maintaining translation accuracy and consistency.
+User requested consistent use of ellipsis character (…) instead of three dots (...) throughout the project. Additionally, user manually fixed several continuity issues in Chapter 6 and identified specific Japanese language problems that need correction. The chapter had plot inconsistencies and unnatural Japanese expressions that require systematic correction.
 
-## Specific Improvement Areas (3-Point Enhancement Plan)
+## Specific Issues to Address
 
-### 1. 冗長表現の整理 (Organizing Redundant Expressions)
-- **Target**: Verbose emotional/sensory descriptions that are overly explanatory
-- **Example**: 「ゴンドは立ち止まり、胸に暖かさが広がった。その感覚は快いものでも痛いものでもなく、ただ...困惑させるものだった。」
-- **Improved**: 「ゴンドは立ち止まった。胸に、説明のつかない暖かさが広がった。」
-- **Approach**: Convert explanatory descriptions into concise, poetic expressions with emotional resonance
+### 1. Continuity Corrections
+- **Remove all merchant references**: Eliminate the noon smoke passage that mentions merchant party
+- **Fix horse/saddle description**: Change from "makeshift saddle" to improvised blanket padding since it's a stolen cart horse
+- **Correct character dynamics**: Dax (16) should show more agency than Alia (14), not the reverse
 
-### 2. 心理描写の一部補強 (Strengthening Psychological Descriptions)
-- **Target**: The effective line 「彼の人々——いつから彼はそのように考え始めたのか？」
-- **Enhancement**: Add one sentence to reinforce Gond's internal change about seeing companions as "his people"
-- **Approach**: Add contemplative internal monologue that deepens this character development moment
+### 2. Japanese Language Naturalness Issues
+- **「確実に捕まったと思ったよ」** → More natural expression needed
+- **「あなたがあまりにも長く行っていたから」** → Grammatically awkward, needs correction
+- **「薄い空気の中に？」** → Unclear in context, needs clarification
+- **「ブラックウォーターは死だ」** → Too literal, needs more natural Japanese
+- **「胸の奥で重みが宿った」** → Slightly unnatural phrasing
 
-### 3. 描写の抑揚強化 (Strengthening Descriptive Rhythm)
-- **Target**: Rain and terrain struggle scenes with monotonous rhythm
-- **Enhancement**: Add short, sharp sentences and action descriptions
-- **Approach**: Create breathlessness and urgency through staccato pacing in physical struggle scenes
+### 3. Character Relationship Corrections
+- **Dax/Alia dynamic**: Current text has Alia speaking more and being more assertive
+- **Age-appropriate behavior**: Dax (16) should be more protective and take more initiative
+- **Dialogue distribution**: Rebalance to show proper sibling hierarchy
+
+## Specific Passages Requiring Correction
+
+### Merchant Smoke Reference (Remove Entirely)
+Current: 「正午に来た。彼らが来た方向から煙が立ち上った——キャンプファイア。方向と距離からゴンドは彼らが宿駅にいると推測した。」
+
+### Horse Description
+Current: 「間に合わせの鞍の上で居眠りして」
+Target: 「毛布を敷いた馬の背で居眠りして」
+
+### Character Dialogue and Actions
+Review all Alia/Dax interactions to ensure proper age dynamics
 
 ## Implementation Strategy
-1. Apply improvements systematically through the chapter
-2. Maintain existing 5-star quality standards
-3. Preserve all plot elements and character consistency
-4. Update translation notes with enhancement documentation
-5. Ensure consistency with established terminology and style
+1. ✅ Establish ellipsis consistency rule in project documentation
+2. 🔄 User implementing: Apply ellipsis consistency across all project files
+3. 🔄 User implementing: Systematically locate and fix all continuity issues in Chapter 6
+4. 🔄 User implementing: Correct Japanese language naturalness problems
+5. 🔄 User implementing: Rebalance Dax/Alia character dynamics
+6. 🔄 User implementing: Maintain existing translation quality and consistency
+7. 🔄 User implementing: Update translation notes with all corrections
 
 ## Success Criteria
-- Enhanced literary quality while maintaining translation accuracy
-- More concise and poetic emotional descriptions
-- Strengthened character development moment
-- Improved rhythm and tension in action sequences
-- Commercial publication readiness
+- All continuity issues resolved
+- Natural Japanese expressions throughout
+- Proper character age dynamics reflected
+- Maintained translation accuracy and consistency
+- Enhanced readability and flow
 
 ## Previous Context
-Successfully completed Chapter 6 translation with comprehensive mystical elements, action sequences, and character development. Ready to apply targeted literary enhancement techniques based on specific user feedback.
+Chapter 6 translation was completed with 5-star quality ratings, but user identified specific continuity breaks and language issues requiring correction.

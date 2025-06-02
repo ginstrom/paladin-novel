@@ -41,6 +41,7 @@ Before beginning to write or significantly alter a chapter, complete the followi
 
 1.  **Narrative Voice and Style:**
     *   Maintain a third-person, past tense narrative.
+    *   **Formatting Consistency:** Use the ellipsis character (…) instead of three dots (...) throughout all text.
     *   **Show, don't tell:** This is paramount. Use actions, dialogue, sensory details, and internal thoughts to convey information and emotion, rather than explicit exposition. Avoid stating character emotions or intentions directly; let them be inferred.
     *   **Pacing:** Linger over world-setting and character development to build immersion. Move briskly through action scenes to maintain tension and excitement.
     *   **Dialogue:** When description alone is insufficient to convey necessary information or character nuances, employ dialogue. Ensure dialogue is natural, serves a purpose (reveals character, advances plot, provides exposition subtly), and is appropriate to the character's voice, background, and current emotional state.
