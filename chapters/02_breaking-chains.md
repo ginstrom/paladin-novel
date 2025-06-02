@@ -2,8 +2,6 @@
 
 The ship's hull groaned like an old man's bones, each creak marking time in their floating prison. Gond's skull still felt like someone had used it for hammer practice, but the initial fog had lifted enough for him to think clearly. Around him, the symphony of misery played on—retching, whimpering, the constant rattle of chains.
 
-His tongue moved across cracked lips, tasting the metallic tang that lingered from whatever they'd used to drug him. *Badger's bladder would taste better,* he thought, forcing himself to swallow the foul water when it came.
-
 Days crawled by. Gond ate the slop they tossed down, drank the brackish water, and watched. Always watching. The guards grew lazier with each passing day, their routines as predictable as sunrise.
 
 Jord shifted beside him for the hundredth time, chains clanking. The man's shoulders bunched like a bull ready to charge, and his breathing came fast and shallow. Sweat beaded on his forehead despite the cold.
@@ -68,7 +66,7 @@ Sim's smile was serene as dawn light. "Then we trust that Alanyi guides our path
 
 "Trust the goddess, but swim like your life depends on it," Pell added with dark humor.
 
-Gond felt the weight of their lives settling on his shoulders. Four men, bound by nothing but shared desperation and the chains that held them. In a few hours, they would either be free or dead.
+Gond felt the weight of their lives settling on his shoulders. Four men, bound by nothing but shared desperation and the chains that held them. In a few days, they would either be free or dead.
 
 ***
 
@@ -78,7 +76,7 @@ Gond's hand shot up, fingers closing on the guard's rough tunic. One sharp yank,
 
 "Now!"
 
-Pell moved like water, flowing over Greasy's prone form to snatch keys and shortsword. Steel flashed as he freed himself, then tossed the keys to Sim, who caught them without looking up from his quiet prayers. Pell tossed the short sword to Gond as he climbed past appropriating the guard's dagger for himself.
+Pell moved like water, flowing over Greasy's prone form to snatch keys and shortsword. Steel flashed as he freed himself, then tossed the keys to Sim, who caught them without looking up from his quiet prayers. Pell tossed the short sword to Gond as he climbed past, appropriating the guard's dagger for himself.
 
 "Jord, *wait*—!" Gond bit out, but the big man was already a blur of motion, roaring as he charged upward, chains whipping behind him like anchor rope. Shouts erupted from above.
 
@@ -96,9 +94,9 @@ Gond looked around and saw that the shouts had drawn attention. Four guards, arm
 
 Then Gond and Jord were up and over. Cold water hit him like a physical blow, driving the air from his lungs. Almost before they hit the water, a crossbow string sang. Jord jerked, the bolt sprouting from his chest like a deadly flower. His eyes went wide, then dim. Slowly he began to sink, still chained to Gond's wrist.
 
-Gond felt himself borne down by the bulk of the big man. He felt an agonizing yank on his injured shoulder, and lost half a lungful of air from the stifled groan. The salt water burned his eyes and nose as he fought against Jord's dead weight. Quickly, he brought his blade down on Jord's wrist. Sawing desperately through sinew and bone, the water around them turning dark with blood. At last the hand was severed. Lungs bursting, pressure crushing his chest like iron bands, he struggled to reach the surface. His short sword tumbled away into the black depths as he clawed upward through the freezing water.
+Gond felt himself borne down by the bulk of the big man. He felt an agonizing yank on his injured shoulder, and lost half a lungful of air from the stifled groan. The salt water burned his eyes and nose as he fought against Jord's dead weight. Quickly, he brought his blade down on Jord's wrist. Sawing desperately through sinew and bone, the water around them turning dark with blood. At last the hand was severed. Lungs bursting, pressure causing his ears to ring, he struggled to reach the surface. His short sword tumbled away into the black depths as he clawed upward through the freezing water.
 
-Gond's head broke the surface and he took a gasping breath of cold air that tasted of salt and freedom. Around him, other bodies splashed into the waves—some went under immediately, dragged down by iron weights, their final gasps lost beneath the surface. Others surfaced, gasping and flailing, arms thrashing desperately against the pull of the sea. Crossbow bolts hissed through the air and struck the water all around the fleeing slaves with sharp splashes. He saw the woman who had been singing a lullaby struck in front of him, her eyes wide with shock before she sank immediately, the dark ocean swallowing her without a sound.
+Gond's head broke the surface and he took a gasping breath of cold air that tasted of salt and freedom. Around him, other bodies splashed into the waves—some went under immediately, dragged down by iron weights, their final gasps lost beneath the surface. Others surfaced, gasping and flailing, arms thrashing desperately against the pull of the sea. Crossbow bolts hissed through the air and struck the water all around the fleeing slaves with sharp splashes. He saw the woman with farmer's hands struck in front of him, her eyes wide with shock before she sank immediately, the dark ocean swallowing her without a sound.
 
 Twenty yards ahead, Pell and Sim swam with steady strokes, still wearing manacles but swimming strongly.
 
@@ -116,15 +114,19 @@ Gond's stomach cramped violently, and he doubled over, retching seawater and bil
 
 When the retching finally stopped, Gond found Sim kneeling beside him with a strip of cloth he must have torn from his robe. The priest's gentle hands cleaned his raw, bleeding wounds. His touch was warm against Gond's ice-cold skin.
 
+Sim's face appeared to grow dim as Gond's awareness faded.
+
 ***
 
-Hours later, Pell produced a rusty file from somewhere in his rags. The metal scraped against iron with agonizing slowness, each stroke sending vibrations through already raw wrists. 
+Gond awoke some hours later to see that Pell had produced a rusty file from somewhere, and was applying it industriously to his manacles. 
 
-Once he was free, he passed the file to Gond. Gond's hands shook uncontrollably—not from effort, but from the bone-deep cold that had settled into his marrow. His lips had gone numb, and his breath came in short, visible puffs despite the mild spring air. Pell took the file back.
+"Any others make it?" asked Gond. Sim gave a sorrowful shake of his head.
+
+Once Pell was free, he passed the file to Gond. Gond's hands shook uncontrollably—not from effort, but from the bone-deep cold that had settled into his marrow. His lips had gone numb, and his breath came in short, visible puffs despite the mild spring air. Pell took the file back.
 
 "Hold still, damn you," Pell muttered, teeth chattering so hard he could barely speak. His own fingers fumbled with the rusty file. "Gods, at this rate, we'll grow old and die before these cursed things are off. Still better than drowning, I suppose."
 
-Sim waited patiently for Pell to hand him the file, but Gond could see the priest's shoulders hunched against more than just the cold. The weight of the dead escapees pressed down on all of them, but on Sim more than the mercenaries who had seen their share of death. His hands trembled slightly as he worked the file—not from cold or exhaustion, but from something deeper. The violence of their escape, necessary though it was, seemed to cut at him in ways that went beyond the physical.
+Sim waited patiently for Pell to hand him the file, but Gond could see the priest's shoulders were hunched against more than just the cold. The weight of the dead escapees pressed down on all of them, but Gond surmised that for Sim, it would be worse than for the mercenaries who had seen their share of death. The violence of their escape, necessary though it was, seemed to cut at him in ways that went beyond the physical.
 
 "Well," Pell said finally, forcing lightness into his voice, "at least we're not fish food. Though I'm starting to think the fish might have had the easier time of it."
 

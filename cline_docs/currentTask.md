@@ -1,73 +1,40 @@
 ## Current Objective
-Comprehensive spell check of all 27 chapters in the manuscript.
+Apply specific literary improvements to Chapter 6 "石の囁き" Japanese translation based on detailed user feedback
 
 ## Context
-Requested a full spell check of the novel, with all fantasy names and canonical terms whitelisted. The goal was to identify genuine typos and spelling errors, not to flag invented words or names.
+Chapter 6 translation was completed with 5-star quality ratings, but user feedback identified three specific areas for enhancement to achieve commercial publication standards. The improvements focus on literary refinement while maintaining translation accuracy and consistency.
 
-Memory Bank files read:
-- `cline_docs/projectRoadmap.md`
-- `cline_docs/currentTask.md` (previous state)
-- `cline_docs/techStack.md`
-- `cline_docs/codebaseSummary.md`
-- `cline_docs/characters.md`
-- `glossary-en-ja.md`
+## Specific Improvement Areas (3-Point Enhancement Plan)
 
-## Plan & Execution
-1. Built a whitelist of canonical names and terms from `characters.md` and `glossary-en-ja.md`.
-2. Read all 27 chapter files in the `chapters/` directory.
-3. Identified and recorded all likely spelling errors and typos, ignoring whitelisted terms.
-4. Compiled a detailed report, organized by chapter, with suggested corrections and context.
-5. Saved the report as `cline_docs/spellcheck_report.md`.
+### 1. 冗長表現の整理 (Organizing Redundant Expressions)
+- **Target**: Verbose emotional/sensory descriptions that are overly explanatory
+- **Example**: 「ゴンドは立ち止まり、胸に暖かさが広がった。その感覚は快いものでも痛いものでもなく、ただ...困惑させるものだった。」
+- **Improved**: 「ゴンドは立ち止まった。胸に、説明のつかない暖かさが広がった。」
+- **Approach**: Convert explanatory descriptions into concise, poetic expressions with emotional resonance
 
-## Result
-- Spell check completed for all chapters.
-- All detected errors and likely typos are documented in `cline_docs/spellcheck_report.md`.
-- No fantasy names or canonical terms were flagged.
-- Ambiguous cases (e.g., "Horsing trading") are noted for review.
+### 2. 心理描写の一部補強 (Strengthening Psychological Descriptions)
+- **Target**: The effective line 「彼の人々——いつから彼はそのように考え始めたのか？」
+- **Enhancement**: Add one sentence to reinforce Gond's internal change about seeing companions as "his people"
+- **Approach**: Add contemplative internal monologue that deepens this character development moment
 
-## Next Steps
-1. Review and implement corrections as needed, using the report as a checklist.
-2. Update documentation after corrections.
+### 3. 描写の抑揚強化 (Strengthening Descriptive Rhythm)
+- **Target**: Rain and terrain struggle scenes with monotonous rhythm
+- **Enhancement**: Add short, sharp sentences and action descriptions
+- **Approach**: Create breathlessness and urgency through staccato pacing in physical struggle scenes
 
----
+## Implementation Strategy
+1. Apply improvements systematically through the chapter
+2. Maintain existing 5-star quality standards
+3. Preserve all plot elements and character consistency
+4. Update translation notes with enhancement documentation
+5. Ensure consistency with established terminology and style
 
-## Task Plan (2025-05-31)
+## Success Criteria
+- Enhanced literary quality while maintaining translation accuracy
+- More concise and poetic emotional descriptions
+- Strengthened character development moment
+- Improved rhythm and tension in action sequences
+- Commercial publication readiness
 
-### Objective
-Apply all spelling corrections listed in `cline_docs/spellcheck_report.md` to the corresponding chapters in the manuscript.
-
-### Steps
-1. Systematically process each chapter listed in the spellcheck report.
-2. For each chapter, make the minimum required changes to correct only the specified typos, preserving all other content.
-3. For ambiguous cases (e.g., "Horsing trading"), review context and apply the suggested correction unless authorial intent clearly dictates otherwise.
-4. After all corrections, update documentation as needed (e.g., codebaseSummary.md, projectRoadmap.md if warranted).
-5. Run a build/test (e.g., combine chapters, check for errors) to verify manuscript integrity.
-
-### Chapters to Edit (per report)
-- 01_mark-of-betrayal.md
-- 03_shore-of-second-chances.md
-- 04_crack-in-the-chain.md
-- 05_change-of-course.md
-- 08_valley-of-hope.md
-- 09_sanctuary-found.md
-- 10_hunters-and-hunted.md
-- 12_paladins-rise.md
-- 13_healing-hands-troubled-heart.md
-- 14_legend-begins.md
-- 17_allies-and-enemies.md
-- 18_first-stand.md
-- 21_revelations-and-ripples.md
-- 23_first-tithe-of-tears.md
-- 25_cleansing-tide.md
-
-### Documentation to Update
-- Update this file with progress and completion notes.
-- Update codebaseSummary.md with a summary of the spelling correction pass.
-
-### Testing
-- After corrections, run the combine_chapters.py script to ensure all chapters build cleanly into the master document.
-- Spot-check a few chapters for formatting and error-free output.
-
-### Notes
-- Make only the minimum required changes; do not alter narrative, style, or formatting except as needed for the corrections.
-- If any correction appears to conflict with established names or terms, consult the canonical lists or ask for clarification.
+## Previous Context
+Successfully completed Chapter 6 translation with comprehensive mystical elements, action sequences, and character development. Ready to apply targeted literary enhancement techniques based on specific user feedback.

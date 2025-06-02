@@ -1,0 +1,31 @@
+---
+title: "聖騎士の目覚め"
+author:
+  - "Ryan Ginstrom"
+language: "ja"
+date: "2025-05-31"
+publisher: ""
+rights: "© 2025 Ryan Ginstrom. All rights reserved."
+identifier: "urn:isbn:9781234567890"  # URN form preferred for Calibre
+cover-image: "images/cover.png"
+subject:
+  - "エピック・ファンタジー"
+  - "奴隷反乱"
+  - "贖罪"
+  - "魔法と宗教"
+description: |
+  ゴンドは、奴隷の烙印という形で裏切りが自分を襲うとは思ってもみなかった。皮肉屋の傭兵として続けていた単調な日々は、仲間に薬を盛られ、塩鉱山送りの奴隷として売られたその瞬間に砕け散った——そこでは、大半が数ヶ月と生き延びられない。しかし裏切り者たちは彼を見くびっていた…
+
+  壊れた鎖と力ずくで脱出したゴンドは、復讐への渇望に駆られて岸に打ち上げられる。復讐はすぐに果たせるはずだった。だがいつしか、彼は逃亡奴隷や子供たち、そして神の慈悲を説く穏やかな司祭を守っていた…
+    
+  奴隷制度が腐敗した神殿に祝福され、自由が死を意味するこの世界で、ただの雇われ剣士にすぎない彼は——大陸が切望する神の正義の担い手となり得るのか？
+
+type: "Book"
+creator: "Ryan Ginstrom"  # Calibre sometimes prefers this over 'author'
+language-code: "ja-JP"
+calibre: true  # optional hint for Calibre
+tags:  # Alternative to subject if using Calibre
+  - "ファンタジー"
+  - "冒険"
+  - "神話的英雄"
+---

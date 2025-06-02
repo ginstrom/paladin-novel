@@ -1,8 +1,58 @@
 # Translation Guide: English to Japanese
-## Paladin's Rise / パラディンの覚醒
+## Paladin's Rise / 聖騎士の目覚め
 
 ### Overview
 This guide establishes best practices for translating "Paladin's Rise" from English to Japanese, maintaining the novel's sardonic tone, "show don't tell" narrative style, and dark fantasy atmosphere while adapting to Japanese literary conventions.
+
+---
+
+## Quickstart Workflow for Translators
+
+1. **Copy the English chapter file** from `chapters/` to `manuscript-ja/` (e.g., `01_mark-of-betrayal.md` → `chapter-01.md`).
+2. **Translate the chapter** following the methodology and style rules in this guide.
+3. **Create a translation notes file** for the chapter (e.g., `chapter-01_notes.md`) in `manuscript-ja/` to document:
+   - New terms and translation decisions
+   - Cultural adaptations and reasoning
+   - Character voice adjustments
+   - Challenging passages and solutions
+   - Compression and QA issues
+4. **Run through the QA checklist** (see below) before finalizing the chapter.
+5. **Update `glossary-en-ja.md`** with any new terms, idioms, or cultural concepts introduced.
+6. **Submit or commit both the translated chapter and notes file.**
+7. **Refine and update this guide, the glossary, and notes as needed after each chapter.**
+
+---
+
+## File & Folder Structure
+
+- All Japanese translations: `manuscript-ja/`
+  - Chapter files: `chapter-XX.md` (e.g., `chapter-01.md`)
+  - Translation notes: `chapter-XX_notes.md` (e.g., `chapter-01_notes.md`)
+- Glossary: `glossary-en-ja.md` (update after each chapter)
+- Reference improved translation: `manuscript-ja/chapter-01_jp_rev.md`
+- This guide: `cline_docs/translationGuide.md`
+
+---
+
+## Documentation & Glossary Update Protocol
+
+- **After each chapter:**
+  - Add new terms and their translations to `glossary-en-ja.md`
+  - Summarize major translation decisions and cultural adaptations in the chapter’s notes file
+  - Note any unresolved issues or questions for future review
+  - If the guide or workflow evolves, document the change in the notes file and update this guide as needed
+
+---
+
+## Handling Ambiguity & Translator’s Notes
+
+- If a term, phrase, or cultural reference is ambiguous or untranslatable:
+  - Add a translator’s note in the chapter’s notes file explaining the issue and your solution
+  - If unsure, consult the author or project lead before finalizing
+  - Document any major adaptation decisions for future reference
+  - Use footnotes sparingly in the main text; prefer documentation in the notes file
+
+---
 
 ### Core Translation Principles
 
@@ -11,6 +61,9 @@ This guide establishes best practices for translating "Paladin's Rise" from Engl
 - Restructure sentences to follow Japanese syntax patterns
 - Use appropriate Japanese literary devices and expressions
 - Adapt Western narrative structures to Japanese storytelling conventions
+- **Prefer common expressions over rare literary terms** (e.g., 朦朧とした意識 over 昏迷)
+- **Use idiomatic body language descriptions** rather than technical ones
+- **Order descriptive elements naturally** in Japanese (e.g., reorder taste descriptions for smoother flow)
 
 #### 2. Tone and Style Preservation
 - **Maintain the sardonic, dark tone** throughout
@@ -79,6 +132,38 @@ This guide establishes best practices for translating "Paladin's Rise" from Engl
 - Employ appropriate sentence endings (だろう, のだ, etc.)
 - Maintain sardonic tone through word choice and rhythm
 
+#### Dialogue Attribution Variety
+**CRITICAL**: Avoid repetitive use of 「言った」. Use varied verbs that reflect speaker tone and emotion:
+
+**Authority/Command Verbs**:
+- 吠えた (barked/roared) - for harsh military commands
+- 命じた (ordered) - for formal commands
+- 怒鳴った (shouted) - for angry outbursts
+- 叫んだ (yelled/cried out) - for urgent calls
+
+**Conversational Verbs**:
+- 答えた (answered/replied) - neutral response
+- 尋ねた (asked/inquired) - for questions
+- 囁いた (whispered) - for quiet speech
+- 呟いた (muttered) - for under-breath comments
+
+**Emotional Verbs**:
+- 声を低く落とした (lowered voice) - for threats
+- 声に軽さを込めた (lightened voice) - for casual tone
+- 冷静に答えた (answered calmly) - for controlled responses
+- 慌てて言った (said hurriedly) - for rushed speech
+
+**Tone-Specific Expressions**:
+- 「よく考えることだな」声を低く落とした (gruff threat)
+- 「頼む、助けてくれ」(desperation implied through content)
+- 桶職人は冷静に答え (craftsman's measured response)
+
+**Usage Guidelines**:
+- Match verb to character personality and situation
+- Consider power dynamics (guards vs. civilians)
+- Reflect emotional state through attribution choice
+- Avoid using 「言った」more than once per page
+
 ### Technical Guidelines
 
 #### Character Names
@@ -87,14 +172,21 @@ This guide establishes best practices for translating "Paladin's Rise" from Engl
 - **Consider pronunciation** when creating new name translations
 
 #### Place Names
-- **Adapt to natural Japanese equivalents** where possible (跳ね馬亭 for Prancing Dragon)
-- **Use katakana for foreign-sounding locations** when adaptation isn't natural
+- **Transliterate place names to katakana** as the default approach (e.g., "Blackwater" → "ブラックウォーター")
+- **Translate geographical features and descriptive elements** (e.g., "Bay" → "湾", "Port" → "港")
+- **Translate ranks, titles, and common descriptive words** (e.g., "Captain" → "船長")
+- **Combined example**: "Blackwater Bay" → "ブラックウォーター湾" (transliterated place + translated feature)
+- **Exception for culturally adapted names**: Some establishments may use natural Japanese equivalents (跳ね馬亭 for Prancing Dragon)
 - **Maintain geographical consistency** throughout the series
+
+**⚠️ CRITICAL CORRECTION NOTE**: "Blackwater Bay" was incorrectly translated as "黒水湾" in Chapter 1 (already submitted). All future references MUST use the correct "ブラックウォーター湾" to maintain consistency with the established translation rules.
 
 #### Religious and Cultural Terms
 - **Establish consistent translations** for religious concepts
 - **Use appropriate honorifics** for deities and religious figures
 - **Adapt cultural concepts** to be understandable to Japanese readers
+- **Paladin**: Always use 聖騎士 (not パラディン)
+- **Paladin's Rise**: 聖騎士の目覚め (book title)
 
 #### Critical Terminology Corrections
 - **Manacle/Brand**: Always use 烙印 or 焼き印, never 刺青 (tattoo)
@@ -193,6 +285,70 @@ For each chapter translation, maintain notes on:
 - **Document major translation decisions** for future volumes
 - **Preserve narrative continuity** in Japanese adaptation
 
+### Naturalness Improvement Guidelines
+
+#### Core Principles for Natural Expression
+Based on analysis of Chapter 1 improvements that achieved 5/5 naturalness rating:
+
+#### 1. Word Choice Hierarchy
+**Principle**: Prefer common expressions over rare literary terms
+- ❌ 昏迷 → ✅ 朦朧とした意識 (avoid rare literary terms)
+- ❌ 古いエール → ✅ 苦い酒 (more natural for Japanese readers)
+- **Rule**: When multiple translations exist, choose the one most familiar to general readers
+
+#### 2. Idiomatic Body Language Descriptions
+**Principle**: Use natural Japanese expressions for physical reactions
+- ❌ 顎の筋肉がピクリと動いた → ✅ 顎がわずかに引き締まった
+- ❌ 額に痒みが走った → ✅ 額がむず痒くなった
+- **Rule**: Avoid technical anatomical descriptions; use how Japanese speakers naturally describe body language
+
+#### 3. Enhanced Dialogue Authenticity
+**Principle**: Add natural particles and emotional markers for realistic speech
+- ❌ アラニィよ、慈悲を。 → ✅ アラニィよ、どうか慈悲を…
+- **Techniques**:
+  - Add "どうか" for pleading tone
+  - Use ellipsis (...) for emotional trailing off
+  - Include natural hesitation markers
+
+#### 4. Improved Internal Monologue Flow
+**Principle**: Make thoughts contemplative rather than directive
+- ❌ 彼らを不注意にさせよう → ✅ やつらがもっと油断するまで待とう
+- **Rule**: Internal thoughts should sound like natural mental processes, not commands
+
+#### 5. Natural Narrative Element Ordering
+**Principle**: Reorder descriptive elements for Japanese linguistic flow
+- ❌ 血と古いエール、そして苦いもの → ✅ 血と苦い酒、そして不快な味
+- **Rule**: Follow Japanese preference for concrete → abstract, specific → general
+
+#### 6. Elimination of Translation Artifacts
+**Principle**: Replace constructions that reveal translation origins
+- ❌ 単に抜きにされた → ✅ ただ取り残された
+- **Rule**: If a phrase sounds like it was translated, find the natural Japanese equivalent
+
+#### 7. Atmospheric Description Enhancement
+**Principle**: Use immediate, visceral language over formal constructions
+- ❌ 空気が粘ついているように感じられた → ✅ 空気がまとわりつくように重かった
+- **Rule**: Prefer active, immediate descriptions that put readers in the scene
+
+#### Quality Assessment Framework
+
+**Naturalness Rating Scale**:
+- **5/5**: Reads as if originally written in Japanese
+- **4/5**: Minor translation patterns detectable
+- **3/5**: Generally natural with some awkward phrases
+- **2/5**: Clearly translated but understandable
+- **1/5**: Difficult to read due to translation artifacts
+
+**Testing Methods**:
+1. **Audio Reading Test**: Read aloud - does it flow naturally?
+2. **Native Speaker Test**: Would a native speaker detect translation patterns?
+3. **Comprehension Test**: Can readers focus on story without being distracted by language?
+
+**Target Standards**:
+- **Minimum Acceptable**: 4/5 naturalness rating
+- **Professional Standard**: 5/5 naturalness rating
+- **Accuracy Requirement**: Must maintain 5/5 accuracy regardless of naturalness improvements
+
 ### Common Pitfalls to Avoid
 
 #### Translation Errors
@@ -200,12 +356,14 @@ For each chapter translation, maintain notes on:
 - **Avoid literal word-for-word translation** of metaphors
 - **Don't preserve English sentence structure** when it sounds unnatural in Japanese
 - **Avoid mixing formal and casual speech** within the same narrative voice
+- **Don't use rare literary terms** when common expressions are more natural
 
 #### Style Issues
 - **Don't over-explain** what Japanese readers can infer from context
 - **Avoid excessive comma usage** that disrupts reading flow
 - **Don't ignore Japanese literary conventions** in favor of English patterns
 - **Avoid inconsistent terminology** across chapters
+- **Don't sound like a translation** - prioritize natural Japanese expression
 
 ---
 

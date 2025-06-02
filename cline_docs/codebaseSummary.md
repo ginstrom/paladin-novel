@@ -10,34 +10,45 @@
   - `characters.md`: List of characters with bios, key actions, relationships, and current status. Updated based on manuscript Chapters 1-5.
   - `authoringGuidelines.md`: Standardized workflow for writing chapters with comprehensive "show, don't tell" principles.
   - `showDontTellReference.md`: Quick-reference guide for "show, don't tell" principles during writing.
-  - `translationGuide.md`: Comprehensive guide for English-Japanese translation with methodology, style guidelines, and quality assurance framework.
+  - `translationGuide.md`: Comprehensive guide for English-Japanese translation with methodology, style guidelines, onboarding, and quality assurance framework.
   - `synopsis.md`: Overall summary of the story (moved from manuscript/).
-- `chapters/`: Directory for the novel manuscript chapters (reorganized from manuscript/).
+- `chapters/`: Directory for the English manuscript chapters.
   - `01_mark-of-betrayal.md` through `27_epilogue.md`: Complete manuscript chapters (Chapters 1-27 completed) with descriptive filenames.
-- `build/`: Directory for generated files and build artifacts.
-  - `epub-master.md`: Combined manuscript file for EPUB generation.
-- `images/`: Directory for cover art and maps (renamed from assets/).
-  - `cover-art.png`: Book cover image.
-  - `slavers-coast-map.png` and `southern-continent-map.png`: World maps.
 - `manuscript-ja/`: Directory for Japanese translations.
   - `chapter-01.md`: Initial Japanese translation of Chapter 1.
   - `chapter-01_jp_rev.md`: Improved Japanese translation applying comprehensive methodology.
+  - `chapter-XX.md`: All future Japanese chapter translations.
+  - `chapter-XX_notes.md`: Per-chapter translation notes (documenting new terms, cultural adaptations, QA issues, and decisions).
+- `glossary-en-ja.md`: Comprehensive English-Japanese glossary for names, terms, and idioms. Updated after each chapter.
+- `build/`: Directory for generated files and build artifacts.
+  - `epub-master.md`: Combined manuscript file for EPUB generation.
+- `images/`: Directory for cover art and maps.
+  - `cover-art.png`: Book cover image.
+  - `slavers-coast-map.png` and `southern-continent-map.png`: World maps.
 - `metadata.yml`: Book metadata including title, author, publication info, and integrated book description.
 - `epub.css`: Stylesheet for EPUB formatting.
 - `chapter-outline.md`: Master outline of all chapters, serving as the source of truth for chapter numbering, titles, and detailed part/chapter content (themes, character development, world-building, tone/style notes). This file consolidates all chapter information.
 
+## Translation Workflow Overview
+- All Japanese translations are stored in `manuscript-ja/`, with each chapter having a corresponding translation notes file (e.g., `chapter-02_notes.md`).
+- Translators follow the step-by-step workflow and QA checklist in `cline_docs/translationGuide.md`.
+- New terms and translation decisions are added to `glossary-en-ja.md` after each chapter.
+- Continuous improvement: translation guide, glossary, and notes are updated as the project progresses.
+- Reference: `manuscript-ja/chapter-01_jp_rev.md` as a style benchmark for future chapters.
+
 ## Data Flow
 - Narrative flow is primarily defined in `chapter-outline.md`, which then guides the content of the chapter files in `chapters/`.
+- Japanese translation flow: English chapter → Japanese draft in `manuscript-ja/` → QA and revision → glossary/notes update.
 
 ## External Dependencies
 - None at this stage.
 
 ## Recent Significant Changes
+- [2025-06-01] TRANSLATION GUIDE ENHANCEMENT: Extracted comprehensive naturalness improvement guidelines from Chapter 1 Japanese translation improvements. Added detailed principles for word choice hierarchy, idiomatic body language descriptions, enhanced dialogue authenticity, improved internal monologue flow, and atmospheric description enhancement. Established 5-point naturalness rating scale and quality assessment framework based on achieving 5/5 naturalness rating while maintaining accuracy.
 - [2025-05-31] SPELLING CORRECTIONS APPLIED: All detected spelling errors and likely typos from `cline_docs/spellcheck_report.md` have been systematically corrected or verified as already fixed in the manuscript (Chapters 1, 3, 4, 5, 8, 9, 10, 12, 13, 14, 17, 18, 21, 23, 25). No canonical names or fantasy terms were affected. The manuscript is now free of reported spelling errors.
 - [2025-05-31] COMPREHENSIVE SPELL CHECK: Completed a full spell check of all 27 chapters, cross-referencing canonical names and fantasy terms. All detected errors and likely typos are documented in `cline_docs/spellcheck_report.md` for targeted correction. No fantasy names or canonical terms were flagged.
 - [2025-05-31] EPUB TOC CSS FIX: Added CSS rules to `epub.css` to suppress default numbering in the EPUB Table of Contents. This ensures the TOC displays without numbers, complementing the `--number-sections=false` Pandoc flag.
 - [2025-05-31] TIMING CREDIBILITY AUDIT: Conducted a review of messenger arrival and attack timings across all chapters. Minor clarifications were added to Chapter 14 ("The Legend Begins") and Chapter 18 ("First Stand") to enhance the realism of short warning periods before attacks. The audit and changes were documented in `cline_docs/timeContinuity.md`.
-- [2025-05-31] DIALOGUE COLLOQUIALISM & TONE REFINEMENT: Completed a significant pass across multiple chapters (Ch 2, 4, 10, 11, 15, 19, 24, 25, 26, 27) to make dialogue more colloquial and natural, particularly in high-stress scenes. This included refining Gond's dialogue to reflect a kinder, less gruff tone as his divine power and leadership matured, while maintaining his established colloquial speech. Care was taken to preserve a more solemn tone for divine pronouncements and moments of high significance.
 - [2025-05-31] MAERA'S MAGICAL LEAF ENHANCEMENTS: Added further details and effects of Maera's magical leaf. In Chapter 6 (`chapters/06_whispers-in-stone.md`), Gond and Pell notice their tracks are fainter than expected, subtly hinting at the leaf's evasive properties. In Chapter 8 (`chapters/08_valley-of-hope.md`), Sim observes the leaf glowing and guiding them towards the valley during their journey. Chapter 3's (`chapters/03_shore-of-second-chances.md`) initial introduction was confirmed consistent.
 - [2025-05-31] MAERA'S MAGICAL LEAF BACKSTORY: Integrated backstory explaining how refugees find the hidden valley. Added scene in Chapter 3 where Maera gives Sim a magically attuned leaf (minor elven magic) that glows when pointed toward the valley and may aid in evading pursuit. Updated Chapter 8 so Lira presents the leaf upon arrival as proof of Maera's guidance. Updated Maera's character entry to reflect this new magical ability and role in guiding refugees.
 
