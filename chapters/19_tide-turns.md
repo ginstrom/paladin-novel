@@ -12,13 +12,11 @@ Elena Brightblade studied the terrain with a tactician's eye, her weathered hand
 
 Silviana Starweaver sat with her hands folded, her ancient eyes reflecting depths of knowledge that spanned centuries. "The elven paths through the high country could move small groups undetected. My people know ways through the mountains that haven't been used by human feet in generations." Her voice carried the musical cadence of her race, but underneath lay steel. 
 
-"We can position archers on the heights with Grimjaw's engines," said Gond. "Rain death from above while our main force strikes from the front and rear, bottling them in the pass."
+"We can position archers on the heights with Grimjaw's engines," said Gond. "Rain death from above and block the pass entrance, while our main force strikes from the front, bottling them in the pass."
 
-Maera spread intelligence reports across an empty section of the table, her network's careful observations laid out in neat rows. "My people in Millhaven say the enemy vanguard hits town tomorrow night. They're demanding food, grabbing guides, and threatening to torch the place if folks don't cooperate." Her expression went grim. "And they're asking about our valley. Asking about *you*, Gond."
+Maera spread intelligence reports across an empty section of the table, her network's careful observations laid out in neat rows. "My people in Millhaven say the enemy vanguard hits town tomorrow night. They're demanding food, grabbing guides, and threatening to torch the place if folks don't cooperate." Her expression was grim.
 
-A chill settled over the council. Gond felt that familiar hum of power in his chest, but it wasn't just a shield this time. It was cold, sharp, like a blade being drawn.
-
-"How long?" he asked, his voice quiet.
+"How long?" Gond asked, his voice quiet.
 
 "If they maintain their current pace, they'll reach the valley in a week," Pell replied. "But that assumes they don't encounter any… obstacles along the way."
 
@@ -44,7 +42,7 @@ Now all they had to do was wait.
 
 ***
 
-The enemy vanguard appeared at the pass entrance as the afternoon sun began its descent. Fifty cavalry rode in loose formation, their horses picking their way carefully over the rocky ground. Behind them came the scouts on foot, eyes scanning the heights for any sign of danger. They moved with the caution of professionals who understood that mountain passes were natural killing grounds, but their very caution worked against them—they were looking for obvious threats, not for the carefully concealed positions that Gond's forces had spent days preparing.
+The enemy vanguard appeared at the pass entrance as reached its high point in the cloudless sky. Fifty cavalry rode in loose formation, their horses picking their way carefully over the rocky ground. Behind them came the scouts on foot, eyes scanning the heights for any sign of danger. They moved with the caution of professionals who understood that mountain passes were natural killing grounds, but their very caution worked against them—they were looking for obvious threats, not for the carefully concealed positions that Gond's forces had spent days preparing.
 
 Gond crouched behind a boulder the size of a small house, positioned where he could see the entire length of the pass. Beside him, Thorek held a crossbow loaded with a bolt that would signal the beginning of the attack. The dwarf's breathing was steady and controlled, his eyes fixed on the enemy column with the patience of a hunter waiting for the perfect shot.
 
@@ -74,7 +72,7 @@ Gond felt the divine power surge within him, responding to the moment of decisio
 
 Thorek's crossbow sang, its bolt taking an enemy officer from his saddle. The signal was taken up by every hidden position, and suddenly the pass erupted in controlled chaos.
 
-Pell's team at the mouth of the pass leveraged huge boulders, loosened from the sockets. These fell into the pass, precipitating a rockslide the blocked retreat for the majority of the army that had already entered.
+Pell's team at the mouth of the pass leveraged huge boulders, loosened from the sockets. These fell into the pass, precipitating a rockslide that blocked retreat for the majority of the army that had already entered.
 
 Grimjaw's modified engines spoke next, their smaller frames compensating for reduced range with increased accuracy. Bolts the size of spear shafts punched through armor and flesh, while clay pots filled with alchemical fire shattered against stone and metal, spreading flames that clung like liquid death. The narrow confines of the pass turned the siege engines' fire into a concentrated barrage that no formation could withstand.
 
@@ -130,7 +128,7 @@ Maera appeared from wherever she had been observing the battle, her network's in
 
 Gond nodded, but his attention was focused on the broader implications of their victory. The Slavers' Alliance had committed their main field army to this attack, confident that their superior numbers and professional training would be enough to crush the rebellion in its cradle. Instead, that army had been shattered, its remnants scattered to the winds.
 
-"This changes things," Gond said, his voice still rough from the battle but clear enough to carry. "Their main army's broken. The slaver cities? They're vulnerable now. They've got their town guards, sure, maybe some hired muscle. But nothin' like *this*." He gestured to the carnage.
+"This changes things," Gond said, his voice still rough from the battle but clear enough to carry. "Their main army's broken. The slaver cities? They're vulnerable now. They've got their town guards, sure, maybe some hired muscle. But nothing like *this*." He gestured to the carnage.
 
 Thorek's grin was all teeth. "Aye. And now we've got their big smashers to knock on their pretty gates."
 
@@ -138,7 +136,7 @@ Elena nodded, already calculating. "Saltmere, Blackwater, Port Sorrow... their a
 
 "Without 'em, they're just rats in a trap," Gond finished, his voice hard. "Now those are cities we can crack open. People we can free. This whole rotten business? We end it."
 
-The divine power stirred within him again, responding to the vision of liberation that stretched out before them. For months, they had been fighting a defensive war, reacting to enemy moves and trying to protect what they had built. But this victory had changed the strategic balance completely.
+The divine power stirred within him again, responding to the vision of liberation that stretched out before them. For months, they had been fighting a defensive war, reacting to enemy moves and trying to protect what they had built. But this victory had changed the strategic balance.
 
 Now they could go on the offensive.
 
@@ -149,5 +147,3 @@ Gond looked around at the faces of his commanders, seeing the same realization d
 "Back to the valley," he said, the decision settling in his voice. "See to our wounded. Honor our dead. Then we plan. These cities, they've dug in deep over the years. Won't be a quick kick in the door." A grim smile touched his lips. "But they *will* fall. After today, that's not a hope. It's a promise."
 
 As his forces began the long march back to their valley home, Gond remained for a moment longer in the pass. The setting sun painted the stone walls red as blood, and the shadows stretched long across the battlefield. Somewhere in the distance, a carrion bird called, its cry echoing off the rocks.
-
-The mercenary who had been betrayed and sold into slavery was truly gone now, replaced by something harder and more purposeful. The reluctant leader who had stumbled into divine power had evolved into a paladin worthy of the title. And the defensive war that had begun with desperate refugees hiding in a mountain valley had transformed into something far greater—a campaign of liberation that would reshape the continent.

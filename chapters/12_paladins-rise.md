@@ -2,7 +2,7 @@
 
 A month had passed since the golden light, and Gond still couldn't walk through the settlement without notice. Heads turned as he passed. Conversations paused mid-word. Children peered from behind their mothers' skirts, wide-eyed and whispering.
 
-The valley had changed in those weeks. What had begun as a desperate refuge for escaped slaves had grown into something resembling a proper community. Where once there had been only crude lean-tos, now sturdy cabins with stone foundations lined the hillsides. Marta's vegetable garden had expanded into terraced plots where beans climbed wooden stakes and squash vines sprawled between rows of grain. The sound of Jorik's hammer rang from dawn to dusk at his new forge, where he'd transformed salvaged chain links into horseshoes and broken sword blades into farming tools.
+The valley had changed in those weeks. What had begun as a desperate refuge for escaped slaves had grown into something resembling a proper community. Where once there had been only crude lean-tos, now sturdy cabins with stone foundations lined the hillsides. Marta's vegetable garden had expanded into terraced plots where beans climbed wooden stakes and squash vines sprawled between rows of turnips. The sound of Jorik's hammer rang from dawn to dusk at his new forge, where he'd transformed salvaged chain links into horseshoes and broken sword blades into farming tools.
 
 But the most significant change was in how people looked at Gond.
 
@@ -42,7 +42,7 @@ They made their way down the winding path to the settlement's heart, where a cro
 
 The crowd parted as Gond approached, and he got his first clear look at her. She was beautiful in the way of growing things—ageless and serene, with eyes the color of deep forest pools. But there was something else in those eyes, a weight of years and knowledge that made Gond feel suddenly young and foolish.
 
-Silviana's gaze lingered on his fading brand, her head tilting as her fingers traced patterns in the air, following the outline of where the twin manacles had once burned so clearly. The marks were still visible, but faded now—more shadow than scar, as if the mark of his bondage was being erased. When she spoke, her voice carried the music of wind through leaves, each word flowing like water over stones.
+The elf's gaze lingered on his fading brand, her head tilting as her fingers traced patterns in the air, following the outline of where the twin manacles had once burned so clearly. The marks were still visible, but faded now—more shadow than scar, as if the mark of his bondage was being erased. When she spoke, her voice carried the music of wind through leaves, each word flowing like water over stones.
 
 "You are the one they call the Healer of the Hills."
 

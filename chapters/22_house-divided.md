@@ -10,7 +10,7 @@ Gond met them in the settlement's center, flanked by Thorek and Silviana. The co
 
 "What happened?" Gond asked.
 
-Sir Marcus dismounted heavily, his movements those of a man pushed beyond exhaustion. Fresh scars crisscrossed his knuckles, and a partially healed cut ran from his left temple to his jaw—the kind of wound that came from fighting someone you'd once called brother. "Civil war. The Noble Knights have split down the middle. Half still believe we can reform the system from within. The other half…" He gestured to his battered companions. "We've seen enough."
+Sir Marcus dismounted heavily, his movements those of a man pushed beyond exhaustion. Fresh scars crisscrossed his knuckles, and a partially healed cut ran from his left temple to his jaw—the kind of wound that came from fighting someone you'd once called brother. "Civil war. The Noble Knights have split. Half still believe we can reform the system from within. The other half…" He gestured to his battered companions. "We've seen enough."
 
 "Seen enough of what?"
 
@@ -86,7 +86,7 @@ Silviana gasped, her elven senses immediately recognizing the divine presence. H
 
 "I have not abandoned you," Alanyi continued through Gond's transformed voice. "Though my temples lie in ruins, though my priests hide in shadows, though the world has forgotten the sound of joyful laughter and the touch of gentle healing—I remain. In every act of mercy, in every moment of compassion, in every choice to heal rather than harm, I am there."
 
-The divine presence grew stronger, and those with spiritual sensitivity could see a faint glow surrounding Gond, as if he were lit from within by starlight.
+The divine presence grew stronger, and Gond appeared surrounded by a faint glow, as if he were lit from within by starlight. The faded slaver's brand on his forehead was replaced by two silver intertwined cirlces, blazing with an inner light.
 
 "The balance must be restored. Turin's strength is needed—his hammer to break the chains of oppression, his sword to defend the innocent. But strength without mercy becomes tyranny. Justice without compassion becomes cruelty—the world has learned this truth through centuries of suffering."
 

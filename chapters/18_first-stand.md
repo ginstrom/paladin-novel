@@ -18,7 +18,7 @@ Gond's jaw tightened. The settlement had grown to nearly three hundred souls, bu
 
 "Grimjaw!" he called.
 
-The massive dwarf emerged from behind one of his siege engines, bronze-reinforced and gleaming in the morning light. Gold teeth flashed in his beard as he grinned. "Aye, lad? Time to test the old girl?"
+The massive dwarf emerged from behind one of his siege engines, bronze-reinforced and gleaming in the morning light. Gold teeth flashed in his beard as he grinned. "Aye, lad? Time to test the old girls?"
 
 "Three columns—coming from the east. Can your engines cover the eastern approach?"
 
@@ -130,9 +130,9 @@ Pell limped up beside him, a bandage wrapped around his head. "You know this won
 
 But as he watched the funeral pyres being lit, he wondered how many more would die before their war was won. The path to freedom was paved with sacrifice, and he was beginning to understand the true weight of leadership.
 
-The divine power still hummed in his veins, but it felt different now—heavier, more solemn. With each life lost, each victory won, he was becoming something more than just a reluctant paladin.
+The divine power still hummed in his veins, but it felt different now—heavier, more solemn. With each life lost, each victory won, he was becoming something more than just a reluctant leader.
 
-He was becoming a leader worthy of the cause he served.
+He was becoming a true paladin of Alanyi.
 
 ***
 

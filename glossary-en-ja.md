@@ -20,6 +20,9 @@
 | Korven | コルヴェン | Harsh refugee with survival-focused mentality |
 | Jorik | ヨリク | Sick refugee healed by Gond |
 | Marta | マルタ | Former sail-maker, skilled with leather and canvas |
+| Henrik | ヘンリク | Old soldier, died defending children |
+| Silviana Starweaver | シルヴィアナ・スターウィーヴァー | Elf lore-keeper of the Moonwood Circle |
+| Mira | ミラ | Refugee woman healed by Gond, survivor of slaver raid |
 
 ### 地名 (Place Names)
 | English | Japanese | Notes |
@@ -36,6 +39,7 @@
 | Old temple district | 古い神殿地区 | Abandoned area near city walls |
 | Valley of Hope | 希望の谷 | Hidden sanctuary surrounded by towering cliffs |
 | Thornfield farmstead | ソーンフィールド農場 | Abandoned farm, target for food expedition |
+| Moonwood Circle | ムーンウッドの輪 | Elf organization/community in hidden forest |
 
 ### 組織・団体 (Organizations)
 | English | Japanese | Notes |
@@ -51,6 +55,7 @@
 | Turin | トゥリン | God of justice and order |
 | Alanyi | アラニィ | Goddess of peace and mercy |
 | Kemiss | ケミス | God of commerce |
+| Gorlatch | ゴルラッチ | Evil god mentioned in forbidden worship |
 | Divine providence | 神の摂理 | Religious concept of divine guidance |
 | Shrine | 祠 | Small religious building |
 | Temple | 神殿 | Large religious building |
@@ -129,6 +134,52 @@
 | Natural rise | 自然な隆起 | Terrain advantage |
 | Loose shale | 緩い頁岩 | Geological hazard |
 | Hidden weapon caches | 隠された武器キャッシュ | Concealed weapon storage |
+| Ambush | 待ち伏せ | Tactical surprise attack |
+| Counter-ambush | 反撃の待ち伏せ | Defensive tactical response |
+| Flanking | 回り込み | Tactical movement |
+| Pit traps | 落とし穴 | Battlefield hazards |
+| Crossbow bolts | 弩の矢 | Medieval projectile weapons |
+| Mace | メイス | Blunt weapon |
+| Breastplate | 胸当て | Chest armor |
+| Transformed blade | 変化した刃 | Supernaturally enhanced weapon |
+| Divine healing | 神聖な治癒 | Supernatural restoration |
+| Golden light | 黄金の光 | Alanyi's divine signature |
+| Miracle | 奇跡 | Religious phenomenon |
+| Life force/essence | 生命力 | Spiritual energy |
+| Bone fragments | 骨の破片 | Injury description |
+| Pink froth | ピンクの泡 | Medical symptom |
+| Festering wound | 化膿した傷 | Infected injury |
+| First miracle | 初奇跡 | First divine intervention |
+| Lore-keeper | 伝承守護者 | Elf guardian of ancient knowledge and traditions |
+| Divine blade/weapon | 神聖なる刃/武器 | Weapon touched by divine will, transformed by righteous purpose |
+| Paladin's awakening | 聖騎士の覚醒 | Spiritual transformation into divine champion |
+| Ser Aldric the Pure | 純粋なるアルドリック卿 | Legendary paladin from three centuries past |
+| Demon incursion | 悪魔の侵入 | Supernatural attack by demonic forces |
+| Divine will | 神の意志 | Sacred purpose flowing through chosen champions |
+| Crucible of awakening | 覚醒の坩堝 | Metaphor for spiritual transformation process |
+| Enchanted armor | 魔法の鎧 | Magically protected battle gear |
+| Inner radiance | 内なる輝き | Supernatural glow of divine power |
+| Fading brand | 薄れゆく烙印 | Slave mark being erased by divine power |
+| Mark of bondage | 束縛の印 | Symbol of slavery being removed by goddess |
+| Touch of mercy | 慈悲の触れ合い | Healing power of Alanyi |
+| Champion of light | 光の戦士 | Divine warrior against darkness |
+| Forbidden worship | 禁じられた崇拝 | Illegal religious practices returning |
+| False righteousness | 偽りの正義 | Evil disguised as virtue |
+| Divine education | 神聖な教育 | Formal religious instruction in divine power |
+| Divine channeling | 神聖な力の導き | Core concept of controlled divine energy flow |
+| Spiritual discipline | 精神的規律 | Mental/spiritual training requirements for paladins |
+| Divine flow | 神聖な流れ | Movement of divine energy through paladin |
+| Healing circle | 治癒の輪 | Sacred space for healing rituals |
+| Divine grace | 神聖な恩寵 | Alanyi's blessing and power |
+| Worthy vessel | ふさわしい器 | Paladin as conduit for divine power |
+| Divine calling | 神の召命 | Religious vocation/purpose |
+| Channeling capacity | 導く能力 | Paladin's spiritual strength limits |
+| Spiritual strength | 精神的な強さ | Inner power for divine channeling |
+| Internal injuries | 内臓の損傷 | Medical condition requiring advanced healing |
+| Internal bleeding | 内出血 | Specific medical emergency |
+| Shattered ribs | 砕けた肋骨 | Bone fracture description |
+| Punctured lung tissue | 穴の開いた肺組織 | Severe internal injury |
+| Grayish pallor | 灰色がかった青白さ | Medical symptom description |
 
 ### 文化的概念 (Cultural Concepts)
 | English | Japanese | Notes |
@@ -191,3 +242,20 @@
 | "Ghost of better times" | 「より良い時代の幽霊」 | Nostalgic imagery for abandoned places |
 | "Call it intuition" | 「直感と呼んでくれ」 | Gond's deflection about supernatural abilities |
 | "Our time of quiet is over" | 「静かな時は終わった」 | Declaration of coming conflict |
+| "I believe" | 「信じる」 | Gond's spiritual acceptance |
+| "Alanyi help me" | 「アラニィよ、助けてください」 | Desperate prayer |
+| "Chosen and blessed" | 「選ばれ、祝福され」 | Divine selection |
+| "Whether he liked it or not" | 「好むと好まざるとに関わらず」 | Reluctant acceptance |
+| "Something broke inside" | 「胸の中で何かを壊した」 | Emotional breakthrough |
+| "Heavy with anguish" | 「苦悩で重かった」 | Emotional weight |
+| "Eyes distant with old pain" | 「古い痛みで遠くを見つめていた」 | Trauma reference |
+| "Healer of the Hills" | 「丘の治療師」 | Title given to Gond by reputation |
+| "Branded Brow" | 「烙印の額」 | Formal address referencing slave mark |
+| "By the ancient trees" | 「古い樹々にかけて」 | Elf oath/exclamation |
+| "Touch of the divine" | 「神との繋がり」 | Reference to supernatural abilities |
+| "Chosen and blessed" | 「選ばれ、祝福され」 | Divine selection and favor |
+| "Light against darkness" | 「闇に対する光」 | Paladin's role as divine champion |
+| "Kindle hope in the hopeless" | 「絶望的な者に希望を灯す」 | Core paladin mission |
+| "Even the chosen need friends" | 「選ばれた者でさえ友が必要」 | Wisdom about divine champions |
+| "The goddess works to free you" | 「女神はあなたを解放するために働いています」 | Divine intervention in healing |
+| "Truly free, unmarked by past suffering" | 「真に自由、過去の苦痛に印されることのない」 | Complete healing from slavery |

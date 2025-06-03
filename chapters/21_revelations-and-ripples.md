@@ -56,7 +56,7 @@ Silviana's eyes sharpened. "Priests of Kemiss? Here?"
 
 Thorek's hand moved to his warhammer. "Could be a trap."
 
-Gond's gaze sharpened. Priests who didn't act like priests, arriving just as the world was tilting on its axis. Coincidence was a luxury he rarely encountered. "An opportunity, perhaps," Gond said, his voice measured. "Or a different kind of test. We'll see what these 'merchants' want. Then we address the Circle."
+Gond's gaze sharpened. Priests who didn't act like priests, arriving just as the world was tilting on its axis. Coincidence was a luxury he rarely encountered. "An opportunity, perhaps," Gond said, his voice measured. "Or a different kind of test. We'll see what these 'merchants' want. Then we address the Circle's request."
 
 ***
 
@@ -218,7 +218,7 @@ The power flowed down his arms and into the wounded elf. For a moment, nothing h
 
 The elf gasped, his eyes widening in pain and hope. The darkness fought back, sending tendrils of cold up Gond's arms. He gritted his teeth and poured more power into the healing, feeling the divine light clash with primordial shadow.
 
-For a heartbeat, the outcome hung in balance. Then the shadow shattered like glass, dissolving into wisps of nothingness. The elf's arm blazed with golden light, flesh and bone reforming as if they'd never been damaged. As the light reached its zenith, a searing brilliance that forced many to shield their eyes, Silviana gasped, her gaze fixed on Gond's brow. For an instant, superimposed over the faded slave brand, she saw two intertwined circles of pure, ethereal light—Alanyi's sigil—burning with an impossible intensity before vanishing as swiftly as it appeared. The healed elf, blinking against the afterglow, stared in awe at Gond's now-clear brow.
+For a heartbeat, the outcome hung in balance. Then the shadow shattered like glass, dissolving into wisps of nothingness. The elf's arm blazed with golden light, flesh and bone reforming as if they'd never been damaged. As the light reached its zenith, a searing brilliance that forced many to shield their eyes, Silviana gasped, her gaze fixed on Gond's brow. For an instant, superimposed over the faded slave brand, she saw two intertwined circles of pure, ethereal light—Alanyi's sigil—burning with an impossible intensity before vanishing as swiftly as it appeared. The healed elf, blinking against the afterglow, stared in awe at Gond's now-clear brow. The other members of the Circle stared at Gond with expressions approaching wonder.
 
 When the light faded, the arm was whole.
 

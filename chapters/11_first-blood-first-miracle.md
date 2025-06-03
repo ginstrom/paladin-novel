@@ -96,8 +96,6 @@ Dax stood and walked to him, his young face solemn with understanding beyond his
 
 The gesture broke something inside Gond's chest. He pulled the boy to his feet, then looked out over the faces of his people—for they were his people now, bound to him by faith and miracle and the golden light that had flowed from his hands.
 
-He was a paladin of Alanyi, chosen and blessed, whether he liked it or not.
+He was a servant of Alanyi, chosen and blessed, whether he liked it or not.
 
 Around him, the refugees began to sing—a hymn of praise that rose to the heavens, carrying with it the hope of the oppressed and the promise of justice to come. Gond stood among them, no longer fighting his destiny but embracing it, ready to carry the burden and the blessing of divine purpose.
-
-As word of the miracle spread through the camp, Gond found himself surrounded by refugees seeking his blessing, his touch, his guidance. They knelt before him, reached out to brush his robes, whispered prayers in his name. The reluctant mercenary was gone, replaced by something he had never wanted to become but could no longer deny.
