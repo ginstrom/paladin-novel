@@ -1,6 +1,5 @@
 # Chapter 14: The Legend Begins
 
-
 Gond stood at the settlement's edge, watching the plume of black from the nearest farmstead with unease. Scouts had seen the rows of black smoke marking the slavers' approach two days prior. Beside him, Pell squinted against the morning light, his hand resting on his knife hilt.
 
 The settlement had grown considerably in the weeks since Silviana's arrival. The population had swelled to nearly two hundred souls, all drawn by whispered tales of the "Healer in the Hills."
@@ -156,10 +155,6 @@ As the settlement transformed itself into a fortress, Gond found himself thinkin
 The answer came to him as he watched families helping each other prepare for battle, as he saw former slaves taking up weapons to defend their new home, as he felt the divine light stirring within him in response to their courage.
 
 He wanted this. This community, this purpose, this chance to build something better than what had come before. He wanted to protect the innocent, heal the wounded, and stand as a beacon of hope in a world that had forgotten what hope looked like.
-
-It wasn't the life he'd planned, but it was the life he'd chosen. And as the first slavers emerged from the tree line, weapons gleaming in the morning sun, Gond found himself grateful for the choice.
-
-The legend of the healer in the hills was about to become something else entirely. And for the first time since awakening in chains, Gond was exactly where he wanted to be.
 
 ***
 

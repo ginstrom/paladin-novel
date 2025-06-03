@@ -86,7 +86,7 @@ The faces looking back at him showed fear, but also determination. These people 
 
 Gond looked around the circle of upturned faces—men and women who had trusted him with their lives, children who deserved a chance to grow up free. The weight of their faith settled on his shoulders like a mantle.
 
-"Our time of quiet is over," he announced, his voice flat but carrying. "Now we prepare for war."
+"Our time of quiet is over," he announced, his voice flat but carrying. "Now we prepare to fight."
 
 The words hit like stones dropped into still water, ripples of unease spreading through the crowd. But these were no longer the broken, desperate fugitives who had first stumbled into their sanctuary. Weeks of good food, safety, and purpose had transformed them into something resembling a community.
 

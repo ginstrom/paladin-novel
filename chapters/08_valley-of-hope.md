@@ -22,7 +22,7 @@ Pell emerged from the shadows, studying the newcomer with calculating eyes. "Ano
 
 Gond found himself stepping forward before he'd made a conscious decision. Something about the girl's determination, her refusal to surrender despite everything she'd endured, called to him. "She stays," he said simply. "Anyone Maera sends is welcome here."
 
-The words felt right in his mouth, weighted with certainty he didn't fully understand. Around the fire, the others their agreement, and Gond saw something shift in their faces—a recognition of his authority that went beyond mere survival.
+The words felt right in his mouth, weighted with certainty he didn't fully understand. Around the fire, the others nodded their agreement, and Gond saw something shift in their faces—a recognition of his authority that went beyond mere survival.
 
 After that, refugees continued to arrive in ones, twos, and threes, with similar stories for the most part: escaped slaves, peasants fleeing cruel masters, apprentices put out by their masters. Many of them carried the same silver-green leaf that Sim and Lira had. Another commonality to all the refugees was the name they mentioned: Maera. She was sending refugees on to them. Where she sent them before nobody knew.
 
@@ -58,7 +58,7 @@ Gond stepped between them. When he spoke, his voice seemed to settle over the en
 
 "Enough."
 
-The single word hung in the air. Korven's hand froze halfway to his blade. Alia's mouth closed with an audible snap. Even the children stopped their restless fidgeting. The refugees who had been edging toward the argument now stood perfectly still, their eyes fixed on Gond with the attention of people recognizing authority they hadn't expected to find.
+The single word hung in the air. Korven's hand froze halfway to his blade. Lira's mouth closed with an audible snap. Even the children stopped their restless fidgeting. The refugees who had been edging toward the argument now stood perfectly still, their eyes fixed on Gond with the attention of people recognizing authority they hadn't expected to find.
 
 "We share what we have, or we all starve together." Gond's eyes moved from face to face, holding each gaze until they looked away. "Korven, you take first watch. Everyone else, you know your jobs."
 

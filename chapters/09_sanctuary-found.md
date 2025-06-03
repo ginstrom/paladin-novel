@@ -48,7 +48,7 @@ Gond nodded, his jaw set. "Let them come. They'll find more than frightened fugi
 
 Pell's lips curved in a fierce grin. "Then we'll show them what desperate people can do when they have something worth protecting."
 
-Below them, the first rays of dawn touched their hidden valley with gold. Gond felt something settle deep in his chest.
+Below them, the last rays of sunset touched their hidden valley with gold. Gond felt something settle deep in his chest.
 
 The next day, Pell and Gond-the only members of the group with any military experience-began training the able-bodied refugees in defense. Gond, knowing he had neither time nor weapons for proper military training, focused on teaching pike work-both because pikes provide strong defense against mounted foes and because they enable many inexperienced defenders to group up on a single enemy.
 
@@ -64,7 +64,7 @@ Gond crouched beside the dwindling pile of grain sacks, his jaw tight as he coun
 
 Sim approached, his face grave. "I've been thinking the same. The fruit trees are nearly stripped, and the fish in the lake are growing scarce."
 
-"And too late in the season to plant," added Pell.
+"And too late in the season to plant grain," added Pell.
 
 "Come fall we'll be able to gather enough acorns, nuts and berries to tide us until spring. But until then…" Sim trailed off.
 
@@ -78,7 +78,7 @@ Gond turned his full attention to the priest. "What kind of news?"
 
 A chill ran down Gond's spine despite the morning warmth. "Systematic raids?"
 
-"That's what it sounds like. It's like their clearing out the whole region. Any foraging parties will be hard to conceal."
+"That's what it sounds like. It's like they're clearing out the whole region. Any foraging parties will be hard to conceal."
 
 Pell cursed under his breath. "So we're caught between starvation and discovery. Perfect."
 
@@ -129,29 +129,3 @@ As evening fell over the valley, Gond stood before the assembled refugees once m
 "Tomorrow, some of us risk everything so all of us can survive," he said, his voice carrying to every corner of the gathering. "That's what family does. That's what we've become."
 
 The faces looking back at him showed fear, yes, but also determination. Gond gave a satisfied nod.
-
-***
-
-Two days later, the expedition returned with more than just food.
-
-The weary but triumphant party picked their way down the valley's narrow entrance, leading the community's horses—they now had four, including the old cart horse Gond and his companions had stolen in their first caravan raid. Each horse was pulling a fully laden sledge, the expedition's members grunting and straining to help the sledges over roots and boulders. The Thornfield farmstead had yielded better than expected—not just grain and preserved meat from the root cellars, but tools and materials the fleeing family had been forced to abandon.
-
-"Ten sacks of potatoes, five sacks of oats, and another five of wheat," Gond told the waiting refugees, dismounting with obvious relief. "Enough to last us another month and a half, maybe more if we're careful. Plus salt pork, dried beans, and a barrel of honey."
-
-"And the rest?" Sim asked, noting the bundles strapped to every available surface.
-
-Korven stepped forward, his scarred hands cradling a collection of iron tools like precious treasures. "Proper hammers, tongs, files. A set of chisels that'll let me work real detail into the metal." His eyes gleamed with anticipation. "And three ingots of good steel—not the scrap we've been melting down, but proper forged metal."
-
-Dax emerged from behind one of the horses, struggling with a heavy bundle. "Carpenter's tools," he said, setting down his burden with a grunt. "Saws, planes, measuring squares. And enough iron nails to build proper structures instead of lashing everything together with rope."
-
-Within days, the valley echoed with new sounds. Korven's hammer rang against steel in steady, confident strikes—no longer the tentative tapping of makeshift repairs, but the bold rhythm of a craftsman with proper tools. Sparks flew in bright arcs as he shaped red-hot metal, and the acrid smell of hot iron mixed with wood smoke.
-
-From his forge came a steady stream of improvements: iron-reinforced spear points to replace sharpened sticks, proper hinges for doors that had hung crooked on leather straps, and cooking pots with handles that didn't burn hands. He crafted horseshoes for their mounts, whose hooves had been splitting on the rocky ground, and sturdy buckles to replace the rope knots that held their makeshift armor together.
-
-Dax's crews moved with fresh purpose, their crude lean-tos giving way to solid timber frames. Where before they had lashed logs together with rope, now they fitted joints with precision—no longer the tentative tapping of makeshift repairs, but the bold rhythm of a craftsman with proper tools. Doors hung straight, roofs shed rain instead of leaking, and storage chests protected their meager possessions from moisture and vermin.
-
-"It's amazing what a difference real tools make," Lira observed, watching a crew raise the frame of what would become their first permanent storehouse. "We're not just surviving anymore. We're building something that could last."
-
-Gond nodded, but his eyes were already turning toward the horizon. The Thornfield expedition had proven something important—that the abandoned settlements held resources they desperately needed. And if one farmstead could yield so much, what might they find in the ruins of larger communities?
-
-The question would have to wait. For now, they had food, tools, and hope. It was enough to keep them alive, and strong enough to face whatever came next.

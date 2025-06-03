@@ -62,7 +62,9 @@ The divine power flowed endlessly from its source—but his capacity to channel 
 
 When the healing was complete, Mira sat up slowly, her color restored, her breathing clear. She stared at her mended arm in wonder, flexing fingers that had been broken moments before.
 
-"How?" she breathed.
+"How do you feel?" Gond smiled.
+
+"Good," said Mira, eyes alight. "Very good. Better than I've felt in years."
 
 Gond swayed slightly as he stood. Silviana's steadying hand touched his elbow. "Rest here tonight," he told Mira. "Sim will see that you're fed and given clean clothes. Tomorrow, if you choose to stay, we'll find you a place among us."
 
@@ -72,7 +74,7 @@ As they helped Mira to one of the guest shelters, Gond caught Silviana's eye. Th
 
 "The strain," Gond said, settling heavily onto a fallen log. "The healing you showed me demands more focus, more spiritual discipline."
 
-"Precisely," Silviana corrected. "The divine power does not diminish—it flows endlessly from its source. But your capacity to channel it safely grows only through practice and spiritual development."
+"Precisely," Silviana corrected. "The divine power does not diminish—it flows endlessly from its source. But your capacity to channel it safely grows only through practice and spiritual development. But you've already grown much stronger. That healing would have left you unconscious a week ago."
 
 Gond considered this as he watched the settlement below. More people had arrived in recent days—word of the "healer in the hills" spreading despite their efforts at secrecy. Each new face brought hope and desperation in equal measure. Each represented another choice, another burden.
 
@@ -97,10 +99,6 @@ Another call echoed up from below—Pell's voice again, urgent but not panicked.
 "Come," Silviana said, rising gracefully beside him. "Let us see what new challenge awaits."
 
 As they made their way down the slope, Gond reflected on the morning's lesson. He was beginning to understand that divine power wasn't something he possessed—it was something that possessed him, flowed through him, changed him with each use. The thought should have terrified him, but instead it brought an odd sort of peace.
-
-He was no longer the man who'd awakened in chains, driven by thoughts of revenge. That man had died somewhere between the slave ship and this valley, replaced by someone he was still learning to recognize. Someone who chose to heal rather than harm, to protect rather than pursue vengeance.
-
-The irony wasn't lost on him. In losing his old self, he'd found something far more valuable—a purpose that went beyond personal satisfaction or gain. It was a burden, yes, but it was also a gift.
 
 ***
 
@@ -133,5 +131,3 @@ Gond drank his tea in silence, watching the flames dance and shift. Around them,
 "Hope," Silviana finished. "You gave them hope. And hope, properly nurtured, can be more powerful than any sword."
 
 Gond nodded slowly, beginning to understand. Each healing was more than just the mending of flesh—it was a statement, a promise, a beacon for others to follow. The divine power flowing through him wasn't just about individual miracles, but about building something larger.
-
-The thought should have daunted him, but instead it filled him with a strange sense of anticipation. Tomorrow would bring new challenges, new choices, new opportunities to channel the divine light in service of something greater than himself.

@@ -47,6 +47,14 @@
 | Divine providence | 神の摂理 | Religious concept of divine guidance |
 | Shrine | 祠 | Small religious building |
 | Temple | 神殿 | Large religious building |
+| Altar | 祭壇 | Sacred table for worship |
+| Sacred space | 聖なる空間 | Holy area within temple |
+| Vision | 幻視 | Divine revelation or mystical experience |
+| Pilgrims | 巡礼者 | Religious travelers to holy sites |
+| Vaulted ceiling | 丸天井 | Arched temple ceiling |
+| Carved pillars | 彫刻された柱 | Decorated temple columns |
+| Concentric circles | 同心円状 | Circular arrangement around altar |
+| Intertwined circles | 絡み合う円 | Symbol of Alanyi (peace) |
 
 ### 専門用語 (Technical Terms)
 | English | Japanese | Notes |

@@ -36,7 +36,9 @@ Willem's eyes fluttered open, meeting Gond's for a brief moment. The boy's lips 
 
 Gond's hands fell away as consciousness fled. He collapsed beside Willem's body.
 
-He regained consciousness in the healer's tent. Sim and Silviana were sitting beside him.
+***
+
+Gond regained consciousness in the healer's tent. Sim and Silviana were sitting beside him.
 
 "Where are the other wounded?" asked Gond.
 
@@ -221,5 +223,3 @@ Dax, his face streaked with sweat and dirt, paused in his efforts, looking up at
 Gond nodded, his gaze sweeping over the transformed landscape – the bustling activity, the new faces, the grim set to the trainees' jaws. This wasn't just a hideout anymore.
 
 "Time for hiding's done, Dax," Gond said, his voice quiet but carrying a new weight that made the nearby workers pause. "This isn't just a sanctuary now. It's a fortress. A beacon. Let 'em come. We'll be ready."
-
-His words, and the sentiment behind them, spread through the valley like wildfire, igniting a fresh wave of resolve. The path widening became a symbol of their new intent, a declaration to the world that they would no longer cower in the shadows.

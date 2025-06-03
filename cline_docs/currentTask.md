@@ -1,55 +1,45 @@
 ## Current Objective
-Ellipsis consistency rule established in documentation. User will implement the specific file changes for Chapter 6 "聖域への道" continuity issues and Japanese language naturalness problems based on manual corrections and feedback.
+✅ COMPLETED: Implemented literary improvements to Chapter 7 "覚醒" (Awakening) based on specific user feedback to enhance commercial publication quality while maintaining 5-star translation accuracy and avoiding plot changes.
 
 ## Context
-User requested consistent use of ellipsis character (…) instead of three dots (...) throughout the project. Additionally, user manually fixed several continuity issues in Chapter 6 and identified specific Japanese language problems that need correction. The chapter had plot inconsistencies and unnatural Japanese expressions that require systematic correction.
+User provided detailed improvement suggestions in Japanese focusing on four key areas that need refinement without altering the story structure or plot elements.
 
-## Specific Issues to Address
+## Specific Improvement Areas
 
-### 1. Continuity Corrections
-- **Remove all merchant references**: Eliminate the noon smoke passage that mentions merchant party
-- **Fix horse/saddle description**: Change from "makeshift saddle" to improvised blanket padding since it's a stolen cart horse
-- **Correct character dynamics**: Dax (16) should show more agency than Alia (14), not the reverse
+### 1. 冗長表現の整理 (Eliminate Verbose Expressions)
+**Target**: Reduce redundant word usage while maintaining poetic resonance
+**Example**: 
+- Current: 「彼は自分の内に芽生えつつある何かを感じていた——まだ名前も意味もつけられない何かを。」
+- Improved: 「彼は自分の内に芽生えつつある何かを感じていた——まだ名前も意味もつけられないそれを。」
 
-### 2. Japanese Language Naturalness Issues
-- **「確実に捕まったと思ったよ」** → More natural expression needed
-- **「あなたがあまりにも長く行っていたから」** → Grammatically awkward, needs correction
-- **「薄い空気の中に？」** → Unclear in context, needs clarification
-- **「ブラックウォーターは死だ」** → Too literal, needs more natural Japanese
-- **「胸の奥で重みが宿った」** → Slightly unnatural phrasing
+### 2. 場面転換の間合い調整 (Adjust Scene Transition Pacing)
+**Target**: Add contemplative pauses between mystical experience and return to reality
+**Technique**: Insert brief static descriptions like "その場にしばし佇んだ" without adding new actions or characters
 
-### 3. Character Relationship Corrections
-- **Dax/Alia dynamic**: Current text has Alia speaking more and being more assertive
-- **Age-appropriate behavior**: Dax (16) should be more protective and take more initiative
-- **Dialogue distribution**: Rebalance to show proper sibling hierarchy
+### 3. 感情比喩の調整 (Refine Emotional Metaphors)
+**Target**: Replace overly intense metaphors with gentler, more nuanced expressions
+**Example**:
+- Current: 「胸の内が、星の火が灯ったように燃え上がった。」
+- Improved: Use softer expressions like "温もりが広がった" (warmth spread) or "灯された" (was lit)
 
-## Specific Passages Requiring Correction
-
-### Merchant Smoke Reference (Remove Entirely)
-Current: 「正午に来た。彼らが来た方向から煙が立ち上った——キャンプファイア。方向と距離からゴンドは彼らが宿駅にいると推測した。」
-
-### Horse Description
-Current: 「間に合わせの鞍の上で居眠りして」
-Target: 「毛布を敷いた馬の背で居眠りして」
-
-### Character Dialogue and Actions
-Review all Alia/Dax interactions to ensure proper age dynamics
+### 4. 残響描写の重複回避 (Reduce Repetitive Poetic Descriptions)
+**Target**: Diversify similar mystical sensory descriptions to avoid redundancy
+**Technique**: Vary sensory approaches (light, warmth, resonance) rather than repeating similar "taste" and "resonance" patterns
 
 ## Implementation Strategy
-1. ✅ Establish ellipsis consistency rule in project documentation
-2. 🔄 User implementing: Apply ellipsis consistency across all project files
-3. 🔄 User implementing: Systematically locate and fix all continuity issues in Chapter 6
-4. 🔄 User implementing: Correct Japanese language naturalness problems
-5. 🔄 User implementing: Rebalance Dax/Alia character dynamics
-6. 🔄 User implementing: Maintain existing translation quality and consistency
-7. 🔄 User implementing: Update translation notes with all corrections
+1. Systematic scan for target patterns throughout Chapter 7
+2. Apply improvements by category while preserving narrative flow and mystical atmosphere
+3. Ensure consistency with established translation standards
+4. Update translation notes with enhancement techniques
+5. Maintain all plot elements, character development, and spiritual themes
 
 ## Success Criteria
-- All continuity issues resolved
-- Natural Japanese expressions throughout
-- Proper character age dynamics reflected
-- Maintained translation accuracy and consistency
-- Enhanced readability and flow
+- Enhanced literary quality for commercial publication standards
+- Maintained 5-star translation accuracy
+- Improved poetic resonance and fantasy atmosphere
+- Reduced redundancy and enhanced readability
+- Strengthened scene transitions and pacing
+- Preserved all plot elements and character dynamics
 
-## Previous Context
-Chapter 6 translation was completed with 5-star quality ratings, but user identified specific continuity breaks and language issues requiring correction.
+## Chapter Context
+Chapter 7 depicts Gond's mystical experience in the ancient temple ruins, his divine revelation, and conversation with Sim. Contains significant spiritual/supernatural elements requiring careful handling during improvement.

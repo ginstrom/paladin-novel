@@ -34,7 +34,7 @@ Old Henrik lay sprawled near the children's shelter, his body riddled with cross
 
 Sim knelt beside the children's shelter, cradling his right hand against his chest. His knuckles were split and bloody, and a slaver's sword lay abandoned nearby, its wielder nowhere to be seen. When Gond approached, the priest looked up with pain-filled eyes.
 
-"I had to," Sim said quietly, his voice heavy with anguish. "He was going for the children. I couldn't—" He swallowed hard, his eyes distant with old pain. "I struck his wrist. Just enough to make him drop the blade." His shoulders sagged. "Every living being has the right to defend themselves and those who cannot defend themselves. But that doesn't make it easier." His voice dropped to barely a whisper. "It never gets easier."
+"I had to," Sim said quietly, his voice heavy with anguish. "He was going for the children. I couldn't—" He swallowed hard, his eyes distant with old pain. "I struck his wrist. Just enough to make him drop the blade." His shoulders sagged. "But that doesn't make it easier." His voice dropped to barely a whisper. "It never gets easier."
 
 And in the center of the camp, young Dax lay gasping in a spreading pool of his own blood.
 
@@ -92,8 +92,6 @@ Gond looked at his hands, still tingling with the memory of that blazing light. 
 
 The priest smiled, placing a hand on Gond's shoulder. "She already has, my friend. She already has."
 
-As word of the miracle spread through the camp, Gond found himself surrounded by refugees seeking his blessing, his touch, his guidance. They knelt before him, reached out to brush his robes, whispered prayers in his name. The reluctant mercenary was gone, replaced by something he had never wanted to become but could no longer deny.
-
 Dax stood and walked to him, his young face solemn with understanding beyond his years. "Thank you," he said simply, then knelt and kissed Gond's hand.
 
 The gesture broke something inside Gond's chest. He pulled the boy to his feet, then looked out over the faces of his people—for they were his people now, bound to him by faith and miracle and the golden light that had flowed from his hands.
@@ -101,3 +99,5 @@ The gesture broke something inside Gond's chest. He pulled the boy to his feet, 
 He was a paladin of Alanyi, chosen and blessed, whether he liked it or not.
 
 Around him, the refugees began to sing—a hymn of praise that rose to the heavens, carrying with it the hope of the oppressed and the promise of justice to come. Gond stood among them, no longer fighting his destiny but embracing it, ready to carry the burden and the blessing of divine purpose.
+
+As word of the miracle spread through the camp, Gond found himself surrounded by refugees seeking his blessing, his touch, his guidance. They knelt before him, reached out to brush his robes, whispered prayers in his name. The reluctant mercenary was gone, replaced by something he had never wanted to become but could no longer deny.

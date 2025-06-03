@@ -221,5 +221,3 @@ The family wept, but it was the clean grief of acceptance rather than the bitter
 Gond nodded, thinking of Willem and the lesson learned through defiance. "Sometimes mercy means letting go," he said, echoing Silviana's words from that terrible day. "Sometimes the greatest healing is knowing when not to heal."
 
 As the family began the process of preparing Grandmother Nessa for burial, Gond returned to the dying fire where Elena and Maera waited. The weight of what they were planning—what he was committing to—was enormous. But for the first time since accepting his calling, he felt truly ready for what lay ahead.
-
-He had learned to trust divine wisdom even when his heart rebelled against it. He had learned that being a paladin meant serving a purpose larger than his own understanding. And he had learned that sometimes the greatest strength came not from standing alone, but from standing with others who shared your vision of what the world could become.
