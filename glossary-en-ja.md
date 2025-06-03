@@ -16,6 +16,10 @@
 | Dax | ダックス | Young boy, escaped slave |
 | Rosan Vale | ロサン・ヴェール | Gond's false identity as horse trader |
 | Aldric | アルドリック | Cooper who helps Gond hide |
+| Lira | リラ | Young escaped slave, skilled hunter/tracker |
+| Korven | コルヴェン | Harsh refugee with survival-focused mentality |
+| Jorik | ヨリク | Sick refugee healed by Gond |
+| Marta | マルタ | Former sail-maker, skilled with leather and canvas |
 
 ### 地名 (Place Names)
 | English | Japanese | Notes |
@@ -30,11 +34,14 @@
 | Way-station | 巡礼宿駅 (first reference), 宿駅 (subsequent) | Abandoned Alanyi shrine, temporary refuge |
 | Cliffmere | クリフメア | Town Gond claims to be from |
 | Old temple district | 古い神殿地区 | Abandoned area near city walls |
+| Valley of Hope | 希望の谷 | Hidden sanctuary surrounded by towering cliffs |
+| Thornfield farmstead | ソーンフィールド農場 | Abandoned farm, target for food expedition |
 
 ### 組織・団体 (Organizations)
 | English | Japanese | Notes |
 |---------|----------|-------|
 | Slaver's Guild | 奴隷商組合 | Powerful organization dealing in slavery |
+| Coastal Slavers Guild | 海岸奴隷商組合 | Professional military slaver organization |
 | Crimson Company | クリムゾン・カンパニー | Mercenary group offering bounties for escaped slaves |
 
 ### 宗教用語 (Religious Terms)
@@ -85,6 +92,43 @@
 | Gate fee | 通行料 | Standard payment to enter city |
 | Mortar | 漆喰 | Wall binding material |
 | Alarm bells | 警報の鐘 | City-wide alert system |
+| Apprentice carpenter | 大工の見習い | Dax's background, craft training |
+| Masterwork | 傑作 | Craftsman's finest creation for guild submission |
+| Kitchen maid | 台所女中 | Lira's former position in merchant house |
+| Magistrate | 治安判事 | Local official who sentenced Lira |
+| Encampment | 宿営地 | More permanent refugee settlement |
+| Festering wound | 化膿した傷 | Infected injury requiring healing |
+| Infection | 感染 | Medical condition spreading through body |
+| Medicinal herbs | 薬草 | Healing plants used by Sim |
+| Recovery | 回復 | Healing process, return to health |
+| Pike work | 槍術 | Military training technique using spears |
+| Pike training | 槍の訓練 | Defensive training against mounted enemies |
+| Forge and bellows | 鍛冶場と鞴 | Blacksmithing equipment for metalwork |
+| Root cellars | 根菜貯蔵庫 | Underground food storage chambers |
+| Foraging parties | 採集隊 | Organized food gathering expeditions |
+| Work parties | 作業班 | Organized labor groups for construction |
+| Leadership council | 指導部の輪 | Decision-making body of community leaders |
+| Encampment | 宿営地 | More permanent refugee settlement |
+| Load-bearing posts | 荷重を支える柱 | Structural support beams in construction |
+| Waterproof tents | 防水のテント | Weather-resistant shelter |
+| Mounted foes | 騎馬の敵 | Enemy cavalry or horsemen |
+| Systematic raids | 組織的な襲撃 | Methodical attacks on settlements |
+| Smoke on horizon | 地平線の煙 | Distant signs of burning villages |
+| Riders | 騎手 | Mounted soldiers/slavers |
+| Chain mail | 鎖帷子 | Medieval armor |
+| Shale | 頁岩 | Geological formation |
+| Pack horses | 荷馬 | Cargo-carrying animals |
+| Camp | 野営地 | Military encampment |
+| Captain | 隊長 | Military rank/leader (company/squad captain, not naval) |
+| Enhanced senses | 強化された感覚 | Supernatural awareness |
+| Professional equipment | 専門的でよく手入れされた装備 | Well-maintained military gear |
+| Grain storage | 穀物倉庫 | Building for grain storage |
+| Smokehouse | 燻製小屋 | Meat preservation building |
+| Preserved meat | 保存肉 | Salted/dried meat |
+| Scrub oak | オークの茂み | Natural concealment |
+| Natural rise | 自然な隆起 | Terrain advantage |
+| Loose shale | 緩い頁岩 | Geological hazard |
+| Hidden weapon caches | 隠された武器キャッシュ | Concealed weapon storage |
 
 ### 文化的概念 (Cultural Concepts)
 | English | Japanese | Notes |
@@ -135,3 +179,15 @@
 | "Mind the curfew" | 「夜間外出禁止令に気をつけろ」 | Guard's warning |
 | "Spitting image" | 「瓜二つだ」 | Perfect resemblance |
 | "The net was tightening" | 「網が締まりつつあった」 | Metaphor for closing trap |
+| "Worth ten men" | 「十人分の働きをする」 | High praise for work animals |
+| "Bad enough" | 「十分に悪い」 | Understated description of serious problems |
+| "Second thoughts" | 「迷い」 | Doubts about decisions |
+| "Third and fourth thoughts" | 「三度も四度も」 | Multiple levels of doubt |
+| "In and out" | 「入って出る」 | Quick raid strategy |
+| "That's what family does" | 「それが家族のすることだ」 | Community solidarity expression |
+| "Picked clean" | 「骨抜きだ」 | Completely looted/stripped |
+| "Nothing but bones and ash" | 「骨と灰しかない」 | Complete destruction |
+| "Race against time" | 「時間との競争」 | Urgent situation |
+| "Ghost of better times" | 「より良い時代の幽霊」 | Nostalgic imagery for abandoned places |
+| "Call it intuition" | 「直感と呼んでくれ」 | Gond's deflection about supernatural abilities |
+| "Our time of quiet is over" | 「静かな時は終わった」 | Declaration of coming conflict |

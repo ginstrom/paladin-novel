@@ -215,5 +215,3 @@ Pell was quiet for a moment, studying Gond's profile in the moonlight. "You know
 "What?"
 
 "You actually care about the answer to that question." The thief's smile was barely visible in the darkness. "Most leaders assume they know what's best for everyone. You worry about whether you're worthy of the trust people place in you. That's what makes you worth following."
-
-As they completed their circuit and returned to the settlement's heart, Gond felt some of the weight on his shoulders ease. The path ahead was uncertain, the challenges enormous, the stakes higher than ever before. But he wasn't walking it alone.

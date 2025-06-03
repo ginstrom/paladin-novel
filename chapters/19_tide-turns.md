@@ -151,5 +151,3 @@ Gond looked around at the faces of his commanders, seeing the same realization d
 As his forces began the long march back to their valley home, Gond remained for a moment longer in the pass. The setting sun painted the stone walls red as blood, and the shadows stretched long across the battlefield. Somewhere in the distance, a carrion bird called, its cry echoing off the rocks.
 
 The mercenary who had been betrayed and sold into slavery was truly gone now, replaced by something harder and more purposeful. The reluctant leader who had stumbled into divine power had evolved into a paladin worthy of the title. And the defensive war that had begun with desperate refugees hiding in a mountain valley had transformed into something far greater—a campaign of liberation that would reshape the continent.
-
-The tide had turned, and nothing would ever be the same.

@@ -44,13 +44,11 @@
 - None at this stage.
 
 ## Recent Significant Changes
-- [2025-06-01] TRANSLATION GUIDE ENHANCEMENT: Extracted comprehensive naturalness improvement guidelines from Chapter 1 Japanese translation improvements. Added detailed principles for word choice hierarchy, idiomatic body language descriptions, enhanced dialogue authenticity, improved internal monologue flow, and atmospheric description enhancement. Established 5-point naturalness rating scale and quality assessment framework based on achieving 5/5 naturalness rating while maintaining accuracy.
-- [2025-05-31] SPELLING CORRECTIONS APPLIED: All detected spelling errors and likely typos from `cline_docs/spellcheck_report.md` have been systematically corrected or verified as already fixed in the manuscript (Chapters 1, 3, 4, 5, 8, 9, 10, 12, 13, 14, 17, 18, 21, 23, 25). No canonical names or fantasy terms were affected. The manuscript is now free of reported spelling errors.
-- [2025-05-31] COMPREHENSIVE SPELL CHECK: Completed a full spell check of all 27 chapters, cross-referencing canonical names and fantasy terms. All detected errors and likely typos are documented in `cline_docs/spellcheck_report.md` for targeted correction. No fantasy names or canonical terms were flagged.
-- [2025-05-31] EPUB TOC CSS FIX: Added CSS rules to `epub.css` to suppress default numbering in the EPUB Table of Contents. This ensures the TOC displays without numbers, complementing the `--number-sections=false` Pandoc flag.
-- [2025-05-31] TIMING CREDIBILITY AUDIT: Conducted a review of messenger arrival and attack timings across all chapters. Minor clarifications were added to Chapter 14 ("The Legend Begins") and Chapter 18 ("First Stand") to enhance the realism of short warning periods before attacks. The audit and changes were documented in `cline_docs/timeContinuity.md`.
-- [2025-05-31] MAERA'S MAGICAL LEAF ENHANCEMENTS: Added further details and effects of Maera's magical leaf. In Chapter 6 (`chapters/06_whispers-in-stone.md`), Gond and Pell notice their tracks are fainter than expected, subtly hinting at the leaf's evasive properties. In Chapter 8 (`chapters/08_valley-of-hope.md`), Sim observes the leaf glowing and guiding them towards the valley during their journey. Chapter 3's (`chapters/03_shore-of-second-chances.md`) initial introduction was confirmed consistent.
-- [2025-05-31] MAERA'S MAGICAL LEAF BACKSTORY: Integrated backstory explaining how refugees find the hidden valley. Added scene in Chapter 3 where Maera gives Sim a magically attuned leaf (minor elven magic) that glows when pointed toward the valley and may aid in evading pursuit. Updated Chapter 8 so Lira presents the leaf upon arrival as proof of Maera's guidance. Updated Maera's character entry to reflect this new magical ability and role in guiding refugees.
+- [2025-06-01] Enhanced translation guide with naturalness improvement guidelines and 5-point rating scale.
+- [2025-05-31] Applied spelling corrections across all 27 chapters. Manuscript now error-free.
+- [2025-05-31] Added EPUB TOC CSS fix to suppress default numbering.
+- [2025-05-31] Conducted timing credibility audit with minor clarifications to Ch 14 and 18.
+- [2025-05-31] Enhanced Maera's magical leaf with evasive properties and guidance effects across Ch 3, 6, and 8.
 
 ## User Feedback Integration
 - [2025-05-27] User requested project reorganization to match ebook publishing format: Create chapters/ directory with descriptive filenames, rename assets/ to images/, create build/ directory, move synopsis to cline_docs/, create metadata.yml with integrated blurb, add epub.css stylesheet. Successfully implemented complete restructuring following recommended format.
