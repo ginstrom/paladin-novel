@@ -29,6 +29,13 @@
 | Willem | ウィレム | Young defender who died in Chapter 15 battle |
 | Sif | シフ | Defender who died due to Gond's spiritual crisis |
 | Peska | ペスカ | Wounded defender saved by Sim and Silviana |
+| Elena Brightblade | エレナ・ブライトブレード隊長 | Former Royal Guard captain, network ally |
+| Grimjaw Ironforge | グリムジョー・アイアンフォージ | Master siege engineer, dwarf defector |
+| Grandmother Nessa | ネッサおばあちゃん | Elderly refugee who died peacefully |
+| Jorik | ヨリク | Refugee father from Millhaven |
+| Tam | タム | Child refugee from Millhaven |
+| Bess | ベス | Child refugee from Millhaven |
+| Fen | フェン | Youngest child refugee from Millhaven |
 
 ### 地名 (Place Names)
 | English | Japanese | Notes |
@@ -227,6 +234,28 @@
 | Work crew | 作業班 | Alternative for organized labor groups |
 | Intelligence network | 情報網 | Spy/information gathering organization |
 | Cooperative organization | 連携組織 | Alternative for organized groups working together |
+| Royal Guard of Westmarch | ウェストマーチ王室警備隊 | Elite military unit, Elena's former organization |
+| Former Royal Guard | 元王室警備隊 | Elena's previous rank and status |
+| Coordinated attacks | 協調攻撃 | Synchronized military operations |
+| Political pressure | 政治的圧力 | Influence tactics against supporters |
+| Magical support | 魔法的支援 | Supernatural assistance in warfare |
+| Strategic planning | 戦略計画 | Military tactical preparation |
+| Liberation vs. conquest | 解放と征服 | Fundamental difference in warfare approach |
+| Glowing steel bands | 光る鋼鉄の帯 | Magical siege engine components |
+| Runic inscriptions | ルーン文字 | Dwarf magical writing system |
+| War machines | 戦争機械 | Mechanical warfare devices |
+| Siege components | 攻城兵器の部品 | Disassembled siege engine parts |
+| Crown of Ironhold | アイアンホルドの王冠 | Dwarf kingdom Grimjaw served |
+| Master siege engineer | 攻城技師の名人 | Grimjaw's professional expertise |
+| Defection | 脱走/離反 | Abandoning previous allegiance |
+| Ancient alliance | 古い同盟 | Historical cooperation between races |
+| Intelligence reports | 情報報告 | Strategic information gathering |
+| Probe/Test | 探り/試験 | Military reconnaissance operation |
+| Systematic response | 組織的な反応 | Coordinated enemy countermeasures |
+| Divine instruction | 神聖な指示 | Sacred guidance from Alanyi |
+| Peaceful death | 平和な死 | Natural, accepted passing |
+| Divine wisdom | 神聖な知恵 | Spiritual understanding of life and death |
+| True mercy is letting go | 真の慈悲とは手放すこと | Core spiritual lesson about death |
 
 ### 文化的概念 (Cultural Concepts)
 | English | Japanese | Notes |
@@ -333,3 +362,33 @@
 | "Our time of hiding is over" | 「隠れる時は終わった」 | Gond's declaration to Dax |
 | "This is no longer a sanctuary. It's a fortress. A beacon" | 「これはもはや聖域ではない。要塞だ。灯台だ」 | Valley's transformation |
 | "Let them come. We're ready" | 「やつらに来させろ。我々は準備ができている」 | Final defiant declaration |
+| "The Network Revealed" | 「情報網の正体」 | Chapter 16 title |
+| "War changes everyone" | 「戦争は誰をも変える」 | Maera's observation about transformation |
+| "I resigned my commission" | 「辞表を提出しました」 | Elena's formal departure from Royal Guard |
+| "Call it what you will" | 「好きに呼べ」 | Grimjaw's casual dismissal |
+| "Tired of building weapons for people who use them on the innocent" | 「無実の者に武器を使う連中のために武器を作るのに疲れた」 | Grimjaw's moral stance |
+| "Some things are more important than steady pay" | 「安定した給料より大事なものもある」 | Values over money |
+| "You've been busy" | 「忙しくしていたようですね」 | Maera's understated observation |
+| "That's not a small request" | 「それは小さな要求ではありません」 | Acknowledging scope of mission |
+| "Small requests don't require paladins" | 「小さな要求には聖騎士は必要ありません」 | Maera's wisdom about divine calling |
+| "We're already committed" | 「我々は既に専念しています」 | Gond's recognition of inevitable conflict |
+| "The only question is whether we fight on our terms or theirs" | 「唯一の問題は、我々の条件で戦うか、彼らの条件で戦うか」 | Strategic choice |
+| "Now that's the kind of talk I like to hear!" | 「今度はそういう話が聞きたい！」 | Grimjaw's enthusiastic approval |
+| "Give them something to really worry about" | 「彼らに本当に心配すべきものを与えましょう」 | Escalation declaration |
+| "Easier said than done" | 「言うは易く行うは難し」 | Classic expression about difficulty |
+| "Hard to protect something that's been reduced to rubble" | 「瓦礫に減らされたものを保護するのは困難です」 | Grimjaw's blunt assessment |
+| "There's a difference" | 「違いがあります」 | Distinguishing liberation from destruction |
+| "That separates a liberation from a conquest" | 「それが解放と征服を分けるものです」 | Elena's strategic wisdom |
+| "Show people there's a better way" | 「より良い方法があることを人々に示す」 | Core liberation philosophy |
+| "We can. We will." | 「できます。やります。」 | Gond's confident commitment |
+| "Her time has come" | 「彼女の時は来ました」 | Alanyi's divine guidance about death |
+| "Do not hold her spirit to this world" | 「彼女の魂をこの世に縛り付けてはなりません」 | Divine instruction about letting go |
+| "She has completed her purpose" | 「彼女は目的を果たしました」 | Recognition of life's fulfillment |
+| "I understand" | 「理解しました」 | Gond's acceptance of divine will |
+| "I've been ready to go for weeks" | 「私は何週間も前から行く準備ができていました」 | Grandmother Nessa's peaceful acceptance |
+| "I held on because you needed me to" | 「私が持ちこたえたのは、あなたたちが私を必要としていたから」 | Sacrificial love |
+| "You needed hope" | 「あなたたちが希望を必要としていたから」 | Purpose in suffering |
+| "I'm ready now" | 「私は今準備ができています」 | Peaceful acceptance of death |
+| "Ready to meet Alanyi in the next world" | 「次の世界でアラニィに会う準備が」 | Spiritual transition |
+| "You did the right thing" | 「あなたは正しいことをしました」 | Sim's validation of Gond's wisdom |
+| "Sometimes the greatest healing is knowing when not to heal" | 「時には最大の治癒とは、いつ治癒しないかを知ることです」 | Divine wisdom about mercy |

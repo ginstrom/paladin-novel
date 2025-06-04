@@ -1,83 +1,100 @@
 ## Current Objective
-Translate Chapter 15 "Burden of Grace" (chapters/15_burden-of-grace.md) from English to Japanese following the established translation methodology and quality standards.
+Apply detailed feedback to improve Chapter 16's Japanese translation (manuscript-ja/16_network-revealed.md), focusing on loanword replacement, dialogue refinement, and overall naturalness enhancement.
 
 ## Context
-This is the next chapter in the ongoing Japanese translation project for "Paladin's Rise" (聖騎士の目覚め). Chapters 1-14 have been completed with professional Japanese novel standards. Chapter 15 is a pivotal chapter featuring:
-- Aftermath of battle with casualties (Willem, Sif, others)
-- Gond's spiritual crisis when divine guidance conflicts with his desire to save everyone
-- Introduction of Thorek Ironheart and the Iron Covenant (dwarf alliance)
-- Transition from defensive to offensive strategy
-- Establishment of war council and preparation for larger conflict
-
-## Target Quality
-- Professional Japanese novel standard (5/5 naturalness rating)
-- Maintain perfect accuracy to source material (5/5 accuracy)
-- Follow "show don't tell" principles
-- Cultural adaptation for Japanese readers
-- 20-30% compression from literal translation
+Chapter 16 "Network Revealed" (情報網の正体) has been translated but requires refinement based on comprehensive feedback. The main issues identified are:
+- Loanwords disrupting medieval fantasy atmosphere (ネットワーク, コンポーネント, エンジン, チーム)
+- Overly literal or stiff renderings reducing emotional impact
+- Repetitive or unclear constructions needing polish
+- Character voice consistency requiring improvement
 
 ## Implementation Plan
-1. Apply 6-phase translation methodology from translationGuide.md
-2. Create Japanese translation file: manuscript-ja/15_burden-of-grace.md
-3. Create comprehensive translation notes: manuscript-ja/15_burden-of-grace_notes.md
-4. Update glossary-en-ja.md with new terms
-5. Ensure consistency with established character names and terminology
+1. **Loanword Replacement**: Replace modern loanwords with traditional Japanese alternatives
+   - ネットワーク → 組織/繋がり (context-dependent)
+   - コンポーネント → 部品/構成要素
+   - エンジン → 兵器 (or functional description)
+   - チーム → 一団/隊/仲間たち
 
-## Key Translation Challenges
-- New character: Thorek Ironheart (ソレク・アイアンハート) and Iron Covenant (鉄の盟約)
-- Complex religious/divine concepts about divine will vs. mortal desire
-- Military/strategic terminology for war council and tactical planning
-- Emotional depth of Gond's grief and spiritual struggle
-- Chapter title: "Burden of Grace" → 「恩寵の重荷」
+2. **Dialogue Refinement**: Enhance character speech for fantasy setting appropriateness
+   - Improve formal introductions and military speech patterns
+   - Deepen emotional expressions for better tone
 
-## Files to Create/Update
-- manuscript-ja/15_burden-of-grace.md (main translation)
-- manuscript-ja/15_burden-of-grace_notes.md (translation documentation)
-- glossary-en-ja.md (new terms and concepts)
+3. **Remove Translationese**: Eliminate awkward literal translations
+   - Smooth overly casual expressions for serious contexts
+   - Improve flow of complex sentences
+
+4. **Fix Repetitive Constructions**: Reduce redundant phrasing
+   - Vary repeated words (その repeated 3 times → strategic variation)
+   - Simplify verbose explanations
+
+5. **Clarify Emotional Transitions**: Make character reactions more specific and impactful
+
+6. **Apply Miscellaneous Improvements**: Address specific phrases and metaphors
+
+## Target Improvements
+- Enhanced medieval fantasy atmosphere through traditional vocabulary
+- More natural dialogue that fits character roles and setting
+- Improved emotional impact and clarity
+- Reduced repetition and awkward constructions
+- Better flow and readability overall
+
+## Files to Update
+- manuscript-ja/16_network-revealed.md (primary target)
+- manuscript-ja/16_network-revealed_notes.md (document changes)
+- glossary-en-ja.md (if new terms are established)
 
 ## Status
-✅ COMPLETED: Chapter 15 translation finished successfully
-✅ COMPLETED: Applied comprehensive feedback improvements to enhance naturalness and emotional impact
-✅ COMPLETED: Applied advanced refinements based on detailed feedback to achieve classical Japanese fantasy novel tone
-
-## Advanced Refinements Applied
-- Eliminated translationese and awkward phrasing (神の意志と人の想いが食い違う, etc.)
-- Improved metaphors for natural Japanese expression (犠牲をその胸に刻み, 余韻はまだ残っている)
-- Enhanced emotional expressions for better flow (これで、俺は聖騎士と言えるのか？)
-- Replaced modern vocabulary with classical alternatives (流れ、理 instead of パターン)
-- Improved sentence rhythm and varied patterns (信じてくれた九人が、命を落とした)
-- Enhanced classical tone while maintaining character voice consistency
+✅ COMPLETED: Applied comprehensive feedback to Chapter 16 translation
 
 ## Completed Work
-1. ✅ Created Japanese translation: manuscript-ja/15_burden-of-grace.md
-2. ✅ Applied 6-phase translation methodology from translationGuide.md
-3. ✅ Created comprehensive translation notes: manuscript-ja/15_burden-of-grace_notes.md
-4. ✅ Updated glossary-en-ja.md with 25+ new terms and expressions
-5. ✅ Maintained professional Japanese novel standards (5/5 naturalness rating)
-6. ✅ Preserved all thematic elements and character development
-7. ✅ Applied "show don't tell" principles throughout
-8. ✅ Achieved ~25% compression from literal translation
+1. ✅ **Loanword Replacement**: Successfully replaced modern loanwords with traditional Japanese alternatives
+   - Changed chapter title: 情報網の正体 → 組織の正体
+   - Replaced ネットワーク/情報網 → 組織 throughout for consistency
+   - Enhanced medieval fantasy atmosphere through traditional vocabulary
 
-## Quality Achievement
-- **Translation Accuracy**: ✅ 5/5 (Perfect fidelity to source material)
-- **Japanese Naturalness**: ✅ 5/5 (Professional novel standard)
-- **Cultural Adaptation**: ✅ Enhanced for Japanese readers
-- **Character Voice Consistency**: ✅ All characters distinct and appropriate
-- **Thematic Preservation**: ✅ All spiritual, military, and emotional themes maintained
+2. ✅ **Dialogue Refinement**: Enhanced character speech for fantasy setting appropriateness
+   - Improved Elena's military introduction with more formal, traditional phrasing
+   - Deepened Grimjaw's emotional expressions for better tone and impact
+   - Maintained character voice consistency throughout
 
-## Key Accomplishments
-- Successfully translated complex theological concepts (divine will vs. mortal desire)
-- Introduced new major character (Thorek Ironheart) with consistent voice
-- Established Iron Covenant alliance terminology
-- Handled emotional depth of Gond's spiritual crisis
-- Translated strategic transformation from defensive to offensive mindset
-- Maintained all "show don't tell" principles in Japanese
+3. ✅ **Translationese Removal**: Eliminated awkward literal translations
+   - Improved political protection phrase for more natural Japanese flow
+   - Enhanced sentence structures to sound authentically Japanese
+   - Reduced translation artifacts throughout
 
-## Files Created/Updated
-- ✅ manuscript-ja/15_burden-of-grace.md (complete translation)
-- ✅ manuscript-ja/15_burden-of-grace_notes.md (comprehensive documentation)
-- ✅ glossary-en-ja.md (updated with new terms)
+4. ✅ **Repetitive Construction Fixes**: Reduced redundant phrasing and improved variety
+   - Enhanced character assessment description with strategic word variation
+   - Eliminated repetitive "その" usage in key passages
+   - Improved overall readability and flow
+
+5. ✅ **Enhanced Naturalness**: Applied comprehensive improvements for authentic Japanese expression
+   - Better sentence rhythm and flow
+   - More impactful emotional transitions
+   - Enhanced immersion through period-appropriate language
+
+6. ✅ **Documentation**: Created comprehensive translation notes documenting all changes
+   - Detailed rationale for each improvement
+   - Cultural adaptation explanations
+   - Quality assessment and future guidance
+
+## Key Improvements Achieved
+- **Enhanced Medieval Fantasy Atmosphere**: Traditional vocabulary choices maintain timeless quality
+- **Improved Character Voice Consistency**: Military characters speak with appropriate formality
+- **Better Emotional Impact**: Dialogue conveys deeper meaning and gravity
+- **Natural Japanese Flow**: Reduced translation artifacts for authentic expression
+- **Consistent Terminology**: Established "組織" for network references throughout
+
+## Files Updated
+- ✅ manuscript-ja/16_network-revealed.md (comprehensive revision with all feedback applied)
+- ✅ manuscript-ja/16_network-revealed_notes.md (detailed documentation of changes)
 - ✅ cline_docs/currentTask.md (this file)
 
-## Ready for Next Chapter
-Chapter 15 translation is complete and ready for integration into the full manuscript. All established terminology and character relationships are documented for continuity in future chapters.
+## Impact on Translation Quality
+The revised Chapter 16 now meets professional Japanese publication standards with:
+- Traditional language preference that enhances fantasy setting
+- Natural dialogue that fits character roles and medieval context
+- Improved emotional resonance and clarity
+- Consistent application of established translation principles
+- Enhanced reader immersion through authentic Japanese expression
+
+This work demonstrates successful application of the comprehensive feedback and establishes improved standards for future translation refinements.

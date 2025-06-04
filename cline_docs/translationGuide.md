@@ -77,6 +77,12 @@ This guide establishes best practices for translating "Paladin's Rise" from Engl
 - Employ Japanese literary techniques for internal monologue
 - Adjust pacing and paragraph structure for Japanese readers
 
+#### 4. Traditional Language Preference
+- **Avoid unnecessary loanwords** in favor of traditional Japanese terms
+- **Eliminate overly modern expressions** that break fantasy immersion
+- **Use classical or timeless vocabulary** appropriate for epic fantasy
+- **Maintain period-appropriate language** that enhances the medieval fantasy atmosphere
+
 ### Translation Methodology
 
 #### Phase 1: Structural Analysis & Duplicate Detection
@@ -213,6 +219,99 @@ This guide establishes best practices for translating "Paladin's Rise" from Engl
 - **Employ appropriate sentence endings** for sarcastic effect
 - **Maintain dark humor** through cultural adaptation
 
+### Loanword Avoidance & Traditional Language Guidelines
+
+#### Core Principles for Fantasy-Appropriate Language
+
+**1. Avoid Unnecessary Loanwords**
+- **Principle**: Use traditional Japanese terms instead of katakana loanwords when natural alternatives exist
+- **Goal**: Maintain the timeless, medieval fantasy atmosphere without modern linguistic intrusions
+
+**2. Preferred Traditional Alternatives**
+
+**Military & Combat Terms**:
+- ❌ アーマー → ✅ 鎧 (armor)
+- ❌ ソード → ✅ 剣 (sword)
+- ❌ シールド → ✅ 盾 (shield)
+- ❌ バトル → ✅ 戦い/戦闘 (battle)
+- ❌ アタック → ✅ 攻撃 (attack)
+- ❌ ディフェンス → ✅ 防御 (defense)
+
+**General Vocabulary**:
+- ❌ チーム → ✅ 一団/仲間/集団 (team/group)
+- ❌ リーダー → ✅ 指導者/頭領/長 (leader)
+- ❌ メンバー → ✅ 一員/仲間 (member)
+- ❌ グループ → ✅ 集団/一行 (group)
+- ❌ パートナー → ✅ 相棒/仲間 (partner)
+- ❌ エネルギー → ✅ 力/気力/精力 (energy)
+
+**Emotional & Abstract Concepts**:
+- ❌ ストレス → ✅ 重圧/負担/苦痛 (stress)
+- ❌ ショック → ✅ 衝撃/驚愕 (shock)
+- ❌ パニック → ✅ 混乱/狼狽 (panic)
+- ❌ プレッシャー → ✅ 圧力/重圧 (pressure)
+
+**3. Acceptable Loanword Categories**
+
+**Fantasy-Specific Terms** (when no natural Japanese equivalent exists):
+- ✅ パラディン → 聖騎士 (paladin - but prefer the Japanese translation)
+- ✅ エルフ (elf - established fantasy term)
+- ✅ ドワーフ (dwarf - established fantasy term)
+
+**Proper Nouns** (character/place names):
+- ✅ ゴンド, ペル, シム (character names)
+- ✅ ブラックウォーター (place names when transliteration is preferred)
+
+**4. Modern Expression Avoidance**
+
+**Contemporary Slang & Expressions**:
+- ❌ やばい → ✅ 危険だ/まずい (dangerous/bad)
+- ❌ すごい → ✅ 見事な/素晴らしい/驚くべき (amazing - use more formal alternatives)
+- ❌ めちゃくちゃ → ✅ 非常に/ひどく (extremely)
+
+**Modern Conceptual Language**:
+- ❌ システム → ✅ 仕組み/制度 (system)
+- ❌ プロセス → ✅ 過程/手順 (process)
+- ❌ メソッド → ✅ 方法/手法 (method)
+- ❌ スタイル → ✅ 様式/流儀 (style)
+
+**5. Classical & Literary Alternatives**
+
+**Preferred Classical Expressions**:
+- ✅ 武具 (weapons and armor)
+- ✅ 戦士 (warrior)
+- ✅ 勇士 (brave warrior)
+- ✅ 剣客 (swordsman)
+- ✅ 武人 (military person)
+- ✅ 義士 (righteous person)
+
+**Traditional Descriptive Language**:
+- ✅ 勇猛 (brave and fierce)
+- ✅ 剛勇 (strong and brave)
+- ✅ 威風堂々 (majestic and dignified)
+- ✅ 凛然 (dignified and resolute)
+
+**6. Context-Sensitive Guidelines**
+
+**Dialogue Considerations**:
+- **Common characters**: Use everyday traditional Japanese
+- **Educated characters**: May use more classical expressions
+- **Military characters**: Prefer traditional military terminology
+- **Religious characters**: Use classical religious language
+
+**Narrative Voice**:
+- **Maintain consistent traditional tone** throughout
+- **Avoid mixing modern and classical styles** within the same passage
+- **Use timeless expressions** that don't date the translation
+
+**7. Quality Control for Traditional Language**
+
+**Review Questions**:
+- Does this word/phrase sound like it belongs in a medieval fantasy setting?
+- Would this expression be understood by readers 50 years ago?
+- Is there a more traditional Japanese alternative available?
+- Does the language choice enhance or detract from the fantasy atmosphere?
+
 ### Compression Techniques
 
 #### Redundancy Elimination
@@ -243,6 +342,16 @@ This guide establishes best practices for translating "Paladin's Rise" from Engl
 - [ ] Critical terminology is correctly translated
 - [ ] Text is compressed by 20-30% from literal translation
 - [ ] Consistent 常体 narrative voice maintained
+
+#### Traditional Language & Loanword Review
+- [ ] No unnecessary loanwords used where traditional Japanese alternatives exist
+- [ ] Military/combat terms use traditional vocabulary (鎧, 剣, 戦い, etc.)
+- [ ] General vocabulary avoids modern loanwords (一団 not チーム, 指導者 not リーダー)
+- [ ] Emotional concepts use traditional expressions (重圧 not ストレス, 衝撃 not ショック)
+- [ ] No modern slang or contemporary expressions present
+- [ ] Classical/literary alternatives used where appropriate for fantasy setting
+- [ ] Language choices enhance medieval fantasy atmosphere
+- [ ] All retained loanwords are justified (established fantasy terms, proper nouns)
 
 #### Glossary Maintenance
 - **Add new terms** to `glossary-en-ja.md` as they appear
