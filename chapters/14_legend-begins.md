@@ -58,7 +58,7 @@ The answer came sooner than expected. A shout from the eastern watch post echoed
 
 Gond and Pell jogged toward the watch post, arriving just as the sentry pointed toward a group of figures emerging from the tree line. A dozen people, moving slowly, supporting each other. Refugees, by the look of them, but something was wrong. They moved with the desperate urgency of people fleeing immediate danger.
 
-"Slavers," the lead figure gasped as they reached the settlement's edge. A woman, middle-aged, her clothes singed and torn. "Burned out Millhaven village. Took everyone they could catch. We ran… been running for two days…"
+"Slavers," the lead figure gasped as they reached the settlement's edge. A woman, middle-aged, her clothes singed and torn. "Burned out Miller's Crossing. Took everyone they could catch. We ran… been running for two days…"
 
 "How many slavers?" Pell asked, already thinking tactically.
 

@@ -23,6 +23,8 @@
 | Henrik | ヘンリク | Old soldier, died defending children |
 | Silviana Starweaver | シルヴィアナ・スターウィーヴァー | Elf lore-keeper of the Moonwood Circle |
 | Mira | ミラ | Refugee woman healed by Gond, survivor of slaver raid |
+| Marcus | マルカス | Elderly man from Westport seeking healing for granddaughter |
+| Captain Voss | ヴォス隊長 | Leader of Crimson Company mercenary slavers |
 
 ### 地名 (Place Names)
 | English | Japanese | Notes |
@@ -40,6 +42,8 @@
 | Valley of Hope | 希望の谷 | Hidden sanctuary surrounded by towering cliffs |
 | Thornfield farmstead | ソーンフィールド農場 | Abandoned farm, target for food expedition |
 | Moonwood Circle | ムーンウッドの輪 | Elf organization/community in hidden forest |
+| Westport | ウェストポート | Distant city, 100 miles southeast of valley |
+| Millhaven village | ミルヘイヴン村 | Village burned by slavers in Chapter 14 |
 
 ### 組織・団体 (Organizations)
 | English | Japanese | Notes |
@@ -144,6 +148,7 @@
 | Transformed blade | 変化した刃 | Supernaturally enhanced weapon |
 | Divine healing | 神聖な治癒 | Supernatural restoration |
 | Golden light | 黄金の光 | Alanyi's divine signature |
+| Divine golden light | 神々しい金光 | Enhanced poetic term for major divine manifestations |
 | Miracle | 奇跡 | Religious phenomenon |
 | Life force/essence | 生命力 | Spiritual energy |
 | Bone fragments | 骨の破片 | Injury description |
@@ -180,6 +185,13 @@
 | Shattered ribs | 砕けた肋骨 | Bone fracture description |
 | Punctured lung tissue | 穴の開いた肺組織 | Severe internal injury |
 | Grayish pallor | 灰色がかった青白さ | Medical symptom description |
+| Wasting sickness | 消耗病 | Serious illness affecting Marcus's granddaughter |
+| Professional slavers | 職業的奴隷商人 | Organized military slaver groups vs. common raiders |
+| Formation | 陣形 | Military tactical arrangement |
+| Crossbow range | 弩の射程 | Tactical distance for ranged weapons |
+| Golden radiance | 黄金の輝き | Visual manifestation of divine power |
+| Physical force | 物理的な力 | Tangible effect of divine light |
+| Divine intervention | 神聖な介入 | Direct action by divine power in battle |
 
 ### 文化的概念 (Cultural Concepts)
 | English | Japanese | Notes |
@@ -259,3 +271,9 @@
 | "Even the chosen need friends" | 「選ばれた者でさえ友が必要」 | Wisdom about divine champions |
 | "The goddess works to free you" | 「女神はあなたを解放するために働いています」 | Divine intervention in healing |
 | "Truly free, unmarked by past suffering" | 「真に自由、過去の苦痛に印されることのない」 | Complete healing from slavery |
+| "The Legend Begins" | 「伝説の始まり」 | Chapter 14 title |
+| "You came here hunting a legend" | 「君は伝説を狩りに来た」 | Gond's challenge to Captain Voss |
+| "This is our time" | 「これが私たちの時だ」 | Gond's rallying cry before battle |
+| "For the Valley! For Alanyi!" | 「谷のために！アラニィのために！」 | Battle cry during final confrontation |
+| "Can't save them all" | 「全員を救うことはできない」 | Pell's pragmatic observation |
+| "What do you want instead?" | 「代わりに何を望むのか？」 | Pell's question about Gond's changed motivations |
