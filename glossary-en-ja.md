@@ -115,6 +115,14 @@
 | Open war | 公然たる戦争 | Direct conflict between religious factions |
 
 ### 専門用語 (Technical Terms)
+
+#### ⚠️ FORBIDDEN LOANWORDS - Fantasy-Appropriate Alternatives
+| Forbidden Term | Correct Alternatives | Context |
+|----------------|---------------------|---------|
+| システム | 仕組み/体制/制度 | Use: 仕組み (mechanism), 体制 (regime), 制度 (institution) |
+| 難民 | 避難者/逃れてきた人々/人々 | Use: 避難者 (evacuees), 逃れてきた人々 (people who fled), 人々 (people) |
+| コミュニティ | 共同体/集団/一団 | Use: 共同体 (community), 集団 (group), 一団 (band) |
+
 | English | Japanese | Notes |
 |---------|----------|-------|
 | Manacles | 手枷 | Iron shackles |

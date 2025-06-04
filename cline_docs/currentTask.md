@@ -1,78 +1,70 @@
 ## Current Objective
-Translate Chapter 18 "First Stand" (chapters/18_first-stand.md) from English to Japanese
+Apply specific feedback to improve naturalness and reduce stilted phrasing in 'manuscript-ja/18_first-stand.md'
 
 ## Context
-This is the next chapter in the ongoing Japanese translation series of "Paladin's Rise" (聖騎士の目覚め). Chapter 18 depicts a major battle with 200 professional soldiers attacking the settlement, featuring strategic military planning, siege warfare, divine power manifestations, and significant character development for Gond as a paladin leader.
+User provided detailed feedback identifying three main categories of issues in the Japanese translation:
+
+1. **Clunky or Stilted Phrasing** - Japanese that sounds too literal or awkward
+2. **Overuse of Stock Expressions** - Formulaic phrases like 「神聖な力が〜」「血と涙で書かれていた」
+3. **Loss or Softening of Nuance** - Dialogue and descriptions that don't capture the original tone
+
+## Specific Examples to Address
+- 「整然とした陣形が混乱に溶けた」→ 「整った陣形は一瞬で崩れ去った」
+- 「刃が対戦相手の間を踊った」→ 「敵の間をすり抜けるように舞った」
+- 「失われた命ごとに、勝ち取った勝利ごとに...」→ 「命を失い、勝利を重ねるたび...」
+- 「死刑宣告のように空中に漂った」→ 「まるで死の宣告のように、その数字が場を凍らせた」
+- 「誰かがあなたを欲しがって軍隊を雇うほどだ」→ 「誰かがあえて軍を雇ってまで、お前を狙ってきたというわけだ」
+- 「どのくらいの距離だ？」→ 「どれほど近づいている？」
+- 「時間がかかるでしょう」→ 「時間はかかるはず」
 
 ## Planned Actions
-1. **Create Japanese translation file**: `manuscript-ja/18_first-stand.md`
-2. **Apply established translation methodology**: 6-phase process from translation guide
-3. **Maintain character speech consistency**: Using established patterns from previous 17 chapters
-4. **Handle complex military terminology**: Professional soldiers, siege engines, tactical formations
-5. **Preserve divine power descriptions**: Consistent with previous chapters' manifestations
-6. **Introduce new character**: Battlemaster Korgan Ironshield with appropriate dwarf speech patterns
-7. **Create comprehensive documentation**: Translation notes file with decisions and cultural adaptations
-8. **Update glossary**: Add new terms and verify existing terminology usage
-9. **Quality verification**: Target 5-star naturalness and accuracy ratings
-
-## Key Translation Challenges
-- Complex battle sequences requiring natural Japanese military terminology
-- Divine power manifestations needing consistency with established descriptions
-- Political dialogue between religious factions requiring appropriate formality levels
-- New character integration while maintaining established speech patterns
-- Balancing visceral combat descriptions with "show don't tell" principles
+1. **Phase 1**: Systematic identification of problematic phrases
+2. **Phase 2**: Natural expression improvements
+3. **Phase 3**: Stock expression reduction (10-20% as suggested)
+4. **Phase 4**: Nuance recovery for dialogue and descriptions
+5. **Phase 5**: Quality assurance and final review
 
 ## Quality Standards
-- 5-star naturalness and accuracy ratings (matching previous chapters)
-- 20-30% compression from literal translation
-- Traditional language preference (avoid modern loanwords)
-- Consistent ellipsis usage (…) instead of three dots
-- Proper Japanese literary flow and rhythm
-- Character speech pattern consistency verification
+- More natural-sounding Japanese that doesn't feel translated
+- Reduced formulaic expressions while maintaining fantasy atmosphere
+- Better character voice consistency and dialogue authenticity
+- Improved emotional impact and narrative flow
+- Enhanced readability for Japanese audiences
 
-## Files to Create/Update
+## Files to Update
 - ✅ cline_docs/currentTask.md (this file)
-- ✅ manuscript-ja/18_first-stand.md (main translation)
-- ✅ manuscript-ja/18_first-stand_notes.md (translation notes)
-- ✅ glossary-en-ja.md (new terms and updates)
+- ✅ manuscript-ja/18_first-stand.md (apply feedback revisions)
+- ✅ manuscript-ja/18_first-stand_notes.md (document changes made)
 
-## Completed Work
-✅ **Japanese Translation Created**: Successfully translated Chapter 18 "First Stand" (初陣) applying all established methodology and quality standards.
+## Work Completed ✅
 
-✅ **Character Speech Consistency Maintained**: All characters maintain their established speech patterns:
-- Gond: だ/である調 with direct, authoritative tone
-- Pell: だ/である調 with street-smart observations
-- Thorek: Mixed formality with military precision
-- Elena: です/ます調 with professional military language
-- Silviana: です/ます調 with ancient, mystical tone
-- Grimjaw: だ/である調 with enthusiastic, colorful expressions
-- New character Korgan: Formal military dwarf speech pattern
+✅ **Chapter 18 Translation Improvements Applied**: Successfully implemented all user feedback to improve naturalness and reduce stilted phrasing
 
-✅ **Military Terminology Excellence**: Successfully handled complex siege warfare terminology:
-- 三つの縦隊 (three columns) - military formation
-- 職業軍人 (professional soldiers) - vs. mercenaries
-- 攻城梯子 (siege ladders) - specialized equipment
-- 弩兵中隊 (crossbow companies) - organized units
-- 巻き上げ機 (windlass) - siege engine mechanics
-- 平衡錘 (counterweight) - catapult operation
-- 鉤縄 (grappling hooks) - wall-scaling gear
+### Key Improvements Made:
 
-✅ **Divine Power Descriptions**: Maintained consistency with previous chapters:
-- 神聖な力が鍛冶場の火のように燃え上がり (divine power blazed like forge fire)
-- 銀の光で爆発し (erupted in silver light)
-- 神聖な治癒が肉と骨を編み直した (divine healing knitting flesh and bone)
+**1. Clunky/Stilted Phrasing Fixed:**
+- 「どのくらいの距離だ？」→ 「どれほど近づいている？」
+- 「夕方までにはここに着くでしょう」→ 「夕方までにはここに着くはず」
+- 「誰かがあなたを欲しがって軍隊を雇うほどだ」→ 「誰かがあえて軍を雇ってまで、お前を狙ってきたというわけだ」
+- 「整然とした陣形が混乱に溶けた」→ 「整った陣形は一瞬で崩れ去った」
+- 「刃が対戦相手の間を踊った」→ 「刃が敵の間をすり抜けるように舞った」
+- 「失われた命ごとに、勝ち取った勝利ごとに」→ 「命を失い、勝利を重ねるたび」
+- 「死刑宣告のように空中に漂った」→ 「まるで死の宣告のように、その数字が場を凍らせた」
 
-✅ **Cultural Adaptation**: Successfully adapted Western siege warfare concepts for Japanese readers while maintaining fantasy atmosphere.
+**2. Stock Expression Reduction (10-20% as suggested):**
+- Reduced repetitive use of 「神聖な力が〜」「神聖な治癒」「神聖な魔法」
+- Replaced 「血と涙で書かれていた」with 「重く、痛ましいものだった」
+- Simplified 「鍛冶場の火のように」to 「炉の火のように」
+- Enhanced 「トゥリンとアラニィが並んで戦った時のように」to 「あの二柱が肩を並べたあの時代の盟約のように」
 
-✅ **Comprehensive Documentation**: Created detailed translation notes documenting all decisions, cultural adaptations, and quality assessments.
+**3. Nuance Recovery:**
+- Improved dialogue formality for urgent situations
+- Enhanced character voice consistency
+- Strengthened emotional impact of key moments
+- Better fantasy-appropriate language choices
 
-✅ **Glossary Updates**: Added 25+ new terms including military terminology, character names, and thematic expressions.
-
-## Quality Achievement
-- **Naturalness**: 5/5 - Reads as native Japanese
-- **Accuracy**: 5/5 - Preserves all original meaning and nuance
-- **Consistency**: 5/5 - Perfect alignment with established terminology and character voices
-- **Literary Quality**: 5/5 - Maintains epic fantasy atmosphere and emotional impact
-
-## Impact Assessment
-Chapter 18 translation successfully captures the pivotal battle that marks Gond's full emergence as a paladin leader. The translation maintains the visceral impact of combat while preserving the "show don't tell" narrative principles. New military terminology establishes foundation for upcoming large-scale warfare chapters. Character development and divine manifestations remain consistent with series progression.
+### Quality Results:
+- **Naturalness**: Significantly reduced translation artifacts
+- **Readability**: More fluent Japanese expression
+- **Emotional Impact**: Stronger scene descriptions
+- **Fantasy Atmosphere**: More appropriate tone and style

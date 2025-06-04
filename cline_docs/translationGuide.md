@@ -290,10 +290,18 @@ This guide establishes best practices for translating "Paladin's Rise" from Engl
 - ❌ めちゃくちゃ → ✅ 非常に/ひどく (extremely)
 
 **Modern Conceptual Language**:
-- ❌ システム → ✅ 仕組み/制度 (system)
+- ❌ システム → ✅ 仕組み/体制/制度 (system)
+- ❌ 難民 → ✅ 避難者/逃れてきた人々/人々 (refugee)
+- ❌ コミュニティ → ✅ 共同体/集団/一団 (community)
 - ❌ プロセス → ✅ 過程/手順 (process)
 - ❌ メソッド → ✅ 方法/手法 (method)
 - ❌ スタイル → ✅ 様式/流儀 (style)
+
+**⚠️ CRITICAL FORBIDDEN LOANWORDS**:
+These three terms are STRICTLY FORBIDDEN as they break medieval fantasy immersion:
+- **システム** (system) - Use: 仕組み (mechanism), 体制 (regime), 制度 (institution)
+- **難民** (refugee) - Use: 避難者 (evacuees), 逃れてきた人々 (people who fled), 人々 (people)
+- **コミュニティ** (community) - Use: 共同体 (community), 集団 (group), 一団 (band)
 
 **5. Classical & Literary Alternatives**
 
@@ -378,6 +386,7 @@ This guide establishes best practices for translating "Paladin's Rise" from Engl
 - [ ] **Dialogue attribution**: Varied verbs avoid repetitive 「言った」
 
 #### Traditional Language & Loanword Review
+- [ ] **FORBIDDEN LOANWORDS CHECK**: No instances of システム, 難民, コミュニティ
 - [ ] No unnecessary loanwords used where traditional Japanese alternatives exist
 - [ ] Military/combat terms use traditional vocabulary (鎧, 剣, 戦い, etc.)
 - [ ] General vocabulary avoids modern loanwords (一団 not チーム, 指導者 not リーダー)
