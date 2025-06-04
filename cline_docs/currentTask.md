@@ -1,24 +1,21 @@
 ## Current Objective
-Create a simple README.md file with project description, Makefile usage instructions, and pandoc installation link
+Add cover image link to README.md above "Using the Makefile" section
 
 ## Context
-User requested a basic README.md file to provide essential project information for new users or contributors. The file should include:
-1. Project description (English novel + Japanese translation)
-2. How to use the Makefile
-3. Link to pandoc installation documentation
+User requested to add an image link to 'images/cover.png' in the README.md file, positioned above the "Using the Makefile" section. The README.md file already exists with comprehensive project documentation.
 
-## Planned Actions
-1. Create README.md in root directory
-2. Include clear project description explaining the dual-language nature
-3. Document Makefile targets and usage
-4. Provide link to official pandoc installation docs
+## Completed Actions
+1. ✅ Read Memory Bank files (projectRoadmap.md, currentTask.md, techStack.md, codebaseSummary.md)
+2. ✅ Read existing README.md file to understand structure
+3. ✅ Added cover image link `![Cover](images/cover.png)` above "Using the Makefile" section
+4. ✅ Updated currentTask.md to reflect completion
 
-## Files to Update
+## Files Updated
+- ✅ README.md (added cover image link)
 - ✅ cline_docs/currentTask.md (this file)
-- ✅ README.md (create new file)
 
-## Quality Standards
-- Clear, concise documentation
-- Easy to understand for new users
-- Proper markdown formatting
-- Accurate information about project structure and tools
+## Quality Standards Met
+- Proper markdown image syntax used
+- Image positioned correctly above Makefile section
+- Maintains existing README structure and formatting
+- Uses relative path to images/cover.png as requested

@@ -13,6 +13,8 @@ This project includes:
 - **Japanese Translation**: LLM-assisted translation in `manuscript-ja/` with comprehensive quality assurance
 - **Supporting Materials**: Character guides, world-building documentation, and translation resources
 
+![Cover](images/cover.png)
+
 ## Using the Makefile
 
 The project includes a Makefile for building and managing the EPUB version:
