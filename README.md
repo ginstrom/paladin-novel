@@ -13,7 +13,7 @@ This project includes:
 - **Japanese Translation**: LLM-assisted translation in `manuscript-ja/` with comprehensive quality assurance
 - **Supporting Materials**: Character guides, world-building documentation, and translation resources
 
-![Cover](images/cover.png)
+<img src="images/cover.png" alt="Cover" width="25%">
 
 ## Using the Makefile
 
