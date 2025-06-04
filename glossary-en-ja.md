@@ -25,6 +25,10 @@
 | Mira | ミラ | Refugee woman healed by Gond, survivor of slaver raid |
 | Marcus | マルカス | Elderly man from Westport seeking healing for granddaughter |
 | Captain Voss | ヴォス隊長 | Leader of Crimson Company mercenary slavers |
+| Thorek Ironheart | ソレク・アイアンハート | Dwarf leader of Iron Covenant, master craftsman |
+| Willem | ウィレム | Young defender who died in Chapter 15 battle |
+| Sif | シフ | Defender who died due to Gond's spiritual crisis |
+| Peska | ペスカ | Wounded defender saved by Sim and Silviana |
 
 ### 地名 (Place Names)
 | English | Japanese | Notes |
@@ -51,6 +55,8 @@
 | Slaver's Guild | 奴隷商組合 | Powerful organization dealing in slavery |
 | Coastal Slavers Guild | 海岸奴隷商組合 | Professional military slaver organization |
 | Crimson Company | クリムゾン・カンパニー | Mercenary group offering bounties for escaped slaves |
+| Iron Covenant | 鉄の盟約 | Ancient dwarf organization opposing corruption, offers alliance to Gond |
+| War Council | 戦争評議会 | Strategic planning body: Gond, Thorek, Silviana, Pell, Sim, Lira |
 
 ### 宗教用語 (Religious Terms)
 | English | Japanese | Notes |
@@ -192,6 +198,35 @@
 | Golden radiance | 黄金の輝き | Visual manifestation of divine power |
 | Physical force | 物理的な力 | Tangible effect of divine light |
 | Divine intervention | 神聖な介入 | Direct action by divine power in battle |
+| Burden of Grace | 恩寵の重荷 | Chapter 15 title, theological weight of divine calling |
+| Divine will vs. mortal desire | 神聖な意志と人間の欲望 | Core theological conflict in Chapter 15 |
+| Ease his suffering | 彼の苦痛を和らげなさい | Alanyi's gentle command about Willem |
+| His spirit yearns for release | 彼の魂は解放を求めている | Spiritual readiness for death |
+| Burden of choice | 選択の重荷 | Weight of divine responsibility |
+| True mercy | 真の慈悲 | Core lesson about letting go |
+| Sacred tree | 聖なる木 | Paladin's connection to Alanyi, marked with divine symbol |
+| Paladin's tree | 聖騎士の木 | Individual tree marking divine connection |
+| Warhammer | ウォーハンマー | Thorek's weapon with divine aura |
+| Master craftsman | 名工 | Thorek's expertise level |
+| Divine blade | 神に触れられた刃 | Weapon transformed by divine will |
+| Mortal smith | 人間の鍛冶師 | Contrast to divine craftsmanship |
+| Traditional warrior's greeting | 伝統的な戦士の挨拶 | Forearm clasp between Gond and Thorek |
+| Ancient alliance | 古い同盟 | Historical cooperation between races |
+| Shared purpose | 共有された目的 | Transformation from isolation to cooperation |
+| War council | 戦争評議会 | Strategic planning body |
+| Take the fight to them | 戦いを*彼ら*に持ち込む | Offensive strategy declaration |
+| Siege engines | 攻城兵器 | Medieval warfare equipment |
+| Scattered forces of good | 善の散らばった軍勢 | Allied forces needing unification |
+| Caravan raids | 隊商襲撃 | Tactical operations against slavers |
+| Supply trains | 補給列車 | Slaver logistics targets |
+| Mixed force | 混成部隊 | Combined veteran and new fighters |
+| Liberation operations | 解放作戦 | Freeing enslaved people |
+| Fortress mentality | 要塞の心構え | Transformation from sanctuary to military base |
+| Team (workers/laborers) | 一団 | Group of workers (avoid modern "チーム" in fantasy setting) |
+| Network (intelligence/people) | 情報網 | Intelligence network, organized connections (avoid modern "ネットワーク" in fantasy setting) |
+| Work crew | 作業班 | Alternative for organized labor groups |
+| Intelligence network | 情報網 | Spy/information gathering organization |
+| Cooperative organization | 連携組織 | Alternative for organized groups working together |
 
 ### 文化的概念 (Cultural Concepts)
 | English | Japanese | Notes |
@@ -277,3 +312,24 @@
 | "For the Valley! For Alanyi!" | 「谷のために！アラニィのために！」 | Battle cry during final confrontation |
 | "Can't save them all" | 「全員を救うことはできない」 | Pell's pragmatic observation |
 | "What do you want instead?" | 「代わりに何を望むのか？」 | Pell's question about Gond's changed motivations |
+| "Burden of Grace" | 「恩寵の重荷」 | Chapter 15 title |
+| "The victory had come at a price" | 「勝利には代償が伴った」 | Opening line establishing cost of battle |
+| "But it wasn't enough" | 「しかし、それでは足りなかった」 | Gond's realization about Willem's condition |
+| "Could have been much worse" | 「もっと悪くなる可能性もあった」 | Pell's pragmatic assessment |
+| "I can save him" | 「彼を救える」 | Gond's defiant response to divine will |
+| "What kind of paladin does that make me?" | 「それでどんな聖騎士になるというんだ？」 | Gond's self-doubt after failure |
+| "A place of answers" | 「答えのある場所へ」 | Silviana's description of sacred tree location |
+| "Sometimes, true mercy is... letting go" | 「時には、真の慈悲とは…手放すことなのだ」 | Core spiritual lesson |
+| "By Turin's hammer" | 「トゥリンの槌にかけて」 | Thorek's oath of amazement |
+| "This is no mortal blade" | 「これは人間の刃ではない」 | Thorek's recognition of divine weapon |
+| "I came seeking a paladin" | 「私は聖騎士を探しに来た」 | Thorek's declaration of purpose |
+| "Even a god's chosen champion can't walk the path without allies" | 「神に選ばれた戦士でも味方なしには道を歩けない」 | Wisdom about divine champions needing support |
+| "In return, you continue being what you are" | 「見返りに、君は君であり続ける」 | Thorek's simple but profound alliance terms |
+| "When do we start?" | 「いつ始める？」 | Gond's acceptance of alliance |
+| "No more running. No more hiding" | 「もう逃げない。もう隠れない」 | Gond's strategic transformation |
+| "That's not a battle you're talking about, son. That's a war" | 「君が話しているのは戦いではない、息子よ。それは戦争だ」 | Thorek's recognition of scope |
+| "Then it's a war" | 「それなら戦争だ」 | Gond's acceptance of larger conflict |
+| "Now we have a paladin" | 「今我々には聖騎士がいる」 | Thorek's confident conclusion |
+| "Our time of hiding is over" | 「隠れる時は終わった」 | Gond's declaration to Dax |
+| "This is no longer a sanctuary. It's a fortress. A beacon" | 「これはもはや聖域ではない。要塞だ。灯台だ」 | Valley's transformation |
+| "Let them come. We're ready" | 「やつらに来させろ。我々は準備ができている」 | Final defiant declaration |
