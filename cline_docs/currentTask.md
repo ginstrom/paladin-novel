@@ -1,100 +1,43 @@
 ## Current Objective
-Apply detailed feedback to improve Chapter 16's Japanese translation (manuscript-ja/16_network-revealed.md), focusing on loanword replacement, dialogue refinement, and overall naturalness enhancement.
+Translate Chapter 18 "First Stand" (chapters/18_first-stand.md) from English to Japanese
 
 ## Context
-Chapter 16 "Network Revealed" (情報網の正体) has been translated but requires refinement based on comprehensive feedback. The main issues identified are:
-- Loanwords disrupting medieval fantasy atmosphere (ネットワーク, コンポーネント, エンジン, チーム)
-- Overly literal or stiff renderings reducing emotional impact
-- Repetitive or unclear constructions needing polish
-- Character voice consistency requiring improvement
+This is the next chapter in the ongoing Japanese translation series of "Paladin's Rise" (聖騎士の目覚め). Chapter 18 depicts a major battle with 200 professional soldiers attacking the settlement, featuring strategic military planning, siege warfare, divine power manifestations, and significant character development for Gond as a paladin leader.
 
-## Implementation Plan
-1. **Loanword Replacement**: Replace modern loanwords with traditional Japanese alternatives
-   - ネットワーク → 組織/繋がり (context-dependent)
-   - コンポーネント → 部品/構成要素
-   - エンジン → 兵器 (or functional description)
-   - チーム → 一団/隊/仲間たち
+## Planned Actions
+1. **Create Japanese translation file**: `manuscript-ja/18_first-stand.md`
+2. **Apply established translation methodology**: 6-phase process from translation guide
+3. **Maintain character speech consistency**: Using established patterns from previous 17 chapters
+4. **Handle complex military terminology**: Professional soldiers, siege engines, tactical formations
+5. **Preserve divine power descriptions**: Consistent with previous chapters' manifestations
+6. **Introduce new character**: Battlemaster Korgan Ironshield with appropriate dwarf speech patterns
+7. **Create comprehensive documentation**: Translation notes file with decisions and cultural adaptations
+8. **Update glossary**: Add new terms and verify existing terminology usage
+9. **Quality verification**: Target 5-star naturalness and accuracy ratings
 
-2. **Dialogue Refinement**: Enhance character speech for fantasy setting appropriateness
-   - Improve formal introductions and military speech patterns
-   - Deepen emotional expressions for better tone
+## Key Translation Challenges
+- Complex battle sequences requiring natural Japanese military terminology
+- Divine power manifestations needing consistency with established descriptions
+- Political dialogue between religious factions requiring appropriate formality levels
+- New character integration while maintaining established speech patterns
+- Balancing visceral combat descriptions with "show don't tell" principles
 
-3. **Remove Translationese**: Eliminate awkward literal translations
-   - Smooth overly casual expressions for serious contexts
-   - Improve flow of complex sentences
+## Quality Standards
+- 5-star naturalness and accuracy ratings (matching previous chapters)
+- 20-30% compression from literal translation
+- Traditional language preference (avoid modern loanwords)
+- Consistent ellipsis usage (…) instead of three dots
+- Proper Japanese literary flow and rhythm
+- Character speech pattern consistency verification
 
-4. **Fix Repetitive Constructions**: Reduce redundant phrasing
-   - Vary repeated words (その repeated 3 times → strategic variation)
-   - Simplify verbose explanations
-
-5. **Clarify Emotional Transitions**: Make character reactions more specific and impactful
-
-6. **Apply Miscellaneous Improvements**: Address specific phrases and metaphors
-
-## Target Improvements
-- Enhanced medieval fantasy atmosphere through traditional vocabulary
-- More natural dialogue that fits character roles and setting
-- Improved emotional impact and clarity
-- Reduced repetition and awkward constructions
-- Better flow and readability overall
-
-## Files to Update
-- manuscript-ja/16_network-revealed.md (primary target)
-- manuscript-ja/16_network-revealed_notes.md (document changes)
-- glossary-en-ja.md (if new terms are established)
-
-## Status
-✅ COMPLETED: Applied comprehensive feedback to Chapter 16 translation
-
-## Completed Work
-1. ✅ **Loanword Replacement**: Successfully replaced modern loanwords with traditional Japanese alternatives
-   - Changed chapter title: 情報網の正体 → 組織の正体
-   - Replaced ネットワーク/情報網 → 組織 throughout for consistency
-   - Enhanced medieval fantasy atmosphere through traditional vocabulary
-
-2. ✅ **Dialogue Refinement**: Enhanced character speech for fantasy setting appropriateness
-   - Improved Elena's military introduction with more formal, traditional phrasing
-   - Deepened Grimjaw's emotional expressions for better tone and impact
-   - Maintained character voice consistency throughout
-
-3. ✅ **Translationese Removal**: Eliminated awkward literal translations
-   - Improved political protection phrase for more natural Japanese flow
-   - Enhanced sentence structures to sound authentically Japanese
-   - Reduced translation artifacts throughout
-
-4. ✅ **Repetitive Construction Fixes**: Reduced redundant phrasing and improved variety
-   - Enhanced character assessment description with strategic word variation
-   - Eliminated repetitive "その" usage in key passages
-   - Improved overall readability and flow
-
-5. ✅ **Enhanced Naturalness**: Applied comprehensive improvements for authentic Japanese expression
-   - Better sentence rhythm and flow
-   - More impactful emotional transitions
-   - Enhanced immersion through period-appropriate language
-
-6. ✅ **Documentation**: Created comprehensive translation notes documenting all changes
-   - Detailed rationale for each improvement
-   - Cultural adaptation explanations
-   - Quality assessment and future guidance
-
-## Key Improvements Achieved
-- **Enhanced Medieval Fantasy Atmosphere**: Traditional vocabulary choices maintain timeless quality
-- **Improved Character Voice Consistency**: Military characters speak with appropriate formality
-- **Better Emotional Impact**: Dialogue conveys deeper meaning and gravity
-- **Natural Japanese Flow**: Reduced translation artifacts for authentic expression
-- **Consistent Terminology**: Established "組織" for network references throughout
-
-## Files Updated
-- ✅ manuscript-ja/16_network-revealed.md (comprehensive revision with all feedback applied)
-- ✅ manuscript-ja/16_network-revealed_notes.md (detailed documentation of changes)
+## Files to Create/Update
 - ✅ cline_docs/currentTask.md (this file)
+- [ ] manuscript-ja/18_first-stand.md (main translation)
+- [ ] manuscript-ja/18_first-stand_notes.md (translation notes)
+- [ ] glossary-en-ja.md (new terms and updates)
 
-## Impact on Translation Quality
-The revised Chapter 16 now meets professional Japanese publication standards with:
-- Traditional language preference that enhances fantasy setting
-- Natural dialogue that fits character roles and medieval context
-- Improved emotional resonance and clarity
-- Consistent application of established translation principles
-- Enhanced reader immersion through authentic Japanese expression
-
-This work demonstrates successful application of the comprehensive feedback and establishes improved standards for future translation refinements.
+## Next Steps
+1. Create the Japanese translation applying all established methodology
+2. Document translation decisions and cultural adaptations
+3. Update glossary with new military and character terms
+4. Verify quality against established standards

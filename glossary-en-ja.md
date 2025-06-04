@@ -36,6 +36,11 @@
 | Tam | タム | Child refugee from Millhaven |
 | Bess | ベス | Child refugee from Millhaven |
 | Fen | フェン | Youngest child refugee from Millhaven |
+| High Cleric Aldric | 高位聖職者アルドリック | Leader of Turin's human order, corrupt religious authority |
+| Brother Castor | カストル修道士 | Nervous Alanyi priest, echoes Aldric's positions |
+| Sister Marta | マルタ姉妹 | Reform-minded Alanyi priest from Westport Temple |
+| Battlemaster Korgan Ironshield | 戦闘師コルガン・アイアンシールド | Iron Covenant representative, opposes corruption |
+| Lily | リリー | Eight-year-old girl with withered leg, healed by Gond |
 
 ### 地名 (Place Names)
 | English | Japanese | Notes |
@@ -64,6 +69,7 @@
 | Crimson Company | クリムゾン・カンパニー | Mercenary group offering bounties for escaped slaves |
 | Iron Covenant | 鉄の盟約 | Ancient dwarf organization opposing corruption, offers alliance to Gond |
 | War Council | 戦争評議会 | Strategic planning body: Gond, Thorek, Silviana, Pell, Sim, Lira |
+| Council of Sacred Orders | 聖なる騎士団評議会 | Religious authority body challenging Gond's legitimacy |
 
 ### 宗教用語 (Religious Terms)
 | English | Japanese | Notes |
@@ -84,6 +90,27 @@
 | Carved pillars | 彫刻された柱 | Decorated temple columns |
 | Concentric circles | 同心円状 | Circular arrangement around altar |
 | Intertwined circles | 絡み合う円 | Symbol of Alanyi (peace) |
+| High Cleric | 高位聖職者 | Senior religious authority position |
+| Battlemaster | 戦闘師 | Military religious rank in Iron Covenant |
+| Ordination | 叙任 | Religious ceremony of appointment |
+| Excommunication | 破門 | Religious punishment, exclusion from faith |
+| Heretical | 異端 | Condemned as contrary to religious doctrine |
+| False prophet | 偽預言者 | Religious condemnation of unauthorized divine claims |
+| Religious authority | 宗教的権威 | Institutional power over religious matters |
+| Political expedience | 政治的便宜 | Choosing politics over principles |
+| Divine truth | 神聖な真実 | Religious principles vs. political compromise |
+| Established hierarchy | 確立された階層 | Traditional religious power structure |
+| Theological examination | 神学的検査 | Religious test of knowledge and orthodoxy |
+| Controlled conditions | 管理された条件 | Formal testing environment for divine abilities |
+| Religious legitimacy | 宗教的正統性 | Recognized authority in religious matters |
+| Ancient blessing | 古い祝福 | Traditional divine favor from earlier times |
+| Old ways | 古い道 | Traditional religious practices before corruption |
+| True calling | 真の召命 | Authentic divine vocation vs. political appointment |
+| Ceremonial bells | 儀式用の楽器 | Religious instruments announcing formal visits |
+| Diplomatic mission | 外交使節団 | Political rather than religious purpose |
+| Formal audience | 正式な謁見 | Official meeting with religious authority |
+| Religious schism | 宗教的分裂 | Division within religious organizations |
+| Open war | 公然たる戦争 | Direct conflict between religious factions |
 
 ### 専門用語 (Technical Terms)
 | English | Japanese | Notes |
