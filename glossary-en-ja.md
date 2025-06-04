@@ -41,6 +41,8 @@
 | Sister Marta | マルタ姉妹 | Reform-minded Alanyi priest from Westport Temple |
 | Battlemaster Korgan Ironshield | 戦闘師コルガン・アイアンシールド | Iron Covenant representative, opposes corruption |
 | Lily | リリー | Eight-year-old girl with withered leg, healed by Gond |
+| Orif | オリフ | Young defender who died in Chapter 18 battle, spear through heart |
+| Olega | オレガ | Elderly refugee who died in Chapter 18 battle, protecting children |
 
 ### 地名 (Place Names)
 | English | Japanese | Notes |
@@ -283,6 +285,30 @@
 | Peaceful death | 平和な死 | Natural, accepted passing |
 | Divine wisdom | 神聖な知恵 | Spiritual understanding of life and death |
 | True mercy is letting go | 真の慈悲とは手放すこと | Core spiritual lesson about death |
+| Three columns | 三つの縦隊 | Military formation, organized attack formation |
+| Professional soldiers | 職業軍人 | Trained military vs. mercenaries or raiders |
+| Siege ladders | 攻城梯子 | Specialized equipment for scaling walls |
+| Crossbow companies | 弩兵中隊 | Organized crossbow units |
+| Windlass | 巻き上げ機 | Mechanical component of siege engines |
+| Counterweight | 平衡錘 | Weight system for catapult operation |
+| Grappling hooks | 鉤縄 | Wall-scaling equipment |
+| Flanking maneuver | 回り込み | Tactical side attack |
+| Counterattack | 反撃 | Defensive to offensive transition |
+| Forge fire | 鍛冶場の火 | Metaphor for intense divine power |
+| Silver light | 銀の光 | Visual manifestation of divine weapon |
+| Fluid grace | 流れるような優雅さ | Description of enhanced combat movement |
+| Divine healing | 神聖な治癒 | Supernatural wound recovery |
+| First Stand | 初陣 | Chapter 18 title, first major battle |
+| High Council | 高等評議会 | Iron Covenant governing body |
+| Slave cities | 奴隷都市 | Alliance of slaver ports |
+| Two thousand soldiers | 二千人の兵士 | Scale of approaching enemy army |
+| Take the fight to them | 戦いを彼らに持ち込む | Offensive strategy shift |
+| Divine certainty | 神聖な確信 | Words flowing through divine inspiration |
+| True paladin | 真の聖騎士 | Gond's complete transformation |
+| Cost written in blood and tears | 血と涙で書かれた代償 | Poetic description of war's price |
+| Died with honor | 名誉ある死 | Respectful acknowledgment of sacrifice |
+| Path paved with sacrifice | 犠牲で舗装された道 | Metaphor for freedom's cost |
+| Weight of leadership | 指導者としての重み | Burden of command responsibility |
 
 ### 文化的概念 (Cultural Concepts)
 | English | Japanese | Notes |
