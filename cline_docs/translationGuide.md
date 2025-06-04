@@ -128,6 +128,26 @@ This guide establishes best practices for translating "Paladin's Rise" from Engl
 
 ### Character Voice Guidelines
 
+#### Character Speech Pattern Consistency
+**CRITICAL**: Each character must maintain consistent speech patterns throughout the series. Consult `cline_docs/characterSpeechPatterns.md` for detailed guidelines.
+
+#### Quick Reference - Major Characters
+| Character | Formality | Vocabulary | Key Traits |
+|-----------|-----------|------------|------------|
+| Gond | だ/である調 | Direct, practical | Casual with all, becomes kinder but stays colloquial |
+| Pell | だ/である調 | Street-smart, sarcastic | Consistently informal, observational |
+| Sim | だ/である調 + gentle | Nature metaphors, humble | Deflective, compassionate |
+| Thorek | Mixed | Military precision | Context-dependent formality |
+| Silviana | です/ます調 | Archaic, poetic | Formal but warm |
+| Elena | です/ます調 | Military terminology | Professional precision |
+| Grimjaw | だ/である調 | Colorful, enthusiastic | Boisterous, technical |
+
+#### Speech Pattern Rules
+1. **Maintain base formality level** for each character
+2. **Apply context variations** appropriately (first meetings, crisis, etc.)
+3. **Track character development** while preserving core speech patterns
+4. **Check relationship dynamics** (close friends vs. new allies)
+
 #### Speech Patterns by Character Type
 - **Guards/Slavers**: Rough, casual speech (だ/である調) with crude expressions
 - **Gond**: Internal monologue in literary style, external speech varies by situation
@@ -342,6 +362,20 @@ This guide establishes best practices for translating "Paladin's Rise" from Engl
 - [ ] Critical terminology is correctly translated
 - [ ] Text is compressed by 20-30% from literal translation
 - [ ] Consistent 常体 narrative voice maintained
+
+#### Character Speech Pattern Verification
+**CRITICAL**: Consult `cline_docs/characterSpeechPatterns.md` for detailed verification
+- [ ] **Gond**: Maintains だ/である調 with all characters, direct vocabulary
+- [ ] **Pell**: Consistently informal, street-smart expressions
+- [ ] **Sim**: Gentle だ/である調, nature metaphors, humble deflection
+- [ ] **Thorek**: Context-appropriate formality, military precision
+- [ ] **Silviana**: Formal です/ます調, archaic/poetic vocabulary
+- [ ] **Elena**: Professional です/ます調, military terminology
+- [ ] **Grimjaw**: Enthusiastic だ/である調, colorful expressions
+- [ ] **All characters**: No formality level inconsistencies within same context
+- [ ] **Relationship dynamics**: Speech patterns reflect character relationships
+- [ ] **Character development**: Evolution maintains core speech patterns
+- [ ] **Dialogue attribution**: Varied verbs avoid repetitive 「言った」
 
 #### Traditional Language & Loanword Review
 - [ ] No unnecessary loanwords used where traditional Japanese alternatives exist

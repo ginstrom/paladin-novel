@@ -284,6 +284,56 @@
 | Mythical Heroes | 神話的英雄 | Genre tag |
 | Paladin's Rise | 聖騎士の目覚め | Book title |
 
+### キャラクター別話し方パターン (Character Speech Patterns)
+**参照**: 詳細は `cline_docs/characterSpeechPatterns.md` を参照
+
+#### ゴンド (Gond) - だ/である調
+| Context | Japanese Example | Notes |
+|---------|------------------|-------|
+| Questions | 「何人だ？」「どういう意味だ？」 | Direct, no formality |
+| Statements | 「そうだな」「分かった」 | Short, decisive |
+| Commands | 「行くぞ」「待て」 | Authoritative but casual |
+
+#### ペル (Pell) - だ/である調 (Street-smart)
+| Context | Japanese Example | Notes |
+|---------|------------------|-------|
+| Questions | 「どんな連中に会った？」 | Casual, observational |
+| Sarcasm | 「陽気な連中だ」 | Wry commentary |
+| Warnings | 「気をつけろ」 | Direct, protective |
+
+#### シム (Sim) - だ/である調 + gentle
+| Context | Japanese Example | Notes |
+|---------|------------------|-------|
+| Deflection | 「直感と呼んでくれ」 | Humble, metaphorical |
+| Prayers | 「アラニィよ、慈悲を」 | Spiritual expressions |
+| Advice | 「それが家族のすることだ」 | Gentle wisdom |
+
+#### ソレク (Thorek) - Mixed formality
+| Context | Japanese Example | Notes |
+|---------|------------------|-------|
+| Direct questions | 「何人だ？」「あとどれくらい持つ？」 | Military efficiency |
+| Respectful inquiry | 「そして見返りに何を求めるのですか？」 | Context-appropriate formality |
+| Oaths | 「トゥリンの槌にかけて」 | Traditional dwarven expressions |
+
+#### シルヴィアナ (Silviana) - です/ます調
+| Context | Japanese Example | Notes |
+|---------|------------------|-------|
+| Formal address | 「です/ます調」consistently | Ancient, respectful |
+| Oaths | 「古い樹々にかけて」 | Elven traditional expressions |
+| Wisdom | Poetic metaphors | Flowing, musical speech |
+
+#### エレナ (Elena) - です/ます調 (Military)
+| Context | Japanese Example | Notes |
+|---------|------------------|-------|
+| Reports | 「辞表を提出しました」 | Professional precision |
+| Strategy | 「それが解放と征服を分けるものです」 | Analytical military language |
+
+#### グリムジョー (Grimjaw) - だ/である調 (Enthusiastic)
+| Context | Japanese Example | Notes |
+|---------|------------------|-------|
+| Enthusiasm | 「今度はそういう話が聞きたい！」 | Boisterous, passionate |
+| Dismissive | 「好きに呼べ」 | Casual, colorful |
+
 ### 慣用表現 (Idiomatic Expressions)
 | English | Japanese | Notes |
 |---------|----------|-------|
