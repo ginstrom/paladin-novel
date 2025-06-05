@@ -43,6 +43,8 @@
 | Lily | リリー | Eight-year-old girl with withered leg, healed by Gond |
 | Orif | オリフ | Young defender who died in Chapter 18 battle, spear through heart |
 | Olega | オレガ | Elderly refugee who died in Chapter 18 battle, protecting children |
+| Sir Roderick Ashford | ロデリック・アシュフォード卿 | Leader of Noble Knights delegation, aristocratic negotiator |
+| Alaric | アラリック | Young squire serving Sir Roderick, attempts to bribe Pell for information |
 
 ### 地名 (Place Names)
 | English | Japanese | Notes |
@@ -72,6 +74,7 @@
 | Iron Covenant | 鉄の盟約 | Ancient dwarf organization opposing corruption, offers alliance to Gond |
 | War Council | 戦争評議会 | Strategic planning body: Gond, Thorek, Silviana, Pell, Sim, Lira |
 | Council of Sacred Orders | 聖なる騎士団評議会 | Religious authority body challenging Gond's legitimacy |
+| Noble Knights | 高貴騎士団 | Aristocratic military order, some members oppose slavery |
 
 ### 宗教用語 (Religious Terms)
 | English | Japanese | Notes |
@@ -345,6 +348,17 @@
 | Ledges | 岩棚 | Natural archer positions on cliff faces |
 | Pass walls | 峠の壁 | Steep canyon sides forming natural barriers |
 | The Tide Turns | 潮目の変化 | Chapter 19 title, strategic shift in war |
+| The Price of War | 戦争の代償 | Chapter 20 title, political negotiations and war council |
+| Natural hierarchy | 自然な階層 | Sir Roderick's concept of aristocratic social order |
+| Proper order | 適切な秩序 | Traditional power structure favored by Noble Knights |
+| Social experiment | 社会実験 | Sir Roderick's dismissive term for Gond's egalitarian approach |
+| Conditional aid | 条件付きの援助 | Noble Knights' limited support offer |
+| Delicate alliance | 微妙な同盟 | Diplomatic relationship requiring careful negotiation |
+| Deep-water harbor | 深水港 | Strategic naval facility at Saltmere |
+| Supply lines | 補給線 | Military logistics routes from southern kingdoms |
+| Coastal raids | 沿岸襲撃 | Naval harassment tactics suggested by Silviana |
+| Golden bridge for retreat | 退却の黄金の橋 | Military metaphor for honorable withdrawal option |
+| Knife's edge | 刃の上 | Metaphor for precarious strategic situation |
 
 ### 文化的概念 (Cultural Concepts)
 | English | Japanese | Notes |
