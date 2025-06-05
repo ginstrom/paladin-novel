@@ -45,6 +45,10 @@
 | Olega | オレガ | Elderly refugee who died in Chapter 18 battle, protecting children |
 | Sir Roderick Ashford | ロデリック・アシュフォード卿 | Leader of Noble Knights delegation, aristocratic negotiator |
 | Alaric | アラリック | Young squire serving Sir Roderick, attempts to bribe Pell for information |
+| Brother Aldwin | アルドウィン修道士 | False priest of Kemiss, actually Gorlatch cultist |
+| Brother Cassius | カシウス修道士 | False priest of Kemiss, actually Gorlatch cultist |
+| Aelindra | アエリンドラ | Speaker for the Circle of Whispers, ancient elf |
+| Lord Valerius | ヴァレリウス卿 | Lord of Stonebridge, mobilizes against Gond |
 
 ### 地名 (Place Names)
 | English | Japanese | Notes |
@@ -116,6 +120,19 @@
 | Formal audience | 正式な謁見 | Official meeting with religious authority |
 | Religious schism | 宗教的分裂 | Division within religious organizations |
 | Open war | 公然たる戦争 | Direct conflict between religious factions |
+| High Temple | 高位神殿 | Senior religious institution |
+| Writ of excommunication | 破門状 | Official document of religious banishment |
+| Divine authority | 神聖な権威 | Sacred power and legitimacy |
+| Established order | 確立された秩序 | Traditional religious hierarchy |
+| Religious crisis | 宗教的危機 | Theological conflict across continent |
+| Circle of Whispers | 囁きの輪 | Ancient elven council of highest authority |
+| Shadow-touched | 影に触れられた | Ancient wound resistant to all healing |
+| Grove of First Light | 最初の光の森 | Sacred elven site for formal conclave |
+| Ancient beings | 古代の存在 | Elves who remember pre-human world |
+| Ethereal light | 霊妙な光 | Pure divine manifestation |
+| Political earthquake | 政治的地震 | Major shift in continental power balance |
+| Ancient treaties | 古代の条約 | Historical agreements between races |
+| Balance of power | 力の均衡 | Political stability across races |
 
 ### 専門用語 (Technical Terms)
 
@@ -359,6 +376,26 @@
 | Coastal raids | 沿岸襲撃 | Naval harassment tactics suggested by Silviana |
 | Golden bridge for retreat | 退却の黄金の橋 | Military metaphor for honorable withdrawal option |
 | Knife's edge | 刃の上 | Metaphor for precarious strategic situation |
+| Merchant guilds | 商人組合 | Trade organizations, cover for false priests |
+| Supply chains | 物流網 | Trade routes disrupted by liberation activities |
+| Alternative arrangements | 代替的な取り決め | Euphemism for reformed slavery |
+| Gradual transition | 段階的な移行 | Proposed compromise on slavery abolition |
+| Economic realities | 市井の理 | Practical concerns about sudden liberation |
+| Fear magic | 恐怖の魔法 | Supernatural terror imposed by Gorlatch cultists |
+| Shadow creatures | 影と悪意の生き物 | True forms of false priests |
+| Divine blade | 神聖な刃 | Gond's sword enhanced by divine power |
+| Formal conclave | 正式な会議 | Official elven council meeting |
+| Personal examination | 個人的な検証 | Direct testing of divine claims |
+| Standing stones | 立石 | Ancient stone circle in sacred grove |
+| Stone seats | 石の座席 | Formal seating for Circle members |
+| Otherworldly | 別世界的 | Description of ancient elves' nature |
+| Formal recognition | 正式な承認 | Official acknowledgment of paladin status |
+| Continental implications | 大陸的な含意 | Far-reaching political consequences |
+| Intelligence maps | 情報地図 | Strategic knowledge from Circle of Whispers |
+| Hidden assets | 隠された資産 | Secret slaver resources and locations |
+| Secret allies | 秘密の同盟者 | Covert supporters of slave trade |
+| Valuable cargo routes | 価値ある貨物の経路 | Paths for transporting slaves and goods |
+| Revelations and Ripples | 啓示と波紋 | Chapter 21 title, divine truth spreading |
 
 ### 文化的概念 (Cultural Concepts)
 | English | Japanese | Notes |
