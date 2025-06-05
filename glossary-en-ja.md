@@ -317,6 +317,34 @@
 | Died with honor | 名誉ある死 | Respectful acknowledgment of sacrifice |
 | Path paved with sacrifice | 犠牲で舗装された道 | Metaphor for freedom's cost |
 | Weight of leadership | 指導者としての重み | Burden of command responsibility |
+| War council | 戦争評議会 | Formal strategic planning body for military operations |
+| Siege engines | 攻城兵器 | Medieval warfare equipment for attacking fortifications |
+| Formations | 陣形 | Military tactical arrangements of troops |
+| Vanguard | 先遣隊 | Advance military unit sent ahead of main force |
+| Main column | 主縦隊 | Primary military formation in march order |
+| Flanking maneuver | 回り込み | Tactical side attack to outflank enemy |
+| Ambush | 待ち伏せ | Surprise attack strategy from concealed positions |
+| Counter-ambush | 反撃の待ち伏せ | Defensive tactical response to surprise attack |
+| Crossbow range | 弩の射程 | Tactical distance for ranged weapons effectiveness |
+| Torsion springs | ねじりばね | Siege engine mechanical components for power |
+| Throwing arms | 投射腕 | Catapult/ballista parts that launch projectiles |
+| Bronze-reinforced frames | 青銅で補強された枠 | Siege engine construction materials |
+| Alchemical fire | 錬金術の火 | Magical/chemical incendiary weapon that clings |
+| Speaking stones | 伝声石 | Elven communication devices for long-distance contact |
+| Scree | 岩屑 | Loose rock debris on mountain slopes |
+| Chokepoints | 隘路 | Narrow tactical passages that limit movement |
+| Bodkin arrows | ボドキン | Armor-piercing arrow heads for penetrating mail |
+| Broadhead arrows | 広刃 | Flesh-cutting arrow heads for maximum damage |
+| Professional soldiers | 職業軍人 | Trained military personnel vs. mercenaries or militia |
+| Destrier | 軍馬 | War horse bred and trained for combat |
+| Rout | 敗走 | Military retreat/collapse when formation breaks |
+| Stone corridor | 石の回廊 | Metaphor for narrow mountain pass |
+| Rocky ground | 岩の多い地面 | Terrain description for difficult footing |
+| Loose formation | 緩い陣形 | Military spacing allowing flexibility |
+| Heights | 高地 | Elevated tactical positions for advantage |
+| Ledges | 岩棚 | Natural archer positions on cliff faces |
+| Pass walls | 峠の壁 | Steep canyon sides forming natural barriers |
+| The Tide Turns | 潮目の変化 | Chapter 19 title, strategic shift in war |
 
 ### 文化的概念 (Cultural Concepts)
 | English | Japanese | Notes |

@@ -99,12 +99,15 @@ This guide establishes best practices for translating "Paladin's Rise" from Engl
 5. **Standardize all proper nouns** according to glossary entries
 6. **Ensure consistent technical terms** throughout
 
-#### Phase 3: Japanese Language Optimization
+#### Phase 3: Japanese Language Optimization & Literary Polish
 1. **Compress redundant phrasing** by 20-30% while preserving meaning
 2. **Restructure sentences** to follow natural Japanese word order (subject → action → description)
 3. **Improve metaphors and comparisons** for Japanese linguistic sensibilities
 4. **Eliminate verbose direct translations** in favor of natural Japanese expressions
 5. **Balance sentence length** for optimal reading rhythm
+6. **Apply 改善ルールセット**: Eliminate redundant constructions (「〜であることを意味していた」→「〜を意味した」)
+7. **Refine unnatural metaphors**: Replace direct translations with Japanese-appropriate expressions
+8. **Enhance narrative descriptions**: Prioritize rhythm and sensory details over simple description
 
 #### Phase 4: Cultural Localization
 1. **Adapt animal and sensory metaphors** to fit Japanese cultural context
@@ -396,6 +399,21 @@ These three terms are STRICTLY FORBIDDEN as they break medieval fantasy immersio
 - [ ] Language choices enhance medieval fantasy atmosphere
 - [ ] All retained loanwords are justified (established fantasy terms, proper nouns)
 
+#### Literary Polish & Style Refinement Review
+**CRITICAL**: Apply 改善ルールセット for literary excellence
+- [ ] **Redundant Constructions Eliminated**: No verbose patterns like 「〜であることを意味していた」
+- [ ] **Modern Vocabulary Avoided**: No ネットワーク, プラン, or other contemporary terms
+- [ ] **Natural Metaphors Used**: Replaced direct translations with Japanese-appropriate expressions
+- [ ] **Character Voice Refined**: Maintained personality while eliminating unnecessary words
+- [ ] **Narrative Description Enhanced**: Prioritized rhythm and sensory details over simple description
+- [ ] **Sentence Ending Variation**: Avoided repetitive 「〜していた」patterns
+- [ ] **Synonym Variation Applied**: Used varied vocabulary (隊列→列→軍勢) for tempo
+- [ ] **Key Phrase Emphasis**: Used formatting (──, …) for dramatic impact where appropriate
+- [ ] **Mystical Description Elevated**: Applied poetic language for supernatural elements
+- [ ] **Target Aesthetic Achieved**: Matches 『指輪物語』『風の谷のナウシカ』『ベルセルク』tone
+- [ ] **Literary Quality Rating**: Achieves minimum 4/5 naturalness, target 5/5
+- [ ] **Medieval Atmosphere Maintained**: 中世・高貴な雰囲気 consistently present
+
 #### Glossary Maintenance
 - **Add new terms** to `glossary-en-ja.md` as they appear
 - **Note cultural adaptations** and reasoning
@@ -438,6 +456,148 @@ For each chapter translation, maintain notes on:
 - **Track terminology consistency** throughout the series
 - **Document major translation decisions** for future volumes
 - **Preserve narrative continuity** in Japanese adaptation
+
+## Literary Polish & Style Refinement (改善ルールセット)
+
+### Overview
+This section provides advanced guidelines for elevating translations from functional accuracy to literary excellence. These rules are designed to enhance **日本語としての自然さ・叙情性・文体の一貫性** while maintaining story integrity and meaning. The target aesthetic matches classical Japanese fantasy literature in the tradition of 『指輪物語』『風の谷のナウシカ』『ベルセルク』.
+
+---
+
+### ✦ Style Refinement (スタイル整備)
+
+#### 1. Eliminate Redundant Constructions
+**Principle**: Simplify verbose expressions for better flow and impact
+
+**Common Patterns to Simplify**:
+- ❌ 「〜であることを意味していた」→ ✅ 「〜を意味した」
+- ❌ 「〜が可能にするものだった」→ ✅ 「〜で可能になっていた」
+- ❌ 「〜することで〜となる」→ ✅ 「〜すれば〜となる」
+
+**Particle Chain Reduction**:
+- **Avoid excessive 「の」chains** that create awkward rhythm
+- **Use punctuation and clause restructuring** to improve tempo
+- **Break long descriptive chains** into multiple sentences when needed
+
+#### 2. Avoid Modern/Direct Translation Vocabulary
+**Principle**: Replace contemporary or overly literal terms with period-appropriate alternatives
+
+**Technology & System Terms**:
+- ❌ 「ネットワーク」→ ✅ 「情報網」「つながり」「網の目」
+- ❌ 「システム」→ ✅ 「仕組み」「体制」「構え」
+- ❌ 「プラン」→ ✅ 「計画」「構想」「目論見」
+
+**Action & Process Terms**:
+- ❌ 「〜することで〜となる」→ ✅ 「〜すれば〜となる」「〜により〜となる」
+
+#### 3. Refine Unnatural Metaphors & Verbs
+**Principle**: Replace direct translations with natural Japanese expressions
+
+**Metaphor Improvements**:
+- ❌ 「〜にしがみつく炎」→ ✅ 「まとわりつく炎」「絡みつく炎」
+- ❌ 「〜を焼き払うような光」→ ✅ 「〜を焼き尽くす光」「〜を灼く光」
+
+**Verb Naturalization**:
+- ❌ 「見ることができた」→ ✅ 「垣間見えた」「伺えた」「目にした」
+- ❌ 「動き」→ ✅ 「所作」「歩み」「進軍」(context-dependent)
+
+---
+
+### ✦ Character Voice & Narrative Tone (登場人物・地の文のトーン調整)
+
+#### 4. Character Speech Consistency
+**Principle**: Maintain character personality while refining expression
+
+**Character Voice Guidelines**:
+- **Preserve core speech patterns** established in characterSpeechPatterns.md
+- **Eliminate unnecessary words** while maintaining character essence
+- **Example**: 「お前が生まれる前から準備はできてる、小僧」
+  - Maintain rough tone but remove redundant elements
+  - Keep character-specific vocabulary and rhythm
+
+**Character-Specific Refinements**:
+- **Gond**: 力強く簡潔、やや詩的な表現
+- **Grimjaw**: 粗野で比喩が多い、生き生きとした表現
+- **Silviana**: 格調高く、簡潔で流れるような調子
+
+#### 5. Narrative Description Enhancement
+**Principle**: Elevate descriptive passages to poetic, visual quality
+
+**Atmospheric Description**:
+- **Prioritize rhythm and sound** over simple description
+- **Example**: 「空気は血と煙の匂いで濃く」→ 「血と煙の臭いが空気を満たし」
+- **Use sensory details** that create immersive atmosphere
+
+**Visual & Sensory Focus**:
+- **Emphasize concrete imagery** over abstract description
+- **Create cinematic scenes** through precise detail selection
+- **Maintain consistent narrative voice** throughout
+
+---
+
+### ✦ Rhythm & Flow Optimization (音とリズムの最適化)
+
+#### 6. Eliminate Repetitive Endings
+**Principle**: Vary sentence endings to create natural reading rhythm
+
+**Ending Variation Techniques**:
+- **Avoid consecutive 「〜していた」patterns**
+- **Use alternatives**: 「〜し」「〜て」「〜ながら」「〜つつ」
+- **Mix sentence lengths** for dynamic pacing
+
+**Example Transformations**:
+- ❌ 「彼は歩いていた。考えていた。悩んでいた。」
+- ✅ 「彼は歩きながら考え、深く悩んでいた。」
+
+#### 7. Synonym Variation for Tempo
+**Principle**: Use varied vocabulary to prevent monotony
+
+**Common Term Variations**:
+- 「隊列」→ 「列」「軍勢」「一団」
+- 「攻撃する」→ 「切り込む」「襲いかかる」「斬りかかる」
+- **Choose based on context and desired intensity**
+
+---
+
+### ✦ Expression Enhancement (表現強化)
+
+#### 8. Key Phrase Emphasis & Simplification
+**Principle**: Strengthen important moments through formatting and structure
+
+**Dramatic Emphasis Techniques**:
+- **Use formatting for impact**: 「それは希望じゃない。約束だ」→ 「もはや願いではない──約束だ」
+- **Employ strategic line breaks** for dramatic pauses
+- **Use punctuation symbols** (──, …) for emotional effect
+
+#### 9. Mystical & Sacred Description
+**Principle**: Elevate supernatural elements through poetic language
+
+**Divine Power Descriptions**:
+- **Use natural metaphors**: 「川が流れを見つけるように」→ 「流れを得た清流のごとく」
+- **Employ classical imagery** for mystical concepts
+- **Maintain reverent tone** for sacred elements
+
+**Nature-Based Comparisons**:
+- **Prefer traditional Japanese nature imagery**
+- **Use seasonal and elemental metaphors**
+- **Create sense of timeless, natural order**
+
+---
+
+### ✦ Target Literary Aesthetic (想定出力の文体)
+
+#### Desired Tone Characteristics
+- **中世・高貴な雰囲気**: Medieval, noble atmosphere
+- **文語的すぎず、現代語に近いが文体の品位を保つ**: Literary but accessible
+- **Reference Standards**: 『指輪物語』『風の谷のナウシカ』『ベルセルク』のナレーション
+
+#### Quality Benchmarks
+- **Narrative Voice**: Consistent, elevated but not archaic
+- **Character Dialogue**: Natural but period-appropriate
+- **Descriptive Passages**: Poetic without being overwrought
+- **Overall Flow**: Smooth, engaging, immersive
+
+---
 
 ### Naturalness Improvement Guidelines
 

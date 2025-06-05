@@ -1,22 +1,41 @@
-## Current Objective
-Reduce the size of the cover image in the README to 25%
+# Current Task: Chapter 20 Translation
+
+## Objective
+Translate Chapter 20 "The Price of War" from English to Japanese following established methodology and quality standards.
 
 ## Context
-User requested to reduce the cover image size in README.md to 25% of its current size. The README.md file contains a cover image that was previously added above the "Using the Makefile" section.
+Chapter 20 is a complex political chapter featuring:
+- War council meeting with 8+ characters requiring consistent speech patterns
+- Diplomatic encounter with Sir Roderick Ashford (Noble Knights)
+- Strategic discussions about attacking slaver cities
+- Pell's spy work with knight's squire
+- Political tensions between idealistic freedom vs. traditional hierarchy
+- Brief divine manifestation scene (Alanyi's symbol)
 
-## Completed Actions
-1. ✅ Read Memory Bank files (projectRoadmap.md, currentTask.md, techStack.md, codebaseSummary.md)
-2. ✅ Read existing README.md file to locate the cover image
-3. ✅ Modified cover image from `![Cover](images/cover.png)` to `<img src="images/cover.png" alt="Cover" width="25%">` to reduce size to 25%
-4. ✅ Updated currentTask.md to reflect completion
+## Key Translation Challenges
+1. **Multiple character voices** - Must maintain established speech patterns for Gond, Thorek, Sim, Grimjaw, Elena, Silviana, Maera, Pell
+2. **Political/military terminology** - Complex strategic discussions requiring period-appropriate language
+3. **Diplomatic dialogue** - Formal negotiations requiring nuanced Japanese
+4. **Sardonic tone** - Gond's characteristic wit in political context
+5. **Divine manifestation scene** - Subtle supernatural element requiring poetic treatment
 
-## Files Updated
-- ✅ README.md (modified cover image to 25% width)
-- ✅ cline_docs/currentTask.md (this file)
+## Implementation Plan
+1. Apply 6-phase translation methodology
+2. Maintain character speech consistency per characterSpeechPatterns.md
+3. Use traditional Japanese vocabulary (avoid forbidden loanwords)
+4. Achieve 20-30% compression while preserving meaning
+5. Create comprehensive translation notes file
+6. Update glossary with new terms
 
-## Quality Standards Met
-- Proper HTML img tag syntax used with width attribute
-- Image size reduced to exactly 25% as requested
-- Maintains existing README structure and formatting
-- Preserves alt text for accessibility
-- Uses relative path to images/cover.png
+## Target Quality Standards
+- 5/5 accuracy and naturalness ratings
+- Professional Japanese novel quality
+- Medieval fantasy atmosphere maintained
+- Character voice consistency across all speakers
+
+## Next Steps
+1. Create Japanese translation file
+2. Apply systematic translation methodology
+3. Create detailed translation notes
+4. Update glossary with new terms
+5. Quality verification against checklist

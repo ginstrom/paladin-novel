@@ -6,7 +6,7 @@ The war council had been in session for three days, and the maps spread across t
 
 Thorek Ironheart leaned forward, his braided beard clicking softly as the metal rings struck the table's edge. "They're moving slow. Those engines are slowing them down, forcing them to stick to the main roads." His thick finger traced the enemy's projected route. "Here, through Millhaven Pass. It's the only way to get those machines through the mountains."
 
-Elena Brightblade studied the terrain with a tactician's eye, her weathered hands mapping elevations and chokepoints. "The pass is narrow—maybe fifty yards at its widest point. Steep walls on both sides, loose scree that would make climbing difficult." She looked up, meeting Gond's gaze. "It's perfect for an ambush, but only if we can get our forces in position without being detected."
+Elena Brightblade studied the terrain with a tactician's eye, her thin hands mapping elevations and chokepoints. "The pass is narrow—maybe fifty yards at its widest point. Steep walls on both sides, loose scree that would make climbing difficult." She looked up, meeting Gond's gaze. "It's perfect for an ambush, but only if we can get our forces in position without being detected."
 
 "My beauties ain't exactly mountain goats," Grimjaw rumbled, his gold-capped teeth glinting. "But I can strip 'em down. Smaller bits, easier to haul. Won't get the same reach, sure, but in a tight spot like this pass? Range won't matter. It's all about putting the hurt where it counts."
 
