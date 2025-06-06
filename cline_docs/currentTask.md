@@ -1,34 +1,62 @@
-# Current Task: Chapter 22 Translation Preparation
+# Current Task: Chapter 25 Translation Revision
 
 ## Objective
-Prepare for translation of Chapter 22 "A House Divided" from English to Japanese, following successful completion of Chapter 21.
+Apply detailed feedback to improve the Japanese translation of Chapter 25 "The Cleansing Tide" (浄化の潮流) by addressing nine specific areas of improvement.
 
-## Chapter 21 Completion Summary
-✅ **COMPLETED**: Chapter 21 "Revelations and Ripples" translation
-- **Translation file**: manuscript-ja/21_revelations-and-ripples.md (6,321 characters)
-- **Translation notes**: manuscript-ja/21_revelations-and-ripples_notes.md
-- **Quality achieved**: 5/5 across all metrics (Accuracy, Naturalness, Character Voice, Traditional Language, Compression: 28.5%)
-- **Glossary updated**: Added 25+ new terms including religious, supernatural, and political terminology
-- **Key achievements**: Successfully handled complex religious crisis, multiple character voices, supernatural combat, and ancient elven formal recognition
+## Context
+The current translation has been completed but requires refinement based on comprehensive feedback focusing on:
+1. Metaphor variety and dramatic expression
+2. Character voice consistency 
+3. Emotional scene layering
+4. Combat flow improvement
+5. Pronoun clarity in group scenes
+6. Religious language variation
+7. Thematic metaphor reinforcement
+8. Period-appropriate vocabulary
+9. Elevated climactic language
 
-## Next Chapter Preview: Chapter 22 "A House Divided"
-Based on project roadmap, Chapter 22 focuses on:
-- War council and strategic planning
-- Three-pronged campaign development (coastal cities/Gond, inland strongholds/dwarves, logistics/elves)
-- Spiritual themes continuing from Chapter 21
-- Temple purification preparations
-- Silviana's pacifism vs. general elven willingness to fight
+## Implementation Plan
 
-## Translation Methodology Status
-- **Character voice patterns**: All established and documented
-- **Religious terminology**: Comprehensive foundation from Chapter 21
-- **Military/strategic terms**: Well-established from previous chapters
-- **Quality standards**: Consistent 5/5 achievement across all metrics
-- **Compression targets**: Optimal 20-30% range consistently achieved
+### Phase 1: Character Voice Refinement ✅ (Completed)
+- ✅ Strengthened Gond's calm steel and sorrow-tinged resolve
+- ✅ Enhanced emotional depth in Gond-Kael dialogue exchanges
+- ✅ Improved character voice consistency throughout
 
-## Ready for Next Phase
-All systems ready for Chapter 22 translation when requested:
-- Translation guide and methodology refined
-- Character speech patterns documented and consistent
-- Glossary comprehensive and up-to-date
-- Quality assurance framework proven effective
+### Phase 2: Metaphor and Divine Language Enhancement ✅ (Completed)
+- ✅ Replaced mechanical patterns with dramatic expressions
+- ✅ Varied divine power descriptions using thematic contrasts
+- ✅ Enhanced opening metaphors for better dramatic impact
+
+### Phase 3: Emotional Scene Layering ✅ (Completed)
+- ✅ Added introspective texture to key dialogue exchanges
+- ✅ Enhanced Gond-Kael alleyway scene with deeper emotional resonance
+- ✅ Used visible cues and gesture details for character interactions
+
+### Phase 4: Combat Flow Improvement ✅ (Completed)
+- ✅ Broke repetitive SOV structures with participial constructions
+- ✅ Added urgency through reordered syntax
+- ✅ Included more sensory details and momentum-building descriptions
+
+### Phase 5: Clarity and Thematic Integration ✅ (Completed)
+- ✅ Integrated "cleansing tide" metaphor throughout key moments
+- ✅ Enhanced divine combat scenes with varied religious language
+- ✅ Elevated final rallying line with poetic cadence and elevated syntax
+
+### Phase 6: Period Language Verification ✅ (Completed)
+- ✅ Maintained medieval fantasy atmosphere throughout
+- ✅ Used traditional Japanese expressions consistently
+- ✅ Preserved established character speech patterns
+
+## Key Reference Materials
+- showDontTellReference.md: Alert words and "show don't tell" principles
+- characterSpeechPatterns.md: Established voice patterns for each character
+- Current translation notes: Existing terminology and decisions
+
+## Success Criteria
+- All nine feedback areas addressed systematically
+- Character voices strengthened and made more distinct
+- Emotional beats enhanced with layered introspection
+- Combat scenes flow with improved urgency
+- Thematic metaphors reinforced throughout
+- Period-appropriate language maintained
+- Final rallying line elevated to poetic impact

@@ -49,6 +49,11 @@
 | Brother Cassius | カシウス修道士 | False priest of Kemiss, actually Gorlatch cultist |
 | Aelindra | アエリンドラ | Speaker for the Circle of Whispers, ancient elf |
 | Lord Valerius | ヴァレリウス卿 | Lord of Stonebridge, mobilizes against Gond |
+| Sir Marcus Brightwater | マルカス・ブライトウォーター卿 | Noble Knights commander, leads defectors to Gond |
+| Sir Garrett Blackwood | ガレット・ブラックウッド卿 | Defecting Noble Knight, struggles with mercy vs justice |
+| Captain Lyralei | リラレイ隊長 | Elven military commander for northern forces |
+| Borin | ボリン | Gond's former friend, now enemy mercenary in Saltmere |
+| Kael | ケール | Gond's former friend, now enemy mercenary in Saltmere |
 
 ### 地名 (Place Names)
 | English | Japanese | Notes |
@@ -68,6 +73,18 @@
 | Moonwood Circle | ムーンウッドの輪 | Elf organization/community in hidden forest |
 | Westport | ウェストポート | Distant city, 100 miles southeast of valley |
 | Millhaven village | ミルヘイヴン村 | Village burned by slavers in Chapter 14 |
+| Westmarch | ウェストマーチ | Kingdom where Sir Marcus found child slavery |
+| Saltmere | ソルトメア | Coastal slaver city, target of three-army campaign |
+| Port Sorrow | ポート・ソロー | Coastal slaver city, target of three-army campaign |
+| Starlight Shrine | 星光の祠 | Ruined Alanyi temple to be reclaimed by elves |
+| Dragon's Spine Mountains | ドラゴンズ・スパイン山脈 | Mountain range where Iron Covenant fights slavers |
+| Blackrock Pass | ブラックロック峠 | Strategic mountain pass controlled by slavers |
+| Shadowfen | シャドウフェン | Northern marshland region, source of slaver supplies |
+| Sunken Grotto | 沈んだ洞窟 | Ancient Alanyi temple beneath Saltmere, major healing site |
+| Pilgrim's Rest | 巡礼者の憩い | Ancient shrine reclaimed by Iron Covenant forces |
+| Citadel of Asham-Val | アシャム・ヴァルの城塞 | Final enemy stronghold in Gray Peaks |
+| Gray Peaks | グレイ・ピークス | Mountain region where final battle occurs |
+| Slavers' Coast | 奴隷海岸 | Regional designation for slaver-controlled coastal area |
 
 ### 組織・団体 (Organizations)
 | English | Japanese | Notes |
@@ -133,6 +150,19 @@
 | Political earthquake | 政治的地震 | Major shift in continental power balance |
 | Ancient treaties | 古代の条約 | Historical agreements between races |
 | Balance of power | 力の均衡 | Political stability across races |
+| War council | 戦争評議会 | Strategic planning body for military operations |
+| Three-pronged assault | 三つの矛先 | Coordinated attack strategy from multiple directions |
+| Diversionary attack | 陽動 | Tactical misdirection to draw enemy attention |
+| Tunnel warfare | 坑道戦 | Underground military tactics using ancient passages |
+| Siege coordination | 攻城兵器の協調 | Coordinated use of siege engines in battle |
+| Temple purification | 神殿の浄化 | Spiritual cleansing of corrupted holy sites |
+| Sacred mission | 聖なる任務 | Divine mandate for religious warfare |
+| Divine communion | 神聖な交わり | Silent spiritual communication with deity |
+| Chronicle of Sorrows | 悲しみの年代記 | Ancient religious text about Alanyi's healing waters |
+| World Tree | 世界樹 | Mythological cosmic tree whose roots created ancient tunnels |
+| Ley lines | 力の地脈 | Magical energy lines predating human civilization |
+| Way-shrines | 道祠 | Small elven sacred sites in deep forests |
+| First Tithe of Tears | 最初の涙の十分の一税 | Chapter 23 title, first payment in suffering for sacred mission |
 
 ### 専門用語 (Technical Terms)
 
@@ -396,6 +426,53 @@
 | Secret allies | 秘密の同盟者 | Covert supporters of slave trade |
 | Valuable cargo routes | 価値ある貨物の経路 | Paths for transporting slaves and goods |
 | Revelations and Ripples | 啓示と波紋 | Chapter 21 title, divine truth spreading |
+| A House Divided | 分裂した家 | Chapter 22 title, Noble Knights civil war |
+| Civil war | 内戦 | Religious schism within Noble Knights |
+| Defectors | 離反者 | Knights abandoning corrupt order |
+| Child slavery | 児童奴隷制 | Specific moral horror driving defection |
+| Expulsion | 追放 | Formal banishment from knightly order |
+| Branded as traitors | 裏切り者として烙印を押された | Marked as enemies of crown |
+| Divine manifestation | 神聖な顕現 | Alanyi speaking directly through Gond |
+| Sacred mission | 聖なる使命 | Divine mandate for three-army campaign |
+| Religious revival | 宗教的復活 | Alanyi's restoration movement |
+| Spiritual poison | 精神的毒 | Gorlatch's corrupting influence over centuries |
+| Purification | 浄化 | Spiritual cleansing of corrupted lands |
+| Three armies | 三つの軍 | Coordinated campaign structure |
+| Consecration | 聖別 | Ritual blessing of weapons |
+| Holy water | 聖水 | Blessed water for purification |
+| Ritual purification | 儀式的浄化 | Ceremonial cleansing |
+| Divine mandate | 神聖な命令 | Sacred mission authority |
+| My children | 我が子らよ | Alanyi's divine address to followers |
+| Rise, my faithful ones | 立て、我が忠実な者たちよ | Divine command to action |
+| Let my light shine again | 我が光を再び輝かせよ | Alanyi's call for restoration |
+| Balance must be restored | 均衡は回復されなければならない | Core theological message |
+| Strength without mercy becomes tyranny | 慈悲のない力は専制となる | Divine wisdom about power |
+| Fear magic | 恐怖魔法 | Supernatural terror imposed by Gorlatch cultists |
+| Shadow tendrils | 影の触手 | Dark magical appendages attacking minds |
+| Sickly green mist | 病的な緑の霧 | Corrupted magical fog carrying despair |
+| Petrified trees | 石化した木々 | Supernatural forest, skeletal branches |
+| Counter-chant | 対抗呪文 | Silviana's mystical defense against dark magic |
+| Divine light | 神聖な光 | Sacred power manifestation from Alanyi |
+| Golden radiance | 黄金の輝き | Alanyi's signature divine energy |
+| Cleansing power | 浄化の力 | Divine ability to remove corruption |
+| Mercy killing | 慈悲の判断 | Divine guidance about ending suffering |
+| Soul's release | 魂の解放 | Spiritual transition from life to death |
+| Siege warfare | 攻城戦 | Medieval warfare against fortified cities |
+| Siege lines | 包囲陣 | Military formations surrounding enemy city |
+| Diversionary tactics | 陽動作戦 | Military misdirection to draw enemy attention |
+| Crossbow companies | 石弓隊 | Organized medieval ranged weapon units |
+| Catapults | 投石機 | Siege engines for hurling projectiles |
+| Siege towers | 攻城塔 | Mobile structures for scaling walls |
+| Blockade | 封鎖 | Naval/port closure preventing escape |
+| No-man's-land | 無人地帯 | Area between opposing military forces |
+| Ravine | 渓谷 | Geographical depression where victims found |
+| Cliff ridgelines | 断崖の稜線 | Elevated positions for archer attacks |
+| Borin Stonebeard | ボリン・ストーンビアード | Dwarf scout, Thorek's cousin, torture victim |
+| Elara | エララ | Human forager, mercy killing recipient |
+| Sir Kaelen | ケーレン卿 | Noble Knight saved by former slave |
+| Joric | ヨリク | Former quarry slave who saves knight |
+| Theron | セロン | Guildmaster delegate, betrayed and killed |
+| Lyra | リラ | Maera's top scout, discovers torture site |
 
 ### 文化的概念 (Cultural Concepts)
 | English | Japanese | Notes |
@@ -582,3 +659,18 @@
 | "Ready to meet Alanyi in the next world" | 「次の世界でアラニィに会う準備が」 | Spiritual transition |
 | "You did the right thing" | 「あなたは正しいことをしました」 | Sim's validation of Gond's wisdom |
 | "Sometimes the greatest healing is knowing when not to heal" | 「時には最大の治癒とは、いつ治癒しないかを知ることです」 | Divine wisdom about mercy |
+| "The Shadow of Gorlatch" | 「ゴルラッチの影」 | Chapter 24 title, ominous supernatural threat |
+| "We don't make deals with evil" | 「我々は悪と取引はしない」 | Gond's absolute moral stance |
+| "Non-negotiable" | 「交渉の余地なし」 | Gond's final ultimatum |
+| "Ease her suffering, my son. But her path ends here" | 「彼女の苦痛を和らげよ、我が子よ。しかし彼女の道はここで終わる」 | Alanyi's divine guidance about mercy killing |
+| "The siege of Saltmere had truly begun" | 「ソルトメアの包囲が真に始まったのだった」 | Chapter ending, escalation to full warfare |
+| "The Cleansing Tide" | 「浄化の潮流」 | Chapter 25 title, unstoppable force of liberation |
+| "Hope's Hammer" | 「希望の鎚」 | Grimjaw's siege engine name |
+| "Alanyi's Judgment" | 「アラニィの裁き」 | Grimjaw's siege engine name |
+| "The Hammer of Justice" | 「正義の鎚」 | Section title for Saltmere assault |
+| "Mercy is not about earning it" | 「慈悲はそれを稼ぐことじゃない」 | Gond's wisdom to Kael about divine grace |
+| "It's a gift" | 「それは贈り物だ」 | Gond's explanation of mercy |
+| "The Spark of Rebellion" | 「反乱の火花」 | Section title for Blackwater uprising |
+| "The Light of Divine Confrontation" | 「神聖な対決の光」 | Section title for Port Sorrow battle |
+| "March to Aid the Dwarves" | 「ドワーフを援助する行進」 | Section title for final movement |
+| "The Cleansing Tide's rolling inland" | 「浄化の潮流が内陸に向かっている」 | Gond's message to Thorek |
