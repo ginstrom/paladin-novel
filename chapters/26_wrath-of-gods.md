@@ -26,7 +26,7 @@ Gond frowned. "What about divine power?"
 
 "Then how do we reach them?"
 
-Thorek's eyes gleamed with something between hope and uncertainty. "There might be a way. But it's dangerous, and it requires…" He glanced around the tent, then lowered his voice. "It requires awakening something that's been sleeping for three centuries."
+Thorek's eyes gleamed with something between hope and uncertainty. "There might be a way. But it's dangerous, and it requires…" He glanced around the tent, then lowered his voice. "It requires awakening something that's been sleeping for five centuries."
 
 He led them to a smaller section of the map, pointing to a structure near the base of the keep. "The Hall of Guardians. Built by my ancestors when the alliance between our peoples was strong, when Turin and Alanyi worked hand in hand to protect the innocent."
 
