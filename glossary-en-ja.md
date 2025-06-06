@@ -54,6 +54,7 @@
 | Captain Lyralei | リラレイ隊長 | Elven military commander for northern forces |
 | Borin | ボリン | Gond's former friend, now enemy mercenary in Saltmere |
 | Kael | ケール | Gond's former friend, now enemy mercenary in Saltmere |
+| Korgan Ironbeard | コルガン・アイアンビアード | Thorek's chosen battlemaster for the Guardian awakening ritual |
 
 ### 地名 (Place Names)
 | English | Japanese | Notes |
@@ -83,6 +84,7 @@
 | Sunken Grotto | 沈んだ洞窟 | Ancient Alanyi temple beneath Saltmere, major healing site |
 | Pilgrim's Rest | 巡礼者の憩い | Ancient shrine reclaimed by Iron Covenant forces |
 | Citadel of Asham-Val | アシャム・ヴァルの城塞 | Final enemy stronghold in Gray Peaks |
+| Hall of Guardians | 守護者の間 | Ancient dwarven structure housing the Guardians |
 | Gray Peaks | グレイ・ピークス | Mountain region where final battle occurs |
 | Slavers' Coast | 奴隷海岸 | Regional designation for slaver-controlled coastal area |
 
@@ -163,6 +165,15 @@
 | Ley lines | 力の地脈 | Magical energy lines predating human civilization |
 | Way-shrines | 道祠 | Small elven sacred sites in deep forests |
 | First Tithe of Tears | 最初の涙の十分の一税 | Chapter 23 title, first payment in suffering for sacred mission |
+| Guardians of Turin | トゥリンの守護者 | Four ancient divine constructs |
+| Divine constructs | 神聖な構造物 | Animated stone and steel beings |
+| Divine spark | 神聖な火花 | Power needed to awaken the Guardians |
+| Awakening ritual | 目覚めの儀式 | Ceremony to animate the Guardians |
+| Point of justice | 正義の点 | Ritual position for Turin's power |
+| Point of mercy | 慈悲の点 | Ritual position for Alanyi's power |
+| Righteous judgment | 正義の裁き | Divine justice against corruption |
+| Sacred duty | 神聖な義務 | Divine mission of the Guardians |
+| The Wrath of Gods | 神々の怒り | Chapter 26 title, divine intervention and judgment |
 
 ### 専門用語 (Technical Terms)
 
@@ -674,3 +685,22 @@
 | "The Light of Divine Confrontation" | 「神聖な対決の光」 | Section title for Port Sorrow battle |
 | "March to Aid the Dwarves" | 「ドワーフを援助する行進」 | Section title for final movement |
 | "The Cleansing Tide's rolling inland" | 「浄化の潮流が内陸に向かっている」 | Gond's message to Thorek |
+| "Continent Reborn" | 「大陸の再生」 | Chapter 27 title, epilogue showing transformation |
+| Reformed church | 生まれ変わった教会 | Religious transformation |
+| Council of Allied Kingdoms | 同盟王国評議会 | Political body |
+| Collective will | 集合的意志 | Social movement concept |
+| Divine retribution | 神の報復 | Religious threat concept |
+| Makeshift infirmaries | 仮設の診療所 | Medical care facilities |
+| Father Kael | ケール神父 | Kael's priestly title |
+| Village school | 村の学校 | Educational institution |
+| Lepers | ハンセン病患者 | Medical condition Gond treats |
+| Dew-kissed grass | 露に濡れた草 | Poetic nature description |
+| Endless road | 終わりのない道 | Gond's eternal journey metaphor |
+| Wild, open land | 野生の開けた土地 | Untamed frontier |
+| "Twenty years passed" | 「二十年が過ぎた」 | Time transition phrase |
+| "The world settled into a new rhythm" | 「世界は新しいリズムに落ち着いていた」 | Societal transformation |
+| "My road goes a different way" | 「私の道は別の方向に向かっている」 | Gond's rejection of political power |
+| "Years later, tales would surface" | 「数年後、話が浮上するようになった」 | Legendary status development |
+| "Some said he carried a light within him" | 「彼の内に光を宿していると言う者もいた」 | Mystical reputation |
+| "A remnant of Alanyi's grace" | 「アラニィの恩寵の名残」 | Divine power description |
+| "Legend growing with each retelling" | 「語り継がれるうちに伝説が大きくなった」 | Mythical status evolution |
