@@ -180,7 +180,7 @@ The eldest, a figure whose hair was white as starlight and whose eyes held the d
 
 A subtle murmur, like the rustling of ancient leaves, passed through the Circle. Aelindra's lips curved slightly.
 
-"An interesting answer," Aelindra mused. "Most who stand before us, touched by power, are eager to proclaim their divine mandate. You sound like a man sentenced to a duty he cannot escape."
+"Intriguing words dost thou speak," Aelindra observed, her ancient eyes studying him with newfound interest. "Most who stand before us, touched by power, are eager to proclaim their divine mandate. Yet thou dost sound as one sentenced to a duty from which there is no escape."
 
 "That's a fair assessment," Gond said with a wry twist of his lips. "I didn't seek this. I was a mercenary, content with my coin and my anonymity. This path chose me, through fire and chains. Responsibility, as it turns out, is a stubborn master."
 
@@ -194,7 +194,7 @@ Another member of the Circle, a male elf with silver hair and eyes like deep for
 
 The Circle exchanged glances, something transcending speech seemed to be communicated between them. Finally, Aelindra spoke again.
 
-"We would test your power. Not to judge its source, but to understand its nature."
+"We would test thy power, Paladin. Not to judge its wellspring, but to comprehend its true nature."
 
 "What kind of test?"
 
@@ -204,7 +204,7 @@ A fourth member of the Circle rose, and Gond saw why they'd chosen this test. Th
 
 "Shadow-touched," Silviana whispered. "Such wounds resist all healing, magical or divine."
 
-"Can you help him?" Aelindra asked.
+"Canst thou render aid unto this wounded one?" Aelindra inquired, her voice carrying the weight of ancient hope.
 
 Gond approached the wounded elf, studying the damaged arm. He could feel something emanating from it—a cold, hungry darkness that seemed to devour light itself. This wasn't a wound that could be healed with bandages or herbs. It was a spiritual injury, a tear in the very fabric of existence.
 
@@ -224,7 +224,7 @@ When the light faded, the arm was whole.
 
 The Circle sat in stunned silence. Even Aelindra's ancient composure had cracked, her eyes widening as her mouth fell slightly open, her hands gripping the arms of her stone seat. The other members leaned forward as one, their eternal stillness broken by this unprecedented moment.
 
-"In three thousand years," she whispered, "no power has been able to heal shadow-touch. Not elven magic, not dwarven runes, not even the high priests of the old gods."
+"Through three millennia of recorded time," she whispered, her voice trembling with awe, "no power hath been able to mend the shadow's touch. Neither elven sorcery, nor dwarven runes of binding, nor even the mightiest priests of the ancient gods could achieve what thou hast wrought."
 
 Gond stood silently, swaying slightly from the effort.
 
@@ -240,7 +240,7 @@ Aelindra rose from her stone seat, and the other members of the Circle followed 
 
 The implications left Gond stunned. This wasn't just religious recognition—it was a political earthquake that would reshape the balance of power across the continent.
 
-"There's more," Aelindra continued. "We offer you a gift, Paladin. Knowledge that may aid your cause."
+"Yet more do we offer thee," Aelindra intoned, her voice taking on a ceremonial cadence. "A gift unto thee, Paladin. Knowledge that may illuminate thy path and strengthen thy righteous cause."
 
 She gestured, and the air above the stone circle shimmered. Images formed in the light—maps, faces, symbols that seemed to burn themselves into Gond's memory.
 
@@ -250,7 +250,7 @@ As the images faded, Gond felt the full weight of what had just occurred. The Ci
 
 "Why?" he asked. "Why risk everything for someone like me?"
 
-Aelindra's smile was sad and beautiful. "Because someone like you is exactly what the world needs. The old ways are dying, Paladin. The question is whether something better will take their place."
+Aelindra's smile was sad and beautiful, touched with the melancholy of ages. "For one such as thou art is precisely what this world doth require in its hour of greatest need. The ancient ways crumble to dust, Paladin. The question that remains is whether something nobler shall rise from their ashes."
 
 ***
 
