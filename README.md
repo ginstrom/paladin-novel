@@ -4,6 +4,14 @@ An epic fantasy novel project featuring both English original and Japanese trans
 
 LLMs are used heavily via Cline throughout the process.
 
+## LLM Assisted Novel Writing Project
+
+### Novel Writing Process
+This project demonstrates collaborative novel writing between human author and LLM. The process begins with LLM-assisted synopsis development, which then serves as the foundation for detailed chapter outlines. Comprehensive documentation maintains story continuity, character development, and pacing consistency throughout the 27-chapter narrative. Multiple revision rounds ensure the final manuscript aligns with the author's creative vision while leveraging LLM capabilities for enhanced storytelling.
+
+### Translation Process
+The English-to-Japanese translation workflow employs multiple specialized LLM roles working in coordination. A comprehensive glossary and detailed translation notes maintain consistency across all chapters. The process involves iterative refinement through LLM reviewers (quality assessment), LLM planners (translation strategy), and LLM translators (execution). Additional documentation ensures character voice consistency and world-building continuity are preserved across languages.
+
 ## Project Description
 
 **Paladin's Rise** is a complete fantasy novel following Gond, a former soldier turned reluctant hero who discovers divine powers while fighting against slavery and corruption. The story spans 27 chapters across 5 parts, featuring themes of redemption, freedom, and unexpected heroism in a richly detailed fantasy world.
