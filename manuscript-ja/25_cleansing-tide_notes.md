@@ -4,6 +4,7 @@
 **Source**: Chapter 25 "The Cleansing Tide" (English)
 **Target**: 第25章「浄化の潮流」(Japanese)
 **Completion Date**: 2025-06-06
+**Critical Corrections Applied**: 2025-06-06
 **Word Count Reduction**: ~28% (optimal compression achieved)
 
 ## Key Translation Challenges & Solutions
@@ -109,6 +110,46 @@
 - アシャム・ヴァルの城塞 (Citadel of Asham-Val) - final enemy stronghold
 - グレイ・ピークス (Gray Peaks) - mountain region
 - 奴隷海岸 (Slavers' Coast) - regional designation
+
+## Critical Corrections Applied (2025-06-06)
+
+### 1. Divine Confrontation Scene Rewrite
+**Original Issue**: The Japanese description didn't match the English source sequence
+**English Source**: "A column of incandescent white light erupted from his sword, soaring into the sky before exploding outwards, bathing Port Sorrow and the surrounding lands in a blinding, purifying radiance."
+**Original Japanese**: 「効果は雷鳴のように瞬間的で、天地を揺るがすほど圧倒的だった。剣が天へと光を掲げると、それは眩き柱となって空を裂き、外側に爆発してポート・ソローと周囲の土地を清めの炎で洗い流した。」
+**Corrected Japanese**: 「剣から白熱の光柱が噴き上がり、天を突き刺さんとばかりに昇ったかと思うと、外側へと爆発し、ポート・ソローとその周辺一帯を、目を眩ます浄化の輝きで満たした。」
+**Improvement**: Now accurately captures the sword→sky→explosion sequence with proper instantaneous eruption imagery
+
+### 2. Dialogue Naturalness Improvements
+**Gond's Mercy Line**:
+- **Original**: 「慈悲はそれを稼ぐことじゃない、ケール」
+- **Issue**: 稼ぐ (earn money) too literal for philosophical context
+- **Corrected**: 「慈悲とは、勝ち取るものではない、ケール」
+- **Improvement**: More philosophically appropriate, conveys merit-based vs. gift concept
+
+**Kael's Mercenary Response**:
+- **Original**: 「傭兵の仕事？それが俺の知ってることの全てだ。」
+- **Issue**: Too formal, lacked cynical edge
+- **Corrected**: 「傭兵稼業？それしか能がねえんだよ、俺には。」
+- **Improvement**: More natural, cynical tone matching character's desperation
+
+### 3. Action Description Refinements
+**Grinding Advance**:
+- **Original**: 「粉砕的な前進」
+- **Issue**: Awkward phrasing, didn't convey slow but relentless movement
+- **Corrected**: 「骨の折れる前進」
+- **Improvement**: Better captures arduous but steady military progress
+
+**Non-Source Content Removal**:
+- **Removed**: 「清めの潮が打ち寄せる！」(Gond's roar)
+- **Reason**: Not present in English source text
+- **Result**: Improved source fidelity
+
+### 4. Source Fidelity Verification
+- ✅ All corrections verified against English source text
+- ✅ Maintained established character voice patterns
+- ✅ Preserved excellent translations identified in feedback
+- ✅ Enhanced naturalness without sacrificing accuracy
 
 ## Quality Assurance Results
 
