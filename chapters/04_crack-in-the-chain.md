@@ -1,4 +1,4 @@
-# Chapter 4 – Crack in the Chain
+# Chapter 4 – Crack in the Chain
 
 The salt wind had teeth that morning, sharpening every sound that drifted across the northern bluffs. 
 
@@ -52,7 +52,7 @@ Silence descended on the clearing. The entire "battle," if it could be called th
 
 The children huddled together, ducking their heads and shivering.
 
-Sim approached them with calming words. As he passed Pell, this one passed him a set of keys with a grin. Sim soon had the children free and was examining them for injuries, eliciting information.
+Sim approached them with calming words. As he passed Pell, this one passed him a set of keys with a grin. Sim soon had the children free and was examining them for injuries, speaking in gentle tones to draw out their story. The boy was sixteen, he learned—Dax, the older brother. The girl, Alia, was only twelve. Brother and sister, captured together from their village three days past.
 
 Meanwhile Pell and Gond lined up the weapons they had recovered.
 
@@ -64,7 +64,7 @@ Gond's fingers closed around the leather-wrapped hilt. The balance felt wrong, t
 
 Gond shook his head, sliding the dark blade through his belt. "This one will do."
 
-Pell shrugged, slinging the crossbow on his shoulder. "Your funeral."
+Pell shrugged, slinging the crossbow on his shoulder. "Suit yourself."
 
 Sim set out to recover the horses, bearing a couple of carrots he had found among the supplies.
 
@@ -78,7 +78,7 @@ Pain lanced across Gond's upper arm; crimson soaked his sleeve. A fourth slaver�
 
 Before Gond could pursue, the girl hurled the loosened chain lock. It whistled past the guard's ear and clanged against rock, missing the man but startling him into dropping his bolt. Her act bought a precious instant; Gond seized it.
 
-"Alia, stay with your brother! Don't move!" he roared, already a blur of motion. Gond sprinted after the slaver, blood dripping past his elbow. Sand swallowed the noise of his footsteps; only the ragged sound of his own breathing marked the chase. Shortly he heard Pell's rhythmic pants a few paces behind, but could not spare a look back.
+"Girl, stay with your brother! Don't move!" he roared, already a blur of motion. Gond sprinted after the slaver, blood dripping past his elbow. Sand swallowed the noise of his footsteps; only the ragged sound of his own breathing marked the chase. Shortly he heard Pell's rhythmic pants a few paces behind, but could not spare a look back.
 
 Halfway across the first dune the slaver fitted another bolt into his crossbow, whirled, and fired again. The bolt hissed past Gond's cheek, close enough to feel the wind of its passing. Adrenaline drowned the pain in his arm, and Gond mustered another burst of speed. The crude black blade he had claimed earlier rasped free of its sheath, rough iron glinting dully.
 
@@ -86,7 +86,7 @@ They clashed atop a wind‑carved ridge. The slaver fought desperately, edges of
 
 "*Don't kill him!*"
 
-Alia—he knew her name now—stood at the dune's base, small hands balled, chin lifted. Behind her Dax leaned on a driftwood staff, blood seeping through a hastily wrapped ankle.
+Alia stood at the dune's base, small hands balled, chin lifted. Behind her Dax leaned on a driftwood staff, blood seeping through a hastily wrapped ankle.
 
 Gond's blade hovered. In the staccato hush he heard his own breathing and, beneath it, the echo of forging hammers—of the life he'd left, lives he'd taken. He lowered the sword.
 

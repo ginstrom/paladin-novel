@@ -8,7 +8,7 @@ Chapter 10 translation completed using the established 6-phase methodology. This
 ### Phase 1: Structural Analysis & Duplicate Detection
 - Verified paragraph-by-paragraph consistency between original and translation
 - No duplicate content detected
-- Maintained proper scene breaks with *** markers
+- Maintained proper scene breaks with ◇　　◇　　◇ markers
 - Preserved three-act structure: journey/encounter, farmstead raid, return/preparation
 
 ### Phase 2: Systematic Term & Symbol Replacement

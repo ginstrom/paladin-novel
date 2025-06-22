@@ -32,15 +32,9 @@ He waited until their hoofbeats faded before climbing back onto the road. His cl
 
 The road began to climb as it left the coastal plain. Rocky outcroppings provided better cover, and Gond used them, checking his back trail from each vantage point. No pursuit yet, but that would change with dawn. They'd find his escape route eventually, and then the real hunt would begin.
 
-Dawn was breaking when he finally saw the way-station's broken walls through the morning mist. Smoke rose from the chimney—a welcome sight that meant his people were safe. But as he approached, Gond noticed something that made him pause.
+Dawn was breaking when he finally saw the way-station's broken walls through the morning mist. As he approached, he could make out familiar voices from within—a welcome sound that meant his people were safe.
 
-Fresh horse tracks circled the building. Too many tracks, from too many different horses. His hand found his sword hilt as he crept closer, using the ruins for cover.
-
-Voices carried on the morning air—Pell's distinctive laugh, Sim's calm tones, and others he didn't recognize. Gond circled to the back of the building, where a gap in the wall offered a view of the courtyard.
-
-Relief flooded through him. The tracks belonged to a merchant's pack train—five horses laden with trade goods, their owner haggling with Pell over the price of dried fish. The merchant was a weathered man with kind eyes, the sort who asked no questions about brands or bounties.
-
-Gond waited until the merchant departed before revealing himself. Pell's grin of relief was worth the cold, wet night of hiding.
+Pell's grin of relief was worth the cold, wet night of hiding when Gond finally revealed himself.
 
 "Thought they'd caught you for sure," Pell said, clasping his shoulder. "Those bells rang for hours."
 

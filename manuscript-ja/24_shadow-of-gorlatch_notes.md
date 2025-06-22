@@ -18,7 +18,7 @@ This chapter features the army's march toward Saltmere, mysterious disappearance
 ### Phase 1: Structural Analysis
 - Verified complete paragraph-by-paragraph translation
 - Maintained all narrative sections and character dialogue
-- Preserved chapter structure with clear scene breaks (marked by ***)
+- Preserved chapter structure with clear scene breaks (marked by ◇　　◇　　◇)
 
 ### Phase 2: Term & Symbol Replacement
 - Converted all English quotation marks to Japanese brackets 「」
