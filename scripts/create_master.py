@@ -35,6 +35,10 @@ def main():
     if not files:
         print(f"No chapter files found in '{directory}'.", file=sys.stderr)
         sys.exit(1)
+    # print out file list
+    print(f"Found {len(files)} chapter files in '{directory}'.", file=sys.stderr)
+    print("Chapter files:", list(files), file=sys.stderr)
+
     for idx, filepath in enumerate(files):
         with open(filepath, "r", encoding="utf-8") as f:
             content = f.read().rstrip()

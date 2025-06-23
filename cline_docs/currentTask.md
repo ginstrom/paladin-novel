@@ -1,35 +1,24 @@
-# Current Task: Chapter 18 Japanese Translation QA & Revision
+# Current Task: metadata.jp.yml 日本語説明文の文学的改稿
 
-## Status: COMPLETE
+## Status: IN PROGRESS
 
 ## Objective
-Review and revise the following Japanese chapter for natural Japanese, translationese, and strict adherence to `cline_docs/translationGuide.md`:
-- `manuscript-ja/18_first-stand.md`
-
-All necessary revisions for the entire file have been made. No plot elements were added, removed,または altered; the focus was solely on improving the Japanese text and eliminating translationese.
+`metadata.jp.yml`内の日本語説明文を、`cline_docs/translationGuide.md`の全指針に厳密に従い、圧縮・自然さ・文学性・リズム・伝統語彙・「ショー、ノット・テル」重視で全面的に改稿する。
 
 ## Context
-A comprehensive QA and literary revision of the Japanese translation of Chapter 18 has been completed. The process:
-- Read all Memory Bank files as required by workflow.
-- Systematically reviewed the chapter for:
-   - Natural Japanese flow and idiomatic expression.
-   - Elimination of literal translation artifacts and translationese.
-   - Consistency with established character speech patterns and terminology.
-   - Proper use of traditional language and avoidance of forbidden loanwords.
-   - Literary polish, rhythm, and "show, don't tell" narrative style.
-   - Compression of redundant or verbose passages.
-- Revised the manuscript, making all necessary changes for the entire file.
+- Memory Bankファイル（projectRoadmap.md, currentTask.md, techStack.md, codebaseSummary.md）を全て確認済み。
+- translationGuide.mdの全指針（圧縮、自然な日本語、伝統語彙、禁止ローンワード、リズム、語尾変化、ショー・ノット・テル、暗い雰囲気、サルディックな語り）を厳守。
+- 現在の説明文は可読性はあるが、冗長・直訳調・現代語・リズム単調な箇所が散見される。
+- 圧縮率20-30%を目標に、文学的かつ中世ファンタジーらしい雰囲気を強化する。
 
-## Implementation Summary
-- All Memory Bank files (projectRoadmap.md, currentTask.md, techStack.md, codebaseSummary.md) were read as required.
-- The entire `manuscript-ja/18_first-stand.md` file was reviewed and revised for:
-   - Natural Japanese expression and idiomatic flow.
-   - Elimination of translationese and literal translation artifacts.
-   - Consistency with character speech patterns and terminology.
-   - Proper use of traditional language and avoidance of forbidden loanwords.
-   - Literary polish, rhythm, and "show, don't tell" narrative style.
-   - Compression of redundant or verbose passages.
-- The file now reflects a polished, publication-ready Japanese literary style in strict accordance with the translation guide.
+## Implementation Plan
+1. 現行説明文を20-30%圧縮し、冗長・重複・直訳調を排除。
+2. 文体を常体で統一し、語尾・リズム・漢字/ひらがなバランスを最適化。
+3. 伝統語彙・禁止ローンワード厳守（現代語・カタカナ語排除）。
+4. 「ショー、ノット・テル」原則で情景・行動・身体描写を強調。
+5. 暗く皮肉な雰囲気を維持しつつ、文学的な余韻・間を持たせる。
+6. 完了後、Memory Bank・metadata.jp.ymlを更新。
 
 ## Next Steps
-- No further action required for Chapter 18. Task complete.
+1. metadata.jp.ymlの説明文を改稿。
+2. 完了後、Memory Bankの該当箇所を更新。

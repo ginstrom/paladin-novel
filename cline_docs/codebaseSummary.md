@@ -44,6 +44,7 @@
 - None at this stage.
 
 ## Recent Significant Changes
+- [2025-06-23] metadata.jp.ymlの日本語説明文を全面的に文学的・圧縮・伝統語彙重視で改稿（translationGuide.md準拠）。冗長・直訳調・現代語を排除し、リズム・余韻・暗い雰囲気を強化。Memory Bank・QAフローに従い実施。
 - [2025-06-01] Enhanced translation guide with naturalness improvement guidelines and 5-point rating scale.
 - [2025-05-31] Applied spelling corrections across all 27 chapters. Manuscript now error-free.
 - [2025-05-31] Added EPUB TOC CSS fix to suppress default numbering.
