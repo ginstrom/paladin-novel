@@ -473,7 +473,7 @@ He turned toward the inland path, eyes stony under jutting brows. He did not loo
 
 \newpage
 
-# Chapter 4 – Crack in the Chain
+# Chapter 4 – Crack in the Chain
 
 The salt wind had teeth that morning, sharpening every sound that drifted across the northern bluffs.
 
@@ -527,7 +527,7 @@ Silence descended on the clearing. The entire "battle," if it could be called th
 
 The children huddled together, ducking their heads and shivering.
 
-Sim approached them with calming words. As he passed Pell, this one passed him a set of keys with a grin. Sim soon had the children free and was examining them for injuries, eliciting information.
+Sim approached them with calming words. As he passed Pell, this one passed him a set of keys with a grin. Sim soon had the children free and was examining them for injuries, speaking in gentle tones to draw out their story. The boy was sixteen, he learned—Dax, the older brother. The girl, Alia, was only twelve. Brother and sister, captured together from their village three days past.
 
 Meanwhile Pell and Gond lined up the weapons they had recovered.
 
@@ -539,7 +539,7 @@ Gond's fingers closed around the leather-wrapped hilt. The balance felt wrong, t
 
 Gond shook his head, sliding the dark blade through his belt. "This one will do."
 
-Pell shrugged, slinging the crossbow on his shoulder. "Your funeral."
+Pell shrugged, slinging the crossbow on his shoulder. "Suit yourself."
 
 Sim set out to recover the horses, bearing a couple of carrots he had found among the supplies.
 
@@ -553,7 +553,7 @@ Pain lanced across Gond's upper arm; crimson soaked his sleeve. A fourth slaver�
 
 Before Gond could pursue, the girl hurled the loosened chain lock. It whistled past the guard's ear and clanged against rock, missing the man but startling him into dropping his bolt. Her act bought a precious instant; Gond seized it.
 
-"Alia, stay with your brother! Don't move!" he roared, already a blur of motion. Gond sprinted after the slaver, blood dripping past his elbow. Sand swallowed the noise of his footsteps; only the ragged sound of his own breathing marked the chase. Shortly he heard Pell's rhythmic pants a few paces behind, but could not spare a look back.
+"Girl, stay with your brother! Don't move!" he roared, already a blur of motion. Gond sprinted after the slaver, blood dripping past his elbow. Sand swallowed the noise of his footsteps; only the ragged sound of his own breathing marked the chase. Shortly he heard Pell's rhythmic pants a few paces behind, but could not spare a look back.
 
 Halfway across the first dune the slaver fitted another bolt into his crossbow, whirled, and fired again. The bolt hissed past Gond's cheek, close enough to feel the wind of its passing. Adrenaline drowned the pain in his arm, and Gond mustered another burst of speed. The crude black blade he had claimed earlier rasped free of its sheath, rough iron glinting dully.
 
@@ -561,7 +561,7 @@ They clashed atop a wind‑carved ridge. The slaver fought desperately, edges of
 
 "*Don't kill him!*"
 
-Alia—he knew her name now—stood at the dune's base, small hands balled, chin lifted. Behind her Dax leaned on a driftwood staff, blood seeping through a hastily wrapped ankle.
+Alia stood at the dune's base, small hands balled, chin lifted. Behind her Dax leaned on a driftwood staff, blood seeping through a hastily wrapped ankle.
 
 Gond's blade hovered. In the staccato hush he heard his own breathing and, beneath it, the echo of forging hammers—of the life he'd left, lives he'd taken. He lowered the sword.
 
@@ -785,15 +785,9 @@ He waited until their hoofbeats faded before climbing back onto the road. His cl
 
 The road began to climb as it left the coastal plain. Rocky outcroppings provided better cover, and Gond used them, checking his back trail from each vantage point. No pursuit yet, but that would change with dawn. They'd find his escape route eventually, and then the real hunt would begin.
 
-Dawn was breaking when he finally saw the way-station's broken walls through the morning mist. Smoke rose from the chimney—a welcome sight that meant his people were safe. But as he approached, Gond noticed something that made him pause.
+Dawn was breaking when he finally saw the way-station's broken walls through the morning mist. As he approached, he could make out familiar voices from within—a welcome sound that meant his people were safe.
 
-Fresh horse tracks circled the building. Too many tracks, from too many different horses. His hand found his sword hilt as he crept closer, using the ruins for cover.
-
-Voices carried on the morning air—Pell's distinctive laugh, Sim's calm tones, and others he didn't recognize. Gond circled to the back of the building, where a gap in the wall offered a view of the courtyard.
-
-Relief flooded through him. The tracks belonged to a merchant's pack train—five horses laden with trade goods, their owner haggling with Pell over the price of dried fish. The merchant was a weathered man with kind eyes, the sort who asked no questions about brands or bounties.
-
-Gond waited until the merchant departed before revealing himself. Pell's grin of relief was worth the cold, wet night of hiding.
+Pell's grin of relief was worth the cold, wet night of hiding when Gond finally revealed himself.
 
 "Thought they'd caught you for sure," Pell said, clasping his shoulder. "Those bells rang for hours."
 
@@ -2845,7 +2839,7 @@ The war council had been in session for three days, and the maps spread across t
 
 Thorek Ironheart leaned forward, his braided beard clicking softly as the metal rings struck the table's edge. "They're moving slow. Those engines are slowing them down, forcing them to stick to the main roads." His thick finger traced the enemy's projected route. "Here, through Millhaven Pass. It's the only way to get those machines through the mountains."
 
-Elena Brightblade studied the terrain with a tactician's eye, her weathered hands mapping elevations and chokepoints. "The pass is narrow—maybe fifty yards at its widest point. Steep walls on both sides, loose scree that would make climbing difficult." She looked up, meeting Gond's gaze. "It's perfect for an ambush, but only if we can get our forces in position without being detected."
+Elena Brightblade studied the terrain with a tactician's eye, her thin hands mapping elevations and chokepoints. "The pass is narrow—maybe fifty yards at its widest point. Steep walls on both sides, loose scree that would make climbing difficult." She looked up, meeting Gond's gaze. "It's perfect for an ambush, but only if we can get our forces in position without being detected."
 
 "My beauties ain't exactly mountain goats," Grimjaw rumbled, his gold-capped teeth glinting. "But I can strip 'em down. Smaller bits, easier to haul. Won't get the same reach, sure, but in a tight spot like this pass? Range won't matter. It's all about putting the hurt where it counts."
 
@@ -3293,7 +3287,7 @@ The eldest, a figure whose hair was white as starlight and whose eyes held the d
 
 A subtle murmur, like the rustling of ancient leaves, passed through the Circle. Aelindra's lips curved slightly.
 
-"An interesting answer," Aelindra mused. "Most who stand before us, touched by power, are eager to proclaim their divine mandate. You sound like a man sentenced to a duty he cannot escape."
+"Intriguing words dost thou speak," Aelindra observed, her ancient eyes studying him with newfound interest. "Most who stand before us, touched by power, are eager to proclaim their divine mandate. Yet thou dost sound as one sentenced to a duty from which there is no escape."
 
 "That's a fair assessment," Gond said with a wry twist of his lips. "I didn't seek this. I was a mercenary, content with my coin and my anonymity. This path chose me, through fire and chains. Responsibility, as it turns out, is a stubborn master."
 
@@ -3307,7 +3301,7 @@ Another member of the Circle, a male elf with silver hair and eyes like deep for
 
 The Circle exchanged glances, something transcending speech seemed to be communicated between them. Finally, Aelindra spoke again.
 
-"We would test your power. Not to judge its source, but to understand its nature."
+"We would test thy power, Paladin. Not to judge its wellspring, but to comprehend its true nature."
 
 "What kind of test?"
 
@@ -3317,7 +3311,7 @@ A fourth member of the Circle rose, and Gond saw why they'd chosen this test. Th
 
 "Shadow-touched," Silviana whispered. "Such wounds resist all healing, magical or divine."
 
-"Can you help him?" Aelindra asked.
+"Canst thou render aid unto this wounded one?" Aelindra inquired, her voice carrying the weight of ancient hope.
 
 Gond approached the wounded elf, studying the damaged arm. He could feel something emanating from it—a cold, hungry darkness that seemed to devour light itself. This wasn't a wound that could be healed with bandages or herbs. It was a spiritual injury, a tear in the very fabric of existence.
 
@@ -3337,7 +3331,7 @@ When the light faded, the arm was whole.
 
 The Circle sat in stunned silence. Even Aelindra's ancient composure had cracked, her eyes widening as her mouth fell slightly open, her hands gripping the arms of her stone seat. The other members leaned forward as one, their eternal stillness broken by this unprecedented moment.
 
-"In three thousand years," she whispered, "no power has been able to heal shadow-touch. Not elven magic, not dwarven runes, not even the high priests of the old gods."
+"Through three millennia of recorded time," she whispered, her voice trembling with awe, "no power hath been able to mend the shadow's touch. Neither elven sorcery, nor dwarven runes of binding, nor even the mightiest priests of the ancient gods could achieve what thou hast wrought."
 
 Gond stood silently, swaying slightly from the effort.
 
@@ -3353,7 +3347,7 @@ Aelindra rose from her stone seat, and the other members of the Circle followed 
 
 The implications left Gond stunned. This wasn't just religious recognition—it was a political earthquake that would reshape the balance of power across the continent.
 
-"There's more," Aelindra continued. "We offer you a gift, Paladin. Knowledge that may aid your cause."
+"Yet more do we offer thee," Aelindra intoned, her voice taking on a ceremonial cadence. "A gift unto thee, Paladin. Knowledge that may illuminate thy path and strengthen thy righteous cause."
 
 She gestured, and the air above the stone circle shimmered. Images formed in the light—maps, faces, symbols that seemed to burn themselves into Gond's memory.
 
@@ -3363,7 +3357,7 @@ As the images faded, Gond felt the full weight of what had just occurred. The Ci
 
 "Why?" he asked. "Why risk everything for someone like me?"
 
-Aelindra's smile was sad and beautiful. "Because someone like you is exactly what the world needs. The old ways are dying, Paladin. The question is whether something better will take their place."
+Aelindra's smile was sad and beautiful, touched with the melancholy of ages. "For one such as thou art is precisely what this world doth require in its hour of greatest need. The ancient ways crumble to dust, Paladin. The question that remains is whether something nobler shall rise from their ashes."
 
 ***
 
@@ -3983,7 +3977,7 @@ Gond frowned. "What about divine power?"
 
 "Then how do we reach them?"
 
-Thorek's eyes gleamed with something between hope and uncertainty. "There might be a way. But it's dangerous, and it requires…" He glanced around the tent, then lowered his voice. "It requires awakening something that's been sleeping for three centuries."
+Thorek's eyes gleamed with something between hope and uncertainty. "There might be a way. But it's dangerous, and it requires…" He glanced around the tent, then lowered his voice. "It requires awakening something that's been sleeping for five centuries."
 
 He led them to a smaller section of the map, pointing to a structure near the base of the keep. "The Hall of Guardians. Built by my ancestors when the alliance between our peoples was strong, when Turin and Alanyi worked hand in hand to protect the innocent."
 

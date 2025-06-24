@@ -31,7 +31,7 @@ master:
 
 .PHONY: build-ja
 build-ja:
-	python3 scripts/create_master.py manuscript-ja > build/intelligence-horizon-master-ja.md
+	python3 scripts/create_master.py manuscript-ja > build/paladin-ja.md
 
 .PHONY: help
 help:
@@ -40,6 +40,6 @@ help:
 	@echo "  clean      - Remove build directory"
 	@echo "  test       - Build and verify EPUB"
 	@echo "  word-count - Show word count statistics"
-	@echo "  master     - Combine all chapters into build/epub-master.md"
-	@echo "  build-ja   - Combine all Japanese chapters into build/intelligence-horizon-master-ja.md"
+	@echo "  master     - Combine all chapters into build/paladin.md"
+	@echo "  build-ja   - Combine all Japanese chapters into build/paladin-ja.md"
 	@echo "  help       - Show this help message"
