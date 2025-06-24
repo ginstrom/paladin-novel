@@ -10,7 +10,7 @@ import glob
 import shutil
 import sys
 
-DEFAULT_TARGET_FILE = 'build/epub-master.md'
+DEFAULT_TARGET_FILE = 'build/paladin.md'
 
 def find_chapter_file(chapter_num):
     """Find the chapter file for a given chapter number."""
